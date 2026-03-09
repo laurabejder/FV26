@@ -1,0 +1,11 @@
+
+
+
+
+
+Hvilke csv-filer skal vi generere?
+
+Hele landet:
+- Antal valgsteder, der er talt op
+- Antal procent af stemmerne for hvert parti (joined med valgresultaterne fra sidste valg --> download fra somewhere)
+- største parti per opstillingskreds ()
