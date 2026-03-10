@@ -103,10 +103,9 @@ def udregn_status(df: pd.DataFrame) -> pd.DataFrame:
     total_valgsteder = df["afstemningsområde"].nunique()
     # find the number where resultat_art is ForeløbigOptælling or Fintælling
     foreløbig_optælling = df[df["resultat_art"].isin(["ForeløbigOptælling", "Fintælling"])]["afstemningsområde"].nunique()
-    done_share = f"{foreløbig_optælling} ud af {total_valgsteder}"
     # create a dataframe with the status
     status_df = pd.DataFrame({
-        "Optalte valgsteder": [done_share]
+        "Optalte valgsteder": [foreløbig_optælling]
     })
     return status_df
 
