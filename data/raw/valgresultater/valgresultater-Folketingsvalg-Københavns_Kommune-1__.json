@@ -1,1 +1,223 @@
-{"IndenforParti":[{"PartiId":"02dfd8ac-6bb5-4377-9f99-5aee7b8a311a","PartiNavn":"Venstre","Bogstavbetegnelse":"V","Stemmer":18094,"Partistemmer":1548,"StemmerDifferenceFraForrigeValg":-4,"Kandidater":null},{"PartiId":"0f42439e-4594-4d89-b348-abc261d63f2a","PartiNavn":"Socialdemokratiet","Bogstavbetegnelse":"A","Stemmer":18094,"Partistemmer":1548,"StemmerDifferenceFraForrigeValg":-4,"Kandidater":null}],"UdenforParti":[{"Id":"ab58c6f6-af32-47d5-a98f-84fa2f0154ed","Stemmeseddelnavn":"Sophie Hæstorp Andersen","Stemmer":0},{"Id":"78a9f56b-0922-449f-949f-57b3dbf9dd05","Stemmeseddelnavn":"Lars Weiss","Stemmer":47},{"Id":"6065b202-dbf8-404b-8fed-289c16f89c91","Stemmeseddelnavn":"Laura Rosenvinge","Stemmer":5}],"Valgdag":"24-03-2026","Valgart":"Folketingsvalg","FrigivelsesTidspunktUTC":"26-02-2026 17:23:14","Storkreds":"København","Storkredsnummer":1,"Opstillingskreds":"Østerbro","OpstillingskredsDagiId":1,"Kommune":"København","Kommunekode":101,"AfstemningsområdeNummer":1,"AfstemningsområdeDagiId":707732,"Afstemningsområde":"1. ","UgyldigeFremmødteStemmerÅrsager":[{"Id":1,"Navn":"Blanke","Paragraf":"4","Antal":1},{"Id":2,"Navn":"AndetMærkeEndKryds","Paragraf":"5","Antal":1},{"Id":3,"Navn":"HeltEllerDelvistOverstreget","Paragraf":"6","Antal":1},{"Id":4,"Navn":"KrydsUdenForPartifelterne","Paragraf":"7","Antal":1},{"Id":5,"Navn":"KrydsIflerePartifelter","Paragraf":"8","Antal":1},{"Id":6,"Navn":"KrydsRækkerIndIflerePartifelter","Paragraf":"9","Antal":1},{"Id":7,"Navn":"KrydsUdForUdenForPartierne","Paragraf":"10","Antal":1},{"Id":8,"Navn":"OverstregetUdvisketEllerIkkeFuldtKryds","Paragraf":"11","Antal":1},{"Id":9,"Navn":"AndreGrunde","Paragraf":"12","Antal":1},{"Id":10,"Navn":"StemmeseddelIkkeFraAfstemningssted","Paragraf":"13","Antal":1},{"Id":11,"Navn":"AndetMærkeEndKrydsForudenKryds","Paragraf":"14","Antal":1},{"Id":12,"Navn":"AnførtFlereEndTreKryds","Paragraf":"15","Antal":1},{"Id":13,"Navn":"StemmeseddelMedTegningPåskrift","Paragraf":"16","Antal":1},{"Id":14,"Navn":"AfmærketMedForskelligeFarverOgAndet","Paragraf":"17","Antal":1}],"UgyldigeBrevstemmerÅrsager":[{"Id":21,"Navn":"Blanke","Paragraf":"19","Antal":2},{"Id":22,"Navn":"KunNavnUofficielBogstav","Paragraf":"20","Antal":2},{"Id":23,"Navn":"KunUofficelBogstavPåEtBogstav","Paragraf":"21","Antal":2},{"Id":24,"Navn":"KunUofficelBogstavPåFlereBogstaver","Paragraf":"22","Antal":2},{"Id":25,"Navn":"KunKryds","Paragraf":"23","Antal":2},{"Id":26,"Navn":"ModstridBogstavPartiNavn","Paragraf":"24,25","Antal":2},{"Id":27,"Navn":"AndreGrunde","Paragraf":"26","Antal":2},{"Id":28,"Navn":"AndetEllerMereEndEnStemmeseddel","Paragraf":"27","Antal":2},{"Id":29,"Navn":"StemmeseddelIkkeFraMinisteren","Paragraf":"28","Antal":2},{"Id":30,"Navn":"KonvolutMedPåskrift","Paragraf":"29","Antal":2},{"Id":31,"Navn":"StemmeseddelMedTegningPåskrift","Paragraf":"30","Antal":2},{"Id":32,"Navn":"UdfyldtPåBagsidenEllerAndet","Paragraf":"31","Antal":2}],"Resultatart":"ForeløbigOptælling","AfgivneStemmer":36437,"GyldigeStemmer":36188,"UgyldigeStemmerUdoverBlanke":290,"BlankeUgyldigeFremmødteStemmer":1,"BlankeUgyldigeBrevstemmer":2,"AfgivneStemmerDifferenceFraForrigeValg":null,"GyldigeStemmerDifferenceFraForrigeValg":null,"UgyldigeStemmerDifferenceFraForrigeValg":null,"BlankeStemmerDifferenceFraForrigeValg":null,"AntalStemmeberettigedeVælgereDifferenceFraForrigeValg":null,"AntalStemmeberettigedeVælgere":40000}
+{
+    "IndenforParti": [
+        {
+            "PartiId": "02dfd8ac-6bb5-4377-9f99-5aee7b8a311a",
+            "PartiNavn": "Venstre",
+            "Bogstavbetegnelse": "V",
+            "Stemmer": 18094,
+            "Partistemmer": 1548,
+            "StemmerDifferenceFraForrigeValg": -4,
+            "Kandidater": null
+        },
+        {
+            "PartiId": "0f42439e-4594-4d89-b348-abc261d63f2a",
+            "PartiNavn": "Socialdemokratiet",
+            "Bogstavbetegnelse": "A",
+            "Stemmer": 18094,
+            "Partistemmer": 1548,
+            "StemmerDifferenceFraForrigeValg": -4,
+            "Kandidater": null
+        }
+    ],
+    "UdenforParti": [
+        {
+            "Id": "ab58c6f6-af32-47d5-a98f-84fa2f0154ed",
+            "Stemmeseddelnavn": "Sophie Hæstorp Andersen",
+            "Stemmer": 0
+        },
+        {
+            "Id": "78a9f56b-0922-449f-949f-57b3dbf9dd05",
+            "Stemmeseddelnavn": "Lars Weiss",
+            "Stemmer": 47
+        },
+        {
+            "Id": "6065b202-dbf8-404b-8fed-289c16f89c91",
+            "Stemmeseddelnavn": "Laura Rosenvinge",
+            "Stemmer": 5
+        }
+    ],
+    "Valgdag": "24-03-2026",
+    "Valgart": "Folketingsvalg",
+    "FrigivelsesTidspunktUTC": "26-02-2026 17:23:14",
+    "Storkreds": "København",
+    "Storkredsnummer": 1,
+    "Opstillingskreds": "Østerbro",
+    "OpstillingskredsDagiId": 1,
+    "Kommune": "København",
+    "Kommunekode": 101,
+    "AfstemningsområdeNummer": 1,
+    "AfstemningsområdeDagiId": 707732,
+    "Afstemningsområde": "1. ",
+    "UgyldigeFremmødteStemmerÅrsager": [
+        {
+            "Id": 1,
+            "Navn": "Blanke",
+            "Paragraf": "4",
+            "Antal": 1
+        },
+        {
+            "Id": 2,
+            "Navn": "AndetMærkeEndKryds",
+            "Paragraf": "5",
+            "Antal": 1
+        },
+        {
+            "Id": 3,
+            "Navn": "HeltEllerDelvistOverstreget",
+            "Paragraf": "6",
+            "Antal": 1
+        },
+        {
+            "Id": 4,
+            "Navn": "KrydsUdenForPartifelterne",
+            "Paragraf": "7",
+            "Antal": 1
+        },
+        {
+            "Id": 5,
+            "Navn": "KrydsIflerePartifelter",
+            "Paragraf": "8",
+            "Antal": 1
+        },
+        {
+            "Id": 6,
+            "Navn": "KrydsRækkerIndIflerePartifelter",
+            "Paragraf": "9",
+            "Antal": 1
+        },
+        {
+            "Id": 7,
+            "Navn": "KrydsUdForUdenForPartierne",
+            "Paragraf": "10",
+            "Antal": 1
+        },
+        {
+            "Id": 8,
+            "Navn": "OverstregetUdvisketEllerIkkeFuldtKryds",
+            "Paragraf": "11",
+            "Antal": 1
+        },
+        {
+            "Id": 9,
+            "Navn": "AndreGrunde",
+            "Paragraf": "12",
+            "Antal": 1
+        },
+        {
+            "Id": 10,
+            "Navn": "StemmeseddelIkkeFraAfstemningssted",
+            "Paragraf": "13",
+            "Antal": 1
+        },
+        {
+            "Id": 11,
+            "Navn": "AndetMærkeEndKrydsForudenKryds",
+            "Paragraf": "14",
+            "Antal": 1
+        },
+        {
+            "Id": 12,
+            "Navn": "AnførtFlereEndTreKryds",
+            "Paragraf": "15",
+            "Antal": 1
+        },
+        {
+            "Id": 13,
+            "Navn": "StemmeseddelMedTegningPåskrift",
+            "Paragraf": "16",
+            "Antal": 1
+        },
+        {
+            "Id": 14,
+            "Navn": "AfmærketMedForskelligeFarverOgAndet",
+            "Paragraf": "17",
+            "Antal": 1
+        }
+    ],
+    "UgyldigeBrevstemmerÅrsager": [
+        {
+            "Id": 21,
+            "Navn": "Blanke",
+            "Paragraf": "19",
+            "Antal": 2
+        },
+        {
+            "Id": 22,
+            "Navn": "KunNavnUofficielBogstav",
+            "Paragraf": "20",
+            "Antal": 2
+        },
+        {
+            "Id": 23,
+            "Navn": "KunUofficelBogstavPåEtBogstav",
+            "Paragraf": "21",
+            "Antal": 2
+        },
+        {
+            "Id": 24,
+            "Navn": "KunUofficelBogstavPåFlereBogstaver",
+            "Paragraf": "22",
+            "Antal": 2
+        },
+        {
+            "Id": 25,
+            "Navn": "KunKryds",
+            "Paragraf": "23",
+            "Antal": 2
+        },
+        {
+            "Id": 26,
+            "Navn": "ModstridBogstavPartiNavn",
+            "Paragraf": "24,25",
+            "Antal": 2
+        },
+        {
+            "Id": 27,
+            "Navn": "AndreGrunde",
+            "Paragraf": "26",
+            "Antal": 2
+        },
+        {
+            "Id": 28,
+            "Navn": "AndetEllerMereEndEnStemmeseddel",
+            "Paragraf": "27",
+            "Antal": 2
+        },
+        {
+            "Id": 29,
+            "Navn": "StemmeseddelIkkeFraMinisteren",
+            "Paragraf": "28",
+            "Antal": 2
+        },
+        {
+            "Id": 30,
+            "Navn": "KonvolutMedPåskrift",
+            "Paragraf": "29",
+            "Antal": 2
+        },
+        {
+            "Id": 31,
+            "Navn": "StemmeseddelMedTegningPåskrift",
+            "Paragraf": "30",
+            "Antal": 2
+        },
+        {
+            "Id": 32,
+            "Navn": "UdfyldtPåBagsidenEllerAndet",
+            "Paragraf": "31",
+            "Antal": 2
+        }
+    ],
+    "Resultatart": "ForeløbigOptælling",
+    "AfgivneStemmer": 36437,
+    "GyldigeStemmer": 36188,
+    "UgyldigeStemmerUdoverBlanke": 290,
+    "BlankeUgyldigeFremmødteStemmer": 1,
+    "BlankeUgyldigeBrevstemmer": 2,
+    "AfgivneStemmerDifferenceFraForrigeValg": null,
+    "GyldigeStemmerDifferenceFraForrigeValg": null,
+    "UgyldigeStemmerDifferenceFraForrigeValg": null,
+    "BlankeStemmerDifferenceFraForrigeValg": null,
+    "AntalStemmeberettigedeVælgereDifferenceFraForrigeValg": null,
+    "AntalStemmeberettigedeVælgere": 40000
+}

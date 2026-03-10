@@ -82,5 +82,11 @@
         "bogstav": "DD",
         "listebogstav": "Æ",
         "farve": "#0075c9"
+    },
+    {
+        "navn": "Udenfor parti",
+        "bogstav": "UP",
+        "listebogstav": null,
+        "farve": "#999999"
     }
 ]
