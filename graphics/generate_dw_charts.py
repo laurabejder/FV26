@@ -17,7 +17,7 @@ if DW_TOKEN is None:
     raise ValueError("DW_TOKEN not found in .env file")
 
 ## LOAD IN THE DATA AND TOPOJSONS
-#opstillingskredse = pd.read_json(os.path.join(script_dir, "opstillingskredse.json"))
+opstillingskredse = pd.read_json(os.path.join(script_dir, "opstillingskredse.json"))
 storkredse = pd.read_json(os.path.join(script_dir, "storkredse.json"))
 
 ## DEFINE THE FUNCTIONS TO CREATE THE CHARTS, TABLES AND MAPS
@@ -162,13 +162,13 @@ def create_graphics(data, geo, status_folder_id, chart_folder_id, map_folder_id,
             json.dump(data.to_dict(orient="records"), f, ensure_ascii=False, indent=2)
 
 
-for col in ["table_id", "chart_id", "map_id"]:
+for col in ["table_id", "chart_id", "map_id", "candidate_votes_table_id"]:
     storkredse[col] = storkredse[col].astype("object")
 
 create_graphics(storkredse, "storkredse", status_folder_id = "392410", chart_folder_id="392411", map_folder_id="390777", candidate_votes_folder_id="392412")
 print("Finished creating graphics for storkredse.")
 
-# for col in ["table_id", "chart_id", "map_id"]:
-#     opstillingskredse[col] = opstillingskredse[col].astype("object")
-#create_graphics(opstillingskredse, "opstillingskredse", status_folder_id = "392527", chart_folder_id="392528", map_folder_id="390784", candidate_votes_folder_id="392530")
-#print("Finished creating graphics for opstillingskredse.")
+for col in ["table_id", "chart_id", "map_id", "candidate_votes_table_id"]:
+    opstillingskredse[col] = opstillingskredse[col].astype("object")
+create_graphics(opstillingskredse, "opstillingskredse", status_folder_id = "392527", chart_folder_id="392528", map_folder_id="390784", candidate_votes_folder_id="392530")
+print("Finished creating graphics for opstillingskredse.")
