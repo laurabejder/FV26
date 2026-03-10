@@ -106,7 +106,7 @@ def udregn_status(df: pd.DataFrame) -> pd.DataFrame:
     done_share = f"{foreløbig_optælling} ud af {total_valgsteder}"
     # create a dataframe with the status
     status_df = pd.DataFrame({
-        "Optalte valgsteder": [foreløbig_optælling]
+        "Optalte valgsteder": [done_share]
     })
     return status_df
 
