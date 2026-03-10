@@ -1,0 +1,738 @@
+[
+    {
+        "opstillingskreds_nummer": 1,
+        "opstillingskreds_navn": "Østerbro",
+        "chart_id": null,
+        "table_id": null,
+        "map_id": null,
+        "candidate_votes_table_id": null
+    },
+    {
+        "opstillingskreds_nummer": 2,
+        "opstillingskreds_navn": "Sundbyvester",
+        "chart_id": null,
+        "table_id": null,
+        "map_id": null,
+        "candidate_votes_table_id": null
+    },
+    {
+        "opstillingskreds_nummer": 3,
+        "opstillingskreds_navn": "Indre By",
+        "chart_id": null,
+        "table_id": null,
+        "map_id": null,
+        "candidate_votes_table_id": null
+    },
+    {
+        "opstillingskreds_nummer": 4,
+        "opstillingskreds_navn": "Sundbyøster",
+        "chart_id": null,
+        "table_id": null,
+        "map_id": null,                 
+        "candidate_votes_table_id": null
+    },
+    {
+        "opstillingskreds_nummer": 5,
+        "opstillingskreds_navn": "Nørrebro",
+        "chart_id": null,
+        "table_id": null,
+        "map_id": null,                 
+        "candidate_votes_table_id": null
+    },
+    {
+        "opstillingskreds_nummer": 6,
+        "opstillingskreds_navn": "Bispebjerg",
+        "chart_id": null,
+        "table_id": null,
+        "map_id": null,                 
+        "candidate_votes_table_id": null
+    },
+    {
+        "opstillingskreds_nummer": 7,
+        "opstillingskreds_navn": "Brønshøj",
+        "chart_id": null,
+        "table_id": null,
+        "map_id": null,                 
+        "candidate_votes_table_id": null
+    },
+    {
+        "opstillingskreds_nummer": 8,
+        "opstillingskreds_navn": "Valby",
+        "chart_id": null,
+        "table_id": null,
+        "map_id": null,                 
+        "candidate_votes_table_id": null
+    },
+    {
+        "opstillingskreds_nummer": 9,
+        "opstillingskreds_navn": "Vesterbro",
+        "chart_id": null,
+        "table_id": null,
+        "map_id": null,                 
+        "candidate_votes_table_id": null
+    },
+    {
+        "opstillingskreds_nummer": 10,
+        "opstillingskreds_navn": "Falkoner",
+        "chart_id": null,
+        "table_id": null,
+        "map_id": null,                 
+        "candidate_votes_table_id": null
+    },
+    {
+        "opstillingskreds_nummer": 11,
+        "opstillingskreds_navn": "Slots",
+        "chart_id": null,
+        "table_id": null,
+        "map_id": null,                 
+        "candidate_votes_table_id": null
+    },
+    {
+        "opstillingskreds_nummer": 12,
+        "opstillingskreds_navn": "Tårnby",
+        "chart_id": null,
+        "table_id": null,
+        "map_id": null,                 
+        "candidate_votes_table_id": null
+    },
+    {
+        "opstillingskreds_nummer": 13,
+        "opstillingskreds_navn": "Gentofte",
+        "chart_id": null,
+        "table_id": null,
+        "map_id": null,                
+        "candidate_votes_table_id": null
+    },
+    {
+        "opstillingskreds_nummer": 14,
+        "opstillingskreds_navn": "Lyngby",
+        "chart_id": null,
+        "table_id": null,
+        "map_id": null,                 
+        "candidate_votes_table_id": null
+    },
+    {
+        "opstillingskreds_nummer": 15,
+        "opstillingskreds_navn": "Gladsaxe",
+        "chart_id": null,
+        "table_id": null,
+        "map_id": null,                 
+        "candidate_votes_table_id": null
+    },
+    {
+        "opstillingskreds_nummer": 16,
+        "opstillingskreds_navn": "Rødovre",
+        "chart_id": null,
+        "table_id": null,
+        "map_id": null,                 
+        "candidate_votes_table_id": null
+    },
+    {
+        "opstillingskreds_nummer": 17,
+        "opstillingskreds_navn": "Hvidovre",
+        "chart_id": null,
+        "table_id": null,
+        "map_id": null,                 
+        "candidate_votes_table_id": null
+    },
+    {
+        "opstillingskreds_nummer": 18,
+        "opstillingskreds_navn": "Brøndby",
+        "chart_id": null,
+        "table_id": null,
+        "map_id": null,                 
+        "candidate_votes_table_id": null
+    },
+    {
+        "opstillingskreds_nummer": 19,
+        "opstillingskreds_navn": "Taastrup",
+        "chart_id": null,
+        "table_id": null,
+        "map_id": null,                 
+        "candidate_votes_table_id": null
+    },
+    {
+        "opstillingskreds_nummer": 20,
+        "opstillingskreds_navn": "Ballerup",
+        "chart_id": null,
+        "table_id": null,
+        "map_id": null,                 
+        "candidate_votes_table_id": null
+    },
+    {
+        "opstillingskreds_nummer": 21,
+        "opstillingskreds_navn": "Helsingør",
+        "chart_id": null,
+        "table_id": null,
+        "map_id": null,                 
+        "candidate_votes_table_id": null
+    },
+    {
+        "opstillingskreds_nummer": 22,
+        "opstillingskreds_navn": "Fredensborg",
+        "chart_id": null,
+        "table_id": null,
+        "map_id": null,                 
+        "candidate_votes_table_id": null
+    },
+    {
+        "opstillingskreds_nummer": 23,
+        "opstillingskreds_navn": "Hillerød",
+        "chart_id": null,
+        "table_id": null,
+        "map_id": null,                 
+        "candidate_votes_table_id": null
+    },
+    {
+        "opstillingskreds_nummer": 24,
+        "opstillingskreds_navn": "Frederikssund",
+        "chart_id": null,
+        "table_id": null,
+        "map_id": null,                 
+        "candidate_votes_table_id": null
+    },
+    {
+        "opstillingskreds_nummer": 25,
+        "opstillingskreds_navn": "Egedal",
+        "chart_id": null,
+        "table_id": null,
+        "map_id": null,                 
+        "candidate_votes_table_id": null
+    },
+    {
+        "opstillingskreds_nummer": 26,
+        "opstillingskreds_navn": "Rudersdal",
+        "chart_id": null,
+        "table_id": null,
+        "map_id": null,                 
+        "candidate_votes_table_id": null
+    },
+    {
+        "opstillingskreds_nummer": 27,
+        "opstillingskreds_navn": "Rønne",
+        "chart_id": null,
+        "table_id": null,
+        "map_id": null,                 
+        "candidate_votes_table_id": null
+    },
+    {
+        "opstillingskreds_nummer": 28,
+        "opstillingskreds_navn": "Aakirkeby",
+        "chart_id": null,
+        "table_id": null,
+        "map_id": null,                 
+        "candidate_votes_table_id": null
+    },
+    {
+        "opstillingskreds_nummer": 29,
+        "opstillingskreds_navn": "Lolland",
+        "chart_id": null,
+        "table_id": null,
+        "map_id": null,                 
+        "candidate_votes_table_id": null
+    },
+    {
+        "opstillingskreds_nummer": 30,
+        "opstillingskreds_navn": "Guldborgsund",
+        "chart_id": null,
+        "table_id": null,
+        "map_id": null,                 
+        "candidate_votes_table_id": null
+    },
+    {
+        "opstillingskreds_nummer": 31,
+        "opstillingskreds_navn": "Vordingborg",
+        "chart_id": null,
+        "table_id": null,
+        "map_id": null,                 
+        "candidate_votes_table_id": null
+    },
+    {
+        "opstillingskreds_nummer": 32,
+        "opstillingskreds_navn": "Næstved",
+        "chart_id": null,
+        "table_id": null,
+        "map_id": null,                 
+        "candidate_votes_table_id": null
+    },
+    {
+        "opstillingskreds_nummer": 33,
+        "opstillingskreds_navn": "Faxe",
+        "chart_id": null,
+        "table_id": null,
+        "map_id": null,                 
+        "candidate_votes_table_id": null
+    },
+    {
+        "opstillingskreds_nummer": 34,
+        "opstillingskreds_navn": "Køge",
+        "chart_id": null,
+        "table_id": null,
+        "map_id": null,                 
+        "candidate_votes_table_id": null
+    },
+    {
+        "opstillingskreds_nummer": 35,
+        "opstillingskreds_navn": "Greve",
+        "chart_id": null,
+        "table_id": null,
+        "map_id": null,                 
+        "candidate_votes_table_id": null
+    },
+    {
+        "opstillingskreds_nummer": 36,
+        "opstillingskreds_navn": "Roskilde",
+        "chart_id": null,
+        "table_id": null,
+        "map_id": null,                 
+        "candidate_votes_table_id": null
+    },
+    {
+        "opstillingskreds_nummer": 37,
+        "opstillingskreds_navn": "Holbæk",
+        "chart_id": null,
+        "table_id": null,
+        "map_id": null,                 
+        "candidate_votes_table_id": null
+    },
+    {
+        "opstillingskreds_nummer": 38,
+        "opstillingskreds_navn": "Kalundborg",
+        "chart_id": null,
+        "table_id": null,
+        "map_id": null,                 
+        "candidate_votes_table_id": null
+    },
+    {
+        "opstillingskreds_nummer": 39,
+        "opstillingskreds_navn": "Ringsted",
+        "chart_id": null,
+        "table_id": null,
+        "map_id": null,                 
+        "candidate_votes_table_id": null
+    },
+    {
+        "opstillingskreds_nummer": 40,
+        "opstillingskreds_navn": "Slagelse",
+        "chart_id": null,
+        "table_id": null,
+        "map_id": null,                 
+        "candidate_votes_table_id": null
+    },
+    {
+        "opstillingskreds_nummer": 41,
+        "opstillingskreds_navn": "Odense Øst",
+        "chart_id": null,
+        "table_id": null,
+        "map_id": null,                 
+        "candidate_votes_table_id": null
+    },
+    {
+        "opstillingskreds_nummer": 42,
+        "opstillingskreds_navn": "Odense Vest",
+        "chart_id": null,
+        "table_id": null,
+        "map_id": null,                 
+        "candidate_votes_table_id": null
+    },
+    {
+        "opstillingskreds_nummer": 43,
+        "opstillingskreds_navn": "Odense Syd",
+        "chart_id": null,
+        "table_id": null,
+        "map_id": null,                 
+        "candidate_votes_table_id": null
+    },
+    {
+        "opstillingskreds_nummer": 44,
+        "opstillingskreds_navn": "Assens",
+        "chart_id": null,
+        "table_id": null,
+        "map_id": null,                 
+        "candidate_votes_table_id": null
+    },
+    {
+        "opstillingskreds_nummer": 45,
+        "opstillingskreds_navn": "Middelfart",
+        "chart_id": null,
+        "table_id": null,
+        "map_id": null,                 
+        "candidate_votes_table_id": null
+    },
+    {
+        "opstillingskreds_nummer": 46,
+        "opstillingskreds_navn": "Nyborg",
+        "chart_id": null,
+        "table_id": null,
+        "map_id": null,                 
+        "candidate_votes_table_id": null
+    },
+    {
+        "opstillingskreds_nummer": 47,
+        "opstillingskreds_navn": "Svendborg",
+        "chart_id": null,
+        "table_id": null,
+        "map_id": null,                 
+        "candidate_votes_table_id": null
+    },
+    {
+        "opstillingskreds_nummer": 48,
+        "opstillingskreds_navn": "Faaborg",
+        "chart_id": null,
+        "table_id": null,
+        "map_id": null,                 
+        "candidate_votes_table_id": null
+    },
+    {
+        "opstillingskreds_nummer": 49,
+        "opstillingskreds_navn": "Sønderborg",
+        "chart_id": null,
+        "table_id": null,
+        "map_id": null,                 
+        "candidate_votes_table_id": null
+    },
+    {
+        "opstillingskreds_nummer": 50,
+        "opstillingskreds_navn": "Aabenraa",
+        "chart_id": null,
+        "table_id": null,
+        "map_id": null,                 
+        "candidate_votes_table_id": null
+    },
+    {
+        "opstillingskreds_nummer": 51,
+        "opstillingskreds_navn": "Tønder",
+        "chart_id": null,
+        "table_id": null,
+        "map_id": null,                 
+        "candidate_votes_table_id": null
+    },
+    {
+        "opstillingskreds_nummer": 52,
+        "opstillingskreds_navn": "Esbjerg By",
+        "chart_id": null,
+        "table_id": null,
+        "map_id": null,                 
+        "candidate_votes_table_id": null
+    },
+    {
+        "opstillingskreds_nummer": 53,
+        "opstillingskreds_navn": "Esbjerg Omegn",
+        "chart_id": null,
+        "table_id": null,
+        "map_id": null,                 
+        "candidate_votes_table_id": null
+    },
+    {
+        "opstillingskreds_nummer": 54,
+        "opstillingskreds_navn": "Varde",
+        "chart_id": null,
+        "table_id": null,
+        "map_id": null,                 
+        "candidate_votes_table_id": null
+    },
+    {
+        "opstillingskreds_nummer": 55,
+        "opstillingskreds_navn": "Vejen",
+        "chart_id": null,
+        "table_id": null,
+        "map_id": null,                 
+        "candidate_votes_table_id": null
+    },
+    {
+        "opstillingskreds_nummer": 56,
+        "opstillingskreds_navn": "Vejle Nord",
+        "chart_id": null,
+        "table_id": null,
+        "map_id": null,                 
+        "candidate_votes_table_id": null
+    },
+    {
+        "opstillingskreds_nummer": 57,
+        "opstillingskreds_navn": "Vejle Syd",
+        "chart_id": null,
+        "table_id": null,
+        "map_id": null,                 
+        "candidate_votes_table_id": null
+    },
+    {
+        "opstillingskreds_nummer": 58,
+        "opstillingskreds_navn": "Fredericia",
+        "chart_id": null,
+        "table_id": null,
+        "map_id": null,                 
+        "candidate_votes_table_id": null
+    },
+    {
+        "opstillingskreds_nummer": 59,
+        "opstillingskreds_navn": "Kolding Nord",
+        "chart_id": null,
+        "table_id": null,
+        "map_id": null,                 
+        "candidate_votes_table_id": null
+    },
+    {
+        "opstillingskreds_nummer": 60,
+        "opstillingskreds_navn": "Kolding Syd",
+        "chart_id": null,
+        "table_id": null,
+        "map_id": null,                 
+        "candidate_votes_table_id": null
+    },
+    {
+        "opstillingskreds_nummer": 61,
+        "opstillingskreds_navn": "Haderslev",
+        "chart_id": null,
+        "table_id": null,
+        "map_id": null,                 
+        "candidate_votes_table_id": null
+    },
+    {
+        "opstillingskreds_nummer": 62,
+        "opstillingskreds_navn": "Aarhus Syd",
+        "chart_id": null,
+        "table_id": null,
+        "map_id": null,                 
+        "candidate_votes_table_id": null
+    },
+    {
+        "opstillingskreds_nummer": 63,
+        "opstillingskreds_navn": "Aarhus Vest",
+        "chart_id": null,
+        "table_id": null,
+        "map_id": null,                 
+        "candidate_votes_table_id": null
+    },
+    {
+        "opstillingskreds_nummer": 64,
+        "opstillingskreds_navn": "Aarhus Nord",
+        "chart_id": null,
+        "table_id": null,
+        "map_id": null,                 
+        "candidate_votes_table_id": null
+    },
+    {
+        "opstillingskreds_nummer": 65,
+        "opstillingskreds_navn": "Aarhus Øst",
+        "chart_id": null,
+        "table_id": null,
+        "map_id": null,                 
+        "candidate_votes_table_id": null
+    },
+    {
+        "opstillingskreds_nummer": 66,
+        "opstillingskreds_navn": "Djurs",
+        "chart_id": null,
+        "table_id": null,
+        "map_id": null,                 
+        "candidate_votes_table_id": null
+    },
+    {
+        "opstillingskreds_nummer": 67,
+        "opstillingskreds_navn": "Randers Nord",
+        "chart_id": null,
+        "table_id": null,
+        "map_id": null,                 
+        "candidate_votes_table_id": null
+    },
+    {
+        "opstillingskreds_nummer": 68,
+        "opstillingskreds_navn": "Randers Syd",
+        "chart_id": null,
+        "table_id": null,
+        "map_id": null,                 
+        "candidate_votes_table_id": null
+    },
+    {
+        "opstillingskreds_nummer": 69,
+        "opstillingskreds_navn": "Favrskov",
+        "chart_id": null,
+        "table_id": null,
+        "map_id": null,                 
+        "candidate_votes_table_id": null
+    },
+    {
+        "opstillingskreds_nummer": 70,
+        "opstillingskreds_navn": "Skanderborg",
+        "chart_id": null,
+        "table_id": null,
+        "map_id": null,                 
+        "candidate_votes_table_id": null
+    },
+    {
+        "opstillingskreds_nummer": 71,
+        "opstillingskreds_navn": "Horsens",
+        "chart_id": null,
+        "table_id": null,
+        "map_id": null,                 
+        "candidate_votes_table_id": null
+    },
+    {
+        "opstillingskreds_nummer": 72,
+        "opstillingskreds_navn": "Hedensted",
+        "chart_id": null,
+        "table_id": null,
+        "map_id": null,                 
+        "candidate_votes_table_id": null
+    },
+    {
+        "opstillingskreds_nummer": 73,
+        "opstillingskreds_navn": "Struer",
+        "chart_id": null,
+        "table_id": null,
+        "map_id": null,                 
+        "candidate_votes_table_id": null
+    },
+    {
+        "opstillingskreds_nummer": 74,
+        "opstillingskreds_navn": "Skive",
+        "chart_id": null,
+        "table_id": null,
+        "map_id": null,                 
+        "candidate_votes_table_id": null
+    },
+    {
+        "opstillingskreds_nummer": 75,
+        "opstillingskreds_navn": "Viborg Vest",
+        "chart_id": null,
+        "table_id": null,
+        "map_id": null,                 
+        "candidate_votes_table_id": null
+    },
+    {
+        "opstillingskreds_nummer": 76,
+        "opstillingskreds_navn": "Viborg Øst",
+        "chart_id": null,
+        "table_id": null,
+        "map_id": null,                 
+        "candidate_votes_table_id": null
+    },
+    {
+        "opstillingskreds_nummer": 77,
+        "opstillingskreds_navn": "Silkeborg Nord",
+        "chart_id": null,
+        "table_id": null,
+        "map_id": null,                 
+        "candidate_votes_table_id": null
+    },
+    {
+        "opstillingskreds_nummer": 78,
+        "opstillingskreds_navn": "Silkeborg Syd",
+        "chart_id": null,
+        "table_id": null,
+        "map_id": null,                 
+        "candidate_votes_table_id": null
+    },
+    {
+        "opstillingskreds_nummer": 79,
+        "opstillingskreds_navn": "Ikast",
+        "chart_id": null,
+        "table_id": null,
+        "map_id": null,                 
+        "candidate_votes_table_id": null
+    },
+    {
+        "opstillingskreds_nummer": 80,
+        "opstillingskreds_navn": "Herning Syd",
+        "chart_id": null,
+        "table_id": null,
+        "map_id": null,                 
+        "candidate_votes_table_id": null
+    },
+    {
+        "opstillingskreds_nummer": 81,
+        "opstillingskreds_navn": "Herning Nord",
+        "chart_id": null,
+        "table_id": null,
+        "map_id": null,                 
+        "candidate_votes_table_id": null
+    },
+    {
+        "opstillingskreds_nummer": 82,
+        "opstillingskreds_navn": "Holstebro",
+        "chart_id": null,
+        "table_id": null,
+        "map_id": null,                 
+        "candidate_votes_table_id": null
+    },
+    {
+        "opstillingskreds_nummer": 83,
+        "opstillingskreds_navn": "Ringkøbing",
+        "chart_id": null,
+        "table_id": null,
+        "map_id": null,                 
+        "candidate_votes_table_id": null
+    },
+    {
+        "opstillingskreds_nummer": 84,
+        "opstillingskreds_navn": "Frederikshavn",
+        "chart_id": null,
+        "table_id": null,
+        "map_id": null,                 
+        "candidate_votes_table_id": null
+    },
+    {
+        "opstillingskreds_nummer": 85,
+        "opstillingskreds_navn": "Hjørring",
+        "chart_id": null,
+        "table_id": null,
+        "map_id": null,                 
+        "candidate_votes_table_id": null
+    },
+    {
+        "opstillingskreds_nummer": 86,
+        "opstillingskreds_navn": "Brønderslev",
+        "chart_id": null,
+        "table_id": null,
+        "map_id": null,                 
+        "candidate_votes_table_id": null
+    },
+    {
+        "opstillingskreds_nummer": 87,
+        "opstillingskreds_navn": "Thisted",
+        "chart_id": null,
+        "table_id": null,
+        "map_id": null,                 
+        "candidate_votes_table_id": null
+    },
+    {
+        "opstillingskreds_nummer": 88,
+        "opstillingskreds_navn": "Himmerland",
+        "chart_id": null,
+        "table_id": null,
+        "map_id": null,                 
+        "candidate_votes_table_id": null
+    },
+    {
+        "opstillingskreds_nummer": 89,
+        "opstillingskreds_navn": "Mariagerfjord",
+        "chart_id": null,
+        "table_id": null,
+        "map_id": null,                 
+        "candidate_votes_table_id": null
+    },
+    {
+        "opstillingskreds_nummer": 90,
+        "opstillingskreds_navn": "Aalborg Øst",
+        "chart_id": null,
+        "table_id": null,
+        "map_id": null,                 
+        "candidate_votes_table_id": null
+    },
+    {
+        "opstillingskreds_nummer": 91,
+        "opstillingskreds_navn": "Aalborg Vest",
+        "chart_id": null,
+        "table_id": null,
+        "map_id": null,                 
+        "candidate_votes_table_id": null
+    },
+    {
+        "opstillingskreds_nummer": 92,
+        "opstillingskreds_navn": "Aalborg Nord",
+        "chart_id": null,
+        "table_id": null,
+        "map_id": null,                 
+        "candidate_votes_table_id": null
+    }
+]

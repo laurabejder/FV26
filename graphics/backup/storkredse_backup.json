@@ -1,0 +1,72 @@
+[
+    {
+        "storkreds_nummer": 1,
+        "storkreds_navn": "København",
+        "chart_id": null,
+        "table_id": null,
+        "map_id": null
+    },
+    {
+        "storkreds_nummer": 2,
+        "storkreds_navn": "Københavns Omegn",
+        "chart_id": null,
+        "table_id": null,
+        "map_id": null
+    },
+    {
+        "storkreds_nummer": 3,
+        "storkreds_navn": "Nordsjælland",
+        "chart_id": null,
+        "table_id": null,
+        "map_id": null
+    },
+    {
+        "storkreds_nummer": 4,
+        "storkreds_navn": "Bornholm",
+        "chart_id": null,
+        "table_id": null,
+        "map_id": null
+    },
+    {
+        "storkreds_nummer": 5,
+        "storkreds_navn": "Sjælland",
+        "chart_id": null,
+        "table_id": null,
+        "map_id": null
+    },
+    {
+        "storkreds_nummer": 6,
+        "storkreds_navn": "Fyn",
+        "chart_id": null,
+        "table_id": null,
+        "map_id": null
+    },
+    {
+        "storkreds_nummer": 7,
+        "storkreds_navn": "Sydjylland",
+        "chart_id": null,
+        "table_id": null,
+        "map_id": null
+     },
+     {
+         "storkreds_nummer": 8,
+         "storkreds_navn": "Østjylland",
+         "chart_id": null,
+         "table_id": null,
+         "map_id": null
+      },
+    {
+        "storkreds_nummer": 9,
+        "storkreds_navn": "Vestjylland",
+        "chart_id": null,
+        "table_id": null,
+        "map_id": null
+    },
+    {
+        "storkreds_nummer": 10,
+        "storkreds_navn": "Nordjylland",
+        "chart_id": null,
+        "table_id": null,
+        "map_id": null
+    }
+]

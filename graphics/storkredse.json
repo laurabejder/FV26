@@ -1,0 +1,82 @@
+[
+  {
+    "storkreds_nummer": 1,
+    "storkreds_navn": "København",
+    "chart_id": "bAV1r",
+    "table_id": "15hAC",
+    "map_id": "ffJ5N",
+    "candidate_votes_table_id": "x1UCr"
+  },
+  {
+    "storkreds_nummer": 2,
+    "storkreds_navn": "Københavns Omegn",
+    "chart_id": "pbpyT",
+    "table_id": "QMu2M",
+    "map_id": "YCqxi",
+    "candidate_votes_table_id": "ABOmg"
+  },
+  {
+    "storkreds_nummer": 3,
+    "storkreds_navn": "Nordsjælland",
+    "chart_id": "244QP",
+    "table_id": "vrKYF",
+    "map_id": "WA35Q",
+    "candidate_votes_table_id": "7CeW9"
+  },
+  {
+    "storkreds_nummer": 4,
+    "storkreds_navn": "Bornholm",
+    "chart_id": "8a8YM",
+    "table_id": "KIVto",
+    "map_id": "0dhTl",
+    "candidate_votes_table_id": "1kt4g"
+  },
+  {
+    "storkreds_nummer": 5,
+    "storkreds_navn": "Sjælland",
+    "chart_id": "IK1EP",
+    "table_id": "ne7nI",
+    "map_id": "oAwlj",
+    "candidate_votes_table_id": "vzwkQ"
+  },
+  {
+    "storkreds_nummer": 6,
+    "storkreds_navn": "Fyn",
+    "chart_id": "BKH4z",
+    "table_id": "9VBIl",
+    "map_id": "qfAYs",
+    "candidate_votes_table_id": "uqMQg"
+  },
+  {
+    "storkreds_nummer": 7,
+    "storkreds_navn": "Sydjylland",
+    "chart_id": "vTh9v",
+    "table_id": "xZwuh",
+    "map_id": "iSWws",
+    "candidate_votes_table_id": "GOu9O"
+  },
+  {
+    "storkreds_nummer": 8,
+    "storkreds_navn": "Østjylland",
+    "chart_id": "2rieD",
+    "table_id": "dI9pZ",
+    "map_id": "ewAvf",
+    "candidate_votes_table_id": "SEGAN"
+  },
+  {
+    "storkreds_nummer": 9,
+    "storkreds_navn": "Vestjylland",
+    "chart_id": "4T8AT",
+    "table_id": "auiiR",
+    "map_id": "vUuiu",
+    "candidate_votes_table_id": "1yQ7C"
+  },
+  {
+    "storkreds_nummer": 10,
+    "storkreds_navn": "Nordjylland",
+    "chart_id": "meemD",
+    "table_id": "d3cN3",
+    "map_id": "A8pMA",
+    "candidate_votes_table_id": "N5uPu"
+  }
+]

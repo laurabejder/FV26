@@ -1,0 +1,718 @@
+{
+  "column-metadata": {
+    "describe": {
+      "source-name": "",
+      "source-url": "",
+      "intro": "",
+      "byline": "",
+      "aria-description": "",
+      "number-format": "-",
+      "number-divisor": 0,
+      "hide-title": true,
+      "computed-columns": [
+        {
+          "name": "procent_22",
+          "formula": ""
+        }
+      ]
+    },
+    "visualize": {
+      "dark-mode-invert": true,
+      "sharing": {
+        "enabled": false
+      },
+      "compare": {
+        "enabled": true,
+        "differenceLabel": true
+      },
+      "sort-by": "first",
+      "category": "direct",
+      "color-key": true,
+      "base-color": 0,
+      "grid-lines": "show",
+      "bar-padding": 60,
+      "label-space": 30,
+      "sort-values": true,
+      "valueLabels": {
+        "show": "always",
+        "format": "0.0",
+        "enabled": true,
+        "placement": "below"
+      },
+      "yAxisLabels": {
+        "enabled": true,
+        "alignment": "left",
+        "placement": "inside"
+      },
+      "disable-tabs": true,
+      "grid-lines-x": {
+        "type": "ticks",
+        "enabled": false
+      },
+      "label-colors": true,
+      "totalsLabels": false,
+      "negativeColor": {
+        "value": "#E31A1C",
+        "enabled": false
+      },
+      "reverse-order": false,
+      "rotate-labels": "off",
+      "x-grid-format": "auto",
+      "y-grid-format": "0%",
+      "absolute-scale": false,
+      "categoryLabels": {
+        "enabled": true,
+        "position": "direct"
+      },
+      "chart-type-set": true,
+      "color-category": {
+        "map": {
+          "K": "#06691E",
+          "M": "#911995",
+          "R": "#662690",
+          "S": "#F00B2F",
+          "V": "#0781DD",
+          "BP": "#89b37b",
+          "DD": "#0075c9",
+          "DF": "#F6BA00",
+          "EL": "#FF7400",
+          "FG": "#eecbc6",
+          "KD": "#8B8474",
+          "LA": "#48CEF3",
+          "NB": "#004E62",
+          "SF": "#F257A9",
+          "Alt": "#3CE63D",
+          "SP": "#FFD700",
+          "Venstre": "#0781DD",
+          "Radikale": "#662690",
+          "Moderaterne": "#911995",
+          "Alternativet": "#3CE63D",
+          "Enhedslisten": "#FF7400",
+          "Frie grønne": "#eecbc6",
+          "Konservative": "#06691E",
+          "Nye Borgerlige": "#004E62",
+          "Borgernes Parti": "#89b37b",
+          "Dansk Folkeparti": "#F6BA00",
+          "Liberal Alliance": "#48CEF3",
+          "Socialdemokratiet": "#F00B2F",
+          "Kristendemokraterne": "#8B8474",
+          "Danmarksdemokraterne": "#0075c9",
+          "Slevigsk Parti": "#FFD700"
+        },
+        "palette": [],
+        "categoryOrder": [],
+        "categoryLabels": {},
+        "excludeFromKey": []
+      },
+      "custom-range-x": ["", ""],
+      "plotHeightMode": "fixed",
+      "series-padding": 60,
+      "show-color-key": false,
+      "xGridAlignment": "baseline",
+      "color-by-column": true,
+      "plotHeightFixed": 300,
+      "plotHeightRatio": 0.5,
+      "stack-color-legend": false,
+      "reverse-color-legend": false
+    },
+    "axes": {
+      "column": "procent_26"
+    },
+    "publish": {
+      "embed-width": 600,
+      "embed-height": 389,
+      "blocks": {
+        "logo": {
+          "enabled": false
+        },
+        "embed": false,
+        "download-pdf": false,
+        "download-svg": false,
+        "get-the-data": false,
+        "download-image": false
+      },
+      "chart-height": 356
+    },
+    "annotate": {
+      "notes": ""
+    },
+    "custom": {}
+  },
+  "stemme-table-metadata": {
+    "describe": {
+      "source-name": "",
+      "source-url": "",
+      "intro": "",
+      "byline": "",
+      "aria-description": "",
+      "number-format": "-",
+      "number-divisor": 0,
+      "hide-title": true
+    },
+    "visualize": {
+      "dark-mode-invert": true,
+      "sharing": {
+        "enabled": false,
+        "auto": false
+      },
+      "header": {
+        "style": {
+          "bold": true,
+          "fontSize": 1.1
+        },
+        "borderTop": "none",
+        "borderBottom": "2px",
+        "borderTopColor": "#333333",
+        "borderBottomColor": "#333333"
+      },
+      "sortBy": "stemmer",
+      "x-grid": "off",
+      "y-grid": "on",
+      "columns": {
+        "parti": {
+          "style": {
+            "fontSize": 1
+          },
+          "width": 0.2,
+          "format": "0,0",
+          "heatmap": { "enabled": false },
+          "barColor": 0,
+          "minWidth": 30,
+          "sortable": true,
+          "alignment": "auto",
+          "flagStyle": "1x1",
+          "showAsBar": false,
+          "sparkline": {
+            "area": false,
+            "type": "line",
+            "color": 0,
+            "title": "",
+            "format": "0.[0]a",
+            "height": 20,
+            "stroke": 2,
+            "dotLast": true,
+            "enabled": false,
+            "colorNeg": 0,
+            "dotFirst": true,
+            "labelDiff": false
+          },
+          "borderLeft": "none",
+          "borderRight": "none",
+          "showOnMobile": true,
+          "customColorBy": "parti",
+          "showOnDesktop": true,
+          "customBarColor": false,
+          "barNoBackground": false,
+          "borderLeftColor": "#333333",
+          "customColorText": {
+            "Venstre": "#1d81a2",
+            "Socialdemokratiet": "#c71e1d"
+          },
+          "barColorNegative": false,
+          "alignmentVertical": "middle",
+          "customColorBackground": {},
+          "customColorBarBackground": {}
+        },
+        "stemmer": {
+          "style": {
+            "fontSize": 1
+          },
+          "width": 0.2,
+          "format": "0,0",
+          "heatmap": { "enabled": false },
+          "barColor": "#494949",
+          "barStyle": "slim",
+          "minWidth": 30,
+          "sortable": true,
+          "alignment": "auto",
+          "showAsBar": true,
+          "sparkline": {
+            "area": false,
+            "type": "line",
+            "color": 0,
+            "title": "",
+            "format": "0.[0]a",
+            "height": 20,
+            "stroke": 2,
+            "dotLast": true,
+            "enabled": false,
+            "colorNeg": 0,
+            "dotFirst": true,
+            "rangeMax": "",
+            "rangeMin": "",
+            "labelDiff": false
+          },
+          "borderLeft": "none",
+          "fixedWidth": false,
+          "borderRight": "none",
+          "compactMode": false,
+          "customColor": false,
+          "replaceFlags": false,
+          "showOnMobile": true,
+          "customColorBy": "afstemningsområde",
+          "showOnDesktop": true,
+          "customBarColor": true,
+          "barNoBackground": false,
+          "borderLeftColor": "#333333",
+          "customColorText": {},
+          "barColorNegative": false,
+          "customBarColorBy": "parti",
+          "alignmentVertical": "middle",
+          "customColorBackground": {},
+          "customColorBarBackground": {
+            "Socialdemokratiet": "#F00B2F",
+            "S": "#F00B2F",
+            "Venstre": "#0781DD",
+            "V": "#0781DD",
+            "Dansk Folkeparti": "#F6BA00",
+            "DF": "#F6BA00",
+            "Enhedslisten": "#FF7400",
+            "EL": "#FF7400",
+            "Liberal Alliance": "#48CEF3",
+            "LA": "#48CEF3",
+            "SF": "#F257A9",
+            "Radikale": "#662690",
+            "R": "#662690",
+            "Konservative": "#06691E",
+            "K": "#06691E",
+            "Alternativet": "#3CE63D",
+            "Alt": "#3CE63D",
+            "Kristendemokraterne": "#8B8474",
+            "KD": "#8B8474",
+            "Nye Borgerlige": "#004E62",
+            "NB": "#004E62",
+            "Moderaterne": "#911995",
+            "M": "#911995",
+            "Frie grønne": "#eecbc6",
+            "FG": "#eecbc6",
+            "Danmarksdemokraterne": "#0075c9",
+            "DD": "#0075c9",
+            "Borgernes Parti": "#89b37b",
+            "BP": "#89b37b"
+          }
+        }
+      },
+      "perPage": 20,
+      "scale-y": "linear",
+      "striped": false,
+      "markdown": false,
+      "overlays": [],
+      "showRank": false,
+      "sortTable": true,
+      "base-color": 0,
+      "pagination": { "enabled": true, "position": "top" },
+      "searchable": true,
+      "showHeader": true,
+      "label-margin": 0,
+      "interpolation": "linear",
+      "show-tooltips": true,
+      "sortDirection": "desc",
+      "x-grid-format": "auto",
+      "y-grid-format": "auto",
+      "y-grid-labels": "auto",
+      "chart-type-set": true,
+      "color-category": { "map": {} },
+      "mobileFallback": true,
+      "plotHeightMode": "fixed",
+      "connector-lines": true,
+      "mergeEmptyCells": false,
+      "plotHeightFixed": 300,
+      "plotHeightRatio": 0.5,
+      "firstRowIsHeader": false,
+      "y-grid-subdivide": true,
+      "value-label-colors": true,
+      "y-grid-label-align": "left",
+      "firstColumnIsSticky": false
+    },
+    "publish": {
+      "blocks": {
+        "logo": { "enabled": false },
+        "embed": false,
+        "download-pdf": false,
+        "download-svg": false,
+        "get-the-data": false,
+        "download-image": false
+      }
+    }
+  },
+  "status-table-metadata": {
+    "metadata": {
+      "describe": {
+        "source-name": "",
+        "source-url": "",
+        "intro": "",
+        "byline": "",
+        "aria-description": "",
+        "number-format": "-",
+        "number-divisor": 0,
+        "hide-title": true
+      },
+      "visualize": {
+        "dark-mode-invert": true,
+        "highlighted-series": [],
+        "highlighted-values": [],
+        "sharing": {
+          "enabled": false,
+          "url": "https://www.datawrapper.de/_/7NhY2",
+          "auto": false
+        },
+        "rows": {},
+        "header": {
+          "style": {
+            "bold": false,
+            "color": false,
+            "italic": false,
+            "fontSize": 0.9,
+            "background": false
+          },
+          "borderTop": "none",
+          "borderBottom": "none",
+          "borderTopColor": "#333333",
+          "borderBottomColor": "#333333"
+        },
+        "legend": {
+          "size": 170,
+          "title": "",
+          "labels": "ranges",
+          "enabled": false,
+          "reverse": false,
+          "labelMax": "high",
+          "labelMin": "low",
+          "position": "above",
+          "hideItems": [],
+          "interactive": false,
+          "labelCenter": "medium",
+          "customLabels": []
+        },
+        "columns": {
+          "Optalte valgsteder": {
+            "style": {
+              "bold": false,
+              "color": false,
+              "italic": false,
+              "fontSize": 1.5,
+              "underline": false,
+              "background": false
+            },
+            "width": 0.2,
+            "append": "",
+            "format": "0,0",
+            "heatmap": { "enabled": false },
+            "sortable": false
+          }
+        },
+        "pagination": { "enabled": false, "position": "top" },
+        "searchable": false,
+        "showHeader": true,
+        "sortDirection": "desc"
+      }
+    },
+    "publish": {
+      "blocks": {
+        "logo": {
+          "enabled": false
+        },
+        "embed": false,
+        "download-pdf": false,
+        "download-svg": false,
+        "get-the-data": false,
+        "download-image": false
+      }
+    }
+  },
+  "map-metadata": {
+    "chart": {
+      "metadata": {
+        "data": {
+          "transpose": false,
+          "vertical-header": true,
+          "horizontal-header": true,
+          "column-order": [
+            0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16,
+            17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33
+          ],
+          "column-format": {
+            "VALUE": { "type": "number" },
+            "#F00B2F": { "type": "auto" },
+            "KOMNAVN": { "type": "text" },
+            "Kommune": { "type": "text" },
+            "kommune": { "type": "auto" },
+            "vælgere": { "type": "number" },
+            "biggest_party": { "type": "text" }
+          },
+          "upload-method": "copy"
+        },
+        "describe": {
+          "source-name": "",
+          "source-url": "",
+          "intro": "",
+          "byline": "",
+          "aria-description": "",
+          "number-format": "-",
+          "number-divisor": 0,
+          "hide-title": true
+        },
+        "visualize": {
+          "dark-mode-invert": true,
+          "sharing": {
+            "enabled": false,
+            "url": "https://www.datawrapper.de/_/lbDGl",
+            "auto": false
+          },
+          "labels": {
+            "max": 1,
+            "type": "places",
+            "places": [],
+            "enabled": false
+          },
+          "layers": {},
+          "basemap": "denmark-greater-copenhagen-municipalities",
+          "legends": {
+            "color": {
+              "size": 170,
+              "title": "biggest_party",
+              "labels": "ranges",
+              "enabled": false,
+              "offsetX": 0,
+              "offsetY": 0,
+              "reverse": false,
+              "labelMax": "high",
+              "labelMin": "low",
+              "position": "above",
+              "hideItems": [],
+              "interactive": true,
+              "labelCenter": "medium",
+              "labelFormat": "0,0.[00]",
+              "orientation": "horizontal",
+              "customLabels": [],
+              "titleEnabled": false
+            },
+            "pattern": {
+              "size": 170,
+              "title": "",
+              "enabled": true,
+              "offsetX": 0,
+              "offsetY": 0,
+              "position": "above",
+              "interactive": false,
+              "orientation": "horizontal",
+              "titleEnabled": false,
+              "useColorLegendPosition": true
+            },
+            "combined": {
+              "orientation": "horizontal"
+            }
+          },
+          "mapView": "full",
+          "miniMap": {
+            "size": 120,
+            "type": "region",
+            "enabled": false,
+            "offsetX": 1,
+            "offsetY": 1,
+            "position": "bottom-left"
+          },
+          "tooltip": {
+            "body": "",
+            "title": "",
+            "sticky": true,
+            "enabled": true
+          },
+          "patterns": {
+            "map": {},
+            "order": [],
+            "enabled": false,
+            "opacity": 50,
+            "colorType": "auto-contrast"
+          },
+          "zoomable": true,
+          "map-align": "center",
+          "colorscale": {
+            "map": {
+              "Venstre": "#0781dd",
+              "Socialdemokratiet": "#f00b2f",
+              "Dansk Folkeparti": "#F6BA00",
+              "Enhedslisten": "#ff7400",
+              "Liberal Alliance": "#48CEF3",
+              "SF": "#F257A9",
+              "Radikale": "#662690",
+              "Konservative": "#06691e",
+              "Alternativet": "#3CE63D",
+              "Kristendemokraterne": "#8B8474",
+              "Nye Borgerlige": "#004E62",
+              "Moderaterne": "#911995",
+              "Frie Grønne": "#eecbc6",
+              "Danmarksdemokraterne": "#0075c9",
+              "Slesvigsk Parti": "#FFD700"
+            }
+          },
+          "map-padding": 0,
+          "map-key-attr": "KOMNAVN",
+          "map-type-set": true,
+          "chart-type-set": true,
+          "max-map-height": 650,
+          "min-label-zoom": 1,
+          "zoom-button-pos": "br",
+          "map-label-format": "0,0.[00]",
+          "text-annotations": [],
+          "range-annotations": [],
+          "hide-empty-regions": false,
+          "mapViewCropPadding": 10,
+          "avoid-label-overlap": true
+        },
+        "axes": {
+          "keys": "Kommune",
+          "values": "biggest_party"
+        },
+        "publish": {
+          "embed-width": 600,
+          "embed-height": 683,
+          "blocks": {
+            "logo": {
+              "enabled": false
+            },
+            "embed": false,
+            "download-pdf": false,
+            "download-svg": false,
+            "get-the-data": false,
+            "download-image": false
+          },
+          "export-pdf": {},
+          "embed-codes": {
+            "embed-method-responsive": "<iframe title=\"Hvilket parti blev det største\" aria-label=\"Choropleth map\" id=\"datawrapper-chart-lbDGl\" src=\"https://datawrapper.dwcdn.net/lbDGl/7/\" scrolling=\"no\" frameborder=\"0\" style=\"width: 0; min-width: 100% !important; border: none;\" height=\"683\" data-external=\"1\"></iframe><script type=\"text/javascript\">window.addEventListener(\"message\",function(a){if(void 0!==a.data[\"datawrapper-height\"]){var e=document.querySelectorAll(\"iframe\");for(var t in a.data[\"datawrapper-height\"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data[\"datawrapper-height\"][t]+\"px\";r.style.height=d}}});</script>",
+            "embed-method-iframe": "<iframe title=\"Hvilket parti blev det største\" aria-label=\"Choropleth map\" id=\"datawrapper-chart-lbDGl\" src=\"https://datawrapper.dwcdn.net/lbDGl/7/\" scrolling=\"no\" frameborder=\"0\" style=\"border: none;\" width=\"600\" height=\"683\" data-external=\"1\"></iframe>",
+            "embed-method-web-component": "<div style=\"min-height:683px\" id=\"datawrapper-vis-lbDGl\"><script type=\"text/javascript\" defer src=\"https://datawrapper.dwcdn.net/lbDGl/embed.js\" charset=\"utf-8\" data-target=\"#datawrapper-vis-lbDGl\"></script><noscript><img src=\"https://datawrapper.dwcdn.net/lbDGl/full.png\" alt=\"Choropleth map\" /></noscript></div>"
+          },
+          "chart-height": 650
+        },
+        "annotate": {
+          "notes": ""
+        },
+        "custom": {}
+      },
+      "language": "da-DK",
+      "theme": "altinget",
+      "type": "d3-maps-choropleth",
+      "forkable": false,
+      "isFork": false,
+      "externalData": "",
+      "organizationId": "UuRf4yHb",
+      "folderId": 362839,
+      "workspace": "hobvratorc"
+    },
+    "visualization": {
+      "axes": {
+        "keys": {
+          "accepts": ["text"],
+          "preferred": "^(key|id|geo|ags|fips|iso)"
+        },
+        "values": {
+          "accepts": ["number", "text"]
+        },
+        "labels": {
+          "accepts": ["text", "number"],
+          "optional": true
+        },
+        "pattern": {
+          "accepts": ["text"],
+          "optional": true
+        }
+      },
+      "controls": {
+        "migrate": "/lib/plugins/visualizations/static/d3-maps-migrate.js",
+        "views": {
+          "Refine": "d3-maps-choropleth/refineControls",
+          "Annotate": "d3-maps-choropleth/annotateControls"
+        }
+      },
+      "defaultMetadata": {
+        "zoomable": false,
+        "zoom-button-pos": "br",
+        "hide-empty-regions": false,
+        "mapView": "full",
+        "mapViewCropPadding": 10,
+        "min-label-zoom": 1,
+        "map-padding": 0,
+        "map-align": "center",
+        "map-label-format": "0,0.[00]",
+        "max-map-height": 650,
+        "avoid-label-overlap": true,
+        "colorscale": {
+          "map": {},
+          "mode": "continuous",
+          "stops": "equidistant",
+          "interpolation": "equidistant",
+          "colors": [],
+          "palette": 0,
+          "rangeMin": "",
+          "rangeMax": "",
+          "stopCount": 5,
+          "customStops": [],
+          "rangeCenter": "",
+          "categoryOrder": [],
+          "categoryLabels": {}
+        },
+        "tooltip": {
+          "enabled": true,
+          "sticky": true,
+          "title": "",
+          "body": ""
+        },
+        "miniMap": {
+          "enabled": false,
+          "type": "region",
+          "offsetX": 1,
+          "offsetY": 1,
+          "position": "bottom-left",
+          "size": 120
+        },
+        "patterns": {
+          "enabled": false,
+          "map": {},
+          "order": [],
+          "opacity": 50,
+          "colorType": "auto-contrast"
+        }
+      },
+      "dependencies": {
+        "globalize": false,
+        "jquery": false,
+        "dayjs": true,
+        "numeral": true
+      },
+      "height": "fixed",
+      "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"30\" height=\"30\" viewBox=\"0 0 30 30\">...snipped...</svg>",
+      "id": "d3-maps-choropleth",
+      "libraries": [],
+      "namespace": "map",
+      "supportsFitHeight": true,
+      "title": "vis-d3-maps / Choropleth map",
+      "workflow": "d3-maps-choropleth",
+      "__visHash": "dfdb9299",
+      "__plugin": "visualizations",
+      "__styleHash": "99914b93",
+      "beta": false,
+      "script": "/home/ubuntu/code/plugins/visualizations/static/d3-maps-choropleth.js",
+      "less": "/home/ubuntu/code/plugins/visualizations/src/d3-maps/less/d3-maps-choropleth.less",
+      "hash": "dfdb9299",
+      "dwJsHash": "0f17cae4"
+    },
+    "theme": {
+      "id": "altinget",
+      "title": "Altinget"
+    },
+    "publish": {
+      "embed-width": 600,
+      "embed-height": 683,
+      "blocks": {
+        "logo": { "enabled": false },
+        "embed": false,
+        "download-pdf": false,
+        "download-svg": false,
+        "get-the-data": false,
+        "download-image": false
+      },
+      "chart-height": 650
+    }
+  }
+}

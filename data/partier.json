@@ -1,0 +1,86 @@
+[
+    {
+        "navn": "Socialdemokratiet",
+        "bogstav": "S",
+        "listebogstav": "A",
+        "farve": "#F00B2F"
+    },
+    {
+        "navn": "Venstre",
+        "bogstav": "V",
+        "listebogstav": "V",
+        "farve": "#0781DD"
+    },
+    {
+        "navn": "Dansk Folkeparti",
+        "bogstav": "DF",
+        "listebogstav": "O",
+        "farve": "#F6BA00"
+    },
+    {
+        "navn": "Radikale",
+        "bogstav": "R",
+        "listebogstav": "B",
+        "farve": "#662690"
+    },
+    {
+        "navn": "Enhedslisten",
+        "bogstav": "EL",
+        "listebogstav": "Ø",
+        "farve": "#FF7400"
+    },
+    {
+        "navn": "Konservative",
+        "bogstav": "K",
+        "listebogstav": "C",
+        "farve": "#06691E"
+    },
+    {
+        "navn": "SF",
+        "bogstav": "SF",
+        "listebogstav": "F",
+        "farve": "#F257A9"
+    },
+    {
+        "navn": "Borgernes Parti",
+        "bogstav": "BP",
+        "listebogstav": "H",
+        "farve": "#89b37b"
+    },
+    {
+        "navn": "Alternativet",
+        "bogstav": "ALT",
+        "listebogstav": "Å",
+        "farve": "#3CE63D"
+    },
+    {
+        "navn": "Liberal Alliance",
+        "bogstav": "LA",
+        "listebogstav": "I",
+        "farve": "#48CEF3"
+    },
+    {
+        "navn": "Frie Grønne",
+        "bogstav": "FG",
+        "listebogstav": "Q",
+        "farve": "#eecbc6"
+    },
+    {
+        "navn": "Kristendemokraterne",
+        "bogstav": "KD",
+        "listebogstav": "K",
+        "farve": "#8B8474"
+    },
+    {
+        "navn": "Moderaterne",
+        "bogstav": "M",
+        "listebogstav": "M",
+        "farve": "#911995"
+    },
+    {
+        "navn": "Danmarksdemokraterne",
+        "bogstav": "DD",
+        "listebogstav": "Æ",
+        "farve": "#0075c9"
+    }
+]
