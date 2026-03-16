@@ -1,2 +1,5 @@
-geo_files/raw/afstemningsområder.geojson
-geo_files/raw/opstillingskredse.geojson
+geo_files/
+/.venv
+__pycache__/
+*.pyc
+.DS_Store.venv/
