@@ -1,5 +1,6 @@
 geo_files/
 .venv/
+venv/
 /.venv
 __pycache__/
 *.pyc
