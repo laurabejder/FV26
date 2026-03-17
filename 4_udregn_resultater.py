@@ -100,7 +100,6 @@ def udregn_procenter(df: pd.DataFrame) -> pd.DataFrame:
     return df
 
 def udregn_status(df: pd.DataFrame) -> pd.DataFrame:
-    total_valgsteder = df["afstemningsområde"].nunique()
     # find the number where resultat_art is ForeløbigOptælling or Fintælling
     foreløbig_optælling = df[df["resultat_art"].isin(["ForeløbigOptælling", "Fintælling"])]["afstemningsområde"].nunique()
     # create a dataframe with the status
