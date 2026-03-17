@@ -32,6 +32,10 @@ resultater_partier = (
     .reset_index(drop=True)
 )
 
+resultater_opstillingskredse_2022 = pd.read_csv("data/resultater_2022/processed/opstillingskreds_resultater.csv")
+resultater_storkredse_2022 = pd.read_csv("data/resultater_2022/processed/storkreds_resultater.csv")
+resultater_nationalt_2022 = pd.read_csv("data/resultater_2022/processed/nationalt_resultater.csv")
+
 # ----------------------------
 # Definer støttende funktioner
 # ----------------------------
@@ -67,7 +71,7 @@ def standardize_party_labels(df: pd.DataFrame) -> pd.DataFrame:
 # ----------------------------
 
 # Udregn procentfordeling
-def udregn_procenter(df: pd.DataFrame) -> pd.DataFrame:
+def udregn_procenter(df: pd.DataFrame, resultater_2022: pd.DataFrame) -> pd.DataFrame:
     """Udregn procentfordeling af stemmer for hver parti i hver opstillingskreds."""
     df = df.copy()
 
@@ -83,10 +87,10 @@ def udregn_procenter(df: pd.DataFrame) -> pd.DataFrame:
         .reset_index()
         )
 
-    df["procent"] = (df["stemmer"] / df["total_gyldige_stemmer"]) * 100
+    df["procent_26"] = (df["stemmer"] / df["total_gyldige_stemmer"]) * 100
 
     # #check if the percentages sum to 100, if not, raise an error
-    # procent_sum = df["procent"].sum()
+    # procent_sum = df["procent_26"].sum()
     # if the sum is 0, we can skip the check to avoid division by zero errors
     # if procent_sum == 0:
     #     return df
@@ -94,7 +98,16 @@ def udregn_procenter(df: pd.DataFrame) -> pd.DataFrame:
     #     raise ValueError(f"Procenterne summerer ikke til 100% (summerer til {procent_sum:.2f}%)")
 
     df["parti_bogstav"] = df["parti"].map({p["navn"]: p["bogstav"] for p in partier_info}).fillna(df["parti"]) # map partinavne til bogstaver, hvis muligt
-    df = df[["parti_bogstav", "parti", "procent"]] # ændr rækkefølgen af kolonner for bedre læsbarhed
+
+    # join results from 2022
+    df = df.merge(
+        resultater_2022[["Partibogstav", "procent_22"]],
+        left_on="parti_bogstav",
+        right_on="Partibogstav",
+        how="left"
+    ).drop(columns=["Partibogstav"])
+
+    df = df[["parti_bogstav", "parti", "procent_26", "procent_22"]] # ændr rækkefølgen af kolonner for bedre læsbarhed
 
     # add 2022 results for comparison
     return df
@@ -119,11 +132,12 @@ if __name__ == "__main__":
     for opstillingskreds in resultater_partier["opstillingskreds"].unique():
         df_opstillingskreds = resultater_partier[resultater_partier["opstillingskreds"] == opstillingskreds]
         opstillingskreds_id = df_opstillingskreds["opstillingskreds_dagi_id"].iloc[0]
+        df_2022_opstillingskreds = resultater_opstillingskredse_2022[resultater_opstillingskredse_2022["opstillingskreds_dagi"] == opstillingskreds_id]
         # get status for the opstillingskreds
         status = udregn_status(df_opstillingskreds)
         status.to_csv(f"data/struktureret/opstillingskredse/status/{opstillingskreds_id}_{danish_to_ascii_filename(opstillingskreds)}_status.csv", index=False)
         try:
-            res = udregn_procenter(df_opstillingskreds)
+            res = udregn_procenter(df_opstillingskreds, df_2022_opstillingskreds)
             
             #turn into a dataframe and save as csv
             res_df = pd.DataFrame(res)
@@ -136,13 +150,14 @@ if __name__ == "__main__":
     for storkreds in resultater_partier["storkreds"].unique():
         df_storkreds = resultater_partier[resultater_partier["storkreds"] == storkreds]
         storkreds_id = df_storkreds["storkreds_nummer"].iloc[0]
+        df_2022_storkreds = resultater_storkredse_2022[resultater_storkredse_2022["storkreds_dagi"] == storkreds_id]
 
         # få status på stemmeoptællingen for hver storkreds
         status = udregn_status(df_storkreds)
         status.to_csv(f"data/struktureret/storkredse/status/{storkreds_id}_{danish_to_ascii_filename(storkreds)}_status.csv", index=False)
 
         try:
-            res = udregn_procenter(df_storkreds)
+            res = udregn_procenter(df_storkreds, df_2022_storkreds)
             res_df = pd.DataFrame(res)
             res_df.to_csv(f"data/struktureret/storkredse/procenter/{storkreds_id}_{danish_to_ascii_filename(storkreds)}.csv", index=False)
         except ValueError as e:
@@ -157,7 +172,7 @@ if __name__ == "__main__":
 
     # Udregn hvor mange procent af stemmerne, hvert parti har fået på landsplan
     try:
-        res = udregn_procenter(resultater_partier)
+        res = udregn_procenter(resultater_partier, resultater_nationalt_2022)
         res_df = pd.DataFrame(res)
         res_df.to_csv(f"data/struktureret/nationalt/procenter/nationalt_procenter.csv", index=False)
     except ValueError as e:
