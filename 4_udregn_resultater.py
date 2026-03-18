@@ -148,6 +148,22 @@ def udregn_stoerste_parti(df: pd.DataFrame, geo_niveau, geo_id) -> pd.DataFrame:
     party_votes = df.pivot(index=[geo_id, geo_niveau], columns="parti_bogstav", values="procent_26").fillna(0)
     party_votes = party_votes.reset_index()
     party_votes = party_votes.drop(columns=[col for col in party_votes.columns if str(col).strip() == "" or str(col).lower() == "nan"], errors="ignore")
+    # change column names to the correct party letters based on the config file
+    col_names = {
+        "A": "A",
+        "B": "R",
+        "C": "K",
+        "D": "NB",
+        "F": "SF",
+        "I": "LA",
+        "K": "KD",
+        "O": "DF",
+        "Æ": "DD",
+        "Ø": "EL",
+        "Å": "ALT"
+    }
+    #rename the columns based on the col_names dictionary, if the column name is not in the dictionary, keep the original name
+    party_votes = party_votes.rename(columns={col: col_names.get(col, col) for col in party_votes.columns})
 
     # join the percentage of votes for each party with the biggest party dataframe
     df_stoerste_parti = df_stoerste_parti.merge(party_votes, on=[geo_id, geo_niveau], how="left")

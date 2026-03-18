@@ -107,33 +107,33 @@ def create_maps(row, map_folder_id):
 
 def create_graphics(data, geo, status_folder_id, chart_folder_id, map_folder_id, candidate_votes_folder_id):
     for index, row in data.iterrows():
-        # Create status table
-        status_table_response = create_status_tables(row, status_folder_id)
-        if status_table_response.status_code == 201:
-            table_id = status_table_response.json()['id']
-            data.at[index, 'table_id'] = table_id
-            print(f"Created table for {row.get('storkreds_navn', row.get('opstillingskreds_navn'))}: {table_id}")
-        else:
-            print(f"Failed to create table: {status_table_response.status_code} - {status_table_response.text}")
+        # # Create status table
+        # status_table_response = create_status_tables(row, status_folder_id)
+        # if status_table_response.status_code == 201:
+        #     table_id = status_table_response.json()['id']
+        #     data.at[index, 'table_id'] = table_id
+        #     print(f"Created table for {row.get('storkreds_navn', row.get('opstillingskreds_navn'))}: {table_id}")
+        # else:
+        #     print(f"Failed to create table: {status_table_response.status_code} - {status_table_response.text}")
             
-        # create tables for candidate votes
-        candidate_votes_response = create_stemmer_tables(row, candidate_votes_folder_id)
-        if candidate_votes_response.status_code == 201:
-            candidate_votes_table_id = candidate_votes_response.json()['id']
-            data.at[index, 'candidate_votes_table_id'] = candidate_votes_table_id
-            print(f"Created candidate votes table for {row.get('storkreds_navn', row.get('opstillingskreds_navn'))}: {candidate_votes_table_id}")
-        else:
-            print(f"Failed to create candidate votes table: {candidate_votes_response.status_code} - {candidate_votes_response.text}")
-            continue
+        # # create tables for candidate votes
+        # candidate_votes_response = create_stemmer_tables(row, candidate_votes_folder_id)
+        # if candidate_votes_response.status_code == 201:
+        #     candidate_votes_table_id = candidate_votes_response.json()['id']
+        #     data.at[index, 'candidate_votes_table_id'] = candidate_votes_table_id
+        #     print(f"Created candidate votes table for {row.get('storkreds_navn', row.get('opstillingskreds_navn'))}: {candidate_votes_table_id}")
+        # else:
+        #     print(f"Failed to create candidate votes table: {candidate_votes_response.status_code} - {candidate_votes_response.text}")
+        #     continue
 
-        # Create bar chart
-        chart_response = create_bar_charts(row, chart_folder_id)
-        if chart_response.status_code == 201:
-            chart_id = chart_response.json()['id']
-            data.at[index, 'chart_id'] = chart_id
-            print(f"Created chart for {row.get('storkreds_navn', row.get('opstillingskreds_navn'))}: {chart_id}")
-        else:
-            print(f"Failed to create chart: {chart_response.status_code} - {chart_response.text}")
+        # # Create bar chart
+        # chart_response = create_bar_charts(row, chart_folder_id)
+        # if chart_response.status_code == 201:
+        #     chart_id = chart_response.json()['id']
+        #     data.at[index, 'chart_id'] = chart_id
+        #     print(f"Created chart for {row.get('storkreds_navn', row.get('opstillingskreds_navn'))}: {chart_id}")
+        # else:
+        #     print(f"Failed to create chart: {chart_response.status_code} - {chart_response.text}")
             
         # Create map
         map_response = create_maps(row, map_folder_id)
