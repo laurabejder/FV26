@@ -152,6 +152,9 @@ def udregn_stoerste_parti(df: pd.DataFrame, geo_niveau, geo_id) -> pd.DataFrame:
     # join the percentage of votes for each party with the biggest party dataframe
     df_stoerste_parti = df_stoerste_parti.merge(party_votes, on=[geo_id, geo_niveau], how="left")
 
+    # save dagi_id as a string to avoid issues with leading zeros
+    df_stoerste_parti[geo_id] = df_stoerste_parti[geo_id].astype(str)
+
     return df_stoerste_parti
 # ----------------------------
 # Kald funktionerne for hver opstillingskreds, storkreds og nationalt
