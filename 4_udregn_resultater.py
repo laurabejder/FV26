@@ -142,7 +142,7 @@ def udregn_stoerste_parti(df: pd.DataFrame, geo_niveau, geo_id) -> pd.DataFrame:
 
     # only keep geo_id, geo_niveau, parti_bogstav and parti but rename bogstav to "største_parti"
     df_stoerste_parti = df_stoerste_parti[[geo_id, geo_niveau, "bogstav", "parti"]]
-    df_stoerste_parti = df_stoerste_parti.rename(columns={"bogstav": "største_parti"})
+    df_stoerste_parti = df_stoerste_parti.rename(columns={"bogstav": "biggest_party"})
 
      #calculage the percentage of votes each party got in each afstemningsområde and turn each party into a column
     party_votes = df.pivot(index=[geo_id, geo_niveau], columns="parti_bogstav", values="procent_26").fillna(0)
