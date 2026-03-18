@@ -1,16 +1,16 @@
 {
   "data": {
     "column-format": {
-      "afstemningsområde_dagi_id": { "type": "text" },
+      "dagi_id": { "type": "text" },
       "parti": { "type": "text" }
     }
   },
   "axes": {
-    "keys": "afstemningsområde_dagi_id",
+    "keys": "dagi_id",
     "values": "parti"
   },
   "visualize": {
-    "map-key-attr": "afstemningsområde_dagi_id",
+    "map-key-attr": "dagi_id",
     "colorscale": {
         "mode": "categorical",
       "map": {
