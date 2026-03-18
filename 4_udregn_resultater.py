@@ -183,7 +183,7 @@ def udregn_personlige_stemmetal(df: pd.DataFrame, valgte_kandidater: pd.DataFram
     )
 
     # search for each candidate_id in the valgte_kandidater dataframe and add a column "valgt" with the value "√ valgt" if the candidate_id is in the valgte_kandidater dataframe, otherwise ""
-    df_personlige_stemmer["valgt"] = df_personlige_stemmer["kandidat_id"].apply(lambda x: "√ valgt" if x in valgte_kandidater["kandidat_id"].values else "")
+    df_personlige_stemmer["valgt"] = df_personlige_stemmer["kandidat_id"].apply(lambda x: "√" if x in valgte_kandidater["kandidat_id"].values else "")
     #reorder columns to kandidat_id, kandidat, parti, storkreds, stemmer, valgt
     df_personlige_stemmer = df_personlige_stemmer[["kandidat_id", "kandidat", "parti", "storkreds", "valgt", "stemmer"]]
 
