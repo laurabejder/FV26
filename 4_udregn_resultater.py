@@ -3,6 +3,8 @@ from pathlib import Path
 import pandas as pd
 from config import PARTIER_INFO
 
+from pop_up_info import largest_party_colors, party_colors
+
 # pop ups!
 
 # ----------------------------
@@ -26,8 +28,7 @@ resultater_kandidater = (
 )
 
 # Hent valgresultaterne for FV26 på partiniveau
-resultater_partier = (
-    pd.read_csv("data/struktureret/resultater_partier.csv")
+resultater_partier = (pd.read_csv("data/struktureret/resultater_partier.csv")
     .drop_duplicates()
     .reset_index(drop=True)
 )
@@ -75,9 +76,7 @@ def udregn_procenter(df: pd.DataFrame, resultater_2022: pd.DataFrame) -> pd.Data
     """Udregn procentfordeling af stemmer for hver parti i hver opstillingskreds."""
     df = df.copy()
 
-    total_gyldige_stemmer = df.groupby("afstemningsområde")["total_gyldige_stemmer"].first().sum() # find det samlede antal gyldige stemmer for opstillingskredsen
-
-    # group data by party and sum votes and valid votes
+    total_gyldige_stemmer = df.groupby("afstemningsområde")["total_gyldige_stemmer"].first().sum()
     df = (df
         .groupby("parti")
         .agg({
@@ -89,13 +88,12 @@ def udregn_procenter(df: pd.DataFrame, resultater_2022: pd.DataFrame) -> pd.Data
 
     df["procent_26"] = round((df["stemmer"] / df["total_gyldige_stemmer"]) * 100, 1)
 
-    # #check if the percentages sum to 100, if not, raise an error
-    # procent_sum = df["procent_26"].sum()
-    # if the sum is 0, we can skip the check to avoid division by zero errors
-    # if procent_sum == 0:
-    #     return df
-    # elif not (99.9 <= procent_sum <= 100.1):
-    #     raise ValueError(f"Procenterne summerer ikke til 100% (summerer til {procent_sum:.2f}%)")
+    #check if the percentages sum to 100, if not, raise an error
+    procent_sum = df["procent_26"].sum()
+    if procent_sum == 0: #if the sum is 0, we can skip the check to avoid division by zero errors
+        return df
+    elif not (99.9 <= procent_sum <= 100.1):
+        raise ValueError(f"Procenterne summerer ikke til 100% (summerer til {procent_sum:.2f}%)")
 
     df["parti_bogstav"] = df["parti"].map({p["navn"]: p["bogstav"] for p in partier_info}).fillna(df["parti"]) # map partinavne til bogstaver, hvis muligt
 
@@ -172,6 +170,17 @@ def udregn_stoerste_parti(df: pd.DataFrame, geo_niveau, geo_id) -> pd.DataFrame:
     df_stoerste_parti[geo_id] = df_stoerste_parti[geo_id].astype(str)
 
     return df_stoerste_parti
+
+def udregn_personlige_stemmetal(df: pd.DataFrame) -> pd.DataFrame:
+    # sum each candidate's votes at the specified geographic level (opstillingskreds, storkreds, nationalt)
+    df_personlige_stemmer = (df.groupby(["kandidat_id","kandidat", "parti",'storkreds'])
+        .agg({"stemmer": "sum"})
+        .reset_index()
+        .sort_values(by=["stemmer"], ascending=[False])
+        .reset_index(drop=True)
+    )
+    return df_personlige_stemmer
+
 # ----------------------------
 # Kald funktionerne for hver opstillingskreds, storkreds og nationalt
 # ----------------------------
@@ -198,6 +207,13 @@ if __name__ == "__main__":
 
         stoerste_parti = udregn_stoerste_parti(df_opstillingskreds, "afstemningsområde", "afstemningsområde_dagi_id")
         stoerste_parti.to_csv(f"data/struktureret/opstillingskredse/kort/{opstillingskreds_id}_{danish_to_ascii_filename(opstillingskreds)}.csv", index=False)
+
+    for opstillingskreds in resultater_kandidater["opstillingskreds"].unique():
+        df_opstillingskreds = resultater_kandidater[resultater_kandidater["opstillingskreds"] == opstillingskreds]
+        personlige_stemmer = udregn_personlige_stemmetal(df_opstillingskreds)
+        # drop opstillingskreds and kandidat_id columns to save space, since we already have kandidat and opstillingskreds in the filename
+        personlige_stemmer = personlige_stemmer.drop(columns=["storkreds", "kandidat_id"])
+        personlige_stemmer.to_csv(f"data/struktureret/opstillingskredse/personlige_stemmer/{opstillingskreds_id}_{danish_to_ascii_filename(opstillingskreds)}.csv", index=False)
     
     # ----------------------
     # Process hver storkreds
@@ -219,6 +235,13 @@ if __name__ == "__main__":
 
         stoerste_parti = udregn_stoerste_parti(df_storkreds, "afstemningsområde", "afstemningsområde_dagi_id")
         stoerste_parti.to_csv(f"data/struktureret/storkredse/kort/{storkreds_id}_{danish_to_ascii_filename(storkreds)}.csv", index=False)
+    
+    for storkreds in resultater_kandidater["storkreds"].unique():
+        df_storkreds = resultater_kandidater[resultater_kandidater["storkreds"] == storkreds]
+        personlige_stemmer = udregn_personlige_stemmetal(df_storkreds)
+        # drop storkreds and kandidat_id columns to save space, since we already have kandidat and storkreds in the filename
+        personlige_stemmer = personlige_stemmer.drop(columns=["storkreds", "kandidat_id"])
+        personlige_stemmer.to_csv(f"data/struktureret/storkredse/personlige_stemmer/{storkreds_id}_{danish_to_ascii_filename(storkreds)}.csv", index=False)
 
     # -----------------
     # Process nationalt
@@ -234,3 +257,11 @@ if __name__ == "__main__":
         res_df.to_csv(f"data/struktureret/nationalt/procenter/nationalt_procenter.csv", index=False)
     except ValueError as e:
         print(f"Warning: national results - {e}")
+
+    # get personlige stemmetal
+    personlige_stemmer = udregn_personlige_stemmetal(resultater_kandidater)
+    personlige_stemmer.to_csv(f"data/struktureret/nationalt/personlige_stemmer/personlige_stemmer.csv", index=False)
+
+
+
+    
