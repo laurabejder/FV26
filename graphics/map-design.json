@@ -49,7 +49,7 @@
           "legends": {
             "color": {
               "size": 170,
-              "title": "største_parti",
+              "title": "biggest_party",
               "labels": "ranges",
               "enabled": false,
               "offsetX": 0,
@@ -126,7 +126,7 @@
             }
           },
           "map-padding": 0,
-          "map-key-attr": "KOMNAVN",
+          "map-key-attr": "afstemningsområde_dagi_id",
           "map-type-set": true,
           "chart-type-set": true,
           "max-map-height": 650,
@@ -140,8 +140,8 @@
           "avoid-label-overlap": true
         },
         "axes": {
-          "keys": "Kommune",
-          "values": "biggest_party"
+            "keys": "afstemningsområde_dagi_id",
+            "values": "parti"
         },
         "publish": {
           "embed-width": 600,
