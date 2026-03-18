@@ -87,7 +87,7 @@ def udregn_procenter(df: pd.DataFrame, resultater_2022: pd.DataFrame) -> pd.Data
         .reset_index()
         )
 
-    df["procent_26"] = (df["stemmer"] / df["total_gyldige_stemmer"]) * 100
+    df["procent_26"] = round((df["stemmer"] / df["total_gyldige_stemmer"]) * 100, 1)
 
     # #check if the percentages sum to 100, if not, raise an error
     # procent_sum = df["procent_26"].sum()
@@ -126,7 +126,7 @@ def udregn_stoerste_parti(df: pd.DataFrame, geo_niveau, geo_id) -> pd.DataFrame:
     df = df.copy()
 
     # get percentages
-    df['procent_26'] = df['stemmer'] / df['total_gyldige_stemmer'] * 100 
+    df['procent_26'] = round(df['stemmer'] / df['total_gyldige_stemmer'] * 100 ,1)
     # find the parti_bogstav that corresponds with the biggest number of votes for each afstemningsområde
     df_stoerste_parti = (df.groupby([geo_id, geo_niveau, "parti_bogstav"])
         .agg({"stemmer": "sum"})
