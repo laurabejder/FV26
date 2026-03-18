@@ -33,6 +33,8 @@ resultater_partier = (pd.read_csv("data/struktureret/resultater_partier.csv")
     .reset_index(drop=True)
 )
 
+valgte_kandidater = pd.read_csv("https://docs.google.com/spreadsheets/d/e/2PACX-1vTxLGlQjnEd-RGHCbVNhWzxmTH9dL6TiNlJHMbeVSwolMSEZN6uV4pc45iLLF0xUym26XwrFiXVhFFr/pub?gid=0&single=true&output=csv")
+
 resultater_opstillingskredse_2022 = pd.read_csv("data/resultater_2022/processed/opstillingskreds_resultater.csv")
 resultater_storkredse_2022 = pd.read_csv("data/resultater_2022/processed/storkreds_resultater.csv")
 resultater_nationalt_2022 = pd.read_csv("data/resultater_2022/processed/nationalt_resultater.csv")
@@ -171,7 +173,7 @@ def udregn_stoerste_parti(df: pd.DataFrame, geo_niveau, geo_id) -> pd.DataFrame:
 
     return df_stoerste_parti
 
-def udregn_personlige_stemmetal(df: pd.DataFrame) -> pd.DataFrame:
+def udregn_personlige_stemmetal(df: pd.DataFrame, valgte_kandidater: pd.DataFrame) -> pd.DataFrame:
     # sum each candidate's votes at the specified geographic level (opstillingskreds, storkreds, nationalt)
     df_personlige_stemmer = (df.groupby(["kandidat_id","kandidat", "parti",'storkreds'])
         .agg({"stemmer": "sum"})
@@ -179,6 +181,12 @@ def udregn_personlige_stemmetal(df: pd.DataFrame) -> pd.DataFrame:
         .sort_values(by=["stemmer"], ascending=[False])
         .reset_index(drop=True)
     )
+
+    # search for each candidate_id in the valgte_kandidater dataframe and add a column "valgt" with the value "√ valgt" if the candidate_id is in the valgte_kandidater dataframe, otherwise ""
+    df_personlige_stemmer["valgt"] = df_personlige_stemmer["kandidat_id"].apply(lambda x: "√ valgt" if x in valgte_kandidater["kandidat_id"].values else "")
+    #reorder columns to kandidat_id, kandidat, parti, storkreds, stemmer, valgt
+    df_personlige_stemmer = df_personlige_stemmer[["kandidat_id", "kandidat", "parti", "storkreds", "valgt", "stemmer"]]
+
     return df_personlige_stemmer
 
 # ----------------------------
@@ -210,7 +218,7 @@ if __name__ == "__main__":
 
     for opstillingskreds in resultater_kandidater["opstillingskreds"].unique():
         df_opstillingskreds = resultater_kandidater[resultater_kandidater["opstillingskreds"] == opstillingskreds]
-        personlige_stemmer = udregn_personlige_stemmetal(df_opstillingskreds)
+        personlige_stemmer = udregn_personlige_stemmetal(df_opstillingskreds, valgte_kandidater)
         # drop opstillingskreds and kandidat_id columns to save space, since we already have kandidat and opstillingskreds in the filename
         personlige_stemmer = personlige_stemmer.drop(columns=["storkreds", "kandidat_id"])
         personlige_stemmer.to_csv(f"data/struktureret/opstillingskredse/personlige_stemmer/{opstillingskreds_id}_{danish_to_ascii_filename(opstillingskreds)}.csv", index=False)
@@ -238,7 +246,7 @@ if __name__ == "__main__":
     
     for storkreds in resultater_kandidater["storkreds"].unique():
         df_storkreds = resultater_kandidater[resultater_kandidater["storkreds"] == storkreds]
-        personlige_stemmer = udregn_personlige_stemmetal(df_storkreds)
+        personlige_stemmer = udregn_personlige_stemmetal(df_storkreds,valgte_kandidater)
         # drop storkreds and kandidat_id columns to save space, since we already have kandidat and storkreds in the filename
         personlige_stemmer = personlige_stemmer.drop(columns=["storkreds", "kandidat_id"])
         personlige_stemmer.to_csv(f"data/struktureret/storkredse/personlige_stemmer/{storkreds_id}_{danish_to_ascii_filename(storkreds)}.csv", index=False)
@@ -259,7 +267,7 @@ if __name__ == "__main__":
         print(f"Warning: national results - {e}")
 
     # get personlige stemmetal
-    personlige_stemmer = udregn_personlige_stemmetal(resultater_kandidater)
+    personlige_stemmer = udregn_personlige_stemmetal(resultater_kandidater, valgte_kandidater)
     personlige_stemmer.to_csv(f"data/struktureret/nationalt/personlige_stemmer/personlige_stemmer.csv", index=False)
 
 
