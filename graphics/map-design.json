@@ -6,7 +6,7 @@
     }
   },
   "axes": {
-    "keys": "dagi_id",
+    "keys": "afstemningsområde_dagi_id",
     "values": "parti"
   },
   "visualize": {
