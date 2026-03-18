@@ -121,6 +121,38 @@ def udregn_status(df: pd.DataFrame) -> pd.DataFrame:
     })
     return status_df
 
+
+def udregn_stoerste_parti(df: pd.DataFrame, geo_niveau, geo_id) -> pd.DataFrame:
+    df = df.copy()
+
+    # get percentages
+    df['procent_26'] = df['stemmer'] / df['total_gyldige_stemmer'] * 100 
+    # find the parti_bogstav that corresponds with the biggest number of votes for each afstemningsområde
+    df_stoerste_parti = (df.groupby([geo_id, geo_niveau, "parti_bogstav"])
+        .agg({"stemmer": "sum"})
+        .reset_index()
+        .sort_values(by=[geo_niveau, "stemmer"], ascending=[True, False])
+        .groupby(geo_niveau)
+        .first()
+        .reset_index()
+    )
+    
+    # standardize party labels
+    df_stoerste_parti = standardize_party_labels(df_stoerste_parti)
+
+    # only keep geo_id, geo_niveau, parti_bogstav and parti but rename bogstav to "største_parti"
+    df_stoerste_parti = df_stoerste_parti[[geo_id, geo_niveau, "bogstav", "parti"]]
+    df_stoerste_parti = df_stoerste_parti.rename(columns={"bogstav": "største_parti"})
+
+     #calculage the percentage of votes each party got in each afstemningsområde and turn each party into a column
+    party_votes = df.pivot(index=[geo_id, geo_niveau], columns="parti_bogstav", values="procent_26").fillna(0)
+    party_votes = party_votes.reset_index()
+    party_votes = party_votes.drop(columns=[col for col in party_votes.columns if str(col).strip() == "" or str(col).lower() == "nan"], errors="ignore")
+
+    # join the percentage of votes for each party with the biggest party dataframe
+    df_stoerste_parti = df_stoerste_parti.merge(party_votes, on=[geo_id, geo_niveau], how="left")
+
+    return df_stoerste_parti
 # ----------------------------
 # Kald funktionerne for hver opstillingskreds, storkreds og nationalt
 # ----------------------------
@@ -145,6 +177,9 @@ if __name__ == "__main__":
         except ValueError as e:
             print(f"Warning: {opstillingskreds} - {e}")
 
+        stoerste_parti = udregn_stoerste_parti(df_opstillingskreds, "afstemningsområde", "afstemningsområde_dagi_id")
+        stoerste_parti.to_csv(f"data/struktureret/opstillingskredse/kort/{opstillingskreds_id}_{danish_to_ascii_filename(opstillingskreds)}.csv", index=False)
+    
     # ----------------------
     # Process hver storkreds
     for storkreds in resultater_partier["storkreds"].unique():
@@ -162,6 +197,9 @@ if __name__ == "__main__":
             res_df.to_csv(f"data/struktureret/storkredse/procenter/{storkreds_id}_{danish_to_ascii_filename(storkreds)}.csv", index=False)
         except ValueError as e:
             print(f"Warning: storkreds {storkreds} - {e}")
+
+        stoerste_parti = udregn_stoerste_parti(df_storkreds, "afstemningsområde", "afstemningsområde_dagi_id")
+        stoerste_parti.to_csv(f"data/struktureret/storkredse/kort/{storkreds_id}_{danish_to_ascii_filename(storkreds)}.csv", index=False)
 
     # -----------------
     # Process nationalt
