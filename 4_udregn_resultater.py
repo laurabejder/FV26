@@ -150,7 +150,7 @@ def udregn_stoerste_parti(df: pd.DataFrame, geo_niveau, geo_id) -> pd.DataFrame:
     party_votes = party_votes.drop(columns=[col for col in party_votes.columns if str(col).strip() == "" or str(col).lower() == "nan"], errors="ignore")
     # change column names to the correct party letters based on the config file
     col_names = {
-        "A": "A",
+        "A": "S",
         "B": "R",
         "C": "K",
         "D": "NB",
