@@ -10,7 +10,7 @@
     "values": "parti"
   },
   "visualize": {
-    "map-key-attr": "code",
+    "map-key-attr": "name",
     "colorscale": {
         "mode": "categorical",
       "map": {
