@@ -10,7 +10,7 @@
     "values": "parti"
   },
   "visualize": {
-    "map-key-attr": "dagi_id",
+    "map-key-attr": "code",
     "colorscale": {
         "mode": "categorical",
       "map": {
