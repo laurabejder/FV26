@@ -5,7 +5,7 @@ USERNAME = "Valg"
 PASSWORD = "Valg"
 
 # remove "verification" later when the actual data endpoints are ready
-REMOTE_PATH = "/data/folketingsvalg-135-24-03-2026/verifikation/"
+REMOTE_PATH = "/data/folketingsvalg-135-24-03-2026/"
 RESULTATER_PATH = "resultater/"
 KANDIDATER_PATH = "kandidater/" 
 

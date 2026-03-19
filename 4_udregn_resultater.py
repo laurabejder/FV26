@@ -33,8 +33,10 @@ resultater_partier = (pd.read_csv("data/struktureret/resultater_partier.csv")
     .reset_index(drop=True)
 )
 
+# Hent vores oversigt over, hvilke kandidater der er valgt ind i Folketinget
 valgte_kandidater = pd.read_csv("https://docs.google.com/spreadsheets/d/e/2PACX-1vTxLGlQjnEd-RGHCbVNhWzxmTH9dL6TiNlJHMbeVSwolMSEZN6uV4pc45iLLF0xUym26XwrFiXVhFFr/pub?gid=0&single=true&output=csv")
 
+# Indlæs resultaterne fra sidste valg, så vi kan sammenligne og udregne forskelle
 resultater_opstillingskredse_2022 = pd.read_csv("data/resultater_2022/processed/opstillingskreds_resultater.csv")
 resultater_storkredse_2022 = pd.read_csv("data/resultater_2022/processed/storkreds_resultater.csv")
 resultater_nationalt_2022 = pd.read_csv("data/resultater_2022/processed/nationalt_resultater.csv")
@@ -43,11 +45,11 @@ resultater_nationalt_2022 = pd.read_csv("data/resultater_2022/processed/national
 # Definer støttende funktioner
 # ----------------------------
 
-# fjern ufærdige resultater
+# Fjern ufærdige resultater
 def resultater_findes(data):
     return data[data["resultat_art"] != 'IngenResultater']
 
-# convert Danish characters to ASCII for filenames
+# Konverter Dansk tegnsætning til ASCII for at standardisere filnavne
 def danish_to_ascii_filename(text):
     """Convert Danish characters to ASCII equivalents for safe filenames."""
     danish_to_ascii = {
@@ -59,7 +61,7 @@ def danish_to_ascii_filename(text):
         text = text.replace(danish, ascii_equiv)
     return text.replace(' ', '_')
 
-# standardiser partinavne og -bogstaver
+# Standardiser partinavne og -bogstaver
 def standardize_party_labels(df: pd.DataFrame) -> pd.DataFrame:
     """Map to Altinget party names/letters based on config."""
     bogstav_to_navn = {p["listebogstav"]: p["navn"] for p in partier_info}
@@ -78,28 +80,28 @@ def udregn_procenter(df: pd.DataFrame, resultater_2022: pd.DataFrame) -> pd.Data
     """Udregn procentfordeling af stemmer for hver parti i hver opstillingskreds."""
     df = df.copy()
 
-    total_gyldige_stemmer = df.groupby("afstemningsområde")["total_gyldige_stemmer"].first().sum()
+    total_gyldige_stemmer = df.groupby("afstemningsområde")["total_gyldige_stemmer"].first().sum() # Find det samlede antal gyldige stemmer for hele opstillingskredsen ved at tage det første (og samme) antal gyldige stemmer for hvert afstemningsområde og summere dem
     df = (df
         .groupby("parti")
         .agg({
             "stemmer": "sum",
-            "total_gyldige_stemmer": lambda x: total_gyldige_stemmer # total gyldige stemmer should be the same for all rows in the same opstillingskreds
+            "total_gyldige_stemmer": lambda x: total_gyldige_stemmer
         })
         .reset_index()
         )
 
-    df["procent_26"] = round((df["stemmer"] / df["total_gyldige_stemmer"]) * 100, 1)
+    df["procent_26"] = round((df["stemmer"] / df["total_gyldige_stemmer"]) * 100, 1) # Udregn procentfordelingen og afrund til et decimal
 
-    #check if the percentages sum to 100, if not, raise an error
+    # Tjek om procenterne summerer til 100. Hvis ikke: skrig!
     procent_sum = df["procent_26"].sum()
-    if procent_sum == 0: #if the sum is 0, we can skip the check to avoid division by zero errors
+    if procent_sum == 0:
         return df
     elif not (99.9 <= procent_sum <= 100.1):
         raise ValueError(f"Procenterne summerer ikke til 100% (summerer til {procent_sum:.2f}%)")
 
-    df["parti_bogstav"] = df["parti"].map({p["navn"]: p["bogstav"] for p in partier_info}).fillna(df["parti"]) # map partinavne til bogstaver, hvis muligt
+    df["parti_bogstav"] = df["parti"].map({p["navn"]: p["bogstav"] for p in partier_info}).fillna(df["parti"]) # Standardiser partinavne og -bogstaver
 
-    # join results from 2022
+    # Join med 2022-resultaterne for at kunne sammenligne og udregne forskelle i procenter mellem de to valg
     df = df.merge(
         resultater_2022[["Partibogstav", "procent_22"]],
         left_on="parti_bogstav",
@@ -107,27 +109,23 @@ def udregn_procenter(df: pd.DataFrame, resultater_2022: pd.DataFrame) -> pd.Data
         how="left"
     ).drop(columns=["Partibogstav"])
 
-    df = df[["parti_bogstav", "parti", "procent_26", "procent_22"]] # ændr rækkefølgen af kolonner for bedre læsbarhed
-
-    # add 2022 results for comparison
+    df = df[["parti_bogstav", "parti", "procent_26", "procent_22"]] # Ændr rækkefølgen af kolonner for bedre læsbarhed
     return df
 
 def udregn_status(df: pd.DataFrame) -> pd.DataFrame:
-    # find the number where resultat_art is ForeløbigOptælling or Fintælling
+    # Find antallet af valgsteder, der har en foreløbig optælling eller fintælling, for at kunne udregne status på optællingen
     foreløbig_optælling = df[df["resultat_art"].isin(["ForeløbigOptælling", "Fintælling"])]["afstemningsområde"].nunique()
-    # create a dataframe with the status
     status_df = pd.DataFrame({
         "Optalte valgsteder": [foreløbig_optælling]
     })
     return status_df
 
-
 def udregn_stoerste_parti(df: pd.DataFrame, geo_niveau, geo_id) -> pd.DataFrame:
     df = df.copy()
 
-    # get percentages
+    # Udregn procentfordelingen for hvert parti i hvert afstemningsområde
     df['procent_26'] = round(df['stemmer'] / df['total_gyldige_stemmer'] * 100 ,1)
-    # find the parti_bogstav that corresponds with the biggest number of votes for each afstemningsområde
+    # Find det parti, der har fået flest stemmer i hvert afstemningsområde/opstillingskreds/storkreds
     df_stoerste_parti = (df.groupby([geo_id, geo_niveau, "parti_bogstav"])
         .agg({"stemmer": "sum"})
         .reset_index()
@@ -137,18 +135,17 @@ def udregn_stoerste_parti(df: pd.DataFrame, geo_niveau, geo_id) -> pd.DataFrame:
         .reset_index()
     )
     
-    # standardize party labels
-    df_stoerste_parti = standardize_party_labels(df_stoerste_parti)
+    df_stoerste_parti = standardize_party_labels(df_stoerste_parti) # Standardiser partinavne og -bogstaver
 
-    # only keep geo_id, geo_niveau, parti_bogstav and parti but rename bogstav to "største_parti"
+    # Behold kun de nødvendige kolonner + omdøb for klarhed
     df_stoerste_parti = df_stoerste_parti[[geo_id, geo_niveau, "bogstav", "parti"]]
     df_stoerste_parti = df_stoerste_parti.rename(columns={"bogstav": "biggest_party"})
 
-     #calculage the percentage of votes each party got in each afstemningsområde and turn each party into a column
+    # Udregn procentfordelingen for hvert parti i hvert afstemningsområde og omdann hvert parti til en kolonne
     party_votes = df.pivot(index=[geo_id, geo_niveau], columns="parti_bogstav", values="procent_26").fillna(0)
     party_votes = party_votes.reset_index()
     party_votes = party_votes.drop(columns=[col for col in party_votes.columns if str(col).strip() == "" or str(col).lower() == "nan"], errors="ignore")
-    # change column names to the correct party letters based on the config file
+    # Ændr kolonnenavne til de korrekte partibogstaver baseret på konfigurationsfilen
     col_names = {
         "A": "S",
         "B": "R",
@@ -162,30 +159,28 @@ def udregn_stoerste_parti(df: pd.DataFrame, geo_niveau, geo_id) -> pd.DataFrame:
         "Ø": "EL",
         "Å": "ALT"
     }
-    #rename the columns based on the col_names dictionary, if the column name is not in the dictionary, keep the original name
+    # Omdøb kolonnerne baseret på col_names-ordbogen, hvis kolonnenavnet ikke findes i ordbogen, behold det oprindelige navn
     party_votes = party_votes.rename(columns={col: col_names.get(col, col) for col in party_votes.columns})
 
-    # join the percentage of votes for each party with the biggest party dataframe
+    # Join procentfordelingen for hvert parti med dataframe for det største parti
     df_stoerste_parti = df_stoerste_parti.merge(party_votes, on=[geo_id, geo_niveau], how="left")
 
-    # save dagi_id as a string to avoid issues with leading zeros
+    # Gem dagi_id som en string for at undgå problemer med foranstillede nuller
     df_stoerste_parti[geo_id] = df_stoerste_parti[geo_id].astype(str)
 
     return df_stoerste_parti
 
-def udregn_personlige_stemmetal(df: pd.DataFrame, valgte_kandidater: pd.DataFrame) -> pd.DataFrame:
-    # sum each candidate's votes at the specified geographic level (opstillingskreds, storkreds, nationalt)
-    df_personlige_stemmer = (df.groupby(["kandidat_id","kandidat", "parti",'storkreds'])
+def udregn_personlige_stemmetal(df: pd.DataFrame, valgte_kandidater: pd.DataFrame, geo_niveau: str) -> pd.DataFrame:
+    # Summer hver kandidats stemmer på det angivne geografiske niveau (opstillingskreds, storkreds, nationalt)
+    df_personlige_stemmer = (df.groupby(["kandidat_id","kandidat", "parti", geo_niveau])
         .agg({"stemmer": "sum"})
         .reset_index()
         .sort_values(by=["stemmer"], ascending=[False])
         .reset_index(drop=True)
     )
 
-    # search for each candidate_id in the valgte_kandidater dataframe and add a column "valgt" with the value "✓" if the candidate_id is in the valgte_kandidater dataframe, otherwise ""
     df_personlige_stemmer["valgt"] = df_personlige_stemmer["kandidat_id"].apply(lambda x: "✓" if x in valgte_kandidater["kandidat_id"].values else "")
-    #reorder columns to kandidat_id, kandidat, parti, storkreds, stemmer, valgt
-    df_personlige_stemmer = df_personlige_stemmer[["kandidat_id", "kandidat", "parti", "storkreds", "valgt", "stemmer"]]
+    df_personlige_stemmer = df_personlige_stemmer[["kandidat_id", "kandidat", "parti", geo_niveau, "valgt", "stemmer"]]
 
     return df_personlige_stemmer
 
@@ -213,14 +208,15 @@ if __name__ == "__main__":
         except ValueError as e:
             print(f"Warning: {opstillingskreds} - {e}")
 
-        stoerste_parti = udregn_stoerste_parti(df_opstillingskreds, "afstemningsområde", "afstemningsområde_dagi_id")
-        stoerste_parti.to_csv(f"data/struktureret/opstillingskredse/kort/{opstillingskreds_id}_{danish_to_ascii_filename(opstillingskreds)}.csv", index=False)
+        if df_opstillingskreds["resultat_art"].isin(["ForeløbigOptælling", "Fintælling"]).all():
+            stoerste_parti = udregn_stoerste_parti(df_opstillingskreds, "afstemningsområde", "afstemningsområde_dagi_id")
+            stoerste_parti.to_csv(f"data/struktureret/opstillingskredse/kort/{opstillingskreds_id}_{danish_to_ascii_filename(opstillingskreds)}.csv", index=False)
 
     for opstillingskreds in resultater_kandidater["opstillingskreds"].unique():
         df_opstillingskreds = resultater_kandidater[resultater_kandidater["opstillingskreds"] == opstillingskreds]
-        personlige_stemmer = udregn_personlige_stemmetal(df_opstillingskreds, valgte_kandidater)
-        # drop opstillingskreds and kandidat_id columns to save space, since we already have kandidat and opstillingskreds in the filename
-        personlige_stemmer = personlige_stemmer.drop(columns=["storkreds", "kandidat_id"])
+        opstillingskreds_id = df_opstillingskreds["opstillingskreds_dagi_id"].iloc[0]
+        personlige_stemmer = udregn_personlige_stemmetal(df_opstillingskreds, valgte_kandidater, "opstillingskreds")
+        personlige_stemmer = personlige_stemmer.drop(columns=["opstillingskreds", "kandidat_id"])
         personlige_stemmer.to_csv(f"data/struktureret/opstillingskredse/personlige_stemmer/{opstillingskreds_id}_{danish_to_ascii_filename(opstillingskreds)}.csv", index=False)
     
     # ----------------------
@@ -241,12 +237,14 @@ if __name__ == "__main__":
         except ValueError as e:
             print(f"Warning: storkreds {storkreds} - {e}")
 
-        stoerste_parti = udregn_stoerste_parti(df_storkreds, "afstemningsområde", "afstemningsområde_dagi_id")
-        stoerste_parti.to_csv(f"data/struktureret/storkredse/kort/{storkreds_id}_{danish_to_ascii_filename(storkreds)}.csv", index=False)
+        if df_storkreds["resultat_art"].isin(["ForeløbigOptælling", "Fintælling"]).all():
+            stoerste_parti = udregn_stoerste_parti(df_storkreds, "afstemningsområde", "afstemningsområde_dagi_id")
+            stoerste_parti.to_csv(f"data/struktureret/storkredse/kort/{storkreds_id}_{danish_to_ascii_filename(storkreds)}.csv", index=False)
     
     for storkreds in resultater_kandidater["storkreds"].unique():
         df_storkreds = resultater_kandidater[resultater_kandidater["storkreds"] == storkreds]
-        personlige_stemmer = udregn_personlige_stemmetal(df_storkreds,valgte_kandidater)
+        storkreds_id = df_storkreds["storkreds_nummer"].iloc[0]
+        personlige_stemmer = udregn_personlige_stemmetal(df_storkreds,valgte_kandidater, "storkreds")
         # drop storkreds and kandidat_id columns to save space, since we already have kandidat and storkreds in the filename
         personlige_stemmer = personlige_stemmer.drop(columns=["storkreds", "kandidat_id"])
         personlige_stemmer.to_csv(f"data/struktureret/storkredse/personlige_stemmer/{storkreds_id}_{danish_to_ascii_filename(storkreds)}.csv", index=False)
@@ -267,7 +265,7 @@ if __name__ == "__main__":
         print(f"Warning: national results - {e}")
 
     # get personlige stemmetal
-    personlige_stemmer = udregn_personlige_stemmetal(resultater_kandidater, valgte_kandidater)
+    personlige_stemmer = udregn_personlige_stemmetal(resultater_kandidater, valgte_kandidater, "storkreds")
     personlige_stemmer.to_csv(f"data/struktureret/nationalt/personlige_stemmer/personlige_stemmer.csv", index=False)
 
 
