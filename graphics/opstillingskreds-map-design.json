@@ -1,0 +1,34 @@
+{
+  "data": {
+    "column-format": {
+      "dagi_id": { "type": "text" },
+      "parti": { "type": "text" }
+    }
+  },
+  "axes": {
+    "keys": "opstillingskreds_dagi_id",
+    "values": "parti"
+  },
+  "visualize": {
+    "map-key-attr": "dagi_id",
+    "colorscale": {
+        "mode": "categorical",
+      "map": {
+        "Venstre": "#0781dd",
+        "Socialdemokratiet": "#f00b2f",
+        "Dansk Folkeparti": "#F6BA00",
+        "Enhedslisten": "#ff7400",
+        "Liberal Alliance": "#48CEF3",
+        "SF": "#F257A9",
+        "Radikale": "#662690",
+        "Konservative": "#06691e",
+        "Alternativet": "#3CE63D",
+        "Kristendemokraterne": "#8B8474",
+        "Nye Borgerlige": "#004E62",
+        "Moderaterne": "#911995",
+        "Frie Grønne": "#eecbc6",
+        "Danmarksdemokraterne": "#0075c9"
+      }
+    }
+  }
+}
