@@ -6,7 +6,7 @@
     }
   },
   "axes": {
-    "keys": "opstillingskreds_dagi_id",
+    "keys": "opstillingskreds",
     "values": "parti"
   },
   "visualize": {
