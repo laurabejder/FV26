@@ -106,7 +106,7 @@ def get_resultater(from_path=FROM_PATH, to_path=TO_PATH, folders=FOLDERS, *_unus
 
     return partier, kandidater
 
-partier, kandidater = get_resultater(FROM_PATH, TO_PATH, FOLDERS, "kv",)
+partier, kandidater = get_resultater(FROM_PATH, TO_PATH)
 
 df_partier = pd.DataFrame(partier)
 df_kandidater = pd.DataFrame(kandidater)
@@ -121,7 +121,7 @@ for df in (df_partier, df_kandidater):
 if df_partier.empty:
     # save an empty dataframe with the correct columns
     df_partier = pd.DataFrame(columns=[
-        "kommune", "kommune_kode", "afstemningsområde", "afstemningsområde_dagi_id",
+        "storkreds_nummer", "storkreds", "opstillingskreds_dagi_id", "opstillingskreds", "afstemningsområde", "afstemningsområde_dagi_id",
         "frigivelsestidspunkt", "godkendelsestidspunkt", "resultat_art",
         "total_gyldige_stemmer", "total_afgivne_stemmer",
         "parti", "parti_id", "parti_bogstav", "stemmer", "listestemmer",
@@ -136,7 +136,7 @@ df_partier.to_csv(outdir / "resultater_partier.csv", index=False)
 if df_kandidater.empty:
     # save an empty dataframe with the correct columns
     df_kandidater = pd.DataFrame(columns=[
-        "kommune", "kommune_kode", "afstemningsområde", "afstemningsområde_dagi_id",
+        "storkreds_nummer", "storkreds", "opstillingskreds_dagi_id", "opstillingskreds", "afstemningsområde", "afstemningsområde_dagi_id",
         "frigivelsestidspunkt", "godkendelsestidspunkt", "resultat_art",
         "total_gyldige_stemmer", "total_afgivne_stemmer",
         "kandidat", "kandidat_id", "parti", "parti_id", "parti_bogstav", "stemmer"

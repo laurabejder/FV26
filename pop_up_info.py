@@ -30,6 +30,5 @@ party_colors = {
     "M":  "#911995",
     "FG": "#eecbc6",
     "DD": "#0075c9",
-    # add more if needed: "SP", "T", etc.
 }
 
