@@ -307,12 +307,12 @@ if __name__ == "__main__":
                 index=[geo_id, geo, "største_parti"],
                 columns="bogstav",
                 values="procent_26",
-                aggfunc="max",   # or "mean" / "max" etc.
+                aggfunc="max",
             )
             .reset_index()
         )
         # filter nat_resultater to the storkredse in optalte_storkredse
-        nat_resultater = nat_resultater[nat_resultater[geo].isin(optalte_kredse.index[optalte_kredse])]
+        #nat_resultater = nat_resultater[nat_resultater[geo].isin(optalte_kredse.index[optalte_kredse])]
 
         # rename største parti column to parti
         nat_resultater = nat_resultater.rename(columns={"største_parti": "parti"})
