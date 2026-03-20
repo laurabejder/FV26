@@ -3,7 +3,7 @@ from pathlib import Path
 import pandas as pd
 from config import PARTIER_INFO
 
-from pop_up_info import largest_party_colors, party_colors
+from pop_up_info import largest_party_colors, party_colors, generate_popups
 
 # pop ups!
 
@@ -317,6 +317,9 @@ if __name__ == "__main__":
         # rename største parti column to parti
         nat_resultater = nat_resultater.rename(columns={"største_parti": "parti"})
 
+        # generate pop_up
+        nat_resultater = generate_popups(nat_resultater, geo)
+        print(nat_resultater.head())
 
         return nat_resultater
     
