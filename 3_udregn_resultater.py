@@ -95,7 +95,6 @@ def udregn_procenter(df: pd.DataFrame, resultater_2022: pd.DataFrame) -> pd.Data
 
     # Udregn procentfordelingen og afrund til et decimal
     df["procent_26"] = round((df["stemmer"] / total_gyldige_stemmer * 100), 1)
-    print(df)
 
     # # Tjek om procenterne summerer til 100. Hvis ikke: skrig!
     # procent_sum = df["procent_26"].sum()
