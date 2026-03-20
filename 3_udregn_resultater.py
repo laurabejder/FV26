@@ -80,17 +80,22 @@ def udregn_procenter(df: pd.DataFrame, resultater_2022: pd.DataFrame) -> pd.Data
     """Udregn procentfordeling af stemmer for hver parti i hver opstillingskreds."""
     df = df.copy()
 
-    total_gyldige_stemmer = df.groupby("afstemningsområde_dagi_id")["total_gyldige_stemmer"].first().sum() # Find det samlede antal gyldige stemmer for hele opstillingskredsen ved at tage det første (og samme) antal gyldige stemmer for hvert afstemningsområde og summere dem
-    df = (df
-        .groupby("parti")
-        .agg({
-            "stemmer": "sum",
-            "total_gyldige_stemmer": lambda x: total_gyldige_stemmer
-        })
-        .reset_index()
-        )
+    # Filter out rows with no results to avoid division by zero
+    df = df[df["resultat_art"] != "IngenResultater"]
 
-    df["procent_26"] = round((df["stemmer"] / df["total_gyldige_stemmer"]) * 100, 1) # Udregn procentfordelingen og afrund til et decimal
+    if df.empty:
+        return pd.DataFrame(columns=["parti_bogstav", "parti", "procent_26", "procent_22"])
+
+    total_gyldige_stemmer = df.groupby("afstemningsområde_dagi_id")["total_gyldige_stemmer"].first().sum()
+
+    if total_gyldige_stemmer == 0:
+        return pd.DataFrame(columns=["parti_bogstav", "parti", "procent_26", "procent_22"])
+    
+    df = df.groupby(["parti_bogstav", "parti"]).agg({"stemmer": "sum", "total_gyldige_stemmer": "first"}).reset_index()
+
+    # Udregn procentfordelingen og afrund til et decimal
+    df["procent_26"] = round((df["stemmer"] / total_gyldige_stemmer * 100), 1)
+    print(df)
 
     # # Tjek om procenterne summerer til 100. Hvis ikke: skrig!
     # procent_sum = df["procent_26"].sum()
@@ -308,7 +313,7 @@ if __name__ == "__main__":
             .reset_index()
         )
         # filter nat_resultater to the storkredse in optalte_storkredse
-        #nat_resultater = nat_resultater[nat_resultater[geo].isin(optalte_kredse.index[optalte_kredse])]
+        nat_resultater = nat_resultater[nat_resultater[geo].isin(optalte_kredse.index[optalte_kredse])]
 
         # rename største parti column to parti
         nat_resultater = nat_resultater.rename(columns={"største_parti": "parti"})
@@ -323,4 +328,4 @@ if __name__ == "__main__":
 
 
 
-    
+
