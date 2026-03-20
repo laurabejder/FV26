@@ -1,9 +1,9 @@
-name: pull_data
+name: udregn_resultater
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: '*/5 * * * *'
+    - cron: '*/10 * * * *'
 
 jobs:
   daily:
