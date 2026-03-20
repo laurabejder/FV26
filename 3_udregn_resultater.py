@@ -214,7 +214,8 @@ if __name__ == "__main__":
 
         if df_opstillingskreds["resultat_art"].isin(["ForeløbigOptælling", "Fintælling"]).all():
             stoerste_parti = udregn_stoerste_parti(df_opstillingskreds, "afstemningsområde", "afstemningsområde_dagi_id")
-            stoerste_parti.to_csv(f"data/struktureret/opstillingskredse/kort/{opstillingskreds_id}_{danish_to_ascii_filename(opstillingskreds)}.csv", index=False)
+            stoerste_parti = generate_popups(stoerste_parti, "afstemningsområde")
+            stoerste_parti.to_csv(f"data/struktureret/opstillingskredse/kort/{opstillingskreds_id}_{danish_to_ascii_filename(opstillingskreds)}.csv", index=False, sep=";")
 
     for opstillingskreds in resultater_kandidater["opstillingskreds"].unique():
         df_opstillingskreds = resultater_kandidater[resultater_kandidater["opstillingskreds"] == opstillingskreds]
@@ -243,7 +244,8 @@ if __name__ == "__main__":
 
         if df_storkreds["resultat_art"].isin(["ForeløbigOptælling", "Fintælling"]).all():
             stoerste_parti = udregn_stoerste_parti(df_storkreds, "afstemningsområde", "afstemningsområde_dagi_id")
-            stoerste_parti.to_csv(f"data/struktureret/storkredse/kort/{storkreds_id}_{danish_to_ascii_filename(storkreds)}.csv", index=False)
+            stoerste_parti = generate_popups(stoerste_parti, "afstemningsområde")
+            stoerste_parti.to_csv(f"data/struktureret/storkredse/kort/{storkreds_id}_{danish_to_ascii_filename(storkreds)}.csv", index=False, sep=";")
     
     for storkreds in resultater_kandidater["storkreds"].unique():
         df_storkreds = resultater_kandidater[resultater_kandidater["storkreds"] == storkreds]
