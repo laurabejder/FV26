@@ -1,1 +1,52 @@
+name: pull_data
 
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '*/5 * * * *'
+
+jobs:
+  daily:
+    runs-on: self-hosted
+
+    steps:
+    - name: Check out this repo
+      uses: actions/checkout@v4
+      with:
+        fetch-depth: 0
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.13'
+
+    - name: Install all necessary packages
+      run: pip install pandas paramiko numpy
+
+    - name: Show working directory and contents
+      run: |
+        pwd
+        ls -al
+
+    - name: Show NumPy import path
+      run: |
+        python3 -c "import numpy; print('NumPy is being imported from:', numpy.__file__)"
+
+    - name: Scraping the data
+      run: python 01_hent_data.py
+
+    - name: Commit and push any changes
+      run: |
+        git config user.name "Automated"
+        git config user.email "actions@users.noreply.github.com"
+        git config pull.rebase true
+
+        git add -A
+        timestamp=$(date -u)
+        git commit -m "Latest data: ${timestamp}" || exit 0
+
+        # Make sure we're up to date with origin/main
+        git pull origin main
+
+        # Push our rebased commit(s)
+        git push origin HEAD:main
