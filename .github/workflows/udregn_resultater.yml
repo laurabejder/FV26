@@ -7,7 +7,7 @@ on:
 
 jobs:
   daily:
-    runs-on: self-hosted
+    runs-on: ubuntu-latest
 
     steps:
     - name: Check out this repo
@@ -33,7 +33,7 @@ jobs:
         python3 -c "import numpy; print('NumPy is being imported from:', numpy.__file__)"
 
     - name: Scraping the data
-      run: python 01_hent_data.py
+      run: python 3_udregn_resultater.py
 
     - name: Commit and push any changes
       run: |
