@@ -92,7 +92,10 @@ def make_popup(row, geo, default_color, party_columns):
     rows.sort(key=lambda x: x[0], reverse=True)
 
     body = "<br>".join(line for _, line in rows)
-    return header + body
+
+    pop_up = str(header + body)
+
+    return pop_up
 
 
 def generate_popups(df, geo):

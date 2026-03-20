@@ -319,14 +319,15 @@ if __name__ == "__main__":
 
         # generate pop_up
         nat_resultater = generate_popups(nat_resultater, geo)
-        print(nat_resultater.head())
+        #turn pop up into a string to avoid issues with special characters when saving as csv
+        nat_resultater["popup"] = nat_resultater["popup"].astype(str)
 
         return nat_resultater
     
     storkredse_stoerste_parti = nationalt_stoerste_parti(resultater_partier, "storkreds_nummer", "storkreds")
-    storkredse_stoerste_parti.to_csv(f"data/struktureret/nationalt/kort/storkredse_stoerste_parti.csv", index=False)
+    storkredse_stoerste_parti.to_csv(f"data/struktureret/nationalt/kort/storkredse_stoerste_parti.csv", index=False, sep=";")
     opstillingskredse_stoerste_parti = nationalt_stoerste_parti(resultater_partier, "opstillingskreds_dagi_id", "opstillingskreds")
-    opstillingskredse_stoerste_parti.to_csv(f"data/struktureret/nationalt/kort/opstillingskredse_stoerste_parti.csv", index=False)
+    opstillingskredse_stoerste_parti.to_csv(f"data/struktureret/nationalt/kort/opstillingskredse_stoerste_parti.csv", index=False, sep=";")
 
 
 
