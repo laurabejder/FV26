@@ -308,7 +308,7 @@ if __name__ == "__main__":
             .reset_index()
         )
         # filter nat_resultater to the storkredse in optalte_storkredse
-        nat_resultater = nat_resultater[nat_resultater[geo].isin(optalte_kredse.index[optalte_kredse])]
+        #nat_resultater = nat_resultater[nat_resultater[geo].isin(optalte_kredse.index[optalte_kredse])]
 
         # rename største parti column to parti
         nat_resultater = nat_resultater.rename(columns={"største_parti": "parti"})

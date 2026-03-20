@@ -918,7 +918,9 @@ storkreds_nummer,storkreds,opstillingskreds_dagi_id,opstillingskreds,afstemnings
 7,Sydjylland,403624,Esbjerg Omegn,705174,Skads,2026-03-17 20:47:58,,IngenResultater,0,0,,0,0,0,,
 2,Københavns Omegn,403571,Gladsaxe,706944,Værebro,2026-03-17 20:47:58,,IngenResultater,0,0,,0,0,0,,
 5,Sjælland,403631,Kalundborg,708820,Højby,2026-03-17 20:47:58,,IngenResultater,0,0,,0,0,0,,
-1,København,403565,Sundbyvester,706166,2. Nord,2026-03-17 20:47:58,,IngenResultater,0,0,,0,0,0,,
+1,København,1,Østerbro,706166,2. Nord,2026-02-26 17:23:15,,Fintælling,36188,36437,Venstre,18094,0,-4,a9cd1471-ae0d-4f46-acb6-de60bb6de3a5,V
+1,København,1,Østerbro,706166,2. Nord,2026-02-26 17:23:15,,Fintælling,36188,36437,Socialdemokratiet,18094,0,-4,d7fdb0a7-ee13-4092-aeae-7c09cafd22e5,A
+1,København,1,Østerbro,706166,2. Nord,2026-02-26 17:23:15,,Fintælling,36188,36437,Udenfor parti,52,0,0,,UP
 1,København,403567,Nørrebro,710832,5. Vest,2026-03-17 20:47:58,,IngenResultater,0,0,,0,0,0,,
 7,Sydjylland,403640,Vejle Syd,705620,CSV - Vejle Syd,2026-03-17 20:47:58,,IngenResultater,0,0,,0,0,0,,
 9,Vestjylland,403579,Holstebro,703338,Mejrup,2026-03-17 20:47:58,,IngenResultater,0,0,,0,0,0,,
