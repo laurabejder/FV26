@@ -103,7 +103,9 @@ def udregn_procenter(df: pd.DataFrame, resultater_2022: pd.DataFrame) -> pd.Data
     # elif not (99.9 <= procent_sum <= 100.1):
     #     raise ValueError(f"Procenterne summerer ikke til 100% (summerer til {procent_sum:.2f}%)")
 
-    df["parti_bogstav"] = df["parti"].map({p["navn"]: p["bogstav"] for p in partier_info}).fillna(df["parti"]) # Standardiser partinavne og -bogstaver
+    # replace parti_bogstav with is listebogstav in partier_info with bogstav, if it exists, otherwise keep the original value
+    df["parti_bogstav"] = df["parti_bogstav"].map({p["listebogstav"]: p["bogstav"] for p in partier_info}).fillna(df["parti_bogstav"])
+    df['parti'] = df['parti_bogstav'].map({p["bogstav"]: p["navn"] for p in partier_info}).fillna(df['parti']) # Standardiser partinavne og -bogstaver
 
     # Join med 2022-resultaterne for at kunne sammenligne og udregne forskelle i procenter mellem de to valg
     df = df.merge(
@@ -314,7 +316,7 @@ if __name__ == "__main__":
             .reset_index()
         )
         # filter nat_resultater to the storkredse in optalte_storkredse
-        #nat_resultater = nat_resultater[nat_resultater[geo].isin(optalte_kredse.index[optalte_kredse])]
+        nat_resultater = nat_resultater[nat_resultater[geo].isin(optalte_kredse.index[optalte_kredse])]
 
         # rename største parti column to parti
         nat_resultater = nat_resultater.rename(columns={"største_parti": "parti"})

@@ -108,6 +108,7 @@ def get_resultater(from_path=FROM_PATH, to_path=TO_PATH, folders=FOLDERS, *_unus
 
 partier, kandidater = get_resultater(FROM_PATH, TO_PATH)
 
+
 df_partier = pd.DataFrame(partier)
 df_kandidater = pd.DataFrame(kandidater)
 
