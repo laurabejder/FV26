@@ -19,6 +19,7 @@ storkreds_nummer,storkreds,opstillingskreds_dagi_id,opstillingskreds,afstemnings
 1,København,403568,Bispebjerg,706172,6. Øst,2026-03-24 20:49:36,,ForeløbigOptælling,3122,3160,Rashid Ali,c8f38fd1-fccc-48f9-b9e3-abd36a14a6e7,Udenfor parti,,UP,0
 9,Vestjylland,403580,Ringkøbing,706568,Tim,2026-03-24 20:06:46,,ForeløbigOptælling,1329,1347,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,1
 9,Vestjylland,403605,Silkeborg Nord,711254,Lemming,2026-03-24 20:52:07,,ForeløbigOptælling,1362,1382,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,3
+8,Østjylland,403608,Aarhus Vest,711422,"Næshøjhallen, Harlev",2026-03-24 21:43:13,,ForeløbigOptælling,3052,3090,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,1
 9,Vestjylland,403589,Herning Nord,710958,Timring,2026-03-24 20:00:16,,ForeløbigOptælling,752,769,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,2
 9,Vestjylland,403589,Herning Nord,709528,Tjørring,2026-03-24 21:09:39,,ForeløbigOptælling,4170,4238,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,4
 8,Østjylland,403581,Hedensted,749380,Hvirring,2026-03-24 19:40:16,,ForeløbigOptælling,307,313,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
@@ -42,6 +43,7 @@ storkreds_nummer,storkreds,opstillingskreds_dagi_id,opstillingskreds,afstemnings
 9,Vestjylland,403580,Ringkøbing,748671,Hemmet,2026-03-24 19:54:00,,ForeløbigOptælling,1239,1259,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,1
 8,Østjylland,403578,Horsens,706240,Endelave,2026-03-24 19:39:31,,ForeløbigOptælling,124,126,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
 8,Østjylland,403587,Aarhus Syd,703936,"Kragelundskolen, Højbjerg",2026-03-24 20:33:21,,ForeløbigOptælling,3681,3712,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
+8,Østjylland,403585,Skanderborg,709406,Odder,2026-03-24 21:42:28,,ForeløbigOptælling,9124,9253,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,1
 9,Vestjylland,403588,Struer,701882,Harboøre,2026-03-24 20:39:50,,ForeløbigOptælling,1048,1055,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,0
 8,Østjylland,403578,Horsens,712056,Tønning-Træden,2026-03-24 20:00:47,,ForeløbigOptælling,466,473,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
 1,København,403573,Indre By,709378,3. Nord,2026-03-24 20:45:21,,ForeløbigOptælling,5787,5825,Rasmus Paludan,1d7d5b81-c920-4131-97a1-4483eaba71f5,Udenfor parti,,UP,5
@@ -54,9 +56,100 @@ storkreds_nummer,storkreds,opstillingskreds_dagi_id,opstillingskreds,afstemnings
 9,Vestjylland,403606,Silkeborg Syd,700802,Bryrup,2026-03-24 20:53:37,,ForeløbigOptælling,1431,1447,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,1
 9,Vestjylland,403606,Silkeborg Syd,706686,Buskelund,2026-03-24 20:43:36,,ForeløbigOptælling,3469,3511,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,0
 9,Vestjylland,403588,Struer,711302,Struer,2026-03-24 20:37:21,,ForeløbigOptælling,4667,4734,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,1
-9,Vestjylland,403600,Ikast,705552,Bording,2026-03-24 20:43:21,,ForeløbigOptælling,2206,2240,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,1
+9,Vestjylland,403600,Ikast,705552,Bording,2026-03-24 21:38:28,,Fintælling,2206,2240,Nils Brøgger,f41f00b8-4ad7-4d89-8444-5538106ec1ee,SF - Socialistisk Folkeparti,fae32292-ff8f-4f27-8218-a9874603e759,F,2
+9,Vestjylland,403600,Ikast,705552,Bording,2026-03-24 21:38:28,,Fintælling,2206,2240,Bente Refslund,ee0724db-8822-4b23-923e-43194c123775,SF - Socialistisk Folkeparti,fae32292-ff8f-4f27-8218-a9874603e759,F,1
+9,Vestjylland,403600,Ikast,705552,Bording,2026-03-24 21:38:28,,Fintælling,2206,2240,Emma Thorup Jacobsen,db93fffd-5965-47d0-967b-a74cf4acde40,SF - Socialistisk Folkeparti,fae32292-ff8f-4f27-8218-a9874603e759,F,9
+9,Vestjylland,403600,Ikast,705552,Bording,2026-03-24 21:38:28,,Fintælling,2206,2240,Anders Bøge,40b68406-806d-45c8-9456-22c3e576bad1,SF - Socialistisk Folkeparti,fae32292-ff8f-4f27-8218-a9874603e759,F,2
+9,Vestjylland,403600,Ikast,705552,Bording,2026-03-24 21:38:28,,Fintælling,2206,2240,Niels Kristian Larsen,515ccb36-bd6f-44c2-a5ff-26783a1ac09f,SF - Socialistisk Folkeparti,fae32292-ff8f-4f27-8218-a9874603e759,F,0
+9,Vestjylland,403600,Ikast,705552,Bording,2026-03-24 21:38:28,,Fintælling,2206,2240,Signe Munk,a98dd01e-544b-4602-a69c-317ef6458949,SF - Socialistisk Folkeparti,fae32292-ff8f-4f27-8218-a9874603e759,F,37
+9,Vestjylland,403600,Ikast,705552,Bording,2026-03-24 21:38:28,,Fintælling,2206,2240,Marcus Juul Grønbæk,a06d6c16-6951-493a-a7f6-30aa4dae05c2,Danmarksdemokraterne - Inger Støjberg,ffacb8b3-7f7b-4158-a1ee-c0be84a344c6,Æ,6
+9,Vestjylland,403600,Ikast,705552,Bording,2026-03-24 21:38:28,,Fintælling,2206,2240,Vivi Altenburg,6c381713-81de-4333-a98f-db149c6356e3,Danmarksdemokraterne - Inger Støjberg,ffacb8b3-7f7b-4158-a1ee-c0be84a344c6,Æ,2
+9,Vestjylland,403600,Ikast,705552,Bording,2026-03-24 21:38:28,,Fintælling,2206,2240,Betina Kastbjerg,54539d96-13fe-491c-9dc1-0015e0689595,Danmarksdemokraterne - Inger Støjberg,ffacb8b3-7f7b-4158-a1ee-c0be84a344c6,Æ,24
+9,Vestjylland,403600,Ikast,705552,Bording,2026-03-24 21:38:28,,Fintælling,2206,2240,Mads Fuglede,5a320bc6-5e84-4ed4-baf5-4a8edf1daee8,Danmarksdemokraterne - Inger Støjberg,ffacb8b3-7f7b-4158-a1ee-c0be84a344c6,Æ,24
+9,Vestjylland,403600,Ikast,705552,Bording,2026-03-24 21:38:28,,Fintælling,2206,2240,Morten Vehl Revsbeck,fb2094c0-b120-4918-808b-106d7b57166e,Danmarksdemokraterne - Inger Støjberg,ffacb8b3-7f7b-4158-a1ee-c0be84a344c6,Æ,1
+9,Vestjylland,403600,Ikast,705552,Bording,2026-03-24 21:38:28,,Fintælling,2206,2240,Dennis Flydtkjær,983f20f5-d4ef-458b-ac5a-14e0a939409f,Danmarksdemokraterne - Inger Støjberg,ffacb8b3-7f7b-4158-a1ee-c0be84a344c6,Æ,46
+9,Vestjylland,403600,Ikast,705552,Bording,2026-03-24 21:38:28,,Fintælling,2206,2240,Mogens Jensen,4cbc21b7-235b-4095-b186-a2941868e363,Socialdemokratiet,2f487db9-0663-429f-a4ec-081ae701723d,A,56
+9,Vestjylland,403600,Ikast,705552,Bording,2026-03-24 21:38:28,,Fintælling,2206,2240,Anders Andreasen,23693ef6-b15b-4a44-837d-ade87e2d1f14,Socialdemokratiet,2f487db9-0663-429f-a4ec-081ae701723d,A,7
+9,Vestjylland,403600,Ikast,705552,Bording,2026-03-24 21:38:28,,Fintælling,2206,2240,Vinnie Borbjerg,7ca6cb0e-bbd5-493a-bfd1-b918bfa4690e,Socialdemokratiet,2f487db9-0663-429f-a4ec-081ae701723d,A,7
+9,Vestjylland,403600,Ikast,705552,Bording,2026-03-24 21:38:28,,Fintælling,2206,2240,Per Kamp Stefansen,f8bdfe70-98f6-49ae-952c-712447884317,Socialdemokratiet,2f487db9-0663-429f-a4ec-081ae701723d,A,0
+9,Vestjylland,403600,Ikast,705552,Bording,2026-03-24 21:38:28,,Fintælling,2206,2240,Eva Borchorst Mejnertz,4ea11064-72e2-47eb-925f-11af9d7a0938,Socialdemokratiet,2f487db9-0663-429f-a4ec-081ae701723d,A,5
+9,Vestjylland,403600,Ikast,705552,Bording,2026-03-24 21:38:28,,Fintælling,2206,2240,Anne Paulin,58eb4bf0-ef7f-4cd8-aed3-a83d8f560c6b,Socialdemokratiet,2f487db9-0663-429f-a4ec-081ae701723d,A,107
+9,Vestjylland,403600,Ikast,705552,Bording,2026-03-24 21:38:28,,Fintælling,2206,2240,Katrine Evelyn Jensen,e871e64d-a349-4b2a-a253-fe11c405b7b5,Socialdemokratiet,2f487db9-0663-429f-a4ec-081ae701723d,A,4
+9,Vestjylland,403600,Ikast,705552,Bording,2026-03-24 21:38:28,,Fintælling,2206,2240,Lars Fibæk,9b7e98d9-c815-4857-9a65-85dc304a0730,Socialdemokratiet,2f487db9-0663-429f-a4ec-081ae701723d,A,0
+9,Vestjylland,403600,Ikast,705552,Bording,2026-03-24 21:38:28,,Fintælling,2206,2240,Lise Jørgensen,e0c8af5d-b7ec-4a45-b4b2-b80f3645edca,Socialdemokratiet,2f487db9-0663-429f-a4ec-081ae701723d,A,3
+9,Vestjylland,403600,Ikast,705552,Bording,2026-03-24 21:38:28,,Fintælling,2206,2240,Kasper B.G. Lauritsen,5265cc3e-6930-48a9-8f1c-70eda1573941,Socialdemokratiet,2f487db9-0663-429f-a4ec-081ae701723d,A,5
+9,Vestjylland,403600,Ikast,705552,Bording,2026-03-24 21:38:28,,Fintælling,2206,2240,Peter Kempf Pedersen,e08caf0b-7d06-4158-98de-16203f1f9179,Socialdemokratiet,2f487db9-0663-429f-a4ec-081ae701723d,A,2
+9,Vestjylland,403600,Ikast,705552,Bording,2026-03-24 21:38:28,,Fintælling,2206,2240,Henning Bo Madsen,bb02d58b-00b7-4e41-a757-887e5f20f727,Enhedslisten - De Rød-Grønne,8bb64864-5728-41db-af00-6234795cf340,Ø,0
+9,Vestjylland,403600,Ikast,705552,Bording,2026-03-24 21:38:28,,Fintælling,2206,2240,Damian Hartvig Mathiesen,75eb4592-a4fc-473e-8eca-df3d2b340ea7,Enhedslisten - De Rød-Grønne,8bb64864-5728-41db-af00-6234795cf340,Ø,0
+9,Vestjylland,403600,Ikast,705552,Bording,2026-03-24 21:38:28,,Fintælling,2206,2240,Christian Juhl,fce7117e-5a83-489d-b401-a03d6d878e52,Enhedslisten - De Rød-Grønne,8bb64864-5728-41db-af00-6234795cf340,Ø,1
+9,Vestjylland,403600,Ikast,705552,Bording,2026-03-24 21:38:28,,Fintælling,2206,2240,Stine Ry Andersen,48f76b8f-5ab9-482e-bb96-fecd7d1625ff,Enhedslisten - De Rød-Grønne,8bb64864-5728-41db-af00-6234795cf340,Ø,4
+9,Vestjylland,403600,Ikast,705552,Bording,2026-03-24 21:38:28,,Fintælling,2206,2240,Lisbeth Torfing,fa86bf28-15b3-483b-8537-8a087ffa604f,Enhedslisten - De Rød-Grønne,8bb64864-5728-41db-af00-6234795cf340,Ø,2
+9,Vestjylland,403600,Ikast,705552,Bording,2026-03-24 21:38:28,,Fintælling,2206,2240,Aksel Rosager Johansen,265e0201-e9cd-4c27-a6bf-5a83b033a844,Enhedslisten - De Rød-Grønne,8bb64864-5728-41db-af00-6234795cf340,Ø,0
+9,Vestjylland,403600,Ikast,705552,Bording,2026-03-24 21:38:28,,Fintælling,2206,2240,Henning Lindberg,973700f4-0991-4232-beb2-85e9fcceba3f,Enhedslisten - De Rød-Grønne,8bb64864-5728-41db-af00-6234795cf340,Ø,4
+9,Vestjylland,403600,Ikast,705552,Bording,2026-03-24 21:38:28,,Fintælling,2206,2240,Lars Dohn,12670412-0e43-48d4-b741-5e9cc8b616be,Enhedslisten - De Rød-Grønne,8bb64864-5728-41db-af00-6234795cf340,Ø,0
+9,Vestjylland,403600,Ikast,705552,Bording,2026-03-24 21:38:28,,Fintælling,2206,2240,Jacob Abildgaard,12103602-539a-426d-a678-b9bd71f05352,Enhedslisten - De Rød-Grønne,8bb64864-5728-41db-af00-6234795cf340,Ø,0
+9,Vestjylland,403600,Ikast,705552,Bording,2026-03-24 21:38:28,,Fintælling,2206,2240,Frederik Houmann Thuesen,bf90719a-07e3-4649-b5cc-bdd0d08e7dfc,"Venstre, Danmarks Liberale Parti",914ae6fd-98a6-4ed6-afd1-60ab809678ed,V,0
+9,Vestjylland,403600,Ikast,705552,Bording,2026-03-24 21:38:28,,Fintælling,2206,2240,Thomas Danielsen,481ba70a-f4e5-4f2c-9a3f-503d76d9808e,"Venstre, Danmarks Liberale Parti",914ae6fd-98a6-4ed6-afd1-60ab809678ed,V,29
+9,Vestjylland,403600,Ikast,705552,Bording,2026-03-24 21:38:28,,Fintælling,2206,2240,Gert Bækgaard,79ba0566-8942-46c9-ab81-ea6d15ba5e46,"Venstre, Danmarks Liberale Parti",914ae6fd-98a6-4ed6-afd1-60ab809678ed,V,5
+9,Vestjylland,403600,Ikast,705552,Bording,2026-03-24 21:38:28,,Fintælling,2206,2240,Ralf Høgedal,dc2f7323-0ffa-466c-ab67-4aa800636b32,"Venstre, Danmarks Liberale Parti",914ae6fd-98a6-4ed6-afd1-60ab809678ed,V,2
+9,Vestjylland,403600,Ikast,705552,Bording,2026-03-24 21:38:28,,Fintælling,2206,2240,Erik Flyvholm,273731fd-a5be-44fb-9620-eaa64e269629,"Venstre, Danmarks Liberale Parti",914ae6fd-98a6-4ed6-afd1-60ab809678ed,V,6
+9,Vestjylland,403600,Ikast,705552,Bording,2026-03-24 21:38:28,,Fintælling,2206,2240,Søren Gade,d00455b5-1534-4bbf-8feb-b0c30a0c3a16,"Venstre, Danmarks Liberale Parti",914ae6fd-98a6-4ed6-afd1-60ab809678ed,V,169
+9,Vestjylland,403600,Ikast,705552,Bording,2026-03-24 21:38:28,,Fintælling,2206,2240,Trine Jepsen,c47282d9-85b8-4d2f-8446-72d6264eb199,"Venstre, Danmarks Liberale Parti",914ae6fd-98a6-4ed6-afd1-60ab809678ed,V,72
+9,Vestjylland,403600,Ikast,705552,Bording,2026-03-24 21:38:28,,Fintælling,2206,2240,Morten Høgh,29b36daa-522a-4ecd-bc06-8b6a882fb66a,"Venstre, Danmarks Liberale Parti",914ae6fd-98a6-4ed6-afd1-60ab809678ed,V,1
+9,Vestjylland,403600,Ikast,705552,Bording,2026-03-24 21:38:28,,Fintælling,2206,2240,Majbrit Nørgaard,175af4b1-36c2-4107-95e5-ec20947d835f,"Venstre, Danmarks Liberale Parti",914ae6fd-98a6-4ed6-afd1-60ab809678ed,V,0
+9,Vestjylland,403600,Ikast,705552,Bording,2026-03-24 21:38:28,,Fintælling,2206,2240,Kasper Thomassen,62700152-0a05-4a56-909a-94f741fab2c4,"Venstre, Danmarks Liberale Parti",914ae6fd-98a6-4ed6-afd1-60ab809678ed,V,0
+9,Vestjylland,403600,Ikast,705552,Bording,2026-03-24 21:38:28,,Fintælling,2206,2240,Jarl Matthiesen,df73e4f3-deac-427d-969a-488692b21806,"Venstre, Danmarks Liberale Parti",914ae6fd-98a6-4ed6-afd1-60ab809678ed,V,6
+9,Vestjylland,403600,Ikast,705552,Bording,2026-03-24 21:38:28,,Fintælling,2206,2240,Lennart Qvist,9f59fefe-14b0-4dd3-8e1d-1b81d569e6fb,Det Konservative Folkeparti,2e08413e-1c5b-4029-8bce-eac0ebff6527,C,2
+9,Vestjylland,403600,Ikast,705552,Bording,2026-03-24 21:38:28,,Fintælling,2206,2240,Gorm Hoff Lauridsen,7099ac80-88aa-40ff-97dd-b44e5f590a16,Det Konservative Folkeparti,2e08413e-1c5b-4029-8bce-eac0ebff6527,C,2
+9,Vestjylland,403600,Ikast,705552,Bording,2026-03-24 21:38:28,,Fintælling,2206,2240,Jørgen Christian Pedersen,74925d26-0c52-452d-af82-a44c680224bb,Det Konservative Folkeparti,2e08413e-1c5b-4029-8bce-eac0ebff6527,C,0
+9,Vestjylland,403600,Ikast,705552,Bording,2026-03-24 21:38:28,,Fintælling,2206,2240,Lau Sørensen,1e5483ca-a7a6-4977-8d1a-62b0b368c937,Det Konservative Folkeparti,2e08413e-1c5b-4029-8bce-eac0ebff6527,C,0
+9,Vestjylland,403600,Ikast,705552,Bording,2026-03-24 21:38:28,,Fintælling,2206,2240,Nicklas Verne,4608a387-3568-44fe-b63f-d1801c014ed8,Det Konservative Folkeparti,2e08413e-1c5b-4029-8bce-eac0ebff6527,C,1
+9,Vestjylland,403600,Ikast,705552,Bording,2026-03-24 21:38:28,,Fintælling,2206,2240,Siff Tang Lassen,2a0cf1fc-93c2-4644-8673-534088a7cd80,Det Konservative Folkeparti,2e08413e-1c5b-4029-8bce-eac0ebff6527,C,0
+9,Vestjylland,403600,Ikast,705552,Bording,2026-03-24 21:38:28,,Fintælling,2206,2240,Michael Grove,50f7ba6e-9190-4d51-8d59-6b8bdb7822cd,Det Konservative Folkeparti,2e08413e-1c5b-4029-8bce-eac0ebff6527,C,0
+9,Vestjylland,403600,Ikast,705552,Bording,2026-03-24 21:38:28,,Fintælling,2206,2240,Dina Andersen-Raabjerg,8ceb47a1-19c5-4bc3-8d5c-99a5aef22bce,Det Konservative Folkeparti,2e08413e-1c5b-4029-8bce-eac0ebff6527,C,83
+9,Vestjylland,403600,Ikast,705552,Bording,2026-03-24 21:38:28,,Fintælling,2206,2240,Simon Højer,5fa0669e-c81f-40f0-8bd3-dac273e0ffe5,Det Konservative Folkeparti,2e08413e-1c5b-4029-8bce-eac0ebff6527,C,1
+9,Vestjylland,403600,Ikast,705552,Bording,2026-03-24 21:38:28,,Fintælling,2206,2240,Lise Bertelsen,bb74bfb0-40c9-495c-a0e5-43d57bc5459f,Det Konservative Folkeparti,2e08413e-1c5b-4029-8bce-eac0ebff6527,C,4
+9,Vestjylland,403600,Ikast,705552,Bording,2026-03-24 21:38:28,,Fintælling,2206,2240,Marianne Karlsmose,0966b1f6-81bb-4dea-8a91-1663f0ee7ad7,Det Konservative Folkeparti,2e08413e-1c5b-4029-8bce-eac0ebff6527,C,13
+9,Vestjylland,403600,Ikast,705552,Bording,2026-03-24 21:38:28,,Fintælling,2206,2240,Peter Bilgrav,4d53c22a-3d3c-475f-b177-38001b0d16c3,Alternativet,c01e1c81-e8eb-4f3d-ac55-de9279740a0e,Å,0
+9,Vestjylland,403600,Ikast,705552,Bording,2026-03-24 21:38:28,,Fintælling,2206,2240,Lina Sikora Christiansen,1f740670-abd7-4a5b-88a6-701bda7fe166,Alternativet,c01e1c81-e8eb-4f3d-ac55-de9279740a0e,Å,0
+9,Vestjylland,403600,Ikast,705552,Bording,2026-03-24 21:38:28,,Fintælling,2206,2240,Didde Krabbe Johannesen,1598387b-eb27-44e2-a2ba-22a97904418e,Alternativet,c01e1c81-e8eb-4f3d-ac55-de9279740a0e,Å,0
+9,Vestjylland,403600,Ikast,705552,Bording,2026-03-24 21:38:28,,Fintælling,2206,2240,Nicklas Stampe Raabjerg,a5bc11f3-5367-4488-9aec-dd8d09e41865,Alternativet,c01e1c81-e8eb-4f3d-ac55-de9279740a0e,Å,0
+9,Vestjylland,403600,Ikast,705552,Bording,2026-03-24 21:38:28,,Fintælling,2206,2240,Signe Sofie Larsen,349e36ad-c6ae-4b0d-9709-b70ca3f387f2,Alternativet,c01e1c81-e8eb-4f3d-ac55-de9279740a0e,Å,2
+9,Vestjylland,403600,Ikast,705552,Bording,2026-03-24 21:38:28,,Fintælling,2206,2240,Steffen Tolstrup,8ed24cf5-72d5-4d8a-91d1-4211fd66af17,Alternativet,c01e1c81-e8eb-4f3d-ac55-de9279740a0e,Å,1
+9,Vestjylland,403600,Ikast,705552,Bording,2026-03-24 21:38:28,,Fintælling,2206,2240,Michelle Sundahl,3993934b-54a8-45a6-8453-10c751317691,Dansk Folkeparti,1df39501-e08d-42e9-9804-eccf7b1f564a,O,7
+9,Vestjylland,403600,Ikast,705552,Bording,2026-03-24 21:38:28,,Fintælling,2206,2240,Søren Boel Olesen,4ee6a3e6-8984-4920-a09e-a8f892050096,Dansk Folkeparti,1df39501-e08d-42e9-9804-eccf7b1f564a,O,12
+9,Vestjylland,403600,Ikast,705552,Bording,2026-03-24 21:38:28,,Fintælling,2206,2240,Mikael Würtz,b7e9c716-7aa7-4cfc-9aa3-432834f0409d,Dansk Folkeparti,1df39501-e08d-42e9-9804-eccf7b1f564a,O,54
+9,Vestjylland,403600,Ikast,705552,Bording,2026-03-24 21:38:28,,Fintælling,2206,2240,Knud Nielsen,02dbf3ef-1e8b-408f-a3cd-7c31333c1eed,Dansk Folkeparti,1df39501-e08d-42e9-9804-eccf7b1f564a,O,2
+9,Vestjylland,403600,Ikast,705552,Bording,2026-03-24 21:38:28,,Fintælling,2206,2240,Lone Langballe,885b89f4-73be-4f7c-8dcd-75f519f206a0,Dansk Folkeparti,1df39501-e08d-42e9-9804-eccf7b1f564a,O,11
+9,Vestjylland,403600,Ikast,705552,Bording,2026-03-24 21:38:28,,Fintælling,2206,2240,Jes Halfdan,9cc3d6f2-7582-47b4-beb7-d55d9b51f719,Borgernes Parti - Lars Boje Mathiesen,89ee100e-d4d6-43b5-83c5-edd5dd02c1fd,H,9
+9,Vestjylland,403600,Ikast,705552,Bording,2026-03-24 21:38:28,,Fintælling,2206,2240,Helge K. Frandsen,2818ee8c-a43d-43c5-aefc-f5c0a8c45d1e,Borgernes Parti - Lars Boje Mathiesen,89ee100e-d4d6-43b5-83c5-edd5dd02c1fd,H,11
+9,Vestjylland,403600,Ikast,705552,Bording,2026-03-24 21:38:28,,Fintælling,2206,2240,Maria Enemark,2037ea3b-e73d-4c00-b347-172d8a2f2040,Borgernes Parti - Lars Boje Mathiesen,89ee100e-d4d6-43b5-83c5-edd5dd02c1fd,H,6
+9,Vestjylland,403600,Ikast,705552,Bording,2026-03-24 21:38:28,,Fintælling,2206,2240,Ragnar Dixen,cbfea463-d6a8-4fe9-8ac7-f5c0a9ebf2b0,Liberal Alliance,4d676beb-025b-4d42-ac5d-533d5130a6f3,I,1
+9,Vestjylland,403600,Ikast,705552,Bording,2026-03-24 21:38:28,,Fintælling,2206,2240,Helle Jensen,dfb1182c-f363-4f99-9190-9fd1366285b8,Liberal Alliance,4d676beb-025b-4d42-ac5d-533d5130a6f3,I,4
+9,Vestjylland,403600,Ikast,705552,Bording,2026-03-24 21:38:28,,Fintælling,2206,2240,Carsten Bach,1c32f6d0-1258-47ab-8859-7e00ed9f5fde,Liberal Alliance,4d676beb-025b-4d42-ac5d-533d5130a6f3,I,15
+9,Vestjylland,403600,Ikast,705552,Bording,2026-03-24 21:38:28,,Fintælling,2206,2240,Annette Sofia Skotte,b333cd61-c4eb-414e-ae69-4c103dc595ff,Liberal Alliance,4d676beb-025b-4d42-ac5d-533d5130a6f3,I,3
+9,Vestjylland,403600,Ikast,705552,Bording,2026-03-24 21:38:28,,Fintælling,2206,2240,Kevin Possekel,328195da-019e-46eb-a09b-8b9707522149,Liberal Alliance,4d676beb-025b-4d42-ac5d-533d5130a6f3,I,0
+9,Vestjylland,403600,Ikast,705552,Bording,2026-03-24 21:38:28,,Fintælling,2206,2240,Thorbjørn Jacobsen,256b328e-0814-417d-ad1f-c489093f5455,Liberal Alliance,4d676beb-025b-4d42-ac5d-533d5130a6f3,I,10
+9,Vestjylland,403600,Ikast,705552,Bording,2026-03-24 21:38:28,,Fintælling,2206,2240,Iben Forum Jeppesen,70c08d47-a59a-45af-93a4-2838a2909cc1,Liberal Alliance,4d676beb-025b-4d42-ac5d-533d5130a6f3,I,0
+9,Vestjylland,403600,Ikast,705552,Bording,2026-03-24 21:38:28,,Fintælling,2206,2240,Svend Stein Olsen,e9bc0223-de66-4774-b726-54ebf7e24b60,Liberal Alliance,4d676beb-025b-4d42-ac5d-533d5130a6f3,I,0
+9,Vestjylland,403600,Ikast,705552,Bording,2026-03-24 21:38:28,,Fintælling,2206,2240,Keld Lorenzen,7f861a99-7464-4153-9e64-67a628681155,Liberal Alliance,4d676beb-025b-4d42-ac5d-533d5130a6f3,I,0
+9,Vestjylland,403600,Ikast,705552,Bording,2026-03-24 21:38:28,,Fintælling,2206,2240,Steffen Troldtoft,126fcee6-dd4f-4f5d-b5c3-3b224f9542c5,Liberal Alliance,4d676beb-025b-4d42-ac5d-533d5130a6f3,I,1
+9,Vestjylland,403600,Ikast,705552,Bording,2026-03-24 21:38:28,,Fintælling,2206,2240,Michael Valbjørn,fec34960-b08c-498f-b852-396c94cf7e3a,Liberal Alliance,4d676beb-025b-4d42-ac5d-533d5130a6f3,I,5
+9,Vestjylland,403600,Ikast,705552,Bording,2026-03-24 21:38:28,,Fintælling,2206,2240,Casper Hindkjær,cce698ed-bfd7-4ce9-a352-e6a9d6f41b56,Radikale Venstre,93a1aa01-2897-474b-8604-a1326c9b3948,B,1
+9,Vestjylland,403600,Ikast,705552,Bording,2026-03-24 21:38:28,,Fintælling,2206,2240,Hanne Frølund,9ad6c7f1-6b5f-4ace-8f44-02d40228d445,Radikale Venstre,93a1aa01-2897-474b-8604-a1326c9b3948,B,2
+9,Vestjylland,403600,Ikast,705552,Bording,2026-03-24 21:38:28,,Fintælling,2206,2240,Philip Vivet,0c78f0dd-8a8b-4cb5-b1a1-13e25e5cba99,Radikale Venstre,93a1aa01-2897-474b-8604-a1326c9b3948,B,7
+9,Vestjylland,403600,Ikast,705552,Bording,2026-03-24 21:38:28,,Fintælling,2206,2240,Kim Pagels,a64387cc-5365-42ae-95fc-ae1bf35d54ce,Radikale Venstre,93a1aa01-2897-474b-8604-a1326c9b3948,B,0
+9,Vestjylland,403600,Ikast,705552,Bording,2026-03-24 21:38:28,,Fintælling,2206,2240,Lone Kjær Hein,aef5742b-ed40-4ea7-963a-6e46b05d8fd4,Radikale Venstre,93a1aa01-2897-474b-8604-a1326c9b3948,B,0
+9,Vestjylland,403600,Ikast,705552,Bording,2026-03-24 21:38:28,,Fintælling,2206,2240,Peter Vestergaard,d73dfbea-dc6e-414a-ac09-82864a73747a,Radikale Venstre,93a1aa01-2897-474b-8604-a1326c9b3948,B,1
+9,Vestjylland,403600,Ikast,705552,Bording,2026-03-24 21:38:28,,Fintælling,2206,2240,Johan Brødsgaard,45f0df99-21d1-4df0-8705-d322a068a449,Radikale Venstre,93a1aa01-2897-474b-8604-a1326c9b3948,B,2
+9,Vestjylland,403600,Ikast,705552,Bording,2026-03-24 21:38:28,,Fintælling,2206,2240,Martin Sanderhoff,4ebdf7d2-d77e-46d7-879e-fb446272d5f9,Moderaterne,30375f1d-ff52-4b0d-9964-7147844cd5e7,M,2
+9,Vestjylland,403600,Ikast,705552,Bording,2026-03-24 21:38:28,,Fintælling,2206,2240,Jeppe von Berg,5863705a-bfff-42b8-8704-4e138a2ad69c,Moderaterne,30375f1d-ff52-4b0d-9964-7147844cd5e7,M,2
+9,Vestjylland,403600,Ikast,705552,Bording,2026-03-24 21:38:28,,Fintælling,2206,2240,Morten E.G. Brautsch,a63fa5f8-339b-4221-9094-1beef337ee54,Moderaterne,30375f1d-ff52-4b0d-9964-7147844cd5e7,M,2
+9,Vestjylland,403600,Ikast,705552,Bording,2026-03-24 21:38:28,,Fintælling,2206,2240,Michael Nielsen,36d15ed4-6249-4728-be12-4970d8bd10c1,Moderaterne,30375f1d-ff52-4b0d-9964-7147844cd5e7,M,6
+9,Vestjylland,403600,Ikast,705552,Bording,2026-03-24 21:38:28,,Fintælling,2206,2240,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,1
 8,Østjylland,403608,Aarhus Vest,710028,Åby Hallen,2026-03-24 21:21:41,,ForeløbigOptælling,6043,6109,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
 8,Østjylland,403585,Skanderborg,700784,Ejer Bavnehøj,2026-03-24 20:15:47,,ForeløbigOptælling,1471,1491,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
+8,Østjylland,403608,Aarhus Vest,706938,Brabrand Hallen,2026-03-24 21:35:12,,ForeløbigOptælling,5491,5540,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
 9,Vestjylland,403582,Skive,748870,Oddense - Otting,2026-03-24 20:27:18,,ForeløbigOptælling,505,511,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,0
 8,Østjylland,403578,Horsens,706280,Hatting,2026-03-24 21:16:25,,ForeløbigOptælling,2549,2577,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,1
 9,Vestjylland,403601,Viborg Øst,709100,Rødding,2026-03-24 20:32:04,,ForeløbigOptælling,2259,2281,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,5
@@ -69,13 +162,19 @@ storkreds_nummer,storkreds,opstillingskreds_dagi_id,opstillingskreds,afstemnings
 1,København,403563,Tårnby,709804,Tårnby,2026-03-24 20:39:05,,ForeløbigOptælling,3735,3787,Rasmus Paludan,1d7d5b81-c920-4131-97a1-4483eaba71f5,Udenfor parti,,UP,2
 1,København,403563,Tårnby,709804,Tårnby,2026-03-24 20:39:05,,ForeløbigOptælling,3735,3787,Theresa Scavenius,e54d925b-e78c-4bdd-ac35-3bd13e46b34c,Udenfor parti,,UP,7
 1,København,403563,Tårnby,709804,Tårnby,2026-03-24 20:39:05,,ForeløbigOptælling,3735,3787,John Erik Wagner,480c6c23-1eba-4e71-9976-2cc29f94e006,Udenfor parti,,UP,0
+1,København,403568,Bispebjerg,701606,6. Nord,2026-03-24 21:39:28,,ForeløbigOptælling,5693,5769,Rashid Ali,c8f38fd1-fccc-48f9-b9e3-abd36a14a6e7,Udenfor parti,,UP,0
+1,København,403568,Bispebjerg,701606,6. Nord,2026-03-24 21:39:28,,ForeløbigOptælling,5693,5769,Rasmus Paludan,1d7d5b81-c920-4131-97a1-4483eaba71f5,Udenfor parti,,UP,3
+1,København,403568,Bispebjerg,701606,6. Nord,2026-03-24 21:39:28,,ForeløbigOptælling,5693,5769,Theresa Scavenius,e54d925b-e78c-4bdd-ac35-3bd13e46b34c,Udenfor parti,,UP,27
+1,København,403568,Bispebjerg,701606,6. Nord,2026-03-24 21:39:28,,ForeløbigOptælling,5693,5769,John Erik Wagner,480c6c23-1eba-4e71-9976-2cc29f94e006,Udenfor parti,,UP,0
 8,Østjylland,403604,Aarhus Øst,748350,"Godsbanen, Aarhus C",2026-03-24 21:26:11,,ForeløbigOptælling,7000,7094,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,2
 8,Østjylland,403607,Aarhus Nord,705532,Lystrup Idrætscenter,2026-03-24 21:06:24,,ForeløbigOptælling,7554,7632,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,1
 9,Vestjylland,403589,Herning Nord,709520,Vind,2026-03-24 19:37:01,,ForeløbigOptælling,303,305,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,1
 8,Østjylland,403604,Aarhus Øst,711398,"Samsøgades Skole, Aarhus C",2026-03-24 21:23:26,,ForeløbigOptælling,6409,6473,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,1
+8,Østjylland,403604,Aarhus Øst,748351,"Generationernes Hus, Aarhus Ø",2026-03-24 21:31:42,,ForeløbigOptælling,4575,4608,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
 8,Østjylland,403598,Randers Syd,702764,Stevnstrup Forsamlingshus,2026-03-24 20:55:52,,ForeløbigOptælling,2085,2114,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
 8,Østjylland,403581,Hedensted,700852,Rårup,2026-03-24 20:37:21,,ForeløbigOptælling,911,927,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,1
 8,Østjylland,403587,Aarhus Syd,706890,"Rundhøjhallen, Holme",2026-03-24 21:01:08,,ForeløbigOptælling,5249,5304,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,4
+8,Østjylland,403586,Randers Nord,707188,Hornbækhallen,2026-03-24 21:30:12,,ForeløbigOptælling,2938,2970,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,1
 10,Nordjylland,403594,Himmerland,710002,Vester Hornum,2026-03-24 21:04:54,,Fintælling,627,634,Dorthe Pedersen,62b6ba76-1004-4c34-b51d-a53946ea3e46,Det Konservative Folkeparti,2e08413e-1c5b-4029-8bce-eac0ebff6527,C,0
 10,Nordjylland,403594,Himmerland,710002,Vester Hornum,2026-03-24 21:04:54,,Fintælling,627,634,Sofie Therese Svendsen,8942a3e3-32db-4549-bda2-ee7aa0b2f876,Det Konservative Folkeparti,2e08413e-1c5b-4029-8bce-eac0ebff6527,C,0
 10,Nordjylland,403594,Himmerland,710002,Vester Hornum,2026-03-24 21:04:54,,Fintælling,627,634,Stine Thier-Andersen,38ee6d04-8688-4c7c-af65-1e52884330e5,Det Konservative Folkeparti,2e08413e-1c5b-4029-8bce-eac0ebff6527,C,0
@@ -184,6 +283,7 @@ storkreds_nummer,storkreds,opstillingskreds_dagi_id,opstillingskreds,afstemnings
 8,Østjylland,403581,Hedensted,703906,Bjerre,2026-03-24 21:09:39,,ForeløbigOptælling,903,916,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
 9,Vestjylland,403589,Herning Nord,705024,Ilskov,2026-03-24 19:49:30,,ForeløbigOptælling,542,546,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,0
 9,Vestjylland,403582,Skive,748878,Balling,2026-03-24 20:56:52,,ForeløbigOptælling,1004,1018,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,0
+9,Vestjylland,403590,Herning Syd,712062,Herning,2026-03-24 21:33:12,,ForeløbigOptælling,14890,15138,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,11
 8,Østjylland,403578,Horsens,703428,Sundparken,2026-03-24 20:13:32,,ForeløbigOptælling,789,806,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
 8,Østjylland,403581,Hedensted,703888,Korning Sogn,2026-03-24 20:00:16,,ForeløbigOptælling,396,405,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
 1,København,403563,Tårnby,701922,Hollænderhallen,2026-03-24 20:54:22,,ForeløbigOptælling,5653,5698,Rashid Ali,c8f38fd1-fccc-48f9-b9e3-abd36a14a6e7,Udenfor parti,,UP,1
@@ -201,11 +301,24 @@ storkreds_nummer,storkreds,opstillingskreds_dagi_id,opstillingskreds,afstemnings
 1,København,403563,Tårnby,708012,Kastrup,2026-03-24 21:10:54,,ForeløbigOptælling,6392,6477,John Erik Wagner,480c6c23-1eba-4e71-9976-2cc29f94e006,Udenfor parti,,UP,0
 1,København,403563,Tårnby,708012,Kastrup,2026-03-24 21:10:54,,ForeløbigOptælling,6392,6477,Theresa Scavenius,e54d925b-e78c-4bdd-ac35-3bd13e46b34c,Udenfor parti,,UP,16
 8,Østjylland,403578,Horsens,706254,Nim,2026-03-24 20:36:50,,ForeløbigOptælling,1159,1169,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,3
+1,København,403570,Falkoner,709590,"10. Kreds, Bülowsvej",2026-03-24 21:42:58,,ForeløbigOptælling,10075,10169,Theresa Scavenius,e54d925b-e78c-4bdd-ac35-3bd13e46b34c,Udenfor parti,,UP,22
+1,København,403570,Falkoner,709590,"10. Kreds, Bülowsvej",2026-03-24 21:42:58,,ForeløbigOptælling,10075,10169,John Erik Wagner,480c6c23-1eba-4e71-9976-2cc29f94e006,Udenfor parti,,UP,0
+1,København,403570,Falkoner,709590,"10. Kreds, Bülowsvej",2026-03-24 21:42:58,,ForeløbigOptælling,10075,10169,Rashid Ali,c8f38fd1-fccc-48f9-b9e3-abd36a14a6e7,Udenfor parti,,UP,2
+1,København,403570,Falkoner,709590,"10. Kreds, Bülowsvej",2026-03-24 21:42:58,,ForeløbigOptælling,10075,10169,Rasmus Paludan,1d7d5b81-c920-4131-97a1-4483eaba71f5,Udenfor parti,,UP,5
 8,Østjylland,403603,Favrskov,705102,Rønbæk/Grundfør,2026-03-24 21:05:09,,ForeløbigOptælling,2849,2885,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,1
 8,Østjylland,403578,Horsens,712014,Gedved,2026-03-24 20:37:50,,ForeløbigOptælling,1837,1859,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,10
+1,København,403564,Østerbro,749398,1. Nordhavn,2026-03-24 21:32:27,,ForeløbigOptælling,6690,6749,Theresa Scavenius,e54d925b-e78c-4bdd-ac35-3bd13e46b34c,Udenfor parti,,UP,22
+1,København,403564,Østerbro,749398,1. Nordhavn,2026-03-24 21:32:27,,ForeløbigOptælling,6690,6749,Rasmus Paludan,1d7d5b81-c920-4131-97a1-4483eaba71f5,Udenfor parti,,UP,0
+1,København,403564,Østerbro,749398,1. Nordhavn,2026-03-24 21:32:27,,ForeløbigOptælling,6690,6749,Rashid Ali,c8f38fd1-fccc-48f9-b9e3-abd36a14a6e7,Udenfor parti,,UP,1
+1,København,403564,Østerbro,749398,1. Nordhavn,2026-03-24 21:32:27,,ForeløbigOptælling,6690,6749,John Erik Wagner,480c6c23-1eba-4e71-9976-2cc29f94e006,Udenfor parti,,UP,0
+8,Østjylland,403587,Aarhus Syd,702228,Tranbjerg Skole,2026-03-24 21:25:56,,ForeløbigOptælling,6195,6274,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,1
 8,Østjylland,403585,Skanderborg,711236,Niels Ebbesen,2026-03-24 20:32:49,,ForeløbigOptælling,4464,4513,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
 9,Vestjylland,403580,Ringkøbing,703684,Spjald,2026-03-24 20:11:47,,ForeløbigOptælling,2265,2294,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,3
 9,Vestjylland,403601,Viborg Øst,711838,Møldrup,2026-03-24 20:34:19,,ForeløbigOptælling,2800,2838,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,6
+1,København,403573,Indre By,749404,3. Sølvgade,2026-03-24 21:26:11,,ForeløbigOptælling,4344,4372,Rashid Ali,c8f38fd1-fccc-48f9-b9e3-abd36a14a6e7,Udenfor parti,,UP,0
+1,København,403573,Indre By,749404,3. Sølvgade,2026-03-24 21:26:11,,ForeløbigOptælling,4344,4372,Theresa Scavenius,e54d925b-e78c-4bdd-ac35-3bd13e46b34c,Udenfor parti,,UP,9
+1,København,403573,Indre By,749404,3. Sølvgade,2026-03-24 21:26:11,,ForeløbigOptælling,4344,4372,Rasmus Paludan,1d7d5b81-c920-4131-97a1-4483eaba71f5,Udenfor parti,,UP,2
+1,København,403573,Indre By,749404,3. Sølvgade,2026-03-24 21:26:11,,ForeløbigOptælling,4344,4372,John Erik Wagner,480c6c23-1eba-4e71-9976-2cc29f94e006,Udenfor parti,,UP,0
 8,Østjylland,403585,Skanderborg,709844,Hørning,2026-03-24 20:52:37,,ForeløbigOptælling,5781,5849,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,2
 9,Vestjylland,403597,Viborg Vest,704488,Stoholm,2026-03-24 20:22:49,,ForeløbigOptælling,2143,2169,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,2
 1,København,403576,Valby,701520,8. Sydøst,2026-03-24 21:08:39,,ForeløbigOptælling,3785,3837,Rashid Ali,c8f38fd1-fccc-48f9-b9e3-abd36a14a6e7,Udenfor parti,,UP,2
@@ -221,10 +334,15 @@ storkreds_nummer,storkreds,opstillingskreds_dagi_id,opstillingskreds,afstemnings
 9,Vestjylland,403588,Struer,711198,Tangsø,2026-03-24 20:39:20,,ForeløbigOptælling,844,853,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,0
 8,Østjylland,403578,Horsens,706268,Forum,2026-03-24 21:01:53,,ForeløbigOptælling,3163,3212,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,1
 9,Vestjylland,403606,Silkeborg Syd,700790,Them,2026-03-24 21:05:09,,ForeløbigOptælling,2456,2489,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,0
+8,Østjylland,403586,Randers Nord,707182,Randers Badmintonhaller,2026-03-24 21:43:14,,ForeløbigOptælling,2945,2998,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,1
 8,Østjylland,403586,Randers Nord,711582,Østervangsskolen,2026-03-24 20:59:53,,ForeløbigOptælling,2040,2071,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
 8,Østjylland,403603,Favrskov,706360,Voldum,2026-03-24 19:51:45,,ForeløbigOptælling,752,768,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
 9,Vestjylland,403582,Skive,748876,Rønbjerg,2026-03-24 19:53:15,,ForeløbigOptælling,484,489,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,1
 8,Østjylland,403586,Randers Nord,702710,Hald Forsamlingshus,2026-03-24 21:02:53,,ForeløbigOptælling,961,972,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
+1,København,403568,Bispebjerg,725358,6. Vest,2026-03-24 21:41:43,,ForeløbigOptælling,4061,4120,Rashid Ali,c8f38fd1-fccc-48f9-b9e3-abd36a14a6e7,Udenfor parti,,UP,2
+1,København,403568,Bispebjerg,725358,6. Vest,2026-03-24 21:41:43,,ForeløbigOptælling,4061,4120,Rasmus Paludan,1d7d5b81-c920-4131-97a1-4483eaba71f5,Udenfor parti,,UP,1
+1,København,403568,Bispebjerg,725358,6. Vest,2026-03-24 21:41:43,,ForeløbigOptælling,4061,4120,Theresa Scavenius,e54d925b-e78c-4bdd-ac35-3bd13e46b34c,Udenfor parti,,UP,26
+1,København,403568,Bispebjerg,725358,6. Vest,2026-03-24 21:41:43,,ForeløbigOptælling,4061,4120,John Erik Wagner,480c6c23-1eba-4e71-9976-2cc29f94e006,Udenfor parti,,UP,1
 9,Vestjylland,403601,Viborg Øst,709090,Skals,2026-03-24 20:22:48,,ForeløbigOptælling,2287,2314,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,1
 9,Vestjylland,403589,Herning Nord,701676,Gullestrup,2026-03-24 20:14:32,,ForeløbigOptælling,1113,1128,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,0
 8,Østjylland,403602,Djurs,709084,Auning,2026-03-24 21:04:23,,ForeløbigOptælling,2853,2882,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
@@ -470,8 +588,14 @@ storkreds_nummer,storkreds,opstillingskreds_dagi_id,opstillingskreds,afstemnings
 1,København,403564,Østerbro,707732,1. Østerbro,2026-03-24 21:19:26,,ForeløbigOptælling,7084,7145,Rashid Ali,c8f38fd1-fccc-48f9-b9e3-abd36a14a6e7,Udenfor parti,,UP,0
 1,København,403564,Østerbro,707732,1. Østerbro,2026-03-24 21:19:26,,ForeløbigOptælling,7084,7145,Theresa Scavenius,e54d925b-e78c-4bdd-ac35-3bd13e46b34c,Udenfor parti,,UP,15
 1,København,403564,Østerbro,707732,1. Østerbro,2026-03-24 21:19:26,,ForeløbigOptælling,7084,7145,John Erik Wagner,480c6c23-1eba-4e71-9976-2cc29f94e006,Udenfor parti,,UP,0
+9,Vestjylland,403600,Ikast,703930,Brande,2026-03-24 21:25:41,,ForeløbigOptælling,5375,5447,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,5
 8,Østjylland,403603,Favrskov,704336,Foldby,2026-03-24 20:22:18,,ForeløbigOptælling,1210,1227,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,1
+1,København,403574,Vesterbro,701612,9. Nord,2026-03-24 21:35:43,,ForeløbigOptælling,7145,7186,Rashid Ali,c8f38fd1-fccc-48f9-b9e3-abd36a14a6e7,Udenfor parti,,UP,0
+1,København,403574,Vesterbro,701612,9. Nord,2026-03-24 21:35:43,,ForeløbigOptælling,7145,7186,Theresa Scavenius,e54d925b-e78c-4bdd-ac35-3bd13e46b34c,Udenfor parti,,UP,33
+1,København,403574,Vesterbro,701612,9. Nord,2026-03-24 21:35:43,,ForeløbigOptælling,7145,7186,Rasmus Paludan,1d7d5b81-c920-4131-97a1-4483eaba71f5,Udenfor parti,,UP,3
+1,København,403574,Vesterbro,701612,9. Nord,2026-03-24 21:35:43,,ForeløbigOptælling,7145,7186,John Erik Wagner,480c6c23-1eba-4e71-9976-2cc29f94e006,Udenfor parti,,UP,1
 8,Østjylland,403608,Aarhus Vest,705576,Borum Forsamlingshus,2026-03-24 19:55:45,,ForeløbigOptælling,452,455,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
+8,Østjylland,403604,Aarhus Øst,711368,Vejlby-Risskov Hallen,2026-03-24 21:28:27,,ForeløbigOptælling,9606,9766,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,4
 8,Østjylland,403585,Skanderborg,706210,Ørting-Falling,2026-03-24 20:09:47,,ForeløbigOptælling,847,857,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
 8,Østjylland,403581,Hedensted,702118,Glud,2026-03-24 20:37:05,,ForeløbigOptælling,1511,1525,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
 8,Østjylland,403578,Horsens,706298,Sdr.Vissing,2026-03-24 20:22:18,,ForeløbigOptælling,729,738,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
@@ -574,6 +698,8 @@ storkreds_nummer,storkreds,opstillingskreds_dagi_id,opstillingskreds,afstemnings
 9,Vestjylland,403600,Ikast,713298,Nørre Snede,2026-03-24 21:23:56,,Fintælling,1973,2008,Emma Thorup Jacobsen,db93fffd-5965-47d0-967b-a74cf4acde40,SF - Socialistisk Folkeparti,fae32292-ff8f-4f27-8218-a9874603e759,F,12
 9,Vestjylland,403600,Ikast,713298,Nørre Snede,2026-03-24 21:23:56,,Fintælling,1973,2008,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,1
 8,Østjylland,403602,Djurs,709066,Kulturhuset Stationen,2026-03-24 20:44:06,,ForeløbigOptælling,1510,1531,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,2
+8,Østjylland,403604,Aarhus Øst,708544,"DOKK1, Aarhus C",2026-03-24 21:36:28,,ForeløbigOptælling,7037,7139,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,1
+8,Østjylland,403603,Favrskov,712100,Hadsten Nord,2026-03-24 21:38:43,,ForeløbigOptælling,3499,3554,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
 9,Vestjylland,403588,Struer,709888,Hvidbjerg,2026-03-24 20:31:35,,ForeløbigOptælling,1849,1879,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,0
 8,Østjylland,403608,Aarhus Vest,711416,"Søndervangskolen, Viby J",2026-03-24 20:55:07,,ForeløbigOptælling,1688,1701,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
 1,København,403563,Tårnby,711216,Vestamager,2026-03-24 20:32:49,,ForeløbigOptælling,4102,4153,Rashid Ali,c8f38fd1-fccc-48f9-b9e3-abd36a14a6e7,Udenfor parti,,UP,0
@@ -585,6 +711,10 @@ storkreds_nummer,storkreds,opstillingskreds_dagi_id,opstillingskreds,afstemnings
 8,Østjylland,403581,Hedensted,700846,Lindved,2026-03-24 20:26:33,,ForeløbigOptælling,1213,1235,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
 8,Østjylland,403581,Hedensted,711310,Hornsyld,2026-03-24 20:31:34,,ForeløbigOptælling,1165,1186,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
 9,Vestjylland,403590,Herning Syd,710918,Skarrild,2026-03-24 20:06:48,,ForeløbigOptælling,564,572,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,0
+1,København,403567,Nørrebro,704956,5. Nordvest,2026-03-24 21:27:57,,ForeløbigOptælling,8423,8488,Theresa Scavenius,e54d925b-e78c-4bdd-ac35-3bd13e46b34c,Udenfor parti,,UP,36
+1,København,403567,Nørrebro,704956,5. Nordvest,2026-03-24 21:27:57,,ForeløbigOptælling,8423,8488,John Erik Wagner,480c6c23-1eba-4e71-9976-2cc29f94e006,Udenfor parti,,UP,1
+1,København,403567,Nørrebro,704956,5. Nordvest,2026-03-24 21:27:57,,ForeløbigOptælling,8423,8488,Rasmus Paludan,1d7d5b81-c920-4131-97a1-4483eaba71f5,Udenfor parti,,UP,5
+1,København,403567,Nørrebro,704956,5. Nordvest,2026-03-24 21:27:57,,ForeløbigOptælling,8423,8488,Rashid Ali,c8f38fd1-fccc-48f9-b9e3-abd36a14a6e7,Udenfor parti,,UP,0
 8,Østjylland,403587,Aarhus Syd,703942,Mårslet Hallen,2026-03-24 21:12:40,,ForeløbigOptælling,3733,3762,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
 9,Vestjylland,403582,Skive,748874,Brårup,2026-03-24 20:42:51,,ForeløbigOptælling,4151,4208,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,2
 8,Østjylland,403598,Randers Syd,708744,Søndermarkskolen,2026-03-24 21:04:08,,ForeløbigOptælling,5400,5468,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
@@ -603,14 +733,117 @@ storkreds_nummer,storkreds,opstillingskreds_dagi_id,opstillingskreds,afstemnings
 1,København,403575,Brønshøj,710820,7. Nord,2026-03-24 21:05:39,,ForeløbigOptælling,1868,1886,John Erik Wagner,480c6c23-1eba-4e71-9976-2cc29f94e006,Udenfor parti,,UP,0
 9,Vestjylland,403606,Silkeborg Syd,702052,Hjøllund,2026-03-24 20:06:32,,ForeløbigOptælling,282,283,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,0
 9,Vestjylland,403589,Herning Nord,701714,Sinding,2026-03-24 20:58:09,,ForeløbigOptælling,557,561,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,0
+8,Østjylland,403587,Aarhus Syd,706884,Folkehuset Ankersgade,2026-03-24 21:28:57,,ForeløbigOptælling,5453,5513,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,1
 8,Østjylland,403585,Skanderborg,709838,Virring,2026-03-24 20:16:47,,ForeløbigOptælling,1685,1700,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
 8,Østjylland,403586,Randers Nord,704222,Råby Forsamlingshus,2026-03-24 20:36:35,,ForeløbigOptælling,656,666,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,1
 9,Vestjylland,403588,Struer,706536,Lemvig,2026-03-24 21:17:10,,ForeløbigOptælling,4299,4344,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,3
 9,Vestjylland,403588,Struer,711178,Klinkby,2026-03-24 20:38:35,,ForeløbigOptælling,1381,1393,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,0
+8,Østjylland,403581,Hedensted,702112,"Hedensted, St.Dalby Og Urlev",2026-03-24 21:42:28,,ForeløbigOptælling,6512,6584,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,1
 9,Vestjylland,403606,Silkeborg Syd,709856,Langsøskolen,2026-03-24 20:29:04,,ForeløbigOptælling,1877,1898,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,1
 8,Østjylland,403587,Aarhus Syd,709996,Solbjergskolen,2026-03-24 21:08:54,,ForeløbigOptælling,3522,3565,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
 9,Vestjylland,403590,Herning Syd,712050,Lind,2026-03-24 20:37:20,,ForeløbigOptælling,4500,4553,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,5
 8,Østjylland,403604,Aarhus Øst,711374,"Virupskolen, Hjortshøj",2026-03-24 20:08:01,,ForeløbigOptælling,2481,2506,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,2
+10,Nordjylland,403594,Himmerland,708538,Strandby,2026-03-24 21:27:42,,Fintælling,471,480,Thomas Klimek,fe64db94-2bbe-4280-8c50-aa02a5272f7e,Socialdemokratiet,2f487db9-0663-429f-a4ec-081ae701723d,A,0
+10,Nordjylland,403594,Himmerland,708538,Strandby,2026-03-24 21:27:42,,Fintælling,471,480,Peder Key Kristiansen,856e5dd0-ef30-4ce9-b92e-d23bd07ba3d4,Socialdemokratiet,2f487db9-0663-429f-a4ec-081ae701723d,A,0
+10,Nordjylland,403594,Himmerland,708538,Strandby,2026-03-24 21:27:42,,Fintælling,471,480,Simon Kollerup,140747cb-6f5c-46cc-92a0-eb5e05a0b8a2,Socialdemokratiet,2f487db9-0663-429f-a4ec-081ae701723d,A,3
+10,Nordjylland,403594,Himmerland,708538,Strandby,2026-03-24 21:27:42,,Fintælling,471,480,Mette Frederiksen,b5c7ab7e-81a8-4b8a-ae5a-a722b7645411,Socialdemokratiet,2f487db9-0663-429f-a4ec-081ae701723d,A,41
+10,Nordjylland,403594,Himmerland,708538,Strandby,2026-03-24 21:27:42,,Fintælling,471,480,Flemming Møller Mortensen,19e79b7a-0a94-49ed-bf13-df4f3cd9e84d,Socialdemokratiet,2f487db9-0663-429f-a4ec-081ae701723d,A,27
+10,Nordjylland,403594,Himmerland,708538,Strandby,2026-03-24 21:27:42,,Fintælling,471,480,Per Husted,881c2ccb-cf75-469a-a922-3921b5962920,Socialdemokratiet,2f487db9-0663-429f-a4ec-081ae701723d,A,1
+10,Nordjylland,403594,Himmerland,708538,Strandby,2026-03-24 21:27:42,,Fintælling,471,480,Morten Ryom,bd3c7373-029b-4800-bdd1-124e5645321d,Socialdemokratiet,2f487db9-0663-429f-a4ec-081ae701723d,A,1
+10,Nordjylland,403594,Himmerland,708538,Strandby,2026-03-24 21:27:42,,Fintælling,471,480,Ane Halsboe-Jørgensen,f2dafd4b-f306-4e60-afca-3e7e3f5d58b0,Socialdemokratiet,2f487db9-0663-429f-a4ec-081ae701723d,A,1
+10,Nordjylland,403594,Himmerland,708538,Strandby,2026-03-24 21:27:42,,Fintælling,471,480,Kiki Bille Bach,e28fa96f-219b-46b7-a7a1-0e07fc9e13ec,Socialdemokratiet,2f487db9-0663-429f-a4ec-081ae701723d,A,0
+10,Nordjylland,403594,Himmerland,708538,Strandby,2026-03-24 21:27:42,,Fintælling,471,480,Kresten Solvang Larsen,b3fc530e-dd6b-4892-a750-f5a16461684c,Liberal Alliance,4d676beb-025b-4d42-ac5d-533d5130a6f3,I,0
+10,Nordjylland,403594,Himmerland,708538,Strandby,2026-03-24 21:27:42,,Fintælling,471,480,Thomas Heuniche,9a9f63ad-cc8e-4736-8e94-3fcc5bdca6f5,Liberal Alliance,4d676beb-025b-4d42-ac5d-533d5130a6f3,I,0
+10,Nordjylland,403594,Himmerland,708538,Strandby,2026-03-24 21:27:42,,Fintælling,471,480,Rikke Olssen,17be0de0-19de-4541-852f-6d3d0417f133,Liberal Alliance,4d676beb-025b-4d42-ac5d-533d5130a6f3,I,1
+10,Nordjylland,403594,Himmerland,708538,Strandby,2026-03-24 21:27:42,,Fintælling,471,480,HP Beck,ee0f1264-cfb2-47b3-914d-8b809903e66e,Liberal Alliance,4d676beb-025b-4d42-ac5d-533d5130a6f3,I,0
+10,Nordjylland,403594,Himmerland,708538,Strandby,2026-03-24 21:27:42,,Fintælling,471,480,Peter Larsen,b83c25b1-b616-4bb3-a224-255732ca4df3,Liberal Alliance,4d676beb-025b-4d42-ac5d-533d5130a6f3,I,0
+10,Nordjylland,403594,Himmerland,708538,Strandby,2026-03-24 21:27:42,,Fintælling,471,480,Sólbjørg Jakobsen,4d09f65f-946b-427d-b808-4eafdc773dd6,Liberal Alliance,4d676beb-025b-4d42-ac5d-533d5130a6f3,I,9
+10,Nordjylland,403594,Himmerland,708538,Strandby,2026-03-24 21:27:42,,Fintælling,471,480,Thomas Christiansen,238ba30e-67a9-4e0b-b0ad-424c5eb14297,Liberal Alliance,4d676beb-025b-4d42-ac5d-533d5130a6f3,I,0
+10,Nordjylland,403594,Himmerland,708538,Strandby,2026-03-24 21:27:42,,Fintælling,471,480,Frederik Blicher Pedersen,aea56faf-ae89-4cf2-a07c-c8fdaf9f3e77,Liberal Alliance,4d676beb-025b-4d42-ac5d-533d5130a6f3,I,0
+10,Nordjylland,403594,Himmerland,708538,Strandby,2026-03-24 21:27:42,,Fintælling,471,480,Lukas Vestergaard,f4c03d74-68c6-4424-aa8f-a096ebabeb7b,Liberal Alliance,4d676beb-025b-4d42-ac5d-533d5130a6f3,I,0
+10,Nordjylland,403594,Himmerland,708538,Strandby,2026-03-24 21:27:42,,Fintælling,471,480,Dan Gaardboe Rueskov,0d4d1fbc-4342-4036-b4af-38accb951d1f,Liberal Alliance,4d676beb-025b-4d42-ac5d-533d5130a6f3,I,0
+10,Nordjylland,403594,Himmerland,708538,Strandby,2026-03-24 21:27:42,,Fintælling,471,480,Mark Hellerup,a2cd9472-35a8-49fc-91b6-390b596975b9,Liberal Alliance,4d676beb-025b-4d42-ac5d-533d5130a6f3,I,0
+10,Nordjylland,403594,Himmerland,708538,Strandby,2026-03-24 21:27:42,,Fintælling,471,480,Sara Tvilling,61bdb412-b382-4a91-9fc1-2e4198b075ff,Liberal Alliance,4d676beb-025b-4d42-ac5d-533d5130a6f3,I,0
+10,Nordjylland,403594,Himmerland,708538,Strandby,2026-03-24 21:27:42,,Fintælling,471,480,Bo Ritterbusch,899c170d-4ae7-48df-8a15-807b00c6c9a4,Liberal Alliance,4d676beb-025b-4d42-ac5d-533d5130a6f3,I,0
+10,Nordjylland,403594,Himmerland,708538,Strandby,2026-03-24 21:27:42,,Fintælling,471,480,Kenneth Skatka Hammer,ad67f286-4edd-46aa-885f-24a79aa61665,Liberal Alliance,4d676beb-025b-4d42-ac5d-533d5130a6f3,I,0
+10,Nordjylland,403594,Himmerland,708538,Strandby,2026-03-24 21:27:42,,Fintælling,471,480,Kim Gaarsdahl,d5e40703-4f77-4e1b-9dd2-95567f8d0a35,Liberal Alliance,4d676beb-025b-4d42-ac5d-533d5130a6f3,I,2
+10,Nordjylland,403594,Himmerland,708538,Strandby,2026-03-24 21:27:42,,Fintælling,471,480,Anders Peter Hansen,1c433024-5749-460c-8d0d-fedfd31083d7,Liberal Alliance,4d676beb-025b-4d42-ac5d-533d5130a6f3,I,1
+10,Nordjylland,403594,Himmerland,708538,Strandby,2026-03-24 21:27:42,,Fintælling,471,480,Claus Beck,b1b0c84a-fbe3-4089-96b1-13f879364113,Liberal Alliance,4d676beb-025b-4d42-ac5d-533d5130a6f3,I,0
+10,Nordjylland,403594,Himmerland,708538,Strandby,2026-03-24 21:27:42,,Fintælling,471,480,Jimmy Abel Nielsen,6cbc7bd9-666c-4ec3-8f0b-0823fbab33d2,Liberal Alliance,4d676beb-025b-4d42-ac5d-533d5130a6f3,I,0
+10,Nordjylland,403594,Himmerland,708538,Strandby,2026-03-24 21:27:42,,Fintælling,471,480,Emil Sloth,0f69ef7c-9e5f-4445-b230-1f21c37e1364,Alternativet,c01e1c81-e8eb-4f3d-ac55-de9279740a0e,Å,0
+10,Nordjylland,403594,Himmerland,708538,Strandby,2026-03-24 21:27:42,,Fintælling,471,480,Anette Jensen Smith,72d2f3bf-20d6-41ab-97b8-705f5ec4590d,Alternativet,c01e1c81-e8eb-4f3d-ac55-de9279740a0e,Å,0
+10,Nordjylland,403594,Himmerland,708538,Strandby,2026-03-24 21:27:42,,Fintælling,471,480,Anna Bjerre,f25991d7-5b09-4982-a73d-4977a9e9b444,Alternativet,c01e1c81-e8eb-4f3d-ac55-de9279740a0e,Å,2
+10,Nordjylland,403594,Himmerland,708538,Strandby,2026-03-24 21:27:42,,Fintælling,471,480,Anne-Marie Hemmeth,64bd15be-b479-4b07-8a6e-32e7be59f208,Alternativet,c01e1c81-e8eb-4f3d-ac55-de9279740a0e,Å,0
+10,Nordjylland,403594,Himmerland,708538,Strandby,2026-03-24 21:27:42,,Fintælling,471,480,Lasse Olsen,6d6e5283-b34b-498a-8e62-68c2fbbd9fc3,Enhedslisten - De Rød-Grønne,8bb64864-5728-41db-af00-6234795cf340,Ø,0
+10,Nordjylland,403594,Himmerland,708538,Strandby,2026-03-24 21:27:42,,Fintælling,471,480,Filippa Emilie Vittrup,9a3bbc7a-425c-415f-80d1-2c394196bbba,Enhedslisten - De Rød-Grønne,8bb64864-5728-41db-af00-6234795cf340,Ø,0
+10,Nordjylland,403594,Himmerland,708538,Strandby,2026-03-24 21:27:42,,Fintælling,471,480,Runa Friis Hansen,458ad11b-1c4d-4481-b343-e4c834918695,Enhedslisten - De Rød-Grønne,8bb64864-5728-41db-af00-6234795cf340,Ø,0
+10,Nordjylland,403594,Himmerland,708538,Strandby,2026-03-24 21:27:42,,Fintælling,471,480,Hans Jensen,a18c72af-84f0-4651-a776-b8af8009da87,Enhedslisten - De Rød-Grønne,8bb64864-5728-41db-af00-6234795cf340,Ø,0
+10,Nordjylland,403594,Himmerland,708538,Strandby,2026-03-24 21:27:42,,Fintælling,471,480,Christina Eilers,a31423ed-b013-4aee-8259-20d69fa1063a,Enhedslisten - De Rød-Grønne,8bb64864-5728-41db-af00-6234795cf340,Ø,0
+10,Nordjylland,403594,Himmerland,708538,Strandby,2026-03-24 21:27:42,,Fintælling,471,480,Lasse Mejer Petersen,516fe917-b539-4465-80e4-0ff1793b4b5d,Enhedslisten - De Rød-Grønne,8bb64864-5728-41db-af00-6234795cf340,Ø,0
+10,Nordjylland,403594,Himmerland,708538,Strandby,2026-03-24 21:27:42,,Fintælling,471,480,Ulrik Appel,2c964d98-e7e3-4391-a6ea-7d09518214ea,Enhedslisten - De Rød-Grønne,8bb64864-5728-41db-af00-6234795cf340,Ø,0
+10,Nordjylland,403594,Himmerland,708538,Strandby,2026-03-24 21:27:42,,Fintælling,471,480,Berit Raldin,427a562b-7183-4da5-af03-19d427fe4517,Enhedslisten - De Rød-Grønne,8bb64864-5728-41db-af00-6234795cf340,Ø,0
+10,Nordjylland,403594,Himmerland,708538,Strandby,2026-03-24 21:27:42,,Fintælling,471,480,Peder Hvelplund,c760fc1f-f202-4a2e-9b8b-e87b06ea0ac8,Enhedslisten - De Rød-Grønne,8bb64864-5728-41db-af00-6234795cf340,Ø,1
+10,Nordjylland,403594,Himmerland,708538,Strandby,2026-03-24 21:27:42,,Fintælling,471,480,John Bjerg,632c4662-be00-43bc-9526-a0321edf2630,Borgernes Parti - Lars Boje Mathiesen,89ee100e-d4d6-43b5-83c5-edd5dd02c1fd,H,1
+10,Nordjylland,403594,Himmerland,708538,Strandby,2026-03-24 21:27:42,,Fintælling,471,480,Arne Hyldgaard,5b2379cc-2f0d-48bd-be13-faa26c048d6d,Borgernes Parti - Lars Boje Mathiesen,89ee100e-d4d6-43b5-83c5-edd5dd02c1fd,H,0
+10,Nordjylland,403594,Himmerland,708538,Strandby,2026-03-24 21:27:42,,Fintælling,471,480,Niels Christensen,6f191a67-ad11-4e2d-98ad-b6ed5e89c960,Borgernes Parti - Lars Boje Mathiesen,89ee100e-d4d6-43b5-83c5-edd5dd02c1fd,H,3
+10,Nordjylland,403594,Himmerland,708538,Strandby,2026-03-24 21:27:42,,Fintælling,471,480,Paulina Laparil,d7d1680a-b84c-4962-a230-f9974322d422,Borgernes Parti - Lars Boje Mathiesen,89ee100e-d4d6-43b5-83c5-edd5dd02c1fd,H,1
+10,Nordjylland,403594,Himmerland,708538,Strandby,2026-03-24 21:27:42,,Fintælling,471,480,Ib Poulsen,a37abf77-5eff-4633-b972-ae9c4e059dcb,Borgernes Parti - Lars Boje Mathiesen,89ee100e-d4d6-43b5-83c5-edd5dd02c1fd,H,0
+10,Nordjylland,403594,Himmerland,708538,Strandby,2026-03-24 21:27:42,,Fintælling,471,480,Steen Asgeir Petersen,5027ef69-1a93-415a-9146-fbe6726540da,Radikale Venstre,93a1aa01-2897-474b-8604-a1326c9b3948,B,0
+10,Nordjylland,403594,Himmerland,708538,Strandby,2026-03-24 21:27:42,,Fintælling,471,480,Susanne Krebs,0311539a-0d56-4371-a9fc-1679dab0fd50,Radikale Venstre,93a1aa01-2897-474b-8604-a1326c9b3948,B,0
+10,Nordjylland,403594,Himmerland,708538,Strandby,2026-03-24 21:27:42,,Fintælling,471,480,Pia Elberg,294d76c1-7223-43dc-ab7f-77719fbf7e29,Radikale Venstre,93a1aa01-2897-474b-8604-a1326c9b3948,B,1
+10,Nordjylland,403594,Himmerland,708538,Strandby,2026-03-24 21:27:42,,Fintælling,471,480,Jacob Robsøe,3b7cbe1e-7456-4297-87fc-7c4b645bcc8d,Radikale Venstre,93a1aa01-2897-474b-8604-a1326c9b3948,B,0
+10,Nordjylland,403594,Himmerland,708538,Strandby,2026-03-24 21:27:42,,Fintælling,471,480,Gorm Simonsen,27e9a47d-36d7-4268-bf41-22707c8d5d5a,Radikale Venstre,93a1aa01-2897-474b-8604-a1326c9b3948,B,0
+10,Nordjylland,403594,Himmerland,708538,Strandby,2026-03-24 21:27:42,,Fintælling,471,480,Steffen Holme Helledie,2a994bc7-0f5c-4dd3-9e4b-19716646407a,Radikale Venstre,93a1aa01-2897-474b-8604-a1326c9b3948,B,1
+10,Nordjylland,403594,Himmerland,708538,Strandby,2026-03-24 21:27:42,,Fintælling,471,480,Dorthe Kerschus,4c24378b-19ee-4139-9185-f16cf802eb0d,Radikale Venstre,93a1aa01-2897-474b-8604-a1326c9b3948,B,0
+10,Nordjylland,403594,Himmerland,708538,Strandby,2026-03-24 21:27:42,,Fintælling,471,480,Carsten Bedsted,058dd243-c317-47f8-abf0-fe0c7082aa1b,Radikale Venstre,93a1aa01-2897-474b-8604-a1326c9b3948,B,0
+10,Nordjylland,403594,Himmerland,708538,Strandby,2026-03-24 21:27:42,,Fintælling,471,480,Emma Biørn Tretow-Fish,2ec5966e-988c-4b43-aca4-d52d0d91217a,Radikale Venstre,93a1aa01-2897-474b-8604-a1326c9b3948,B,0
+10,Nordjylland,403594,Himmerland,708538,Strandby,2026-03-24 21:27:42,,Fintælling,471,480,Michael Portefee P. Lex,75232c60-e469-471e-94f9-cac47c7d3179,Radikale Venstre,93a1aa01-2897-474b-8604-a1326c9b3948,B,0
+10,Nordjylland,403594,Himmerland,708538,Strandby,2026-03-24 21:27:42,,Fintælling,471,480,Marie Wandel,f9744383-5a6a-4679-997f-938926c20ac5,Radikale Venstre,93a1aa01-2897-474b-8604-a1326c9b3948,B,0
+10,Nordjylland,403594,Himmerland,708538,Strandby,2026-03-24 21:27:42,,Fintælling,471,480,Torsten Wetche,9b088dd5-326f-4a7c-90b4-9c4b51cfcba2,Radikale Venstre,93a1aa01-2897-474b-8604-a1326c9b3948,B,15
+10,Nordjylland,403594,Himmerland,708538,Strandby,2026-03-24 21:27:42,,Fintælling,471,480,Anne Honoré Østergaard,7a707000-4c98-4eec-a8dd-d6104f161d49,"Venstre, Danmarks Liberale Parti",914ae6fd-98a6-4ed6-afd1-60ab809678ed,V,0
+10,Nordjylland,403594,Himmerland,708538,Strandby,2026-03-24 21:27:42,,Fintælling,471,480,Preben Bang Henriksen,0758b951-e315-4e48-953f-b02df372e671,"Venstre, Danmarks Liberale Parti",914ae6fd-98a6-4ed6-afd1-60ab809678ed,V,3
+10,Nordjylland,403594,Himmerland,708538,Strandby,2026-03-24 21:27:42,,Fintælling,471,480,Hans Jørgen Adamsen,b0b2dc89-e09d-497b-b1a9-fa2a479325b8,"Venstre, Danmarks Liberale Parti",914ae6fd-98a6-4ed6-afd1-60ab809678ed,V,0
+10,Nordjylland,403594,Himmerland,708538,Strandby,2026-03-24 21:27:42,,Fintælling,471,480,Marie Bjerre,993188f2-f693-4a51-830d-26537c938529,"Venstre, Danmarks Liberale Parti",914ae6fd-98a6-4ed6-afd1-60ab809678ed,V,53
+10,Nordjylland,403594,Himmerland,708538,Strandby,2026-03-24 21:27:42,,Fintælling,471,480,Torsten Schack Pedersen,30310dd9-720b-47bd-a2f3-d436b0a35cbb,"Venstre, Danmarks Liberale Parti",914ae6fd-98a6-4ed6-afd1-60ab809678ed,V,0
+10,Nordjylland,403594,Himmerland,708538,Strandby,2026-03-24 21:27:42,,Fintælling,471,480,Anita Vivi Lilholt,db1b602b-56d2-4b9c-96b6-58aefe2c5957,"Venstre, Danmarks Liberale Parti",914ae6fd-98a6-4ed6-afd1-60ab809678ed,V,0
+10,Nordjylland,403594,Himmerland,708538,Strandby,2026-03-24 21:27:42,,Fintælling,471,480,Mikkel Bisgaard,2b514a26-f63a-40e7-a0ed-b01d11347db4,"Venstre, Danmarks Liberale Parti",914ae6fd-98a6-4ed6-afd1-60ab809678ed,V,0
+10,Nordjylland,403594,Himmerland,708538,Strandby,2026-03-24 21:27:42,,Fintælling,471,480,Niels H. Bünemann,662825ff-c0cf-4c7d-9ca8-bd849c17a7f9,"Venstre, Danmarks Liberale Parti",914ae6fd-98a6-4ed6-afd1-60ab809678ed,V,0
+10,Nordjylland,403594,Himmerland,708538,Strandby,2026-03-24 21:27:42,,Fintælling,471,480,Phillip Sperling,44c32aaa-05cc-4703-a65c-ee0a6ee4e116,"Venstre, Danmarks Liberale Parti",914ae6fd-98a6-4ed6-afd1-60ab809678ed,V,0
+10,Nordjylland,403594,Himmerland,708538,Strandby,2026-03-24 21:27:42,,Fintælling,471,480,Dorthe Pedersen,62b6ba76-1004-4c34-b51d-a53946ea3e46,Det Konservative Folkeparti,2e08413e-1c5b-4029-8bce-eac0ebff6527,C,1
+10,Nordjylland,403594,Himmerland,708538,Strandby,2026-03-24 21:27:42,,Fintælling,471,480,Laura Holm,8d3452c8-2de7-4572-a713-f9ae06888c97,Det Konservative Folkeparti,2e08413e-1c5b-4029-8bce-eac0ebff6527,C,4
+10,Nordjylland,403594,Himmerland,708538,Strandby,2026-03-24 21:27:42,,Fintælling,471,480,Gabriel Aaen,c1b7e176-8f7a-4f0f-a898-90602a836d86,Det Konservative Folkeparti,2e08413e-1c5b-4029-8bce-eac0ebff6527,C,0
+10,Nordjylland,403594,Himmerland,708538,Strandby,2026-03-24 21:27:42,,Fintælling,471,480,Lene Burchardt,2375ab9a-69b5-4895-a061-15c279bab70e,Det Konservative Folkeparti,2e08413e-1c5b-4029-8bce-eac0ebff6527,C,0
+10,Nordjylland,403594,Himmerland,708538,Strandby,2026-03-24 21:27:42,,Fintælling,471,480,Stine Thier-Andersen,38ee6d04-8688-4c7c-af65-1e52884330e5,Det Konservative Folkeparti,2e08413e-1c5b-4029-8bce-eac0ebff6527,C,2
+10,Nordjylland,403594,Himmerland,708538,Strandby,2026-03-24 21:27:42,,Fintælling,471,480,Søren Homann,b37537e6-14fd-43fa-9fcd-f99664fb0913,Det Konservative Folkeparti,2e08413e-1c5b-4029-8bce-eac0ebff6527,C,0
+10,Nordjylland,403594,Himmerland,708538,Strandby,2026-03-24 21:27:42,,Fintælling,471,480,Per Larsen,bff0e296-6c3b-436c-a70c-e0294ae435ff,Det Konservative Folkeparti,2e08413e-1c5b-4029-8bce-eac0ebff6527,C,4
+10,Nordjylland,403594,Himmerland,708538,Strandby,2026-03-24 21:27:42,,Fintælling,471,480,René Flou,31d1ac0e-d972-45d5-ba52-f9d316dd0c00,Det Konservative Folkeparti,2e08413e-1c5b-4029-8bce-eac0ebff6527,C,0
+10,Nordjylland,403594,Himmerland,708538,Strandby,2026-03-24 21:27:42,,Fintælling,471,480,Sofie Therese Svendsen,8942a3e3-32db-4549-bda2-ee7aa0b2f876,Det Konservative Folkeparti,2e08413e-1c5b-4029-8bce-eac0ebff6527,C,0
+10,Nordjylland,403594,Himmerland,708538,Strandby,2026-03-24 21:27:42,,Fintælling,471,480,Morten Bo Bertelsen,34b17feb-f89d-481b-b82c-9fdaae99f3fa,SF - Socialistisk Folkeparti,fae32292-ff8f-4f27-8218-a9874603e759,F,0
+10,Nordjylland,403594,Himmerland,708538,Strandby,2026-03-24 21:27:42,,Fintælling,471,480,Peder Larsen,e54e0cb3-83c8-43c3-ab5c-71b7b67e8b1c,SF - Socialistisk Folkeparti,fae32292-ff8f-4f27-8218-a9874603e759,F,0
+10,Nordjylland,403594,Himmerland,708538,Strandby,2026-03-24 21:27:42,,Fintælling,471,480,Christina Lykke,3d9038f3-828e-4f10-b806-cfd0034dbc88,SF - Socialistisk Folkeparti,fae32292-ff8f-4f27-8218-a9874603e759,F,1
+10,Nordjylland,403594,Himmerland,708538,Strandby,2026-03-24 21:27:42,,Fintælling,471,480,Theresa Berg Andersen,77bd3a7e-211f-407f-97d5-a753268edf91,SF - Socialistisk Folkeparti,fae32292-ff8f-4f27-8218-a9874603e759,F,37
+10,Nordjylland,403594,Himmerland,708538,Strandby,2026-03-24 21:27:42,,Fintælling,471,480,Thomas Kjeldsen,95693353-b77f-4f44-aa23-7fd2529dd485,SF - Socialistisk Folkeparti,fae32292-ff8f-4f27-8218-a9874603e759,F,0
+10,Nordjylland,403594,Himmerland,708538,Strandby,2026-03-24 21:27:42,,Fintælling,471,480,Benjamin Christensen,dccb9fdb-ff5d-4301-91f5-a62418afec49,SF - Socialistisk Folkeparti,fae32292-ff8f-4f27-8218-a9874603e759,F,0
+10,Nordjylland,403594,Himmerland,708538,Strandby,2026-03-24 21:27:42,,Fintælling,471,480,Henning Jørgensen,8adff38d-ae1c-4489-a920-5b3ae482f681,SF - Socialistisk Folkeparti,fae32292-ff8f-4f27-8218-a9874603e759,F,0
+10,Nordjylland,403594,Himmerland,708538,Strandby,2026-03-24 21:27:42,,Fintælling,471,480,Melina Andersen,21de9649-0b2e-4460-9561-1c0cffcae726,SF - Socialistisk Folkeparti,fae32292-ff8f-4f27-8218-a9874603e759,F,0
+10,Nordjylland,403594,Himmerland,708538,Strandby,2026-03-24 21:27:42,,Fintælling,471,480,Dorte M. Nielsen,666a3331-7009-400b-b4db-4af8d4119e39,SF - Socialistisk Folkeparti,fae32292-ff8f-4f27-8218-a9874603e759,F,0
+10,Nordjylland,403594,Himmerland,708538,Strandby,2026-03-24 21:27:42,,Fintælling,471,480,Morten Arvidsson,fd711e66-98c9-46b2-905a-92042d866ae8,Moderaterne,30375f1d-ff52-4b0d-9964-7147844cd5e7,M,0
+10,Nordjylland,403594,Himmerland,708538,Strandby,2026-03-24 21:27:42,,Fintælling,471,480,Mohammad Rona,68e63ebf-b44f-4984-81a8-e4ea73426621,Moderaterne,30375f1d-ff52-4b0d-9964-7147844cd5e7,M,0
+10,Nordjylland,403594,Himmerland,708538,Strandby,2026-03-24 21:27:42,,Fintælling,471,480,Thomas Skovgaard,8d17b9fd-8833-4893-812d-5ea2238443e6,Moderaterne,30375f1d-ff52-4b0d-9964-7147844cd5e7,M,1
+10,Nordjylland,403594,Himmerland,708538,Strandby,2026-03-24 21:27:42,,Fintælling,471,480,Ditte Ravn Kaagaard,1c9545de-88ed-4a4b-9745-78702319ab3c,Moderaterne,30375f1d-ff52-4b0d-9964-7147844cd5e7,M,0
+10,Nordjylland,403594,Himmerland,708538,Strandby,2026-03-24 21:27:42,,Fintælling,471,480,Nikolaj C. Andersen,bbcb5d4a-302e-44ce-876b-cce28eaa9b05,Moderaterne,30375f1d-ff52-4b0d-9964-7147844cd5e7,M,1
+10,Nordjylland,403594,Himmerland,708538,Strandby,2026-03-24 21:27:42,,Fintælling,471,480,Line Randa,bb87e512-1898-4e54-9c2c-4416e7c9d755,Moderaterne,30375f1d-ff52-4b0d-9964-7147844cd5e7,M,1
+10,Nordjylland,403594,Himmerland,708538,Strandby,2026-03-24 21:27:42,,Fintælling,471,480,Kristian Bøgsted,6b22bc0c-0757-496f-aa94-f44d0c5807d9,Danmarksdemokraterne - Inger Støjberg,ffacb8b3-7f7b-4158-a1ee-c0be84a344c6,Æ,1
+10,Nordjylland,403594,Himmerland,708538,Strandby,2026-03-24 21:27:42,,Fintælling,471,480,Claus Skovmose,753cc83a-c643-40f9-a7c4-d71efe5ccb0b,Danmarksdemokraterne - Inger Støjberg,ffacb8b3-7f7b-4158-a1ee-c0be84a344c6,Æ,0
+10,Nordjylland,403594,Himmerland,708538,Strandby,2026-03-24 21:27:42,,Fintælling,471,480,Kim Edberg Andersen,6b919f8f-8d62-4140-86f9-33937b8040f0,Danmarksdemokraterne - Inger Støjberg,ffacb8b3-7f7b-4158-a1ee-c0be84a344c6,Æ,7
+10,Nordjylland,403594,Himmerland,708538,Strandby,2026-03-24 21:27:42,,Fintælling,471,480,Liselotte Lynge,05f63b74-3995-4ba6-b9e2-537f772f0113,Danmarksdemokraterne - Inger Støjberg,ffacb8b3-7f7b-4158-a1ee-c0be84a344c6,Æ,8
+10,Nordjylland,403594,Himmerland,708538,Strandby,2026-03-24 21:27:42,,Fintælling,471,480,Inger Støjberg,989621da-a905-4c33-bfee-a25505278c31,Danmarksdemokraterne - Inger Støjberg,ffacb8b3-7f7b-4158-a1ee-c0be84a344c6,Æ,43
+10,Nordjylland,403594,Himmerland,708538,Strandby,2026-03-24 21:27:42,,Fintælling,471,480,Frederik Storm,a74ab0f0-7dfa-46cd-a6a4-b8cf3da16829,Danmarksdemokraterne - Inger Støjberg,ffacb8b3-7f7b-4158-a1ee-c0be84a344c6,Æ,0
+10,Nordjylland,403594,Himmerland,708538,Strandby,2026-03-24 21:27:42,,Fintælling,471,480,Emma Houe Mølgaard,c269bde6-c2fb-4f18-872d-4e4950327fad,Dansk Folkeparti,1df39501-e08d-42e9-9804-eccf7b1f564a,O,1
+10,Nordjylland,403594,Himmerland,708538,Strandby,2026-03-24 21:27:42,,Fintælling,471,480,Jørgen Hammer Sørensen,7b526be5-3402-4709-9713-164eb070fc21,Dansk Folkeparti,1df39501-e08d-42e9-9804-eccf7b1f564a,O,2
+10,Nordjylland,403594,Himmerland,708538,Strandby,2026-03-24 21:27:42,,Fintælling,471,480,Anders Vistisen,ae98e4d5-27e4-47c1-88ce-9eee5cc2062a,Dansk Folkeparti,1df39501-e08d-42e9-9804-eccf7b1f564a,O,8
+10,Nordjylland,403594,Himmerland,708538,Strandby,2026-03-24 21:27:42,,Fintælling,471,480,Thomas Hjort,906ef228-780b-4a26-8e50-d2dce4a625e6,Dansk Folkeparti,1df39501-e08d-42e9-9804-eccf7b1f564a,O,0
+10,Nordjylland,403594,Himmerland,708538,Strandby,2026-03-24 21:27:42,,Fintælling,471,480,Danny Rosenkilde,f44e3d1a-0105-483d-836c-f7eb7986877d,Dansk Folkeparti,1df39501-e08d-42e9-9804-eccf7b1f564a,O,1
 9,Vestjylland,403589,Herning Nord,703474,Skibbild/Nøvling,2026-03-24 19:55:15,,ForeløbigOptælling,615,620,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,0
 9,Vestjylland,403605,Silkeborg Nord,705410,Sejs,2026-03-24 20:52:52,,ForeløbigOptælling,3186,3211,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,0
 8,Østjylland,403598,Randers Syd,702776,Ø. Bjerregrav Forsamlingshus,2026-03-24 20:59:08,,ForeløbigOptælling,1549,1573,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,2
@@ -626,6 +859,10 @@ storkreds_nummer,storkreds,opstillingskreds_dagi_id,opstillingskreds,afstemnings
 8,Østjylland,403585,Skanderborg,703392,"Hou, Gosmer - Halling",2026-03-24 20:35:19,,ForeløbigOptælling,1606,1620,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
 9,Vestjylland,403582,Skive,748881,Højslev,2026-03-24 20:54:23,,ForeløbigOptælling,2548,2585,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,0
 8,Østjylland,403602,Djurs,710826,Mørke,2026-03-24 20:13:18,,ForeløbigOptælling,2239,2278,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,1
+1,København,403566,Sundbyøster,706154,4. Syd,2026-03-24 21:33:12,,ForeløbigOptælling,6657,6741,Rasmus Paludan,1d7d5b81-c920-4131-97a1-4483eaba71f5,Udenfor parti,,UP,4
+1,København,403566,Sundbyøster,706154,4. Syd,2026-03-24 21:33:12,,ForeløbigOptælling,6657,6741,Theresa Scavenius,e54d925b-e78c-4bdd-ac35-3bd13e46b34c,Udenfor parti,,UP,24
+1,København,403566,Sundbyøster,706154,4. Syd,2026-03-24 21:33:12,,ForeløbigOptælling,6657,6741,Rashid Ali,c8f38fd1-fccc-48f9-b9e3-abd36a14a6e7,Udenfor parti,,UP,0
+1,København,403566,Sundbyøster,706154,4. Syd,2026-03-24 21:33:12,,ForeløbigOptælling,6657,6741,John Erik Wagner,480c6c23-1eba-4e71-9976-2cc29f94e006,Udenfor parti,,UP,1
 9,Vestjylland,403605,Silkeborg Nord,705416,Fårvang,2026-03-24 20:19:18,,ForeløbigOptælling,1116,1136,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,0
 8,Østjylland,403578,Horsens,712020,Søvind,2026-03-24 20:36:35,,ForeløbigOptælling,1220,1238,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
 9,Vestjylland,403589,Herning Nord,712074,Vildbjerg,2026-03-24 20:47:51,,ForeløbigOptælling,2801,2837,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,3
@@ -774,9 +1011,15 @@ storkreds_nummer,storkreds,opstillingskreds_dagi_id,opstillingskreds,afstemnings
 7,Sydjylland,403624,Esbjerg Omegn,703586,Mandø,2026-03-24 19:24:30,,Fintælling,31,31,Frederik Klakk,929b9b3c-bc5e-4771-b6ba-6a3030020a3f,Liberal Alliance,4d676beb-025b-4d42-ac5d-533d5130a6f3,I,0
 7,Sydjylland,403624,Esbjerg Omegn,703586,Mandø,2026-03-24 19:24:30,,Fintælling,31,31,Troels Simonsen,11bd91df-fbc6-4048-a3d6-a84a9ca1ded9,Liberal Alliance,4d676beb-025b-4d42-ac5d-533d5130a6f3,I,0
 7,Sydjylland,403624,Esbjerg Omegn,703586,Mandø,2026-03-24 19:24:30,,Fintælling,31,31,Carl Andersen,aedb8913-8a40-46f6-abd2-bb96bffdd5d4,Liberal Alliance,4d676beb-025b-4d42-ac5d-533d5130a6f3,I,0
+8,Østjylland,403604,Aarhus Øst,709972,"Bellevuehallerne, Risskov",2026-03-24 21:40:58,,ForeløbigOptælling,8854,8899,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,1
 9,Vestjylland,403580,Ringkøbing,707950,Troldhede,2026-03-24 19:49:00,,ForeløbigOptælling,715,727,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,1
 9,Vestjylland,403605,Silkeborg Nord,711288,Grauballe,2026-03-24 20:31:19,,ForeløbigOptælling,1001,1010,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,2
 8,Østjylland,403607,Aarhus Nord,705514,Folkehuset Trige,2026-03-24 20:33:49,,ForeløbigOptælling,2093,2121,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
+8,Østjylland,403607,Aarhus Nord,723742,"VIA University College, Aarhus C",2026-03-24 21:36:13,,ForeløbigOptælling,6395,6484,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,3
+1,København,403574,Vesterbro,706112,9. Syd,2026-03-24 21:35:28,,ForeløbigOptælling,4133,4188,Theresa Scavenius,e54d925b-e78c-4bdd-ac35-3bd13e46b34c,Udenfor parti,,UP,26
+1,København,403574,Vesterbro,706112,9. Syd,2026-03-24 21:35:28,,ForeløbigOptælling,4133,4188,Rashid Ali,c8f38fd1-fccc-48f9-b9e3-abd36a14a6e7,Udenfor parti,,UP,0
+1,København,403574,Vesterbro,706112,9. Syd,2026-03-24 21:35:28,,ForeløbigOptælling,4133,4188,Rasmus Paludan,1d7d5b81-c920-4131-97a1-4483eaba71f5,Udenfor parti,,UP,3
+1,København,403574,Vesterbro,706112,9. Syd,2026-03-24 21:35:28,,ForeløbigOptælling,4133,4188,John Erik Wagner,480c6c23-1eba-4e71-9976-2cc29f94e006,Udenfor parti,,UP,1
 9,Vestjylland,403597,Viborg Vest,708912,Frederiks,2026-03-24 20:09:32,,ForeløbigOptælling,1909,1935,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,33
 8,Østjylland,403607,Aarhus Nord,709952,"FrydenlundHUSET, Aarhus V",2026-03-24 21:00:23,,ForeløbigOptælling,6269,6358,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,4
 8,Østjylland,403585,Skanderborg,701640,Torrild,2026-03-24 20:33:34,,ForeløbigOptælling,303,306,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
@@ -786,15 +1029,25 @@ storkreds_nummer,storkreds,opstillingskreds_dagi_id,opstillingskreds,afstemnings
 1,København,403573,Indre By,711926,3. Indre By,2026-03-24 21:16:40,,ForeløbigOptælling,8206,8263,Theresa Scavenius,e54d925b-e78c-4bdd-ac35-3bd13e46b34c,Udenfor parti,,UP,31
 8,Østjylland,403586,Randers Nord,710316,Korshøjskolen,2026-03-24 21:12:40,,ForeløbigOptælling,1735,1759,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
 9,Vestjylland,403579,Holstebro,709372,Musikteatret,2026-03-24 20:54:37,,ForeløbigOptælling,11532,11690,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,12
+1,København,403565,Sundbyvester,706166,2. Nord,2026-03-24 21:36:58,,ForeløbigOptælling,5135,5202,Theresa Scavenius,e54d925b-e78c-4bdd-ac35-3bd13e46b34c,Udenfor parti,,UP,27
+1,København,403565,Sundbyvester,706166,2. Nord,2026-03-24 21:36:58,,ForeløbigOptælling,5135,5202,John Erik Wagner,480c6c23-1eba-4e71-9976-2cc29f94e006,Udenfor parti,,UP,1
+1,København,403565,Sundbyvester,706166,2. Nord,2026-03-24 21:36:58,,ForeløbigOptælling,5135,5202,Rashid Ali,c8f38fd1-fccc-48f9-b9e3-abd36a14a6e7,Udenfor parti,,UP,0
+1,København,403565,Sundbyvester,706166,2. Nord,2026-03-24 21:36:58,,ForeløbigOptælling,5135,5202,Rasmus Paludan,1d7d5b81-c920-4131-97a1-4483eaba71f5,Udenfor parti,,UP,0
 9,Vestjylland,403579,Holstebro,703338,Mejrup,2026-03-24 20:35:35,,ForeløbigOptælling,3492,3530,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,0
 8,Østjylland,403585,Skanderborg,706674,Stjær,2026-03-24 20:28:19,,ForeløbigOptælling,1465,1477,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
 8,Østjylland,403608,Aarhus Vest,710040,"Skjoldhøjskolen, Tilst",2026-03-24 20:14:17,,ForeløbigOptælling,3241,3276,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,3
 9,Vestjylland,403597,Viborg Vest,702932,Viborg,2026-03-24 21:10:09,,ForeløbigOptælling,18194,18471,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,14
+8,Østjylland,403603,Favrskov,709596,Haldum-Hinnerup/Vitten,2026-03-24 21:40:13,,ForeløbigOptælling,3421,3451,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,1
 9,Vestjylland,403606,Silkeborg Syd,700796,Virklund,2026-03-24 20:36:20,,ForeløbigOptælling,2624,2651,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,0
 8,Østjylland,403598,Randers Syd,702770,Hobrovejens Skole,2026-03-24 20:54:52,,ForeløbigOptælling,2126,2174,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
 9,Vestjylland,403606,Silkeborg Syd,702046,Alderslyst,2026-03-24 20:49:06,,ForeløbigOptælling,2653,2689,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,0
 8,Østjylland,403598,Randers Syd,702716,Romalt Aktivitetshal,2026-03-24 20:45:21,,ForeløbigOptælling,2624,2652,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
+8,Østjylland,403578,Horsens,704998,Vestbyen,2026-03-24 21:36:43,,ForeløbigOptælling,3268,3332,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,2
 9,Vestjylland,403597,Viborg Vest,704480,Vridsted,2026-03-24 20:17:47,,ForeløbigOptælling,1381,1394,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,1
+1,København,403567,Nørrebro,704962,5. Øst,2026-03-24 21:37:28,,ForeløbigOptælling,5886,5922,Rashid Ali,c8f38fd1-fccc-48f9-b9e3-abd36a14a6e7,Udenfor parti,,UP,0
+1,København,403567,Nørrebro,704962,5. Øst,2026-03-24 21:37:28,,ForeløbigOptælling,5886,5922,Rasmus Paludan,1d7d5b81-c920-4131-97a1-4483eaba71f5,Udenfor parti,,UP,0
+1,København,403567,Nørrebro,704962,5. Øst,2026-03-24 21:37:28,,ForeløbigOptælling,5886,5922,John Erik Wagner,480c6c23-1eba-4e71-9976-2cc29f94e006,Udenfor parti,,UP,0
+1,København,403567,Nørrebro,704962,5. Øst,2026-03-24 21:37:28,,ForeløbigOptælling,5886,5922,Theresa Scavenius,e54d925b-e78c-4bdd-ac35-3bd13e46b34c,Udenfor parti,,UP,23
 9,Vestjylland,403606,Silkeborg Syd,711242,Vestergadehallen,2026-03-24 21:13:40,,ForeløbigOptælling,9544,9665,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,0
 8,Østjylland,403598,Randers Syd,701178,Jebjerg Forsamlingshus,2026-03-24 20:30:49,,ForeløbigOptælling,562,568,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
 9,Vestjylland,403601,Viborg Øst,701488,Hammershøj,2026-03-24 20:33:19,,ForeløbigOptælling,1430,1459,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,2
@@ -809,125 +1062,233 @@ storkreds_nummer,storkreds,opstillingskreds_dagi_id,opstillingskreds,afstemnings
 8,Østjylland,403602,Djurs,711952,Ryomgård,2026-03-24 20:38:05,,ForeløbigOptælling,3022,3056,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,1
 8,Østjylland,403586,Randers Nord,710340,Blicherskolen,2026-03-24 21:00:38,,ForeløbigOptælling,1705,1726,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
 8,Østjylland,403598,Randers Syd,707204,Uggelhuse Forsamlingshus,2026-03-24 21:14:55,,ForeløbigOptælling,613,624,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,1
+1,København,403575,Brønshøj,701626,7. Rødkilde,2026-03-24 21:28:42,,ForeløbigOptælling,7916,8019,Rasmus Paludan,1d7d5b81-c920-4131-97a1-4483eaba71f5,Udenfor parti,,UP,1
+1,København,403575,Brønshøj,701626,7. Rødkilde,2026-03-24 21:28:42,,ForeløbigOptælling,7916,8019,Theresa Scavenius,e54d925b-e78c-4bdd-ac35-3bd13e46b34c,Udenfor parti,,UP,26
+1,København,403575,Brønshøj,701626,7. Rødkilde,2026-03-24 21:28:42,,ForeløbigOptælling,7916,8019,Rashid Ali,c8f38fd1-fccc-48f9-b9e3-abd36a14a6e7,Udenfor parti,,UP,0
+1,København,403575,Brønshøj,701626,7. Rødkilde,2026-03-24 21:28:42,,ForeløbigOptælling,7916,8019,John Erik Wagner,480c6c23-1eba-4e71-9976-2cc29f94e006,Udenfor parti,,UP,1
 9,Vestjylland,403580,Ringkøbing,712176,Hvide Sande,2026-03-24 20:04:16,,ForeløbigOptælling,1810,1840,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,2
 8,Østjylland,403585,Skanderborg,709400,Randlev - Bjerager,2026-03-24 20:42:05,,ForeløbigOptælling,870,878,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
 9,Vestjylland,403588,Struer,706550,Thyborøn,2026-03-24 20:39:36,,ForeløbigOptælling,1111,1122,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,0
 8,Østjylland,403585,Skanderborg,703790,Ry,2026-03-24 21:20:56,,ForeløbigOptælling,5595,5653,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,1
 8,Østjylland,403585,Skanderborg,704968,Gylling,2026-03-24 20:49:51,,ForeløbigOptælling,680,692,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
+8,Østjylland,403607,Aarhus Nord,708530,"Skovvangskolen, Aarhus N",2026-03-24 21:26:27,,ForeløbigOptælling,9813,9923,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,1
 9,Vestjylland,403605,Silkeborg Nord,705446,Voel,2026-03-24 20:31:49,,ForeløbigOptælling,1461,1492,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,0
 8,Østjylland,403585,Skanderborg,703796,Stilling,2026-03-24 21:05:09,,ForeløbigOptælling,3261,3297,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,2
 9,Vestjylland,403579,Holstebro,701564,Vinderup,2026-03-24 20:21:18,,ForeløbigOptælling,3381,3441,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,1
 8,Østjylland,403602,Djurs,709078,Kulturhuset Pavillonen,2026-03-24 21:03:53,,ForeløbigOptælling,5793,5860,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
-10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:24:26,,Fintælling,5925,5991,Morten Bo Bertelsen,34b17feb-f89d-481b-b82c-9fdaae99f3fa,SF - Socialistisk Folkeparti,fae32292-ff8f-4f27-8218-a9874603e759,F,2
-10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:24:26,,Fintælling,5925,5991,Christina Lykke,3d9038f3-828e-4f10-b806-cfd0034dbc88,SF - Socialistisk Folkeparti,fae32292-ff8f-4f27-8218-a9874603e759,F,3
-10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:24:26,,Fintælling,5925,5991,Theresa Berg Andersen,77bd3a7e-211f-407f-97d5-a753268edf91,SF - Socialistisk Folkeparti,fae32292-ff8f-4f27-8218-a9874603e759,F,372
-10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:24:26,,Fintælling,5925,5991,Melina Andersen,21de9649-0b2e-4460-9561-1c0cffcae726,SF - Socialistisk Folkeparti,fae32292-ff8f-4f27-8218-a9874603e759,F,7
-10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:24:26,,Fintælling,5925,5991,Dorte M. Nielsen,666a3331-7009-400b-b4db-4af8d4119e39,SF - Socialistisk Folkeparti,fae32292-ff8f-4f27-8218-a9874603e759,F,0
-10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:24:26,,Fintælling,5925,5991,Peder Larsen,e54e0cb3-83c8-43c3-ab5c-71b7b67e8b1c,SF - Socialistisk Folkeparti,fae32292-ff8f-4f27-8218-a9874603e759,F,1
-10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:24:26,,Fintælling,5925,5991,Thomas Kjeldsen,95693353-b77f-4f44-aa23-7fd2529dd485,SF - Socialistisk Folkeparti,fae32292-ff8f-4f27-8218-a9874603e759,F,0
-10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:24:26,,Fintælling,5925,5991,Henning Jørgensen,8adff38d-ae1c-4489-a920-5b3ae482f681,SF - Socialistisk Folkeparti,fae32292-ff8f-4f27-8218-a9874603e759,F,0
-10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:24:26,,Fintælling,5925,5991,Benjamin Christensen,dccb9fdb-ff5d-4301-91f5-a62418afec49,SF - Socialistisk Folkeparti,fae32292-ff8f-4f27-8218-a9874603e759,F,4
-10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:24:26,,Fintælling,5925,5991,Simon Kollerup,140747cb-6f5c-46cc-92a0-eb5e05a0b8a2,Socialdemokratiet,2f487db9-0663-429f-a4ec-081ae701723d,A,16
-10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:24:26,,Fintælling,5925,5991,Kiki Bille Bach,e28fa96f-219b-46b7-a7a1-0e07fc9e13ec,Socialdemokratiet,2f487db9-0663-429f-a4ec-081ae701723d,A,13
-10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:24:26,,Fintælling,5925,5991,Flemming Møller Mortensen,19e79b7a-0a94-49ed-bf13-df4f3cd9e84d,Socialdemokratiet,2f487db9-0663-429f-a4ec-081ae701723d,A,353
-10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:24:26,,Fintælling,5925,5991,Mette Frederiksen,b5c7ab7e-81a8-4b8a-ae5a-a722b7645411,Socialdemokratiet,2f487db9-0663-429f-a4ec-081ae701723d,A,542
-10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:24:26,,Fintælling,5925,5991,Ane Halsboe-Jørgensen,f2dafd4b-f306-4e60-afca-3e7e3f5d58b0,Socialdemokratiet,2f487db9-0663-429f-a4ec-081ae701723d,A,41
-10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:24:26,,Fintælling,5925,5991,Per Husted,881c2ccb-cf75-469a-a922-3921b5962920,Socialdemokratiet,2f487db9-0663-429f-a4ec-081ae701723d,A,16
-10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:24:26,,Fintælling,5925,5991,Morten Ryom,bd3c7373-029b-4800-bdd1-124e5645321d,Socialdemokratiet,2f487db9-0663-429f-a4ec-081ae701723d,A,9
-10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:24:26,,Fintælling,5925,5991,Peder Key Kristiansen,856e5dd0-ef30-4ce9-b92e-d23bd07ba3d4,Socialdemokratiet,2f487db9-0663-429f-a4ec-081ae701723d,A,7
-10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:24:26,,Fintælling,5925,5991,Thomas Klimek,fe64db94-2bbe-4280-8c50-aa02a5272f7e,Socialdemokratiet,2f487db9-0663-429f-a4ec-081ae701723d,A,14
-10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:24:26,,Fintælling,5925,5991,Emma Houe Mølgaard,c269bde6-c2fb-4f18-872d-4e4950327fad,Dansk Folkeparti,1df39501-e08d-42e9-9804-eccf7b1f564a,O,5
-10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:24:26,,Fintælling,5925,5991,Anders Vistisen,ae98e4d5-27e4-47c1-88ce-9eee5cc2062a,Dansk Folkeparti,1df39501-e08d-42e9-9804-eccf7b1f564a,O,47
-10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:24:26,,Fintælling,5925,5991,Danny Rosenkilde,f44e3d1a-0105-483d-836c-f7eb7986877d,Dansk Folkeparti,1df39501-e08d-42e9-9804-eccf7b1f564a,O,11
-10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:24:26,,Fintælling,5925,5991,Jørgen Hammer Sørensen,7b526be5-3402-4709-9713-164eb070fc21,Dansk Folkeparti,1df39501-e08d-42e9-9804-eccf7b1f564a,O,8
-10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:24:26,,Fintælling,5925,5991,Thomas Hjort,906ef228-780b-4a26-8e50-d2dce4a625e6,Dansk Folkeparti,1df39501-e08d-42e9-9804-eccf7b1f564a,O,5
-10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:24:26,,Fintælling,5925,5991,Lene Burchardt,2375ab9a-69b5-4895-a061-15c279bab70e,Det Konservative Folkeparti,2e08413e-1c5b-4029-8bce-eac0ebff6527,C,11
-10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:24:26,,Fintælling,5925,5991,Gabriel Aaen,c1b7e176-8f7a-4f0f-a898-90602a836d86,Det Konservative Folkeparti,2e08413e-1c5b-4029-8bce-eac0ebff6527,C,0
-10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:24:26,,Fintælling,5925,5991,René Flou,31d1ac0e-d972-45d5-ba52-f9d316dd0c00,Det Konservative Folkeparti,2e08413e-1c5b-4029-8bce-eac0ebff6527,C,5
-10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:24:26,,Fintælling,5925,5991,Laura Holm,8d3452c8-2de7-4572-a713-f9ae06888c97,Det Konservative Folkeparti,2e08413e-1c5b-4029-8bce-eac0ebff6527,C,76
-10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:24:26,,Fintælling,5925,5991,Sofie Therese Svendsen,8942a3e3-32db-4549-bda2-ee7aa0b2f876,Det Konservative Folkeparti,2e08413e-1c5b-4029-8bce-eac0ebff6527,C,13
-10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:24:26,,Fintælling,5925,5991,Dorthe Pedersen,62b6ba76-1004-4c34-b51d-a53946ea3e46,Det Konservative Folkeparti,2e08413e-1c5b-4029-8bce-eac0ebff6527,C,2
-10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:24:26,,Fintælling,5925,5991,Stine Thier-Andersen,38ee6d04-8688-4c7c-af65-1e52884330e5,Det Konservative Folkeparti,2e08413e-1c5b-4029-8bce-eac0ebff6527,C,6
-10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:24:26,,Fintælling,5925,5991,Søren Homann,b37537e6-14fd-43fa-9fcd-f99664fb0913,Det Konservative Folkeparti,2e08413e-1c5b-4029-8bce-eac0ebff6527,C,7
-10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:24:26,,Fintælling,5925,5991,Per Larsen,bff0e296-6c3b-436c-a70c-e0294ae435ff,Det Konservative Folkeparti,2e08413e-1c5b-4029-8bce-eac0ebff6527,C,36
-10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:24:26,,Fintælling,5925,5991,Anette Jensen Smith,72d2f3bf-20d6-41ab-97b8-705f5ec4590d,Alternativet,c01e1c81-e8eb-4f3d-ac55-de9279740a0e,Å,3
-10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:24:26,,Fintælling,5925,5991,Emil Sloth,0f69ef7c-9e5f-4445-b230-1f21c37e1364,Alternativet,c01e1c81-e8eb-4f3d-ac55-de9279740a0e,Å,0
-10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:24:26,,Fintælling,5925,5991,Anna Bjerre,f25991d7-5b09-4982-a73d-4977a9e9b444,Alternativet,c01e1c81-e8eb-4f3d-ac55-de9279740a0e,Å,3
-10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:24:26,,Fintælling,5925,5991,Anne-Marie Hemmeth,64bd15be-b479-4b07-8a6e-32e7be59f208,Alternativet,c01e1c81-e8eb-4f3d-ac55-de9279740a0e,Å,1
-10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:24:26,,Fintælling,5925,5991,Lukas Vestergaard,f4c03d74-68c6-4424-aa8f-a096ebabeb7b,Liberal Alliance,4d676beb-025b-4d42-ac5d-533d5130a6f3,I,1
-10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:24:26,,Fintælling,5925,5991,Peter Larsen,b83c25b1-b616-4bb3-a224-255732ca4df3,Liberal Alliance,4d676beb-025b-4d42-ac5d-533d5130a6f3,I,5
-10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:24:26,,Fintælling,5925,5991,Sara Tvilling,61bdb412-b382-4a91-9fc1-2e4198b075ff,Liberal Alliance,4d676beb-025b-4d42-ac5d-533d5130a6f3,I,0
-10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:24:26,,Fintælling,5925,5991,Rikke Olssen,17be0de0-19de-4541-852f-6d3d0417f133,Liberal Alliance,4d676beb-025b-4d42-ac5d-533d5130a6f3,I,2
-10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:24:26,,Fintælling,5925,5991,Thomas Heuniche,9a9f63ad-cc8e-4736-8e94-3fcc5bdca6f5,Liberal Alliance,4d676beb-025b-4d42-ac5d-533d5130a6f3,I,0
-10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:24:26,,Fintælling,5925,5991,Kenneth Skatka Hammer,ad67f286-4edd-46aa-885f-24a79aa61665,Liberal Alliance,4d676beb-025b-4d42-ac5d-533d5130a6f3,I,13
-10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:24:26,,Fintælling,5925,5991,Thomas Christiansen,238ba30e-67a9-4e0b-b0ad-424c5eb14297,Liberal Alliance,4d676beb-025b-4d42-ac5d-533d5130a6f3,I,0
-10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:24:26,,Fintælling,5925,5991,Dan Gaardboe Rueskov,0d4d1fbc-4342-4036-b4af-38accb951d1f,Liberal Alliance,4d676beb-025b-4d42-ac5d-533d5130a6f3,I,0
-10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:24:26,,Fintælling,5925,5991,Anders Peter Hansen,1c433024-5749-460c-8d0d-fedfd31083d7,Liberal Alliance,4d676beb-025b-4d42-ac5d-533d5130a6f3,I,1
-10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:24:26,,Fintælling,5925,5991,HP Beck,ee0f1264-cfb2-47b3-914d-8b809903e66e,Liberal Alliance,4d676beb-025b-4d42-ac5d-533d5130a6f3,I,6
-10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:24:26,,Fintælling,5925,5991,Sólbjørg Jakobsen,4d09f65f-946b-427d-b808-4eafdc773dd6,Liberal Alliance,4d676beb-025b-4d42-ac5d-533d5130a6f3,I,119
-10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:24:26,,Fintælling,5925,5991,Mark Hellerup,a2cd9472-35a8-49fc-91b6-390b596975b9,Liberal Alliance,4d676beb-025b-4d42-ac5d-533d5130a6f3,I,3
-10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:24:26,,Fintælling,5925,5991,Bo Ritterbusch,899c170d-4ae7-48df-8a15-807b00c6c9a4,Liberal Alliance,4d676beb-025b-4d42-ac5d-533d5130a6f3,I,9
-10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:24:26,,Fintælling,5925,5991,Kim Gaarsdahl,d5e40703-4f77-4e1b-9dd2-95567f8d0a35,Liberal Alliance,4d676beb-025b-4d42-ac5d-533d5130a6f3,I,0
-10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:24:26,,Fintælling,5925,5991,Kresten Solvang Larsen,b3fc530e-dd6b-4892-a750-f5a16461684c,Liberal Alliance,4d676beb-025b-4d42-ac5d-533d5130a6f3,I,0
-10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:24:26,,Fintælling,5925,5991,Frederik Blicher Pedersen,aea56faf-ae89-4cf2-a07c-c8fdaf9f3e77,Liberal Alliance,4d676beb-025b-4d42-ac5d-533d5130a6f3,I,3
-10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:24:26,,Fintælling,5925,5991,Jimmy Abel Nielsen,6cbc7bd9-666c-4ec3-8f0b-0823fbab33d2,Liberal Alliance,4d676beb-025b-4d42-ac5d-533d5130a6f3,I,0
-10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:24:26,,Fintælling,5925,5991,Claus Beck,b1b0c84a-fbe3-4089-96b1-13f879364113,Liberal Alliance,4d676beb-025b-4d42-ac5d-533d5130a6f3,I,2
-10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:24:26,,Fintælling,5925,5991,Torsten Schack Pedersen,30310dd9-720b-47bd-a2f3-d436b0a35cbb,"Venstre, Danmarks Liberale Parti",914ae6fd-98a6-4ed6-afd1-60ab809678ed,V,5
-10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:24:26,,Fintælling,5925,5991,Anita Vivi Lilholt,db1b602b-56d2-4b9c-96b6-58aefe2c5957,"Venstre, Danmarks Liberale Parti",914ae6fd-98a6-4ed6-afd1-60ab809678ed,V,0
-10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:24:26,,Fintælling,5925,5991,Preben Bang Henriksen,0758b951-e315-4e48-953f-b02df372e671,"Venstre, Danmarks Liberale Parti",914ae6fd-98a6-4ed6-afd1-60ab809678ed,V,139
-10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:24:26,,Fintælling,5925,5991,Niels H. Bünemann,662825ff-c0cf-4c7d-9ca8-bd849c17a7f9,"Venstre, Danmarks Liberale Parti",914ae6fd-98a6-4ed6-afd1-60ab809678ed,V,1
-10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:24:26,,Fintælling,5925,5991,Marie Bjerre,993188f2-f693-4a51-830d-26537c938529,"Venstre, Danmarks Liberale Parti",914ae6fd-98a6-4ed6-afd1-60ab809678ed,V,915
-10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:24:26,,Fintælling,5925,5991,Anne Honoré Østergaard,7a707000-4c98-4eec-a8dd-d6104f161d49,"Venstre, Danmarks Liberale Parti",914ae6fd-98a6-4ed6-afd1-60ab809678ed,V,6
-10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:24:26,,Fintælling,5925,5991,Phillip Sperling,44c32aaa-05cc-4703-a65c-ee0a6ee4e116,"Venstre, Danmarks Liberale Parti",914ae6fd-98a6-4ed6-afd1-60ab809678ed,V,2
-10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:24:26,,Fintælling,5925,5991,Mikkel Bisgaard,2b514a26-f63a-40e7-a0ed-b01d11347db4,"Venstre, Danmarks Liberale Parti",914ae6fd-98a6-4ed6-afd1-60ab809678ed,V,6
-10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:24:26,,Fintælling,5925,5991,Hans Jørgen Adamsen,b0b2dc89-e09d-497b-b1a9-fa2a479325b8,"Venstre, Danmarks Liberale Parti",914ae6fd-98a6-4ed6-afd1-60ab809678ed,V,1
-10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:24:26,,Fintælling,5925,5991,Mohammad Rona,68e63ebf-b44f-4984-81a8-e4ea73426621,Moderaterne,30375f1d-ff52-4b0d-9964-7147844cd5e7,M,23
-10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:24:26,,Fintælling,5925,5991,Line Randa,bb87e512-1898-4e54-9c2c-4416e7c9d755,Moderaterne,30375f1d-ff52-4b0d-9964-7147844cd5e7,M,9
-10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:24:26,,Fintælling,5925,5991,Nikolaj C. Andersen,bbcb5d4a-302e-44ce-876b-cce28eaa9b05,Moderaterne,30375f1d-ff52-4b0d-9964-7147844cd5e7,M,2
-10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:24:26,,Fintælling,5925,5991,Ditte Ravn Kaagaard,1c9545de-88ed-4a4b-9745-78702319ab3c,Moderaterne,30375f1d-ff52-4b0d-9964-7147844cd5e7,M,5
-10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:24:26,,Fintælling,5925,5991,Thomas Skovgaard,8d17b9fd-8833-4893-812d-5ea2238443e6,Moderaterne,30375f1d-ff52-4b0d-9964-7147844cd5e7,M,4
-10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:24:26,,Fintælling,5925,5991,Morten Arvidsson,fd711e66-98c9-46b2-905a-92042d866ae8,Moderaterne,30375f1d-ff52-4b0d-9964-7147844cd5e7,M,0
-10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:24:26,,Fintælling,5925,5991,Inger Støjberg,989621da-a905-4c33-bfee-a25505278c31,Danmarksdemokraterne - Inger Støjberg,ffacb8b3-7f7b-4158-a1ee-c0be84a344c6,Æ,488
-10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:24:26,,Fintælling,5925,5991,Kim Edberg Andersen,6b919f8f-8d62-4140-86f9-33937b8040f0,Danmarksdemokraterne - Inger Støjberg,ffacb8b3-7f7b-4158-a1ee-c0be84a344c6,Æ,30
-10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:24:26,,Fintælling,5925,5991,Claus Skovmose,753cc83a-c643-40f9-a7c4-d71efe5ccb0b,Danmarksdemokraterne - Inger Støjberg,ffacb8b3-7f7b-4158-a1ee-c0be84a344c6,Æ,4
-10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:24:26,,Fintælling,5925,5991,Kristian Bøgsted,6b22bc0c-0757-496f-aa94-f44d0c5807d9,Danmarksdemokraterne - Inger Støjberg,ffacb8b3-7f7b-4158-a1ee-c0be84a344c6,Æ,5
-10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:24:26,,Fintælling,5925,5991,Frederik Storm,a74ab0f0-7dfa-46cd-a6a4-b8cf3da16829,Danmarksdemokraterne - Inger Støjberg,ffacb8b3-7f7b-4158-a1ee-c0be84a344c6,Æ,0
-10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:24:26,,Fintælling,5925,5991,Liselotte Lynge,05f63b74-3995-4ba6-b9e2-537f772f0113,Danmarksdemokraterne - Inger Støjberg,ffacb8b3-7f7b-4158-a1ee-c0be84a344c6,Æ,48
-10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:24:26,,Fintælling,5925,5991,Lasse Mejer Petersen,516fe917-b539-4465-80e4-0ff1793b4b5d,Enhedslisten - De Rød-Grønne,8bb64864-5728-41db-af00-6234795cf340,Ø,0
-10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:24:26,,Fintælling,5925,5991,Christina Eilers,a31423ed-b013-4aee-8259-20d69fa1063a,Enhedslisten - De Rød-Grønne,8bb64864-5728-41db-af00-6234795cf340,Ø,0
-10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:24:26,,Fintælling,5925,5991,Berit Raldin,427a562b-7183-4da5-af03-19d427fe4517,Enhedslisten - De Rød-Grønne,8bb64864-5728-41db-af00-6234795cf340,Ø,3
-10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:24:26,,Fintælling,5925,5991,Filippa Emilie Vittrup,9a3bbc7a-425c-415f-80d1-2c394196bbba,Enhedslisten - De Rød-Grønne,8bb64864-5728-41db-af00-6234795cf340,Ø,10
-10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:24:26,,Fintælling,5925,5991,Peder Hvelplund,c760fc1f-f202-4a2e-9b8b-e87b06ea0ac8,Enhedslisten - De Rød-Grønne,8bb64864-5728-41db-af00-6234795cf340,Ø,13
-10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:24:26,,Fintælling,5925,5991,Lasse Olsen,6d6e5283-b34b-498a-8e62-68c2fbbd9fc3,Enhedslisten - De Rød-Grønne,8bb64864-5728-41db-af00-6234795cf340,Ø,0
-10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:24:26,,Fintælling,5925,5991,Runa Friis Hansen,458ad11b-1c4d-4481-b343-e4c834918695,Enhedslisten - De Rød-Grønne,8bb64864-5728-41db-af00-6234795cf340,Ø,0
-10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:24:26,,Fintælling,5925,5991,Ulrik Appel,2c964d98-e7e3-4391-a6ea-7d09518214ea,Enhedslisten - De Rød-Grønne,8bb64864-5728-41db-af00-6234795cf340,Ø,2
-10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:24:26,,Fintælling,5925,5991,Hans Jensen,a18c72af-84f0-4651-a776-b8af8009da87,Enhedslisten - De Rød-Grønne,8bb64864-5728-41db-af00-6234795cf340,Ø,0
-10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:24:26,,Fintælling,5925,5991,Ib Poulsen,a37abf77-5eff-4633-b972-ae9c4e059dcb,Borgernes Parti - Lars Boje Mathiesen,89ee100e-d4d6-43b5-83c5-edd5dd02c1fd,H,4
-10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:24:26,,Fintælling,5925,5991,Arne Hyldgaard,5b2379cc-2f0d-48bd-be13-faa26c048d6d,Borgernes Parti - Lars Boje Mathiesen,89ee100e-d4d6-43b5-83c5-edd5dd02c1fd,H,4
-10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:24:26,,Fintælling,5925,5991,Niels Christensen,6f191a67-ad11-4e2d-98ad-b6ed5e89c960,Borgernes Parti - Lars Boje Mathiesen,89ee100e-d4d6-43b5-83c5-edd5dd02c1fd,H,12
-10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:24:26,,Fintælling,5925,5991,John Bjerg,632c4662-be00-43bc-9526-a0321edf2630,Borgernes Parti - Lars Boje Mathiesen,89ee100e-d4d6-43b5-83c5-edd5dd02c1fd,H,4
-10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:24:26,,Fintælling,5925,5991,Paulina Laparil,d7d1680a-b84c-4962-a230-f9974322d422,Borgernes Parti - Lars Boje Mathiesen,89ee100e-d4d6-43b5-83c5-edd5dd02c1fd,H,2
-10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:24:26,,Fintælling,5925,5991,Michael Portefee P. Lex,75232c60-e469-471e-94f9-cac47c7d3179,Radikale Venstre,93a1aa01-2897-474b-8604-a1326c9b3948,B,0
-10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:24:26,,Fintælling,5925,5991,Susanne Krebs,0311539a-0d56-4371-a9fc-1679dab0fd50,Radikale Venstre,93a1aa01-2897-474b-8604-a1326c9b3948,B,0
-10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:24:26,,Fintælling,5925,5991,Dorthe Kerschus,4c24378b-19ee-4139-9185-f16cf802eb0d,Radikale Venstre,93a1aa01-2897-474b-8604-a1326c9b3948,B,1
-10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:24:26,,Fintælling,5925,5991,Marie Wandel,f9744383-5a6a-4679-997f-938926c20ac5,Radikale Venstre,93a1aa01-2897-474b-8604-a1326c9b3948,B,2
-10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:24:26,,Fintælling,5925,5991,Jacob Robsøe,3b7cbe1e-7456-4297-87fc-7c4b645bcc8d,Radikale Venstre,93a1aa01-2897-474b-8604-a1326c9b3948,B,3
-10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:24:26,,Fintælling,5925,5991,Carsten Bedsted,058dd243-c317-47f8-abf0-fe0c7082aa1b,Radikale Venstre,93a1aa01-2897-474b-8604-a1326c9b3948,B,0
-10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:24:26,,Fintælling,5925,5991,Gorm Simonsen,27e9a47d-36d7-4268-bf41-22707c8d5d5a,Radikale Venstre,93a1aa01-2897-474b-8604-a1326c9b3948,B,0
-10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:24:26,,Fintælling,5925,5991,Steffen Holme Helledie,2a994bc7-0f5c-4dd3-9e4b-19716646407a,Radikale Venstre,93a1aa01-2897-474b-8604-a1326c9b3948,B,4
-10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:24:26,,Fintælling,5925,5991,Emma Biørn Tretow-Fish,2ec5966e-988c-4b43-aca4-d52d0d91217a,Radikale Venstre,93a1aa01-2897-474b-8604-a1326c9b3948,B,4
-10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:24:26,,Fintælling,5925,5991,Torsten Wetche,9b088dd5-326f-4a7c-90b4-9c4b51cfcba2,Radikale Venstre,93a1aa01-2897-474b-8604-a1326c9b3948,B,32
-10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:24:26,,Fintælling,5925,5991,Pia Elberg,294d76c1-7223-43dc-ab7f-77719fbf7e29,Radikale Venstre,93a1aa01-2897-474b-8604-a1326c9b3948,B,3
-10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:24:26,,Fintælling,5925,5991,Steen Asgeir Petersen,5027ef69-1a93-415a-9146-fbe6726540da,Radikale Venstre,93a1aa01-2897-474b-8604-a1326c9b3948,B,1
+10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:29:57,,Fintælling,5925,5991,Christina Lykke,3d9038f3-828e-4f10-b806-cfd0034dbc88,SF - Socialistisk Folkeparti,fae32292-ff8f-4f27-8218-a9874603e759,F,3
+10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:29:57,,Fintælling,5925,5991,Theresa Berg Andersen,77bd3a7e-211f-407f-97d5-a753268edf91,SF - Socialistisk Folkeparti,fae32292-ff8f-4f27-8218-a9874603e759,F,372
+10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:29:57,,Fintælling,5925,5991,Dorte M. Nielsen,666a3331-7009-400b-b4db-4af8d4119e39,SF - Socialistisk Folkeparti,fae32292-ff8f-4f27-8218-a9874603e759,F,0
+10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:29:57,,Fintælling,5925,5991,Henning Jørgensen,8adff38d-ae1c-4489-a920-5b3ae482f681,SF - Socialistisk Folkeparti,fae32292-ff8f-4f27-8218-a9874603e759,F,0
+10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:29:57,,Fintælling,5925,5991,Thomas Kjeldsen,95693353-b77f-4f44-aa23-7fd2529dd485,SF - Socialistisk Folkeparti,fae32292-ff8f-4f27-8218-a9874603e759,F,0
+10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:29:57,,Fintælling,5925,5991,Melina Andersen,21de9649-0b2e-4460-9561-1c0cffcae726,SF - Socialistisk Folkeparti,fae32292-ff8f-4f27-8218-a9874603e759,F,7
+10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:29:57,,Fintælling,5925,5991,Morten Bo Bertelsen,34b17feb-f89d-481b-b82c-9fdaae99f3fa,SF - Socialistisk Folkeparti,fae32292-ff8f-4f27-8218-a9874603e759,F,2
+10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:29:57,,Fintælling,5925,5991,Peder Larsen,e54e0cb3-83c8-43c3-ab5c-71b7b67e8b1c,SF - Socialistisk Folkeparti,fae32292-ff8f-4f27-8218-a9874603e759,F,1
+10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:29:57,,Fintælling,5925,5991,Benjamin Christensen,dccb9fdb-ff5d-4301-91f5-a62418afec49,SF - Socialistisk Folkeparti,fae32292-ff8f-4f27-8218-a9874603e759,F,4
+10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:29:57,,Fintælling,5925,5991,Kiki Bille Bach,e28fa96f-219b-46b7-a7a1-0e07fc9e13ec,Socialdemokratiet,2f487db9-0663-429f-a4ec-081ae701723d,A,13
+10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:29:57,,Fintælling,5925,5991,Flemming Møller Mortensen,19e79b7a-0a94-49ed-bf13-df4f3cd9e84d,Socialdemokratiet,2f487db9-0663-429f-a4ec-081ae701723d,A,353
+10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:29:57,,Fintælling,5925,5991,Mette Frederiksen,b5c7ab7e-81a8-4b8a-ae5a-a722b7645411,Socialdemokratiet,2f487db9-0663-429f-a4ec-081ae701723d,A,542
+10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:29:57,,Fintælling,5925,5991,Ane Halsboe-Jørgensen,f2dafd4b-f306-4e60-afca-3e7e3f5d58b0,Socialdemokratiet,2f487db9-0663-429f-a4ec-081ae701723d,A,41
+10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:29:57,,Fintælling,5925,5991,Per Husted,881c2ccb-cf75-469a-a922-3921b5962920,Socialdemokratiet,2f487db9-0663-429f-a4ec-081ae701723d,A,16
+10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:29:57,,Fintælling,5925,5991,Morten Ryom,bd3c7373-029b-4800-bdd1-124e5645321d,Socialdemokratiet,2f487db9-0663-429f-a4ec-081ae701723d,A,9
+10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:29:57,,Fintælling,5925,5991,Peder Key Kristiansen,856e5dd0-ef30-4ce9-b92e-d23bd07ba3d4,Socialdemokratiet,2f487db9-0663-429f-a4ec-081ae701723d,A,7
+10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:29:57,,Fintælling,5925,5991,Thomas Klimek,fe64db94-2bbe-4280-8c50-aa02a5272f7e,Socialdemokratiet,2f487db9-0663-429f-a4ec-081ae701723d,A,14
+10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:29:57,,Fintælling,5925,5991,Simon Kollerup,140747cb-6f5c-46cc-92a0-eb5e05a0b8a2,Socialdemokratiet,2f487db9-0663-429f-a4ec-081ae701723d,A,16
+10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:29:57,,Fintælling,5925,5991,Danny Rosenkilde,f44e3d1a-0105-483d-836c-f7eb7986877d,Dansk Folkeparti,1df39501-e08d-42e9-9804-eccf7b1f564a,O,11
+10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:29:57,,Fintælling,5925,5991,Anders Vistisen,ae98e4d5-27e4-47c1-88ce-9eee5cc2062a,Dansk Folkeparti,1df39501-e08d-42e9-9804-eccf7b1f564a,O,47
+10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:29:57,,Fintælling,5925,5991,Emma Houe Mølgaard,c269bde6-c2fb-4f18-872d-4e4950327fad,Dansk Folkeparti,1df39501-e08d-42e9-9804-eccf7b1f564a,O,5
+10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:29:57,,Fintælling,5925,5991,Thomas Hjort,906ef228-780b-4a26-8e50-d2dce4a625e6,Dansk Folkeparti,1df39501-e08d-42e9-9804-eccf7b1f564a,O,5
+10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:29:57,,Fintælling,5925,5991,Jørgen Hammer Sørensen,7b526be5-3402-4709-9713-164eb070fc21,Dansk Folkeparti,1df39501-e08d-42e9-9804-eccf7b1f564a,O,8
+10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:29:57,,Fintælling,5925,5991,René Flou,31d1ac0e-d972-45d5-ba52-f9d316dd0c00,Det Konservative Folkeparti,2e08413e-1c5b-4029-8bce-eac0ebff6527,C,5
+10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:29:57,,Fintælling,5925,5991,Laura Holm,8d3452c8-2de7-4572-a713-f9ae06888c97,Det Konservative Folkeparti,2e08413e-1c5b-4029-8bce-eac0ebff6527,C,76
+10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:29:57,,Fintælling,5925,5991,Søren Homann,b37537e6-14fd-43fa-9fcd-f99664fb0913,Det Konservative Folkeparti,2e08413e-1c5b-4029-8bce-eac0ebff6527,C,7
+10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:29:57,,Fintælling,5925,5991,Sofie Therese Svendsen,8942a3e3-32db-4549-bda2-ee7aa0b2f876,Det Konservative Folkeparti,2e08413e-1c5b-4029-8bce-eac0ebff6527,C,13
+10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:29:57,,Fintælling,5925,5991,Gabriel Aaen,c1b7e176-8f7a-4f0f-a898-90602a836d86,Det Konservative Folkeparti,2e08413e-1c5b-4029-8bce-eac0ebff6527,C,0
+10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:29:57,,Fintælling,5925,5991,Lene Burchardt,2375ab9a-69b5-4895-a061-15c279bab70e,Det Konservative Folkeparti,2e08413e-1c5b-4029-8bce-eac0ebff6527,C,11
+10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:29:57,,Fintælling,5925,5991,Stine Thier-Andersen,38ee6d04-8688-4c7c-af65-1e52884330e5,Det Konservative Folkeparti,2e08413e-1c5b-4029-8bce-eac0ebff6527,C,6
+10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:29:57,,Fintælling,5925,5991,Per Larsen,bff0e296-6c3b-436c-a70c-e0294ae435ff,Det Konservative Folkeparti,2e08413e-1c5b-4029-8bce-eac0ebff6527,C,36
+10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:29:57,,Fintælling,5925,5991,Dorthe Pedersen,62b6ba76-1004-4c34-b51d-a53946ea3e46,Det Konservative Folkeparti,2e08413e-1c5b-4029-8bce-eac0ebff6527,C,2
+10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:29:57,,Fintælling,5925,5991,Anette Jensen Smith,72d2f3bf-20d6-41ab-97b8-705f5ec4590d,Alternativet,c01e1c81-e8eb-4f3d-ac55-de9279740a0e,Å,3
+10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:29:57,,Fintælling,5925,5991,Anne-Marie Hemmeth,64bd15be-b479-4b07-8a6e-32e7be59f208,Alternativet,c01e1c81-e8eb-4f3d-ac55-de9279740a0e,Å,1
+10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:29:57,,Fintælling,5925,5991,Emil Sloth,0f69ef7c-9e5f-4445-b230-1f21c37e1364,Alternativet,c01e1c81-e8eb-4f3d-ac55-de9279740a0e,Å,0
+10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:29:57,,Fintælling,5925,5991,Anna Bjerre,f25991d7-5b09-4982-a73d-4977a9e9b444,Alternativet,c01e1c81-e8eb-4f3d-ac55-de9279740a0e,Å,3
+10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:29:57,,Fintælling,5925,5991,Anders Peter Hansen,1c433024-5749-460c-8d0d-fedfd31083d7,Liberal Alliance,4d676beb-025b-4d42-ac5d-533d5130a6f3,I,1
+10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:29:57,,Fintælling,5925,5991,Mark Hellerup,a2cd9472-35a8-49fc-91b6-390b596975b9,Liberal Alliance,4d676beb-025b-4d42-ac5d-533d5130a6f3,I,3
+10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:29:57,,Fintælling,5925,5991,HP Beck,ee0f1264-cfb2-47b3-914d-8b809903e66e,Liberal Alliance,4d676beb-025b-4d42-ac5d-533d5130a6f3,I,6
+10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:29:57,,Fintælling,5925,5991,Peter Larsen,b83c25b1-b616-4bb3-a224-255732ca4df3,Liberal Alliance,4d676beb-025b-4d42-ac5d-533d5130a6f3,I,5
+10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:29:57,,Fintælling,5925,5991,Sara Tvilling,61bdb412-b382-4a91-9fc1-2e4198b075ff,Liberal Alliance,4d676beb-025b-4d42-ac5d-533d5130a6f3,I,0
+10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:29:57,,Fintælling,5925,5991,Thomas Christiansen,238ba30e-67a9-4e0b-b0ad-424c5eb14297,Liberal Alliance,4d676beb-025b-4d42-ac5d-533d5130a6f3,I,0
+10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:29:57,,Fintælling,5925,5991,Bo Ritterbusch,899c170d-4ae7-48df-8a15-807b00c6c9a4,Liberal Alliance,4d676beb-025b-4d42-ac5d-533d5130a6f3,I,9
+10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:29:57,,Fintælling,5925,5991,Lukas Vestergaard,f4c03d74-68c6-4424-aa8f-a096ebabeb7b,Liberal Alliance,4d676beb-025b-4d42-ac5d-533d5130a6f3,I,1
+10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:29:57,,Fintælling,5925,5991,Frederik Blicher Pedersen,aea56faf-ae89-4cf2-a07c-c8fdaf9f3e77,Liberal Alliance,4d676beb-025b-4d42-ac5d-533d5130a6f3,I,3
+10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:29:57,,Fintælling,5925,5991,Jimmy Abel Nielsen,6cbc7bd9-666c-4ec3-8f0b-0823fbab33d2,Liberal Alliance,4d676beb-025b-4d42-ac5d-533d5130a6f3,I,0
+10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:29:57,,Fintælling,5925,5991,Thomas Heuniche,9a9f63ad-cc8e-4736-8e94-3fcc5bdca6f5,Liberal Alliance,4d676beb-025b-4d42-ac5d-533d5130a6f3,I,0
+10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:29:57,,Fintælling,5925,5991,Claus Beck,b1b0c84a-fbe3-4089-96b1-13f879364113,Liberal Alliance,4d676beb-025b-4d42-ac5d-533d5130a6f3,I,2
+10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:29:57,,Fintælling,5925,5991,Kim Gaarsdahl,d5e40703-4f77-4e1b-9dd2-95567f8d0a35,Liberal Alliance,4d676beb-025b-4d42-ac5d-533d5130a6f3,I,0
+10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:29:57,,Fintælling,5925,5991,Kresten Solvang Larsen,b3fc530e-dd6b-4892-a750-f5a16461684c,Liberal Alliance,4d676beb-025b-4d42-ac5d-533d5130a6f3,I,0
+10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:29:57,,Fintælling,5925,5991,Sólbjørg Jakobsen,4d09f65f-946b-427d-b808-4eafdc773dd6,Liberal Alliance,4d676beb-025b-4d42-ac5d-533d5130a6f3,I,119
+10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:29:57,,Fintælling,5925,5991,Kenneth Skatka Hammer,ad67f286-4edd-46aa-885f-24a79aa61665,Liberal Alliance,4d676beb-025b-4d42-ac5d-533d5130a6f3,I,13
+10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:29:57,,Fintælling,5925,5991,Dan Gaardboe Rueskov,0d4d1fbc-4342-4036-b4af-38accb951d1f,Liberal Alliance,4d676beb-025b-4d42-ac5d-533d5130a6f3,I,0
+10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:29:57,,Fintælling,5925,5991,Rikke Olssen,17be0de0-19de-4541-852f-6d3d0417f133,Liberal Alliance,4d676beb-025b-4d42-ac5d-533d5130a6f3,I,2
+10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:29:57,,Fintælling,5925,5991,Marie Bjerre,993188f2-f693-4a51-830d-26537c938529,"Venstre, Danmarks Liberale Parti",914ae6fd-98a6-4ed6-afd1-60ab809678ed,V,915
+10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:29:57,,Fintælling,5925,5991,Niels H. Bünemann,662825ff-c0cf-4c7d-9ca8-bd849c17a7f9,"Venstre, Danmarks Liberale Parti",914ae6fd-98a6-4ed6-afd1-60ab809678ed,V,1
+10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:29:57,,Fintælling,5925,5991,Hans Jørgen Adamsen,b0b2dc89-e09d-497b-b1a9-fa2a479325b8,"Venstre, Danmarks Liberale Parti",914ae6fd-98a6-4ed6-afd1-60ab809678ed,V,1
+10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:29:57,,Fintælling,5925,5991,Mikkel Bisgaard,2b514a26-f63a-40e7-a0ed-b01d11347db4,"Venstre, Danmarks Liberale Parti",914ae6fd-98a6-4ed6-afd1-60ab809678ed,V,6
+10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:29:57,,Fintælling,5925,5991,Anne Honoré Østergaard,7a707000-4c98-4eec-a8dd-d6104f161d49,"Venstre, Danmarks Liberale Parti",914ae6fd-98a6-4ed6-afd1-60ab809678ed,V,6
+10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:29:57,,Fintælling,5925,5991,Phillip Sperling,44c32aaa-05cc-4703-a65c-ee0a6ee4e116,"Venstre, Danmarks Liberale Parti",914ae6fd-98a6-4ed6-afd1-60ab809678ed,V,2
+10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:29:57,,Fintælling,5925,5991,Torsten Schack Pedersen,30310dd9-720b-47bd-a2f3-d436b0a35cbb,"Venstre, Danmarks Liberale Parti",914ae6fd-98a6-4ed6-afd1-60ab809678ed,V,5
+10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:29:57,,Fintælling,5925,5991,Anita Vivi Lilholt,db1b602b-56d2-4b9c-96b6-58aefe2c5957,"Venstre, Danmarks Liberale Parti",914ae6fd-98a6-4ed6-afd1-60ab809678ed,V,0
+10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:29:57,,Fintælling,5925,5991,Preben Bang Henriksen,0758b951-e315-4e48-953f-b02df372e671,"Venstre, Danmarks Liberale Parti",914ae6fd-98a6-4ed6-afd1-60ab809678ed,V,139
+10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:29:57,,Fintælling,5925,5991,Line Randa,bb87e512-1898-4e54-9c2c-4416e7c9d755,Moderaterne,30375f1d-ff52-4b0d-9964-7147844cd5e7,M,9
+10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:29:57,,Fintælling,5925,5991,Mohammad Rona,68e63ebf-b44f-4984-81a8-e4ea73426621,Moderaterne,30375f1d-ff52-4b0d-9964-7147844cd5e7,M,23
+10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:29:57,,Fintælling,5925,5991,Morten Arvidsson,fd711e66-98c9-46b2-905a-92042d866ae8,Moderaterne,30375f1d-ff52-4b0d-9964-7147844cd5e7,M,0
+10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:29:57,,Fintælling,5925,5991,Thomas Skovgaard,8d17b9fd-8833-4893-812d-5ea2238443e6,Moderaterne,30375f1d-ff52-4b0d-9964-7147844cd5e7,M,4
+10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:29:57,,Fintælling,5925,5991,Ditte Ravn Kaagaard,1c9545de-88ed-4a4b-9745-78702319ab3c,Moderaterne,30375f1d-ff52-4b0d-9964-7147844cd5e7,M,5
+10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:29:57,,Fintælling,5925,5991,Nikolaj C. Andersen,bbcb5d4a-302e-44ce-876b-cce28eaa9b05,Moderaterne,30375f1d-ff52-4b0d-9964-7147844cd5e7,M,2
+10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:29:57,,Fintælling,5925,5991,Kim Edberg Andersen,6b919f8f-8d62-4140-86f9-33937b8040f0,Danmarksdemokraterne - Inger Støjberg,ffacb8b3-7f7b-4158-a1ee-c0be84a344c6,Æ,30
+10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:29:57,,Fintælling,5925,5991,Claus Skovmose,753cc83a-c643-40f9-a7c4-d71efe5ccb0b,Danmarksdemokraterne - Inger Støjberg,ffacb8b3-7f7b-4158-a1ee-c0be84a344c6,Æ,4
+10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:29:57,,Fintælling,5925,5991,Liselotte Lynge,05f63b74-3995-4ba6-b9e2-537f772f0113,Danmarksdemokraterne - Inger Støjberg,ffacb8b3-7f7b-4158-a1ee-c0be84a344c6,Æ,48
+10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:29:57,,Fintælling,5925,5991,Kristian Bøgsted,6b22bc0c-0757-496f-aa94-f44d0c5807d9,Danmarksdemokraterne - Inger Støjberg,ffacb8b3-7f7b-4158-a1ee-c0be84a344c6,Æ,5
+10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:29:57,,Fintælling,5925,5991,Inger Støjberg,989621da-a905-4c33-bfee-a25505278c31,Danmarksdemokraterne - Inger Støjberg,ffacb8b3-7f7b-4158-a1ee-c0be84a344c6,Æ,488
+10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:29:57,,Fintælling,5925,5991,Frederik Storm,a74ab0f0-7dfa-46cd-a6a4-b8cf3da16829,Danmarksdemokraterne - Inger Støjberg,ffacb8b3-7f7b-4158-a1ee-c0be84a344c6,Æ,0
+10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:29:57,,Fintælling,5925,5991,Runa Friis Hansen,458ad11b-1c4d-4481-b343-e4c834918695,Enhedslisten - De Rød-Grønne,8bb64864-5728-41db-af00-6234795cf340,Ø,0
+10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:29:57,,Fintælling,5925,5991,Christina Eilers,a31423ed-b013-4aee-8259-20d69fa1063a,Enhedslisten - De Rød-Grønne,8bb64864-5728-41db-af00-6234795cf340,Ø,0
+10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:29:57,,Fintælling,5925,5991,Filippa Emilie Vittrup,9a3bbc7a-425c-415f-80d1-2c394196bbba,Enhedslisten - De Rød-Grønne,8bb64864-5728-41db-af00-6234795cf340,Ø,10
+10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:29:57,,Fintælling,5925,5991,Lasse Mejer Petersen,516fe917-b539-4465-80e4-0ff1793b4b5d,Enhedslisten - De Rød-Grønne,8bb64864-5728-41db-af00-6234795cf340,Ø,0
+10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:29:57,,Fintælling,5925,5991,Lasse Olsen,6d6e5283-b34b-498a-8e62-68c2fbbd9fc3,Enhedslisten - De Rød-Grønne,8bb64864-5728-41db-af00-6234795cf340,Ø,0
+10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:29:57,,Fintælling,5925,5991,Ulrik Appel,2c964d98-e7e3-4391-a6ea-7d09518214ea,Enhedslisten - De Rød-Grønne,8bb64864-5728-41db-af00-6234795cf340,Ø,2
+10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:29:57,,Fintælling,5925,5991,Hans Jensen,a18c72af-84f0-4651-a776-b8af8009da87,Enhedslisten - De Rød-Grønne,8bb64864-5728-41db-af00-6234795cf340,Ø,0
+10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:29:57,,Fintælling,5925,5991,Berit Raldin,427a562b-7183-4da5-af03-19d427fe4517,Enhedslisten - De Rød-Grønne,8bb64864-5728-41db-af00-6234795cf340,Ø,3
+10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:29:57,,Fintælling,5925,5991,Peder Hvelplund,c760fc1f-f202-4a2e-9b8b-e87b06ea0ac8,Enhedslisten - De Rød-Grønne,8bb64864-5728-41db-af00-6234795cf340,Ø,13
+10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:29:57,,Fintælling,5925,5991,Arne Hyldgaard,5b2379cc-2f0d-48bd-be13-faa26c048d6d,Borgernes Parti - Lars Boje Mathiesen,89ee100e-d4d6-43b5-83c5-edd5dd02c1fd,H,4
+10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:29:57,,Fintælling,5925,5991,Ib Poulsen,a37abf77-5eff-4633-b972-ae9c4e059dcb,Borgernes Parti - Lars Boje Mathiesen,89ee100e-d4d6-43b5-83c5-edd5dd02c1fd,H,4
+10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:29:57,,Fintælling,5925,5991,Paulina Laparil,d7d1680a-b84c-4962-a230-f9974322d422,Borgernes Parti - Lars Boje Mathiesen,89ee100e-d4d6-43b5-83c5-edd5dd02c1fd,H,2
+10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:29:57,,Fintælling,5925,5991,Niels Christensen,6f191a67-ad11-4e2d-98ad-b6ed5e89c960,Borgernes Parti - Lars Boje Mathiesen,89ee100e-d4d6-43b5-83c5-edd5dd02c1fd,H,12
+10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:29:57,,Fintælling,5925,5991,John Bjerg,632c4662-be00-43bc-9526-a0321edf2630,Borgernes Parti - Lars Boje Mathiesen,89ee100e-d4d6-43b5-83c5-edd5dd02c1fd,H,4
+10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:29:57,,Fintælling,5925,5991,Jacob Robsøe,3b7cbe1e-7456-4297-87fc-7c4b645bcc8d,Radikale Venstre,93a1aa01-2897-474b-8604-a1326c9b3948,B,3
+10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:29:57,,Fintælling,5925,5991,Steffen Holme Helledie,2a994bc7-0f5c-4dd3-9e4b-19716646407a,Radikale Venstre,93a1aa01-2897-474b-8604-a1326c9b3948,B,4
+10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:29:57,,Fintælling,5925,5991,Marie Wandel,f9744383-5a6a-4679-997f-938926c20ac5,Radikale Venstre,93a1aa01-2897-474b-8604-a1326c9b3948,B,2
+10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:29:57,,Fintælling,5925,5991,Torsten Wetche,9b088dd5-326f-4a7c-90b4-9c4b51cfcba2,Radikale Venstre,93a1aa01-2897-474b-8604-a1326c9b3948,B,32
+10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:29:57,,Fintælling,5925,5991,Susanne Krebs,0311539a-0d56-4371-a9fc-1679dab0fd50,Radikale Venstre,93a1aa01-2897-474b-8604-a1326c9b3948,B,0
+10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:29:57,,Fintælling,5925,5991,Michael Portefee P. Lex,75232c60-e469-471e-94f9-cac47c7d3179,Radikale Venstre,93a1aa01-2897-474b-8604-a1326c9b3948,B,0
+10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:29:57,,Fintælling,5925,5991,Steen Asgeir Petersen,5027ef69-1a93-415a-9146-fbe6726540da,Radikale Venstre,93a1aa01-2897-474b-8604-a1326c9b3948,B,1
+10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:29:57,,Fintælling,5925,5991,Carsten Bedsted,058dd243-c317-47f8-abf0-fe0c7082aa1b,Radikale Venstre,93a1aa01-2897-474b-8604-a1326c9b3948,B,0
+10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:29:57,,Fintælling,5925,5991,Pia Elberg,294d76c1-7223-43dc-ab7f-77719fbf7e29,Radikale Venstre,93a1aa01-2897-474b-8604-a1326c9b3948,B,3
+10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:29:57,,Fintælling,5925,5991,Gorm Simonsen,27e9a47d-36d7-4268-bf41-22707c8d5d5a,Radikale Venstre,93a1aa01-2897-474b-8604-a1326c9b3948,B,0
+10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:29:57,,Fintælling,5925,5991,Emma Biørn Tretow-Fish,2ec5966e-988c-4b43-aca4-d52d0d91217a,Radikale Venstre,93a1aa01-2897-474b-8604-a1326c9b3948,B,4
+10,Nordjylland,403594,Himmerland,700858,Aars,2026-03-24 21:29:57,,Fintælling,5925,5991,Dorthe Kerschus,4c24378b-19ee-4139-9185-f16cf802eb0d,Radikale Venstre,93a1aa01-2897-474b-8604-a1326c9b3948,B,1
 9,Vestjylland,403605,Silkeborg Nord,700766,Resenbro,2026-03-24 20:16:02,,ForeløbigOptælling,1338,1348,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,0
 9,Vestjylland,403580,Ringkøbing,711210,Vorgod-Barde,2026-03-24 20:31:04,,ForeløbigOptælling,1501,1518,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,0
 9,Vestjylland,403582,Skive,748872,Glyngøre,2026-03-24 20:30:35,,ForeløbigOptælling,1189,1217,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,0
 9,Vestjylland,403582,Skive,748871,Hem,2026-03-24 19:53:30,,ForeløbigOptælling,558,569,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,0
 8,Østjylland,403607,Aarhus Nord,705520,Spørring Fælleshus,2026-03-24 20:12:47,,ForeløbigOptælling,802,811,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,1
+8,Østjylland,403602,Djurs,707484,Grenaa Idrætscenter,2026-03-24 21:30:42,,ForeløbigOptælling,3901,3971,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,5
 9,Vestjylland,403580,Ringkøbing,706404,Holmsland,2026-03-24 19:52:00,,ForeløbigOptælling,817,827,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,0
 9,Vestjylland,403588,Struer,712242,Bøvling,2026-03-24 20:39:05,,ForeløbigOptælling,762,767,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,0
+10,Nordjylland,403594,Himmerland,709652,Haverslev,2026-03-24 21:36:58,,Fintælling,811,822,Anna Bjerre,f25991d7-5b09-4982-a73d-4977a9e9b444,Alternativet,c01e1c81-e8eb-4f3d-ac55-de9279740a0e,Å,3
+10,Nordjylland,403594,Himmerland,709652,Haverslev,2026-03-24 21:36:58,,Fintælling,811,822,Anette Jensen Smith,72d2f3bf-20d6-41ab-97b8-705f5ec4590d,Alternativet,c01e1c81-e8eb-4f3d-ac55-de9279740a0e,Å,1
+10,Nordjylland,403594,Himmerland,709652,Haverslev,2026-03-24 21:36:58,,Fintælling,811,822,Anne-Marie Hemmeth,64bd15be-b479-4b07-8a6e-32e7be59f208,Alternativet,c01e1c81-e8eb-4f3d-ac55-de9279740a0e,Å,0
+10,Nordjylland,403594,Himmerland,709652,Haverslev,2026-03-24 21:36:58,,Fintælling,811,822,Emil Sloth,0f69ef7c-9e5f-4445-b230-1f21c37e1364,Alternativet,c01e1c81-e8eb-4f3d-ac55-de9279740a0e,Å,0
+10,Nordjylland,403594,Himmerland,709652,Haverslev,2026-03-24 21:36:58,,Fintælling,811,822,Sólbjørg Jakobsen,4d09f65f-946b-427d-b808-4eafdc773dd6,Liberal Alliance,4d676beb-025b-4d42-ac5d-533d5130a6f3,I,17
+10,Nordjylland,403594,Himmerland,709652,Haverslev,2026-03-24 21:36:58,,Fintælling,811,822,Anders Peter Hansen,1c433024-5749-460c-8d0d-fedfd31083d7,Liberal Alliance,4d676beb-025b-4d42-ac5d-533d5130a6f3,I,0
+10,Nordjylland,403594,Himmerland,709652,Haverslev,2026-03-24 21:36:58,,Fintælling,811,822,Bo Ritterbusch,899c170d-4ae7-48df-8a15-807b00c6c9a4,Liberal Alliance,4d676beb-025b-4d42-ac5d-533d5130a6f3,I,5
+10,Nordjylland,403594,Himmerland,709652,Haverslev,2026-03-24 21:36:58,,Fintælling,811,822,Mark Hellerup,a2cd9472-35a8-49fc-91b6-390b596975b9,Liberal Alliance,4d676beb-025b-4d42-ac5d-533d5130a6f3,I,0
+10,Nordjylland,403594,Himmerland,709652,Haverslev,2026-03-24 21:36:58,,Fintælling,811,822,Kenneth Skatka Hammer,ad67f286-4edd-46aa-885f-24a79aa61665,Liberal Alliance,4d676beb-025b-4d42-ac5d-533d5130a6f3,I,1
+10,Nordjylland,403594,Himmerland,709652,Haverslev,2026-03-24 21:36:58,,Fintælling,811,822,Claus Beck,b1b0c84a-fbe3-4089-96b1-13f879364113,Liberal Alliance,4d676beb-025b-4d42-ac5d-533d5130a6f3,I,0
+10,Nordjylland,403594,Himmerland,709652,Haverslev,2026-03-24 21:36:58,,Fintælling,811,822,Thomas Christiansen,238ba30e-67a9-4e0b-b0ad-424c5eb14297,Liberal Alliance,4d676beb-025b-4d42-ac5d-533d5130a6f3,I,0
+10,Nordjylland,403594,Himmerland,709652,Haverslev,2026-03-24 21:36:58,,Fintælling,811,822,Sara Tvilling,61bdb412-b382-4a91-9fc1-2e4198b075ff,Liberal Alliance,4d676beb-025b-4d42-ac5d-533d5130a6f3,I,1
+10,Nordjylland,403594,Himmerland,709652,Haverslev,2026-03-24 21:36:58,,Fintælling,811,822,Rikke Olssen,17be0de0-19de-4541-852f-6d3d0417f133,Liberal Alliance,4d676beb-025b-4d42-ac5d-533d5130a6f3,I,2
+10,Nordjylland,403594,Himmerland,709652,Haverslev,2026-03-24 21:36:58,,Fintælling,811,822,Lukas Vestergaard,f4c03d74-68c6-4424-aa8f-a096ebabeb7b,Liberal Alliance,4d676beb-025b-4d42-ac5d-533d5130a6f3,I,1
+10,Nordjylland,403594,Himmerland,709652,Haverslev,2026-03-24 21:36:58,,Fintælling,811,822,Peter Larsen,b83c25b1-b616-4bb3-a224-255732ca4df3,Liberal Alliance,4d676beb-025b-4d42-ac5d-533d5130a6f3,I,0
+10,Nordjylland,403594,Himmerland,709652,Haverslev,2026-03-24 21:36:58,,Fintælling,811,822,Kresten Solvang Larsen,b3fc530e-dd6b-4892-a750-f5a16461684c,Liberal Alliance,4d676beb-025b-4d42-ac5d-533d5130a6f3,I,0
+10,Nordjylland,403594,Himmerland,709652,Haverslev,2026-03-24 21:36:58,,Fintælling,811,822,Thomas Heuniche,9a9f63ad-cc8e-4736-8e94-3fcc5bdca6f5,Liberal Alliance,4d676beb-025b-4d42-ac5d-533d5130a6f3,I,0
+10,Nordjylland,403594,Himmerland,709652,Haverslev,2026-03-24 21:36:58,,Fintælling,811,822,Jimmy Abel Nielsen,6cbc7bd9-666c-4ec3-8f0b-0823fbab33d2,Liberal Alliance,4d676beb-025b-4d42-ac5d-533d5130a6f3,I,0
+10,Nordjylland,403594,Himmerland,709652,Haverslev,2026-03-24 21:36:58,,Fintælling,811,822,Frederik Blicher Pedersen,aea56faf-ae89-4cf2-a07c-c8fdaf9f3e77,Liberal Alliance,4d676beb-025b-4d42-ac5d-533d5130a6f3,I,0
+10,Nordjylland,403594,Himmerland,709652,Haverslev,2026-03-24 21:36:58,,Fintælling,811,822,Dan Gaardboe Rueskov,0d4d1fbc-4342-4036-b4af-38accb951d1f,Liberal Alliance,4d676beb-025b-4d42-ac5d-533d5130a6f3,I,0
+10,Nordjylland,403594,Himmerland,709652,Haverslev,2026-03-24 21:36:58,,Fintælling,811,822,HP Beck,ee0f1264-cfb2-47b3-914d-8b809903e66e,Liberal Alliance,4d676beb-025b-4d42-ac5d-533d5130a6f3,I,1
+10,Nordjylland,403594,Himmerland,709652,Haverslev,2026-03-24 21:36:58,,Fintælling,811,822,Kim Gaarsdahl,d5e40703-4f77-4e1b-9dd2-95567f8d0a35,Liberal Alliance,4d676beb-025b-4d42-ac5d-533d5130a6f3,I,1
+10,Nordjylland,403594,Himmerland,709652,Haverslev,2026-03-24 21:36:58,,Fintælling,811,822,Niels H. Bünemann,662825ff-c0cf-4c7d-9ca8-bd849c17a7f9,"Venstre, Danmarks Liberale Parti",914ae6fd-98a6-4ed6-afd1-60ab809678ed,V,0
+10,Nordjylland,403594,Himmerland,709652,Haverslev,2026-03-24 21:36:58,,Fintælling,811,822,Phillip Sperling,44c32aaa-05cc-4703-a65c-ee0a6ee4e116,"Venstre, Danmarks Liberale Parti",914ae6fd-98a6-4ed6-afd1-60ab809678ed,V,0
+10,Nordjylland,403594,Himmerland,709652,Haverslev,2026-03-24 21:36:58,,Fintælling,811,822,Hans Jørgen Adamsen,b0b2dc89-e09d-497b-b1a9-fa2a479325b8,"Venstre, Danmarks Liberale Parti",914ae6fd-98a6-4ed6-afd1-60ab809678ed,V,1
+10,Nordjylland,403594,Himmerland,709652,Haverslev,2026-03-24 21:36:58,,Fintælling,811,822,Anne Honoré Østergaard,7a707000-4c98-4eec-a8dd-d6104f161d49,"Venstre, Danmarks Liberale Parti",914ae6fd-98a6-4ed6-afd1-60ab809678ed,V,3
+10,Nordjylland,403594,Himmerland,709652,Haverslev,2026-03-24 21:36:58,,Fintælling,811,822,Anita Vivi Lilholt,db1b602b-56d2-4b9c-96b6-58aefe2c5957,"Venstre, Danmarks Liberale Parti",914ae6fd-98a6-4ed6-afd1-60ab809678ed,V,0
+10,Nordjylland,403594,Himmerland,709652,Haverslev,2026-03-24 21:36:58,,Fintælling,811,822,Torsten Schack Pedersen,30310dd9-720b-47bd-a2f3-d436b0a35cbb,"Venstre, Danmarks Liberale Parti",914ae6fd-98a6-4ed6-afd1-60ab809678ed,V,0
+10,Nordjylland,403594,Himmerland,709652,Haverslev,2026-03-24 21:36:58,,Fintælling,811,822,Preben Bang Henriksen,0758b951-e315-4e48-953f-b02df372e671,"Venstre, Danmarks Liberale Parti",914ae6fd-98a6-4ed6-afd1-60ab809678ed,V,11
+10,Nordjylland,403594,Himmerland,709652,Haverslev,2026-03-24 21:36:58,,Fintælling,811,822,Marie Bjerre,993188f2-f693-4a51-830d-26537c938529,"Venstre, Danmarks Liberale Parti",914ae6fd-98a6-4ed6-afd1-60ab809678ed,V,99
+10,Nordjylland,403594,Himmerland,709652,Haverslev,2026-03-24 21:36:58,,Fintælling,811,822,Mikkel Bisgaard,2b514a26-f63a-40e7-a0ed-b01d11347db4,"Venstre, Danmarks Liberale Parti",914ae6fd-98a6-4ed6-afd1-60ab809678ed,V,1
+10,Nordjylland,403594,Himmerland,709652,Haverslev,2026-03-24 21:36:58,,Fintælling,811,822,Line Randa,bb87e512-1898-4e54-9c2c-4416e7c9d755,Moderaterne,30375f1d-ff52-4b0d-9964-7147844cd5e7,M,3
+10,Nordjylland,403594,Himmerland,709652,Haverslev,2026-03-24 21:36:58,,Fintælling,811,822,Morten Arvidsson,fd711e66-98c9-46b2-905a-92042d866ae8,Moderaterne,30375f1d-ff52-4b0d-9964-7147844cd5e7,M,0
+10,Nordjylland,403594,Himmerland,709652,Haverslev,2026-03-24 21:36:58,,Fintælling,811,822,Thomas Skovgaard,8d17b9fd-8833-4893-812d-5ea2238443e6,Moderaterne,30375f1d-ff52-4b0d-9964-7147844cd5e7,M,1
+10,Nordjylland,403594,Himmerland,709652,Haverslev,2026-03-24 21:36:58,,Fintælling,811,822,Mohammad Rona,68e63ebf-b44f-4984-81a8-e4ea73426621,Moderaterne,30375f1d-ff52-4b0d-9964-7147844cd5e7,M,3
+10,Nordjylland,403594,Himmerland,709652,Haverslev,2026-03-24 21:36:58,,Fintælling,811,822,Ditte Ravn Kaagaard,1c9545de-88ed-4a4b-9745-78702319ab3c,Moderaterne,30375f1d-ff52-4b0d-9964-7147844cd5e7,M,2
+10,Nordjylland,403594,Himmerland,709652,Haverslev,2026-03-24 21:36:58,,Fintælling,811,822,Nikolaj C. Andersen,bbcb5d4a-302e-44ce-876b-cce28eaa9b05,Moderaterne,30375f1d-ff52-4b0d-9964-7147844cd5e7,M,0
+10,Nordjylland,403594,Himmerland,709652,Haverslev,2026-03-24 21:36:58,,Fintælling,811,822,Emma Houe Mølgaard,c269bde6-c2fb-4f18-872d-4e4950327fad,Dansk Folkeparti,1df39501-e08d-42e9-9804-eccf7b1f564a,O,1
+10,Nordjylland,403594,Himmerland,709652,Haverslev,2026-03-24 21:36:58,,Fintælling,811,822,Danny Rosenkilde,f44e3d1a-0105-483d-836c-f7eb7986877d,Dansk Folkeparti,1df39501-e08d-42e9-9804-eccf7b1f564a,O,3
+10,Nordjylland,403594,Himmerland,709652,Haverslev,2026-03-24 21:36:58,,Fintælling,811,822,Jørgen Hammer Sørensen,7b526be5-3402-4709-9713-164eb070fc21,Dansk Folkeparti,1df39501-e08d-42e9-9804-eccf7b1f564a,O,2
+10,Nordjylland,403594,Himmerland,709652,Haverslev,2026-03-24 21:36:58,,Fintælling,811,822,Thomas Hjort,906ef228-780b-4a26-8e50-d2dce4a625e6,Dansk Folkeparti,1df39501-e08d-42e9-9804-eccf7b1f564a,O,2
+10,Nordjylland,403594,Himmerland,709652,Haverslev,2026-03-24 21:36:58,,Fintælling,811,822,Anders Vistisen,ae98e4d5-27e4-47c1-88ce-9eee5cc2062a,Dansk Folkeparti,1df39501-e08d-42e9-9804-eccf7b1f564a,O,4
+10,Nordjylland,403594,Himmerland,709652,Haverslev,2026-03-24 21:36:58,,Fintælling,811,822,Per Husted,881c2ccb-cf75-469a-a922-3921b5962920,Socialdemokratiet,2f487db9-0663-429f-a4ec-081ae701723d,A,6
+10,Nordjylland,403594,Himmerland,709652,Haverslev,2026-03-24 21:36:58,,Fintælling,811,822,Simon Kollerup,140747cb-6f5c-46cc-92a0-eb5e05a0b8a2,Socialdemokratiet,2f487db9-0663-429f-a4ec-081ae701723d,A,2
+10,Nordjylland,403594,Himmerland,709652,Haverslev,2026-03-24 21:36:58,,Fintælling,811,822,Flemming Møller Mortensen,19e79b7a-0a94-49ed-bf13-df4f3cd9e84d,Socialdemokratiet,2f487db9-0663-429f-a4ec-081ae701723d,A,32
+10,Nordjylland,403594,Himmerland,709652,Haverslev,2026-03-24 21:36:58,,Fintælling,811,822,Ane Halsboe-Jørgensen,f2dafd4b-f306-4e60-afca-3e7e3f5d58b0,Socialdemokratiet,2f487db9-0663-429f-a4ec-081ae701723d,A,8
+10,Nordjylland,403594,Himmerland,709652,Haverslev,2026-03-24 21:36:58,,Fintælling,811,822,Mette Frederiksen,b5c7ab7e-81a8-4b8a-ae5a-a722b7645411,Socialdemokratiet,2f487db9-0663-429f-a4ec-081ae701723d,A,54
+10,Nordjylland,403594,Himmerland,709652,Haverslev,2026-03-24 21:36:58,,Fintælling,811,822,Kiki Bille Bach,e28fa96f-219b-46b7-a7a1-0e07fc9e13ec,Socialdemokratiet,2f487db9-0663-429f-a4ec-081ae701723d,A,1
+10,Nordjylland,403594,Himmerland,709652,Haverslev,2026-03-24 21:36:58,,Fintælling,811,822,Thomas Klimek,fe64db94-2bbe-4280-8c50-aa02a5272f7e,Socialdemokratiet,2f487db9-0663-429f-a4ec-081ae701723d,A,0
+10,Nordjylland,403594,Himmerland,709652,Haverslev,2026-03-24 21:36:58,,Fintælling,811,822,Peder Key Kristiansen,856e5dd0-ef30-4ce9-b92e-d23bd07ba3d4,Socialdemokratiet,2f487db9-0663-429f-a4ec-081ae701723d,A,2
+10,Nordjylland,403594,Himmerland,709652,Haverslev,2026-03-24 21:36:58,,Fintælling,811,822,Morten Ryom,bd3c7373-029b-4800-bdd1-124e5645321d,Socialdemokratiet,2f487db9-0663-429f-a4ec-081ae701723d,A,1
+10,Nordjylland,403594,Himmerland,709652,Haverslev,2026-03-24 21:36:58,,Fintælling,811,822,Søren Homann,b37537e6-14fd-43fa-9fcd-f99664fb0913,Det Konservative Folkeparti,2e08413e-1c5b-4029-8bce-eac0ebff6527,C,1
+10,Nordjylland,403594,Himmerland,709652,Haverslev,2026-03-24 21:36:58,,Fintælling,811,822,Gabriel Aaen,c1b7e176-8f7a-4f0f-a898-90602a836d86,Det Konservative Folkeparti,2e08413e-1c5b-4029-8bce-eac0ebff6527,C,0
+10,Nordjylland,403594,Himmerland,709652,Haverslev,2026-03-24 21:36:58,,Fintælling,811,822,Stine Thier-Andersen,38ee6d04-8688-4c7c-af65-1e52884330e5,Det Konservative Folkeparti,2e08413e-1c5b-4029-8bce-eac0ebff6527,C,0
+10,Nordjylland,403594,Himmerland,709652,Haverslev,2026-03-24 21:36:58,,Fintælling,811,822,René Flou,31d1ac0e-d972-45d5-ba52-f9d316dd0c00,Det Konservative Folkeparti,2e08413e-1c5b-4029-8bce-eac0ebff6527,C,0
+10,Nordjylland,403594,Himmerland,709652,Haverslev,2026-03-24 21:36:58,,Fintælling,811,822,Lene Burchardt,2375ab9a-69b5-4895-a061-15c279bab70e,Det Konservative Folkeparti,2e08413e-1c5b-4029-8bce-eac0ebff6527,C,3
+10,Nordjylland,403594,Himmerland,709652,Haverslev,2026-03-24 21:36:58,,Fintælling,811,822,Laura Holm,8d3452c8-2de7-4572-a713-f9ae06888c97,Det Konservative Folkeparti,2e08413e-1c5b-4029-8bce-eac0ebff6527,C,8
+10,Nordjylland,403594,Himmerland,709652,Haverslev,2026-03-24 21:36:58,,Fintælling,811,822,Dorthe Pedersen,62b6ba76-1004-4c34-b51d-a53946ea3e46,Det Konservative Folkeparti,2e08413e-1c5b-4029-8bce-eac0ebff6527,C,1
+10,Nordjylland,403594,Himmerland,709652,Haverslev,2026-03-24 21:36:58,,Fintælling,811,822,Per Larsen,bff0e296-6c3b-436c-a70c-e0294ae435ff,Det Konservative Folkeparti,2e08413e-1c5b-4029-8bce-eac0ebff6527,C,1
+10,Nordjylland,403594,Himmerland,709652,Haverslev,2026-03-24 21:36:58,,Fintælling,811,822,Sofie Therese Svendsen,8942a3e3-32db-4549-bda2-ee7aa0b2f876,Det Konservative Folkeparti,2e08413e-1c5b-4029-8bce-eac0ebff6527,C,3
+10,Nordjylland,403594,Himmerland,709652,Haverslev,2026-03-24 21:36:58,,Fintælling,811,822,Niels Christensen,6f191a67-ad11-4e2d-98ad-b6ed5e89c960,Borgernes Parti - Lars Boje Mathiesen,89ee100e-d4d6-43b5-83c5-edd5dd02c1fd,H,5
+10,Nordjylland,403594,Himmerland,709652,Haverslev,2026-03-24 21:36:58,,Fintælling,811,822,Arne Hyldgaard,5b2379cc-2f0d-48bd-be13-faa26c048d6d,Borgernes Parti - Lars Boje Mathiesen,89ee100e-d4d6-43b5-83c5-edd5dd02c1fd,H,1
+10,Nordjylland,403594,Himmerland,709652,Haverslev,2026-03-24 21:36:58,,Fintælling,811,822,Ib Poulsen,a37abf77-5eff-4633-b972-ae9c4e059dcb,Borgernes Parti - Lars Boje Mathiesen,89ee100e-d4d6-43b5-83c5-edd5dd02c1fd,H,1
+10,Nordjylland,403594,Himmerland,709652,Haverslev,2026-03-24 21:36:58,,Fintælling,811,822,Paulina Laparil,d7d1680a-b84c-4962-a230-f9974322d422,Borgernes Parti - Lars Boje Mathiesen,89ee100e-d4d6-43b5-83c5-edd5dd02c1fd,H,0
+10,Nordjylland,403594,Himmerland,709652,Haverslev,2026-03-24 21:36:58,,Fintælling,811,822,John Bjerg,632c4662-be00-43bc-9526-a0321edf2630,Borgernes Parti - Lars Boje Mathiesen,89ee100e-d4d6-43b5-83c5-edd5dd02c1fd,H,1
+10,Nordjylland,403594,Himmerland,709652,Haverslev,2026-03-24 21:36:58,,Fintælling,811,822,Liselotte Lynge,05f63b74-3995-4ba6-b9e2-537f772f0113,Danmarksdemokraterne - Inger Støjberg,ffacb8b3-7f7b-4158-a1ee-c0be84a344c6,Æ,2
+10,Nordjylland,403594,Himmerland,709652,Haverslev,2026-03-24 21:36:58,,Fintælling,811,822,Claus Skovmose,753cc83a-c643-40f9-a7c4-d71efe5ccb0b,Danmarksdemokraterne - Inger Støjberg,ffacb8b3-7f7b-4158-a1ee-c0be84a344c6,Æ,0
+10,Nordjylland,403594,Himmerland,709652,Haverslev,2026-03-24 21:36:58,,Fintælling,811,822,Kim Edberg Andersen,6b919f8f-8d62-4140-86f9-33937b8040f0,Danmarksdemokraterne - Inger Støjberg,ffacb8b3-7f7b-4158-a1ee-c0be84a344c6,Æ,15
+10,Nordjylland,403594,Himmerland,709652,Haverslev,2026-03-24 21:36:58,,Fintælling,811,822,Frederik Storm,a74ab0f0-7dfa-46cd-a6a4-b8cf3da16829,Danmarksdemokraterne - Inger Støjberg,ffacb8b3-7f7b-4158-a1ee-c0be84a344c6,Æ,1
+10,Nordjylland,403594,Himmerland,709652,Haverslev,2026-03-24 21:36:58,,Fintælling,811,822,Inger Støjberg,989621da-a905-4c33-bfee-a25505278c31,Danmarksdemokraterne - Inger Støjberg,ffacb8b3-7f7b-4158-a1ee-c0be84a344c6,Æ,108
+10,Nordjylland,403594,Himmerland,709652,Haverslev,2026-03-24 21:36:58,,Fintælling,811,822,Kristian Bøgsted,6b22bc0c-0757-496f-aa94-f44d0c5807d9,Danmarksdemokraterne - Inger Støjberg,ffacb8b3-7f7b-4158-a1ee-c0be84a344c6,Æ,1
+10,Nordjylland,403594,Himmerland,709652,Haverslev,2026-03-24 21:36:58,,Fintælling,811,822,Melina Andersen,21de9649-0b2e-4460-9561-1c0cffcae726,SF - Socialistisk Folkeparti,fae32292-ff8f-4f27-8218-a9874603e759,F,2
+10,Nordjylland,403594,Himmerland,709652,Haverslev,2026-03-24 21:36:58,,Fintælling,811,822,Benjamin Christensen,dccb9fdb-ff5d-4301-91f5-a62418afec49,SF - Socialistisk Folkeparti,fae32292-ff8f-4f27-8218-a9874603e759,F,3
+10,Nordjylland,403594,Himmerland,709652,Haverslev,2026-03-24 21:36:58,,Fintælling,811,822,Christina Lykke,3d9038f3-828e-4f10-b806-cfd0034dbc88,SF - Socialistisk Folkeparti,fae32292-ff8f-4f27-8218-a9874603e759,F,2
+10,Nordjylland,403594,Himmerland,709652,Haverslev,2026-03-24 21:36:58,,Fintælling,811,822,Dorte M. Nielsen,666a3331-7009-400b-b4db-4af8d4119e39,SF - Socialistisk Folkeparti,fae32292-ff8f-4f27-8218-a9874603e759,F,0
+10,Nordjylland,403594,Himmerland,709652,Haverslev,2026-03-24 21:36:58,,Fintælling,811,822,Theresa Berg Andersen,77bd3a7e-211f-407f-97d5-a753268edf91,SF - Socialistisk Folkeparti,fae32292-ff8f-4f27-8218-a9874603e759,F,16
+10,Nordjylland,403594,Himmerland,709652,Haverslev,2026-03-24 21:36:58,,Fintælling,811,822,Morten Bo Bertelsen,34b17feb-f89d-481b-b82c-9fdaae99f3fa,SF - Socialistisk Folkeparti,fae32292-ff8f-4f27-8218-a9874603e759,F,0
+10,Nordjylland,403594,Himmerland,709652,Haverslev,2026-03-24 21:36:58,,Fintælling,811,822,Henning Jørgensen,8adff38d-ae1c-4489-a920-5b3ae482f681,SF - Socialistisk Folkeparti,fae32292-ff8f-4f27-8218-a9874603e759,F,1
+10,Nordjylland,403594,Himmerland,709652,Haverslev,2026-03-24 21:36:58,,Fintælling,811,822,Thomas Kjeldsen,95693353-b77f-4f44-aa23-7fd2529dd485,SF - Socialistisk Folkeparti,fae32292-ff8f-4f27-8218-a9874603e759,F,0
+10,Nordjylland,403594,Himmerland,709652,Haverslev,2026-03-24 21:36:58,,Fintælling,811,822,Peder Larsen,e54e0cb3-83c8-43c3-ab5c-71b7b67e8b1c,SF - Socialistisk Folkeparti,fae32292-ff8f-4f27-8218-a9874603e759,F,1
+10,Nordjylland,403594,Himmerland,709652,Haverslev,2026-03-24 21:36:58,,Fintælling,811,822,Christina Eilers,a31423ed-b013-4aee-8259-20d69fa1063a,Enhedslisten - De Rød-Grønne,8bb64864-5728-41db-af00-6234795cf340,Ø,0
+10,Nordjylland,403594,Himmerland,709652,Haverslev,2026-03-24 21:36:58,,Fintælling,811,822,Lasse Mejer Petersen,516fe917-b539-4465-80e4-0ff1793b4b5d,Enhedslisten - De Rød-Grønne,8bb64864-5728-41db-af00-6234795cf340,Ø,0
+10,Nordjylland,403594,Himmerland,709652,Haverslev,2026-03-24 21:36:58,,Fintælling,811,822,Filippa Emilie Vittrup,9a3bbc7a-425c-415f-80d1-2c394196bbba,Enhedslisten - De Rød-Grønne,8bb64864-5728-41db-af00-6234795cf340,Ø,3
+10,Nordjylland,403594,Himmerland,709652,Haverslev,2026-03-24 21:36:58,,Fintælling,811,822,Berit Raldin,427a562b-7183-4da5-af03-19d427fe4517,Enhedslisten - De Rød-Grønne,8bb64864-5728-41db-af00-6234795cf340,Ø,0
+10,Nordjylland,403594,Himmerland,709652,Haverslev,2026-03-24 21:36:58,,Fintælling,811,822,Lasse Olsen,6d6e5283-b34b-498a-8e62-68c2fbbd9fc3,Enhedslisten - De Rød-Grønne,8bb64864-5728-41db-af00-6234795cf340,Ø,0
+10,Nordjylland,403594,Himmerland,709652,Haverslev,2026-03-24 21:36:58,,Fintælling,811,822,Runa Friis Hansen,458ad11b-1c4d-4481-b343-e4c834918695,Enhedslisten - De Rød-Grønne,8bb64864-5728-41db-af00-6234795cf340,Ø,0
+10,Nordjylland,403594,Himmerland,709652,Haverslev,2026-03-24 21:36:58,,Fintælling,811,822,Peder Hvelplund,c760fc1f-f202-4a2e-9b8b-e87b06ea0ac8,Enhedslisten - De Rød-Grønne,8bb64864-5728-41db-af00-6234795cf340,Ø,2
+10,Nordjylland,403594,Himmerland,709652,Haverslev,2026-03-24 21:36:58,,Fintælling,811,822,Ulrik Appel,2c964d98-e7e3-4391-a6ea-7d09518214ea,Enhedslisten - De Rød-Grønne,8bb64864-5728-41db-af00-6234795cf340,Ø,1
+10,Nordjylland,403594,Himmerland,709652,Haverslev,2026-03-24 21:36:58,,Fintælling,811,822,Hans Jensen,a18c72af-84f0-4651-a776-b8af8009da87,Enhedslisten - De Rød-Grønne,8bb64864-5728-41db-af00-6234795cf340,Ø,0
+10,Nordjylland,403594,Himmerland,709652,Haverslev,2026-03-24 21:36:58,,Fintælling,811,822,Torsten Wetche,9b088dd5-326f-4a7c-90b4-9c4b51cfcba2,Radikale Venstre,93a1aa01-2897-474b-8604-a1326c9b3948,B,1
+10,Nordjylland,403594,Himmerland,709652,Haverslev,2026-03-24 21:36:58,,Fintælling,811,822,Susanne Krebs,0311539a-0d56-4371-a9fc-1679dab0fd50,Radikale Venstre,93a1aa01-2897-474b-8604-a1326c9b3948,B,0
+10,Nordjylland,403594,Himmerland,709652,Haverslev,2026-03-24 21:36:58,,Fintælling,811,822,Jacob Robsøe,3b7cbe1e-7456-4297-87fc-7c4b645bcc8d,Radikale Venstre,93a1aa01-2897-474b-8604-a1326c9b3948,B,0
+10,Nordjylland,403594,Himmerland,709652,Haverslev,2026-03-24 21:36:58,,Fintælling,811,822,Emma Biørn Tretow-Fish,2ec5966e-988c-4b43-aca4-d52d0d91217a,Radikale Venstre,93a1aa01-2897-474b-8604-a1326c9b3948,B,2
+10,Nordjylland,403594,Himmerland,709652,Haverslev,2026-03-24 21:36:58,,Fintælling,811,822,Pia Elberg,294d76c1-7223-43dc-ab7f-77719fbf7e29,Radikale Venstre,93a1aa01-2897-474b-8604-a1326c9b3948,B,1
+10,Nordjylland,403594,Himmerland,709652,Haverslev,2026-03-24 21:36:58,,Fintælling,811,822,Steffen Holme Helledie,2a994bc7-0f5c-4dd3-9e4b-19716646407a,Radikale Venstre,93a1aa01-2897-474b-8604-a1326c9b3948,B,1
+10,Nordjylland,403594,Himmerland,709652,Haverslev,2026-03-24 21:36:58,,Fintælling,811,822,Carsten Bedsted,058dd243-c317-47f8-abf0-fe0c7082aa1b,Radikale Venstre,93a1aa01-2897-474b-8604-a1326c9b3948,B,0
+10,Nordjylland,403594,Himmerland,709652,Haverslev,2026-03-24 21:36:58,,Fintælling,811,822,Dorthe Kerschus,4c24378b-19ee-4139-9185-f16cf802eb0d,Radikale Venstre,93a1aa01-2897-474b-8604-a1326c9b3948,B,0
+10,Nordjylland,403594,Himmerland,709652,Haverslev,2026-03-24 21:36:58,,Fintælling,811,822,Marie Wandel,f9744383-5a6a-4679-997f-938926c20ac5,Radikale Venstre,93a1aa01-2897-474b-8604-a1326c9b3948,B,1
+10,Nordjylland,403594,Himmerland,709652,Haverslev,2026-03-24 21:36:58,,Fintælling,811,822,Steen Asgeir Petersen,5027ef69-1a93-415a-9146-fbe6726540da,Radikale Venstre,93a1aa01-2897-474b-8604-a1326c9b3948,B,0
+10,Nordjylland,403594,Himmerland,709652,Haverslev,2026-03-24 21:36:58,,Fintælling,811,822,Michael Portefee P. Lex,75232c60-e469-471e-94f9-cac47c7d3179,Radikale Venstre,93a1aa01-2897-474b-8604-a1326c9b3948,B,8
+10,Nordjylland,403594,Himmerland,709652,Haverslev,2026-03-24 21:36:58,,Fintælling,811,822,Gorm Simonsen,27e9a47d-36d7-4268-bf41-22707c8d5d5a,Radikale Venstre,93a1aa01-2897-474b-8604-a1326c9b3948,B,0
 8,Østjylland,403581,Hedensted,706828,Barrit,2026-03-24 20:33:04,,ForeløbigOptælling,979,999,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
 8,Østjylland,403608,Aarhus Vest,703954,Hasselager Hallen,2026-03-24 20:26:18,,ForeløbigOptælling,4472,4532,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
+9,Vestjylland,403600,Ikast,702176,Ikast,2026-03-24 21:40:58,,ForeløbigOptælling,10566,10704,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,6
 8,Østjylland,403585,Skanderborg,702022,Galten,2026-03-24 21:09:09,,ForeløbigOptælling,4368,4438,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,2
 8,Østjylland,403581,Hedensted,749381,Hjarnø,2026-03-24 19:25:30,,ForeløbigOptælling,79,80,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
 8,Østjylland,403603,Favrskov,707278,Thorsø/Haurum/Sall,2026-03-24 20:34:34,,ForeløbigOptælling,2204,2237,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,1
@@ -950,6 +1311,10 @@ storkreds_nummer,storkreds,opstillingskreds_dagi_id,opstillingskreds,afstemnings
 8,Østjylland,403607,Aarhus Nord,700890,"Gammelgaardsskolen, Åbyhøj",2026-03-24 20:39:35,,ForeløbigOptælling,2794,2818,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
 8,Østjylland,403585,Skanderborg,704790,Nordby,2026-03-24 20:06:31,,ForeløbigOptælling,271,272,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
 8,Østjylland,403608,Aarhus Vest,700922,"Rosenvangskolen, Viby J",2026-03-24 20:46:36,,ForeløbigOptælling,4285,4330,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
+1,København,403565,Sundbyvester,749400,2. Kalvebod Fælled,2026-03-24 21:39:13,,ForeløbigOptælling,5207,5276,Theresa Scavenius,e54d925b-e78c-4bdd-ac35-3bd13e46b34c,Udenfor parti,,UP,9
+1,København,403565,Sundbyvester,749400,2. Kalvebod Fælled,2026-03-24 21:39:13,,ForeløbigOptælling,5207,5276,Rashid Ali,c8f38fd1-fccc-48f9-b9e3-abd36a14a6e7,Udenfor parti,,UP,1
+1,København,403565,Sundbyvester,749400,2. Kalvebod Fælled,2026-03-24 21:39:13,,ForeløbigOptælling,5207,5276,Rasmus Paludan,1d7d5b81-c920-4131-97a1-4483eaba71f5,Udenfor parti,,UP,1
+1,København,403565,Sundbyvester,749400,2. Kalvebod Fælled,2026-03-24 21:39:13,,ForeløbigOptælling,5207,5276,John Erik Wagner,480c6c23-1eba-4e71-9976-2cc29f94e006,Udenfor parti,,UP,0
 8,Østjylland,403602,Djurs,709072,Glesborg,2026-03-24 20:58:23,,ForeløbigOptælling,2482,2518,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,4
 9,Vestjylland,403590,Herning Syd,701664,Sdr. Felding,2026-03-24 20:32:49,,ForeløbigOptælling,1251,1268,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,0
 8,Østjylland,403585,Skanderborg,700778,Morten Børup,2026-03-24 21:18:55,,ForeløbigOptælling,6609,6711,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,3
@@ -959,23 +1324,35 @@ storkreds_nummer,storkreds,opstillingskreds_dagi_id,opstillingskreds,afstemnings
 9,Vestjylland,403605,Silkeborg Nord,711296,Gødvad,2026-03-24 21:18:10,,ForeløbigOptælling,5076,5147,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,1
 8,Østjylland,403602,Djurs,707518,Ørum,2026-03-24 20:29:19,,ForeløbigOptælling,1249,1266,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,2
 9,Vestjylland,403606,Silkeborg Syd,709850,Balle,2026-03-24 20:46:06,,ForeløbigOptælling,3845,3902,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,2
+1,København,403573,Indre By,707672,3. Øst,2026-03-24 21:40:28,,ForeløbigOptælling,6175,6217,Rasmus Paludan,1d7d5b81-c920-4131-97a1-4483eaba71f5,Udenfor parti,,UP,1
+1,København,403573,Indre By,707672,3. Øst,2026-03-24 21:40:28,,ForeløbigOptælling,6175,6217,Theresa Scavenius,e54d925b-e78c-4bdd-ac35-3bd13e46b34c,Udenfor parti,,UP,18
+1,København,403573,Indre By,707672,3. Øst,2026-03-24 21:40:28,,ForeløbigOptælling,6175,6217,Rashid Ali,c8f38fd1-fccc-48f9-b9e3-abd36a14a6e7,Udenfor parti,,UP,0
+1,København,403573,Indre By,707672,3. Øst,2026-03-24 21:40:28,,ForeløbigOptælling,6175,6217,John Erik Wagner,480c6c23-1eba-4e71-9976-2cc29f94e006,Udenfor parti,,UP,0
 8,Østjylland,403598,Randers Syd,710392,Assentofthallen,2026-03-24 21:18:55,,ForeløbigOptælling,2956,2985,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
 8,Østjylland,403581,Hedensted,749382,Hornborg,2026-03-24 19:57:15,,ForeløbigOptælling,480,486,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
 9,Vestjylland,403589,Herning Nord,707802,Snejbjerg,2026-03-24 21:14:55,,ForeløbigOptælling,3614,3658,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,6
 9,Vestjylland,403580,Ringkøbing,711186,Skjern,2026-03-24 20:47:36,,ForeløbigOptælling,5041,5109,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,7
 8,Østjylland,403586,Randers Nord,705778,Kultur-Aktivitetshuset Gassum,2026-03-24 21:17:40,,ForeløbigOptælling,507,512,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
 9,Vestjylland,403605,Silkeborg Nord,708400,Ans,2026-03-24 20:28:03,,ForeløbigOptælling,2159,2177,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,0
+8,Østjylland,403578,Horsens,701652,Dagnæs,2026-03-24 21:39:13,,ForeløbigOptælling,6414,6506,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,2
+8,Østjylland,403598,Randers Syd,707212,Huset Tværs,2026-03-24 21:34:27,,ForeløbigOptælling,3462,3524,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,3
 9,Vestjylland,403580,Ringkøbing,705180,Ringkøbing,2026-03-24 20:13:02,,ForeløbigOptælling,5789,5854,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,1
+9,Vestjylland,403600,Ikast,713316,Engesvang,2026-03-24 21:35:28,,ForeløbigOptælling,1965,1995,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,0
 8,Østjylland,403581,Hedensted,705470,Juelsminde/Klakring,2026-03-24 21:08:09,,ForeløbigOptælling,3021,3057,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,2
 8,Østjylland,403586,Randers Nord,705768,Øster Tørslev Fritidslokaler,2026-03-24 20:14:32,,ForeløbigOptælling,895,904,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
 8,Østjylland,403598,Randers Syd,704280,Paderup Gymnasium,2026-03-24 21:07:39,,ForeløbigOptælling,1514,1542,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
 8,Østjylland,403602,Djurs,711940,Kolind,2026-03-24 20:03:16,,ForeløbigOptælling,2098,2123,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
+1,København,403576,Valby,704776,8. Syd,2026-03-24 21:36:43,,ForeløbigOptælling,5164,5240,John Erik Wagner,480c6c23-1eba-4e71-9976-2cc29f94e006,Udenfor parti,,UP,0
+1,København,403576,Valby,704776,8. Syd,2026-03-24 21:36:43,,ForeløbigOptælling,5164,5240,Rasmus Paludan,1d7d5b81-c920-4131-97a1-4483eaba71f5,Udenfor parti,,UP,0
+1,København,403576,Valby,704776,8. Syd,2026-03-24 21:36:43,,ForeløbigOptælling,5164,5240,Theresa Scavenius,e54d925b-e78c-4bdd-ac35-3bd13e46b34c,Udenfor parti,,UP,12
+1,København,403576,Valby,704776,8. Syd,2026-03-24 21:36:43,,ForeløbigOptælling,5164,5240,Rashid Ali,c8f38fd1-fccc-48f9-b9e3-abd36a14a6e7,Udenfor parti,,UP,0
 8,Østjylland,403586,Randers Nord,701136,Gjerlev Aktivitetshus,2026-03-24 21:00:08,,ForeløbigOptælling,827,838,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,1
 1,København,403570,Falkoner,701758,"10. Kreds, Søerne",2026-03-24 21:23:41,,ForeløbigOptælling,7405,7469,Rasmus Paludan,1d7d5b81-c920-4131-97a1-4483eaba71f5,Udenfor parti,,UP,2
 1,København,403570,Falkoner,701758,"10. Kreds, Søerne",2026-03-24 21:23:41,,ForeløbigOptælling,7405,7469,Theresa Scavenius,e54d925b-e78c-4bdd-ac35-3bd13e46b34c,Udenfor parti,,UP,32
 1,København,403570,Falkoner,701758,"10. Kreds, Søerne",2026-03-24 21:23:41,,ForeløbigOptælling,7405,7469,Rashid Ali,c8f38fd1-fccc-48f9-b9e3-abd36a14a6e7,Udenfor parti,,UP,0
 1,København,403570,Falkoner,701758,"10. Kreds, Søerne",2026-03-24 21:23:41,,ForeløbigOptælling,7405,7469,John Erik Wagner,480c6c23-1eba-4e71-9976-2cc29f94e006,Udenfor parti,,UP,0
 8,Østjylland,403603,Favrskov,707272,Lading,2026-03-24 19:42:47,,ForeløbigOptælling,720,732,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,1
+8,Østjylland,403607,Aarhus Nord,706860,Hasle Skole,2026-03-24 21:25:56,,ForeløbigOptælling,4995,5077,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,1
 8,Østjylland,403581,Hedensted,703894,Tørring,2026-03-24 20:56:22,,ForeløbigOptælling,1961,2002,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,1
 8,Østjylland,403603,Favrskov,706342,Hammel Syd,2026-03-24 20:00:47,,ForeløbigOptælling,1285,1297,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,1
 8,Østjylland,403607,Aarhus Nord,705526,Lisbjergskolen,2026-03-24 20:33:34,,ForeløbigOptælling,1518,1538,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
