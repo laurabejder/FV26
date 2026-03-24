@@ -185,6 +185,19 @@ def udregn_personlige_stemmetal(df: pd.DataFrame, valgte_kandidater: pd.DataFram
         .reset_index(drop=True)
     )
 
+    # rename parti column
+    rename_partier = {
+        "Venstre, Danmarks Liberale Parti" : "Venstre",
+        "Det Konservative Folkeparti": "Konservative",
+        "Danmarksdemokraterne - Inger Støjberg": "Danmarksdemokraterne",
+        "Enhedslisten - De Rød-Grønne": "Enhedslisten",
+        "Radikale Venstre": "Radikale",
+        "SF - Socialistisk Folkeparti":"SF",
+        "Borgernes Parti - Lars Boje Mathiesen":"Borgernes Parti"
+    }
+
+    df_personlige_stemmer["parti"] = df_personlige_stemmer["parti"].replace(rename_partier)
+
     df_personlige_stemmer["valgt"] = df_personlige_stemmer["kandidat_id"].apply(lambda x: "✓" if x in valgte_kandidater["kandidat_id"].values else "")
     df_personlige_stemmer = df_personlige_stemmer[["kandidat_id", "kandidat", "parti", geo_niveau, "valgt", "stemmer"]]
 
