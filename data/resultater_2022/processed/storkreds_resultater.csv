@@ -1,141 +1,141 @@
 storkreds_dagi,storkreds,Partibogstav,Stemmetal,procent_22
-1,Københavns Storkreds,ALT,513228,9.4
-1,Københavns Storkreds,DD,100008,1.8
-1,Københavns Storkreds,DF,84864,1.6
-1,Københavns Storkreds,EL,751332,13.8
-1,Københavns Storkreds,FG,120648,2.2
-1,Københavns Storkreds,KD,285216,5.2
-1,Københavns Storkreds,LA,458448,8.4
-1,Københavns Storkreds,M,514896,9.4
-1,Københavns Storkreds,NB,90144,1.7
-1,Københavns Storkreds,R,408372,7.5
-1,Københavns Storkreds,S,1034712,19.0
-1,Københavns Storkreds,SF,624960,11.5
-1,Københavns Storkreds,UP,9384,0.2
-1,Københavns Storkreds,V,459828,8.4
-2,Københavns Omegns Storkreds,ALT,107904,3.0
-2,Københavns Omegns Storkreds,DD,136284,3.8
-2,Københavns Omegns Storkreds,DF,132312,3.7
-2,Københavns Omegns Storkreds,EL,194256,5.4
-2,Københavns Omegns Storkreds,FG,83388,2.3
-2,Københavns Omegns Storkreds,KD,274884,7.6
-2,Københavns Omegns Storkreds,LA,290064,8.0
-2,Københavns Omegns Storkreds,M,388824,10.8
-2,Københavns Omegns Storkreds,NB,105816,2.9
-2,Københavns Omegns Storkreds,R,183192,5.1
-2,Københavns Omegns Storkreds,S,999168,27.6
-2,Københavns Omegns Storkreds,SF,344172,9.5
-2,Københavns Omegns Storkreds,UP,4704,0.1
-2,Københavns Omegns Storkreds,V,369492,10.2
-3,Nordsjællands Storkreds,ALT,115908,3.3
-3,Nordsjællands Storkreds,DD,166308,4.8
-3,Nordsjællands Storkreds,DF,92700,2.6
-3,Nordsjællands Storkreds,EL,148104,4.2
-3,Nordsjællands Storkreds,FG,19500,0.6
-3,Nordsjællands Storkreds,KD,280788,8.0
-3,Nordsjællands Storkreds,LA,329964,9.4
-3,Nordsjællands Storkreds,M,413004,11.8
-3,Nordsjællands Storkreds,NB,135480,3.9
-3,Nordsjællands Storkreds,R,172668,4.9
-3,Nordsjællands Storkreds,S,835836,23.9
-3,Nordsjællands Storkreds,SF,271704,7.8
-3,Nordsjællands Storkreds,UP,3276,0.1
-3,Nordsjællands Storkreds,V,514476,14.7
-4,Bornholms Storkreds,ALT,7956,2.7
-4,Bornholms Storkreds,DD,19080,6.4
-4,Bornholms Storkreds,DF,18600,6.3
-4,Bornholms Storkreds,EL,15348,5.2
-4,Bornholms Storkreds,FG,576,0.2
-4,Bornholms Storkreds,KD,17148,5.8
-4,Bornholms Storkreds,LA,10704,3.6
-4,Bornholms Storkreds,M,17988,6.1
-4,Bornholms Storkreds,NB,6348,2.1
-4,Bornholms Storkreds,R,3012,1.0
-4,Bornholms Storkreds,S,104652,35.3
-4,Bornholms Storkreds,SF,19080,6.4
-4,Bornholms Storkreds,UP,540,0.2
-4,Bornholms Storkreds,V,55620,18.7
-5,Sjællands Storkreds,ALT,121452,1.9
-5,Sjællands Storkreds,DD,502380,8.1
-5,Sjællands Storkreds,DF,268608,4.3
-5,Sjællands Storkreds,EL,205284,3.3
-5,Sjællands Storkreds,FG,30768,0.5
-5,Sjællands Storkreds,KD,297840,4.8
-5,Sjællands Storkreds,LA,413220,6.6
-5,Sjællands Storkreds,M,675912,10.8
-5,Sjællands Storkreds,NB,275880,4.4
-5,Sjællands Storkreds,R,147108,2.4
-5,Sjællands Storkreds,S,1890960,30.3
-5,Sjællands Storkreds,SF,609336,9.8
-5,Sjællands Storkreds,UP,10872,0.2
-5,Sjællands Storkreds,V,785196,12.6
-6,Fyns Storkreds,ALT,101712,2.7
-6,Fyns Storkreds,DD,305832,8.2
-6,Fyns Storkreds,DF,96276,2.6
-6,Fyns Storkreds,EL,173844,4.7
-6,Fyns Storkreds,FG,35496,0.9
-6,Fyns Storkreds,KD,207900,5.6
-6,Fyns Storkreds,LA,239904,6.4
-6,Fyns Storkreds,M,369900,9.9
-6,Fyns Storkreds,NB,130476,3.5
-6,Fyns Storkreds,R,111660,3.0
-6,Fyns Storkreds,S,1212768,32.5
-6,Fyns Storkreds,SF,306300,8.2
-6,Fyns Storkreds,UP,4008,0.1
-6,Fyns Storkreds,V,440904,11.8
-7,Sydjyllands Storkreds,ALT,73656,1.4
-7,Sydjyllands Storkreds,DD,581448,11.3
-7,Sydjyllands Storkreds,DF,145308,2.8
-7,Sydjyllands Storkreds,EL,123792,2.4
-7,Sydjyllands Storkreds,FG,21408,0.4
-7,Sydjyllands Storkreds,KD,285180,5.5
-7,Sydjyllands Storkreds,LA,390960,7.6
-7,Sydjyllands Storkreds,M,480780,9.3
-7,Sydjyllands Storkreds,NB,321348,6.2
-7,Sydjyllands Storkreds,R,119664,2.3
-7,Sydjyllands Storkreds,S,1464012,28.4
-7,Sydjyllands Storkreds,SF,298440,5.8
-7,Sydjyllands Storkreds,UP,4188,0.1
-7,Sydjyllands Storkreds,V,848880,16.5
-8,Østjyllands Storkreds,ALT,230088,3.8
-8,Østjyllands Storkreds,DD,427308,7.0
-8,Østjyllands Storkreds,DF,118896,2.0
-8,Østjyllands Storkreds,EL,345576,5.7
-8,Østjyllands Storkreds,FG,48684,0.8
-8,Østjyllands Storkreds,KD,316320,5.2
-8,Østjyllands Storkreds,LA,593712,9.8
-8,Østjyllands Storkreds,M,527448,8.7
-8,Østjyllands Storkreds,NB,214620,3.5
-8,Østjyllands Storkreds,R,281436,4.6
-8,Østjyllands Storkreds,S,1625964,26.8
-8,Østjyllands Storkreds,SF,544332,9.0
-8,Østjyllands Storkreds,UP,5784,0.1
-8,Østjyllands Storkreds,V,796212,13.1
-9,Vestjyllands Storkreds,ALT,56772,1.5
-9,Vestjyllands Storkreds,DD,529032,13.6
-9,Vestjyllands Storkreds,DF,78168,2.0
-9,Vestjyllands Storkreds,EL,88392,2.3
-9,Vestjyllands Storkreds,FG,9204,0.2
-9,Vestjyllands Storkreds,KD,376680,9.7
-9,Vestjyllands Storkreds,LA,302820,7.8
-9,Vestjyllands Storkreds,M,264096,6.8
-9,Vestjyllands Storkreds,NB,120564,3.1
-9,Vestjyllands Storkreds,R,73200,1.9
-9,Vestjyllands Storkreds,S,986244,25.3
-9,Vestjyllands Storkreds,SF,248580,6.4
-9,Vestjyllands Storkreds,UP,4452,0.1
-9,Vestjyllands Storkreds,V,755772,19.4
-10,Nordjyllands Storkreds,ALT,82128,1.9
-10,Nordjyllands Storkreds,DD,673872,15.2
-10,Nordjyllands Storkreds,DF,85404,1.9
-10,Nordjyllands Storkreds,EL,131496,3.0
-10,Nordjyllands Storkreds,FG,11772,0.3
-10,Nordjyllands Storkreds,KD,215196,4.8
-10,Nordjyllands Storkreds,LA,314076,7.1
-10,Nordjyllands Storkreds,M,279540,6.3
-10,Nordjyllands Storkreds,NB,153612,3.5
-10,Nordjyllands Storkreds,R,106860,2.4
-10,Nordjyllands Storkreds,S,1509624,34.0
-10,Nordjyllands Storkreds,SF,251328,5.7
-10,Nordjyllands Storkreds,UP,4248,0.1
-10,Nordjyllands Storkreds,V,620172,14.0
+1,Københavns Storkreds,ALT,42769,9.4
+1,Københavns Storkreds,DD,8334,1.8
+1,Københavns Storkreds,DF,7072,1.6
+1,Københavns Storkreds,EL,62611,13.8
+1,Københavns Storkreds,FG,10054,2.2
+1,Københavns Storkreds,K,22797,5.0
+1,Københavns Storkreds,LA,38204,8.4
+1,Københavns Storkreds,M,42908,9.5
+1,Københavns Storkreds,NB,7512,1.7
+1,Københavns Storkreds,R,34031,7.5
+1,Københavns Storkreds,S,86226,19.0
+1,Københavns Storkreds,SF,52080,11.5
+1,Københavns Storkreds,UP,782,0.2
+1,Københavns Storkreds,V,38319,8.4
+2,Københavns Omegns Storkreds,ALT,8992,3.0
+2,Københavns Omegns Storkreds,DD,11357,3.8
+2,Københavns Omegns Storkreds,DF,11026,3.7
+2,Københavns Omegns Storkreds,EL,16188,5.4
+2,Københavns Omegns Storkreds,FG,6949,2.3
+2,Københavns Omegns Storkreds,K,21778,7.3
+2,Københavns Omegns Storkreds,LA,24172,8.1
+2,Københavns Omegns Storkreds,M,32402,10.8
+2,Københavns Omegns Storkreds,NB,8818,2.9
+2,Københavns Omegns Storkreds,R,15266,5.1
+2,Københavns Omegns Storkreds,S,83264,27.7
+2,Københavns Omegns Storkreds,SF,28681,9.6
+2,Københavns Omegns Storkreds,UP,392,0.1
+2,Københavns Omegns Storkreds,V,30791,10.3
+3,Nordsjællands Storkreds,ALT,9659,3.3
+3,Nordsjællands Storkreds,DD,13859,4.8
+3,Nordsjællands Storkreds,DF,7725,2.7
+3,Nordsjællands Storkreds,EL,12342,4.2
+3,Nordsjællands Storkreds,FG,1625,0.6
+3,Nordsjællands Storkreds,K,22521,7.7
+3,Nordsjællands Storkreds,LA,27497,9.5
+3,Nordsjællands Storkreds,M,34417,11.8
+3,Nordsjællands Storkreds,NB,11290,3.9
+3,Nordsjællands Storkreds,R,14389,4.9
+3,Nordsjællands Storkreds,S,69653,24.0
+3,Nordsjællands Storkreds,SF,22642,7.8
+3,Nordsjællands Storkreds,UP,273,0.1
+3,Nordsjællands Storkreds,V,42873,14.7
+4,Bornholms Storkreds,ALT,663,2.7
+4,Bornholms Storkreds,DD,1590,6.6
+4,Bornholms Storkreds,DF,1550,6.4
+4,Bornholms Storkreds,EL,1279,5.3
+4,Bornholms Storkreds,FG,48,0.2
+4,Bornholms Storkreds,K,926,3.8
+4,Bornholms Storkreds,LA,892,3.7
+4,Bornholms Storkreds,M,1499,6.2
+4,Bornholms Storkreds,NB,529,2.2
+4,Bornholms Storkreds,R,251,1.0
+4,Bornholms Storkreds,S,8721,36.0
+4,Bornholms Storkreds,SF,1590,6.6
+4,Bornholms Storkreds,UP,45,0.2
+4,Bornholms Storkreds,V,4635,19.1
+5,Sjællands Storkreds,ALT,10121,2.0
+5,Sjællands Storkreds,DD,41865,8.1
+5,Sjællands Storkreds,DF,22384,4.3
+5,Sjællands Storkreds,EL,17107,3.3
+5,Sjællands Storkreds,FG,2564,0.5
+5,Sjællands Storkreds,K,23560,4.5
+5,Sjællands Storkreds,LA,34435,6.6
+5,Sjællands Storkreds,M,56326,10.9
+5,Sjællands Storkreds,NB,22990,4.4
+5,Sjællands Storkreds,R,12259,2.4
+5,Sjællands Storkreds,S,157580,30.4
+5,Sjællands Storkreds,SF,50778,9.8
+5,Sjællands Storkreds,UP,906,0.2
+5,Sjællands Storkreds,V,65433,12.6
+6,Fyns Storkreds,ALT,8476,2.7
+6,Fyns Storkreds,DD,25486,8.2
+6,Fyns Storkreds,DF,8023,2.6
+6,Fyns Storkreds,EL,14487,4.7
+6,Fyns Storkreds,FG,2958,1.0
+6,Fyns Storkreds,K,16190,5.2
+6,Fyns Storkreds,LA,19992,6.4
+6,Fyns Storkreds,M,30825,9.9
+6,Fyns Storkreds,NB,10873,3.5
+6,Fyns Storkreds,R,9305,3.0
+6,Fyns Storkreds,S,101064,32.6
+6,Fyns Storkreds,SF,25525,8.2
+6,Fyns Storkreds,UP,334,0.1
+6,Fyns Storkreds,V,36742,11.8
+7,Sydjyllands Storkreds,ALT,6138,1.4
+7,Sydjyllands Storkreds,DD,48454,11.4
+7,Sydjyllands Storkreds,DF,12109,2.8
+7,Sydjyllands Storkreds,EL,10316,2.4
+7,Sydjyllands Storkreds,FG,1784,0.4
+7,Sydjyllands Storkreds,K,20726,4.9
+7,Sydjyllands Storkreds,LA,32580,7.6
+7,Sydjyllands Storkreds,M,40065,9.4
+7,Sydjyllands Storkreds,NB,26779,6.3
+7,Sydjyllands Storkreds,R,9972,2.3
+7,Sydjyllands Storkreds,S,122001,28.6
+7,Sydjyllands Storkreds,SF,24870,5.8
+7,Sydjyllands Storkreds,UP,349,0.1
+7,Sydjyllands Storkreds,V,70740,16.6
+8,Østjyllands Storkreds,ALT,19174,3.8
+8,Østjyllands Storkreds,DD,35609,7.1
+8,Østjyllands Storkreds,DF,9908,2.0
+8,Østjyllands Storkreds,EL,28798,5.7
+8,Østjyllands Storkreds,FG,4057,0.8
+8,Østjyllands Storkreds,K,23637,4.7
+8,Østjyllands Storkreds,LA,49476,9.8
+8,Østjyllands Storkreds,M,43954,8.7
+8,Østjyllands Storkreds,NB,17885,3.6
+8,Østjyllands Storkreds,R,23453,4.7
+8,Østjyllands Storkreds,S,135497,26.9
+8,Østjyllands Storkreds,SF,45361,9.0
+8,Østjyllands Storkreds,UP,482,0.1
+8,Østjyllands Storkreds,V,66351,13.2
+9,Vestjyllands Storkreds,ALT,4731,1.5
+9,Vestjyllands Storkreds,DD,44086,13.8
+9,Vestjyllands Storkreds,DF,6514,2.0
+9,Vestjyllands Storkreds,EL,7366,2.3
+9,Vestjyllands Storkreds,FG,767,0.2
+9,Vestjyllands Storkreds,K,26395,8.3
+9,Vestjyllands Storkreds,LA,25235,7.9
+9,Vestjyllands Storkreds,M,22008,6.9
+9,Vestjyllands Storkreds,NB,10047,3.1
+9,Vestjyllands Storkreds,R,6100,1.9
+9,Vestjyllands Storkreds,S,82187,25.7
+9,Vestjyllands Storkreds,SF,20715,6.5
+9,Vestjyllands Storkreds,UP,371,0.1
+9,Vestjyllands Storkreds,V,62981,19.7
+10,Nordjyllands Storkreds,ALT,6844,1.9
+10,Nordjyllands Storkreds,DD,56156,15.2
+10,Nordjyllands Storkreds,DF,7117,1.9
+10,Nordjyllands Storkreds,EL,10958,3.0
+10,Nordjyllands Storkreds,FG,981,0.3
+10,Nordjyllands Storkreds,K,16290,4.4
+10,Nordjyllands Storkreds,LA,26173,7.1
+10,Nordjyllands Storkreds,M,23295,6.3
+10,Nordjyllands Storkreds,NB,12801,3.5
+10,Nordjyllands Storkreds,R,8905,2.4
+10,Nordjyllands Storkreds,S,125802,34.2
+10,Nordjyllands Storkreds,SF,20944,5.7
+10,Nordjyllands Storkreds,UP,354,0.1
+10,Nordjyllands Storkreds,V,51681,14.0
