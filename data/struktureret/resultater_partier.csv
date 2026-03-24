@@ -341,7 +341,6 @@ storkreds_nummer,storkreds,opstillingskreds_dagi_id,opstillingskreds,afstemnings
 3,Nordsjælland,403577,Rudersdal,703802,Skovvang,2026-03-17 20:47:58,,IngenResultater,0,0,,0,0,0.0,,
 6,Fyn,403609,Assens,748073,Aarup/Kerte,2026-03-17 20:47:58,,IngenResultater,0,0,,0,0,0.0,,
 6,Fyn,403609,Assens,710764,Assens,2026-03-17 20:47:58,,IngenResultater,0,0,,0,0,0.0,,
-6,Fyn,403609,Assens,701552,Brylle,2026-03-17 20:47:58,,IngenResultater,0,0,,0,0,0.0,,
 6,Fyn,403609,Assens,701526,Dreslette,2026-03-24 20:07:16,,ForeløbigOptælling,540,553,Det Konservative Folkeparti,31,0,,2e08413e-1c5b-4029-8bce-eac0ebff6527,C
 6,Fyn,403609,Assens,701526,Dreslette,2026-03-24 20:07:16,,ForeløbigOptælling,540,553,Radikale Venstre,17,0,,93a1aa01-2897-474b-8604-a1326c9b3948,B
 6,Fyn,403609,Assens,701526,Dreslette,2026-03-24 20:07:16,,ForeløbigOptælling,540,553,Enhedslisten - De Rød-Grønne,26,0,,8bb64864-5728-41db-af00-6234795cf340,Ø
@@ -438,7 +437,6 @@ storkreds_nummer,storkreds,opstillingskreds_dagi_id,opstillingskreds,afstemnings
 6,Fyn,403609,Assens,710796,Orte/Ørsted,2026-03-24 20:11:17,,ForeløbigOptælling,787,803,"Venstre, Danmarks Liberale Parti",106,0,,914ae6fd-98a6-4ed6-afd1-60ab809678ed,V
 6,Fyn,403609,Assens,710796,Orte/Ørsted,2026-03-24 20:11:17,,ForeløbigOptælling,787,803,Enhedslisten - De Rød-Grønne,40,0,,8bb64864-5728-41db-af00-6234795cf340,Ø
 6,Fyn,403609,Assens,710796,Orte/Ørsted,2026-03-24 20:11:17,,ForeløbigOptælling,787,803,Alternativet,17,0,,c01e1c81-e8eb-4f3d-ac55-de9279740a0e,Å
-6,Fyn,403609,Assens,748071,Rørup,2026-03-17 20:47:58,,IngenResultater,0,0,,0,0,0.0,,
 6,Fyn,403609,Assens,709286,Salbrovad,2026-03-24 19:53:45,,ForeløbigOptælling,519,525,Radikale Venstre,15,0,,93a1aa01-2897-474b-8604-a1326c9b3948,B
 6,Fyn,403609,Assens,709286,Salbrovad,2026-03-24 19:53:45,,ForeløbigOptælling,519,525,Det Konservative Folkeparti,37,0,,2e08413e-1c5b-4029-8bce-eac0ebff6527,C
 6,Fyn,403609,Assens,709286,Salbrovad,2026-03-24 19:53:45,,ForeløbigOptælling,519,525,Socialdemokratiet,108,0,,2f487db9-0663-429f-a4ec-081ae701723d,A
@@ -519,7 +517,6 @@ storkreds_nummer,storkreds,opstillingskreds_dagi_id,opstillingskreds,afstemnings
 2,Københavns Omegn,403559,Ballerup,706992,Måløv Ny Hal - Måløvhøj Skole - Måløv,2026-03-17 20:47:58,,IngenResultater,0,0,,0,0,0.0,,
 2,Københavns Omegn,403559,Ballerup,704024,Skovlunde Skole - Lundebjerg,2026-03-17 20:47:58,,IngenResultater,0,0,,0,0,0.0,,
 2,Københavns Omegn,403559,Ballerup,701002,Tapeten,2026-03-17 20:47:58,,IngenResultater,0,0,,0,0,0.0,,
-2,Københavns Omegn,403559,Ballerup,710164,Østerhøjhallen - Måløvhøj Skole - Østerhøj,2026-03-17 20:47:58,,IngenResultater,0,0,,0,0,0.0,,
 7,Sydjylland,403623,Vejen,704500,Billund,2026-03-17 20:47:58,,IngenResultater,0,0,,0,0,0.0,,
 7,Sydjylland,403623,Vejen,702968,Filskov,2026-03-17 20:47:58,,IngenResultater,0,0,,0,0,0.0,,
 7,Sydjylland,403623,Vejen,707400,Grindsted,2026-03-17 20:47:58,,IngenResultater,0,0,,0,0,0.0,,
@@ -1092,6 +1089,18 @@ storkreds_nummer,storkreds,opstillingskreds_dagi_id,opstillingskreds,afstemnings
 10,Nordjylland,403591,Frederikshavn,712132,Strandby,2026-03-17 20:47:58,,IngenResultater,0,0,,0,0,0.0,,
 10,Nordjylland,403591,Frederikshavn,748391,Sæby,2026-03-17 20:47:58,,IngenResultater,0,0,,0,0,0.0,,
 10,Nordjylland,403591,Frederikshavn,705142,Thorshøj,2026-03-17 20:47:58,,IngenResultater,0,0,,0,0,0.0,,
+10,Nordjylland,403591,Frederikshavn,748393,Voerså,2026-03-24 20:19:33,,ForeløbigOptælling,1093,1106,Moderaterne,45,0,,30375f1d-ff52-4b0d-9964-7147844cd5e7,M
+10,Nordjylland,403591,Frederikshavn,748393,Voerså,2026-03-24 20:19:33,,ForeløbigOptælling,1093,1106,SF - Socialistisk Folkeparti,77,0,,fae32292-ff8f-4f27-8218-a9874603e759,F
+10,Nordjylland,403591,Frederikshavn,748393,Voerså,2026-03-24 20:19:33,,ForeløbigOptælling,1093,1106,Socialdemokratiet,285,0,,2f487db9-0663-429f-a4ec-081ae701723d,A
+10,Nordjylland,403591,Frederikshavn,748393,Voerså,2026-03-24 20:19:33,,ForeløbigOptælling,1093,1106,Dansk Folkeparti,108,0,,1df39501-e08d-42e9-9804-eccf7b1f564a,O
+10,Nordjylland,403591,Frederikshavn,748393,Voerså,2026-03-24 20:19:33,,ForeløbigOptælling,1093,1106,"Venstre, Danmarks Liberale Parti",153,0,,914ae6fd-98a6-4ed6-afd1-60ab809678ed,V
+10,Nordjylland,403591,Frederikshavn,748393,Voerså,2026-03-24 20:19:33,,ForeløbigOptælling,1093,1106,Radikale Venstre,15,0,,93a1aa01-2897-474b-8604-a1326c9b3948,B
+10,Nordjylland,403591,Frederikshavn,748393,Voerså,2026-03-24 20:19:33,,ForeløbigOptælling,1093,1106,Alternativet,9,0,,c01e1c81-e8eb-4f3d-ac55-de9279740a0e,Å
+10,Nordjylland,403591,Frederikshavn,748393,Voerså,2026-03-24 20:19:33,,ForeløbigOptælling,1093,1106,Borgernes Parti - Lars Boje Mathiesen,43,0,,89ee100e-d4d6-43b5-83c5-edd5dd02c1fd,H
+10,Nordjylland,403591,Frederikshavn,748393,Voerså,2026-03-24 20:19:33,,ForeløbigOptælling,1093,1106,Liberal Alliance,81,0,,4d676beb-025b-4d42-ac5d-533d5130a6f3,I
+10,Nordjylland,403591,Frederikshavn,748393,Voerså,2026-03-24 20:19:33,,ForeløbigOptælling,1093,1106,Danmarksdemokraterne - Inger Støjberg,231,0,,ffacb8b3-7f7b-4158-a1ee-c0be84a344c6,Æ
+10,Nordjylland,403591,Frederikshavn,748393,Voerså,2026-03-24 20:19:33,,ForeløbigOptælling,1093,1106,Enhedslisten - De Rød-Grønne,23,0,,8bb64864-5728-41db-af00-6234795cf340,Ø
+10,Nordjylland,403591,Frederikshavn,748393,Voerså,2026-03-24 20:19:33,,ForeløbigOptælling,1093,1106,Det Konservative Folkeparti,23,0,,2e08413e-1c5b-4029-8bce-eac0ebff6527,C
 10,Nordjylland,403591,Frederikshavn,712112,Volstrup,2026-03-24 20:13:33,,ForeløbigOptælling,391,399,Socialdemokratiet,88,0,,2f487db9-0663-429f-a4ec-081ae701723d,A
 10,Nordjylland,403591,Frederikshavn,712112,Volstrup,2026-03-24 20:13:33,,ForeløbigOptælling,391,399,Radikale Venstre,3,0,,93a1aa01-2897-474b-8604-a1326c9b3948,B
 10,Nordjylland,403591,Frederikshavn,712112,Volstrup,2026-03-24 20:13:33,,ForeløbigOptælling,391,399,Det Konservative Folkeparti,8,0,,2e08413e-1c5b-4029-8bce-eac0ebff6527,C
@@ -1105,7 +1114,18 @@ storkreds_nummer,storkreds,opstillingskreds_dagi_id,opstillingskreds,afstemnings
 10,Nordjylland,403591,Frederikshavn,712112,Volstrup,2026-03-24 20:13:33,,ForeløbigOptælling,391,399,Moderaterne,14,0,,30375f1d-ff52-4b0d-9964-7147844cd5e7,M
 10,Nordjylland,403591,Frederikshavn,712112,Volstrup,2026-03-24 20:13:33,,ForeløbigOptælling,391,399,Danmarksdemokraterne - Inger Støjberg,112,0,,ffacb8b3-7f7b-4158-a1ee-c0be84a344c6,Æ
 10,Nordjylland,403591,Frederikshavn,748530,Ålbæk,2026-03-17 20:47:58,,IngenResultater,0,0,,0,0,0.0,,
-10,Nordjylland,403591,Frederikshavn,703516,Østervrå,2026-03-17 20:47:58,,IngenResultater,0,0,,0,0,0.0,,
+10,Nordjylland,403591,Frederikshavn,703516,Østervrå,2026-03-24 20:20:34,,ForeløbigOptælling,1335,1359,Radikale Venstre,32,0,,93a1aa01-2897-474b-8604-a1326c9b3948,B
+10,Nordjylland,403591,Frederikshavn,703516,Østervrå,2026-03-24 20:20:34,,ForeløbigOptælling,1335,1359,Socialdemokratiet,277,0,,2f487db9-0663-429f-a4ec-081ae701723d,A
+10,Nordjylland,403591,Frederikshavn,703516,Østervrå,2026-03-24 20:20:34,,ForeløbigOptælling,1335,1359,Det Konservative Folkeparti,68,0,,2e08413e-1c5b-4029-8bce-eac0ebff6527,C
+10,Nordjylland,403591,Frederikshavn,703516,Østervrå,2026-03-24 20:20:34,,ForeløbigOptælling,1335,1359,Borgernes Parti - Lars Boje Mathiesen,37,0,,89ee100e-d4d6-43b5-83c5-edd5dd02c1fd,H
+10,Nordjylland,403591,Frederikshavn,703516,Østervrå,2026-03-24 20:20:34,,ForeløbigOptælling,1335,1359,Liberal Alliance,121,0,,4d676beb-025b-4d42-ac5d-533d5130a6f3,I
+10,Nordjylland,403591,Frederikshavn,703516,Østervrå,2026-03-24 20:20:34,,ForeløbigOptælling,1335,1359,Moderaterne,65,0,,30375f1d-ff52-4b0d-9964-7147844cd5e7,M
+10,Nordjylland,403591,Frederikshavn,703516,Østervrå,2026-03-24 20:20:34,,ForeløbigOptælling,1335,1359,SF - Socialistisk Folkeparti,107,0,,fae32292-ff8f-4f27-8218-a9874603e759,F
+10,Nordjylland,403591,Frederikshavn,703516,Østervrå,2026-03-24 20:20:34,,ForeløbigOptælling,1335,1359,Dansk Folkeparti,91,0,,1df39501-e08d-42e9-9804-eccf7b1f564a,O
+10,Nordjylland,403591,Frederikshavn,703516,Østervrå,2026-03-24 20:20:34,,ForeløbigOptælling,1335,1359,"Venstre, Danmarks Liberale Parti",194,0,,914ae6fd-98a6-4ed6-afd1-60ab809678ed,V
+10,Nordjylland,403591,Frederikshavn,703516,Østervrå,2026-03-24 20:20:34,,ForeløbigOptælling,1335,1359,Alternativet,10,0,,c01e1c81-e8eb-4f3d-ac55-de9279740a0e,Å
+10,Nordjylland,403591,Frederikshavn,703516,Østervrå,2026-03-24 20:20:34,,ForeløbigOptælling,1335,1359,Enhedslisten - De Rød-Grønne,14,0,,8bb64864-5728-41db-af00-6234795cf340,Ø
+10,Nordjylland,403591,Frederikshavn,703516,Østervrå,2026-03-24 20:20:34,,ForeløbigOptælling,1335,1359,Danmarksdemokraterne - Inger Støjberg,319,0,,ffacb8b3-7f7b-4158-a1ee-c0be84a344c6,Æ
 3,Nordsjælland,403556,Frederikssund,710206,Frederikssund Midt,2026-03-17 20:47:58,,IngenResultater,0,0,,0,0,0.0,,
 3,Nordsjælland,403556,Frederikssund,701052,Frederikssund Nord,2026-03-17 20:47:58,,IngenResultater,0,0,,0,0,0.0,,
 3,Nordsjælland,403556,Frederikssund,704056,Frederikssund Syd,2026-03-17 20:47:58,,IngenResultater,0,0,,0,0,0.0,,
@@ -1185,7 +1205,18 @@ storkreds_nummer,storkreds,opstillingskreds_dagi_id,opstillingskreds,afstemnings
 3,Nordsjælland,403555,Hillerød,705834,Annisse,2026-03-24 20:08:01,,ForeløbigOptælling,1962,1987,"Venstre, Danmarks Liberale Parti",169,0,,914ae6fd-98a6-4ed6-afd1-60ab809678ed,V
 3,Nordsjælland,403555,Hillerød,705834,Annisse,2026-03-24 20:08:01,,ForeløbigOptælling,1962,1987,SF - Socialistisk Folkeparti,179,0,,fae32292-ff8f-4f27-8218-a9874603e759,F
 3,Nordsjælland,403555,Hillerød,705834,Annisse,2026-03-24 20:08:01,,ForeløbigOptælling,1962,1987,Alternativet,44,0,,c01e1c81-e8eb-4f3d-ac55-de9279740a0e,Å
-3,Nordsjælland,403555,Hillerød,708756,Blistrup,2026-03-17 20:47:58,,IngenResultater,0,0,,0,0,0.0,,
+3,Nordsjælland,403555,Hillerød,708756,Blistrup,2026-03-24 20:20:48,,ForeløbigOptælling,2853,2884,Socialdemokratiet,558,0,,2f487db9-0663-429f-a4ec-081ae701723d,A
+3,Nordsjælland,403555,Hillerød,708756,Blistrup,2026-03-24 20:20:48,,ForeløbigOptælling,2853,2884,Liberal Alliance,343,0,,4d676beb-025b-4d42-ac5d-533d5130a6f3,I
+3,Nordsjælland,403555,Hillerød,708756,Blistrup,2026-03-24 20:20:48,,ForeløbigOptælling,2853,2884,Moderaterne,213,0,,30375f1d-ff52-4b0d-9964-7147844cd5e7,M
+3,Nordsjælland,403555,Hillerød,708756,Blistrup,2026-03-24 20:20:48,,ForeløbigOptælling,2853,2884,SF - Socialistisk Folkeparti,269,0,,fae32292-ff8f-4f27-8218-a9874603e759,F
+3,Nordsjælland,403555,Hillerød,708756,Blistrup,2026-03-24 20:20:48,,ForeløbigOptælling,2853,2884,Borgernes Parti - Lars Boje Mathiesen,115,0,,89ee100e-d4d6-43b5-83c5-edd5dd02c1fd,H
+3,Nordsjælland,403555,Hillerød,708756,Blistrup,2026-03-24 20:20:48,,ForeløbigOptælling,2853,2884,Det Konservative Folkeparti,248,0,,2e08413e-1c5b-4029-8bce-eac0ebff6527,C
+3,Nordsjælland,403555,Hillerød,708756,Blistrup,2026-03-24 20:20:48,,ForeløbigOptælling,2853,2884,Radikale Venstre,90,0,,93a1aa01-2897-474b-8604-a1326c9b3948,B
+3,Nordsjælland,403555,Hillerød,708756,Blistrup,2026-03-24 20:20:48,,ForeløbigOptælling,2853,2884,Dansk Folkeparti,560,0,,1df39501-e08d-42e9-9804-eccf7b1f564a,O
+3,Nordsjælland,403555,Hillerød,708756,Blistrup,2026-03-24 20:20:48,,ForeløbigOptælling,2853,2884,"Venstre, Danmarks Liberale Parti",153,0,,914ae6fd-98a6-4ed6-afd1-60ab809678ed,V
+3,Nordsjælland,403555,Hillerød,708756,Blistrup,2026-03-24 20:20:48,,ForeløbigOptælling,2853,2884,Danmarksdemokraterne - Inger Støjberg,132,0,,ffacb8b3-7f7b-4158-a1ee-c0be84a344c6,Æ
+3,Nordsjælland,403555,Hillerød,708756,Blistrup,2026-03-24 20:20:48,,ForeløbigOptælling,2853,2884,Enhedslisten - De Rød-Grønne,106,0,,8bb64864-5728-41db-af00-6234795cf340,Ø
+3,Nordsjælland,403555,Hillerød,708756,Blistrup,2026-03-24 20:20:48,,ForeløbigOptælling,2853,2884,Alternativet,66,0,,c01e1c81-e8eb-4f3d-ac55-de9279740a0e,Å
 3,Nordsjælland,403555,Hillerød,701158,Esbønderup,2026-03-24 20:13:33,,ForeløbigOptælling,2064,2084,Moderaterne,225,0,,30375f1d-ff52-4b0d-9964-7147844cd5e7,M
 3,Nordsjælland,403555,Hillerød,701158,Esbønderup,2026-03-24 20:13:33,,ForeløbigOptælling,2064,2084,Dansk Folkeparti,295,0,,1df39501-e08d-42e9-9804-eccf7b1f564a,O
 3,Nordsjælland,403555,Hillerød,701158,Esbønderup,2026-03-24 20:13:33,,ForeløbigOptælling,2064,2084,"Venstre, Danmarks Liberale Parti",142,0,,914ae6fd-98a6-4ed6-afd1-60ab809678ed,V
@@ -1304,18 +1335,6 @@ storkreds_nummer,storkreds,opstillingskreds_dagi_id,opstillingskreds,afstemnings
 5,Sjælland,403638,Guldborgsund,701764,Væggerløse,2026-03-17 20:47:58,,IngenResultater,0,0,,0,0,0.0,,
 5,Sjælland,403638,Guldborgsund,703554,Østerbro,2026-03-17 20:47:58,,IngenResultater,0,0,,0,0,0.0,,
 5,Sjælland,403638,Guldborgsund,705042,Øster Ulslev,2026-03-17 20:47:58,,IngenResultater,0,0,,0,0,0.0,,
-7,Sydjylland,403617,Haderslev,709300,Aarø,2026-03-24 19:49:45,,ForeløbigOptælling,120,123,Radikale Venstre,3,0,,93a1aa01-2897-474b-8604-a1326c9b3948,B
-7,Sydjylland,403617,Haderslev,709300,Aarø,2026-03-24 19:49:45,,ForeløbigOptælling,120,123,Enhedslisten - De Rød-Grønne,4,0,,8bb64864-5728-41db-af00-6234795cf340,Ø
-7,Sydjylland,403617,Haderslev,709300,Aarø,2026-03-24 19:49:45,,ForeløbigOptælling,120,123,Det Konservative Folkeparti,4,0,,2e08413e-1c5b-4029-8bce-eac0ebff6527,C
-7,Sydjylland,403617,Haderslev,709300,Aarø,2026-03-24 19:49:45,,ForeløbigOptælling,120,123,Liberal Alliance,5,0,,4d676beb-025b-4d42-ac5d-533d5130a6f3,I
-7,Sydjylland,403617,Haderslev,709300,Aarø,2026-03-24 19:49:45,,ForeløbigOptælling,120,123,Socialdemokratiet,27,0,,2f487db9-0663-429f-a4ec-081ae701723d,A
-7,Sydjylland,403617,Haderslev,709300,Aarø,2026-03-24 19:49:45,,ForeløbigOptælling,120,123,"Venstre, Danmarks Liberale Parti",24,0,,914ae6fd-98a6-4ed6-afd1-60ab809678ed,V
-7,Sydjylland,403617,Haderslev,709300,Aarø,2026-03-24 19:49:45,,ForeløbigOptælling,120,123,SF - Socialistisk Folkeparti,7,0,,fae32292-ff8f-4f27-8218-a9874603e759,F
-7,Sydjylland,403617,Haderslev,709300,Aarø,2026-03-24 19:49:45,,ForeløbigOptælling,120,123,Alternativet,0,0,,c01e1c81-e8eb-4f3d-ac55-de9279740a0e,Å
-7,Sydjylland,403617,Haderslev,709300,Aarø,2026-03-24 19:49:45,,ForeløbigOptælling,120,123,Dansk Folkeparti,16,0,,1df39501-e08d-42e9-9804-eccf7b1f564a,O
-7,Sydjylland,403617,Haderslev,709300,Aarø,2026-03-24 19:49:45,,ForeløbigOptælling,120,123,Danmarksdemokraterne - Inger Støjberg,21,0,,ffacb8b3-7f7b-4158-a1ee-c0be84a344c6,Æ
-7,Sydjylland,403617,Haderslev,709300,Aarø,2026-03-24 19:49:45,,ForeløbigOptælling,120,123,Borgernes Parti - Lars Boje Mathiesen,3,0,,89ee100e-d4d6-43b5-83c5-edd5dd02c1fd,H
-7,Sydjylland,403617,Haderslev,709300,Aarø,2026-03-24 19:49:45,,ForeløbigOptælling,120,123,Moderaterne,6,0,,30375f1d-ff52-4b0d-9964-7147844cd5e7,M
 7,Sydjylland,403617,Haderslev,709256,Aastrup,2026-03-17 20:47:58,,IngenResultater,0,0,,0,0,0.0,,
 7,Sydjylland,403617,Haderslev,709148,Arnum,2026-03-24 19:56:45,,ForeløbigOptælling,411,419,Socialdemokratiet,78,0,,2f487db9-0663-429f-a4ec-081ae701723d,A
 7,Sydjylland,403617,Haderslev,709148,Arnum,2026-03-24 19:56:45,,ForeløbigOptælling,411,419,Det Konservative Folkeparti,16,0,,2e08413e-1c5b-4029-8bce-eac0ebff6527,C
@@ -1380,6 +1399,18 @@ storkreds_nummer,storkreds,opstillingskreds_dagi_id,opstillingskreds,afstemnings
 7,Sydjylland,403617,Haderslev,704724,Haderslev Vest,2026-03-24 20:05:16,,ForeløbigOptælling,2974,3007,Liberal Alliance,299,0,,4d676beb-025b-4d42-ac5d-533d5130a6f3,I
 7,Sydjylland,403617,Haderslev,704724,Haderslev Vest,2026-03-24 20:05:16,,ForeløbigOptælling,2974,3007,Borgernes Parti - Lars Boje Mathiesen,69,0,,89ee100e-d4d6-43b5-83c5-edd5dd02c1fd,H
 7,Sydjylland,403617,Haderslev,704724,Haderslev Vest,2026-03-24 20:05:16,,ForeløbigOptælling,2974,3007,Moderaterne,256,0,,30375f1d-ff52-4b0d-9964-7147844cd5e7,M
+7,Sydjylland,403617,Haderslev,703202,Hammelev,2026-03-24 20:19:48,,ForeløbigOptælling,1005,1022,Socialdemokratiet,264,0,,2f487db9-0663-429f-a4ec-081ae701723d,A
+7,Sydjylland,403617,Haderslev,703202,Hammelev,2026-03-24 20:19:48,,ForeløbigOptælling,1005,1022,Det Konservative Folkeparti,51,0,,2e08413e-1c5b-4029-8bce-eac0ebff6527,C
+7,Sydjylland,403617,Haderslev,703202,Hammelev,2026-03-24 20:19:48,,ForeløbigOptælling,1005,1022,SF - Socialistisk Folkeparti,52,0,,fae32292-ff8f-4f27-8218-a9874603e759,F
+7,Sydjylland,403617,Haderslev,703202,Hammelev,2026-03-24 20:19:48,,ForeløbigOptælling,1005,1022,Radikale Venstre,22,0,,93a1aa01-2897-474b-8604-a1326c9b3948,B
+7,Sydjylland,403617,Haderslev,703202,Hammelev,2026-03-24 20:19:48,,ForeløbigOptælling,1005,1022,Borgernes Parti - Lars Boje Mathiesen,44,0,,89ee100e-d4d6-43b5-83c5-edd5dd02c1fd,H
+7,Sydjylland,403617,Haderslev,703202,Hammelev,2026-03-24 20:19:48,,ForeløbigOptælling,1005,1022,Moderaterne,52,0,,30375f1d-ff52-4b0d-9964-7147844cd5e7,M
+7,Sydjylland,403617,Haderslev,703202,Hammelev,2026-03-24 20:19:48,,ForeløbigOptælling,1005,1022,Dansk Folkeparti,111,0,,1df39501-e08d-42e9-9804-eccf7b1f564a,O
+7,Sydjylland,403617,Haderslev,703202,Hammelev,2026-03-24 20:19:48,,ForeløbigOptælling,1005,1022,Enhedslisten - De Rød-Grønne,10,0,,8bb64864-5728-41db-af00-6234795cf340,Ø
+7,Sydjylland,403617,Haderslev,703202,Hammelev,2026-03-24 20:19:48,,ForeløbigOptælling,1005,1022,Liberal Alliance,99,0,,4d676beb-025b-4d42-ac5d-533d5130a6f3,I
+7,Sydjylland,403617,Haderslev,703202,Hammelev,2026-03-24 20:19:48,,ForeløbigOptælling,1005,1022,Danmarksdemokraterne - Inger Støjberg,79,0,,ffacb8b3-7f7b-4158-a1ee-c0be84a344c6,Æ
+7,Sydjylland,403617,Haderslev,703202,Hammelev,2026-03-24 20:19:48,,ForeløbigOptælling,1005,1022,"Venstre, Danmarks Liberale Parti",214,0,,914ae6fd-98a6-4ed6-afd1-60ab809678ed,V
+7,Sydjylland,403617,Haderslev,703202,Hammelev,2026-03-24 20:19:48,,ForeløbigOptælling,1005,1022,Alternativet,7,0,,c01e1c81-e8eb-4f3d-ac55-de9279740a0e,Å
 7,Sydjylland,403617,Haderslev,709412,Hoptrup,2026-03-24 19:57:45,,ForeløbigOptælling,728,736,Radikale Venstre,12,0,,93a1aa01-2897-474b-8604-a1326c9b3948,B
 7,Sydjylland,403617,Haderslev,709412,Hoptrup,2026-03-24 19:57:45,,ForeløbigOptælling,728,736,SF - Socialistisk Folkeparti,53,0,,fae32292-ff8f-4f27-8218-a9874603e759,F
 7,Sydjylland,403617,Haderslev,709412,Hoptrup,2026-03-24 19:57:45,,ForeløbigOptælling,728,736,"Venstre, Danmarks Liberale Parti",94,0,,914ae6fd-98a6-4ed6-afd1-60ab809678ed,V
@@ -1476,7 +1507,18 @@ storkreds_nummer,storkreds,opstillingskreds_dagi_id,opstillingskreds,afstemnings
 7,Sydjylland,403617,Haderslev,707612,Sommersted,2026-03-24 20:16:32,,ForeløbigOptælling,1390,1411,Danmarksdemokraterne - Inger Støjberg,140,0,,ffacb8b3-7f7b-4158-a1ee-c0be84a344c6,Æ
 7,Sydjylland,403617,Haderslev,707612,Sommersted,2026-03-24 20:16:32,,ForeløbigOptælling,1390,1411,Alternativet,16,0,,c01e1c81-e8eb-4f3d-ac55-de9279740a0e,Å
 7,Sydjylland,403617,Haderslev,707612,Sommersted,2026-03-24 20:16:32,,ForeløbigOptælling,1390,1411,Enhedslisten - De Rød-Grønne,16,0,,8bb64864-5728-41db-af00-6234795cf340,Ø
-7,Sydjylland,403617,Haderslev,710846,Starup,2026-03-17 20:47:58,,IngenResultater,0,0,,0,0,0.0,,
+7,Sydjylland,403617,Haderslev,710846,Starup,2026-03-24 20:20:03,,ForeløbigOptælling,1866,1902,Radikale Venstre,30,0,,93a1aa01-2897-474b-8604-a1326c9b3948,B
+7,Sydjylland,403617,Haderslev,710846,Starup,2026-03-24 20:20:03,,ForeløbigOptælling,1866,1902,Det Konservative Folkeparti,130,0,,2e08413e-1c5b-4029-8bce-eac0ebff6527,C
+7,Sydjylland,403617,Haderslev,710846,Starup,2026-03-24 20:20:03,,ForeløbigOptælling,1866,1902,SF - Socialistisk Folkeparti,173,0,,fae32292-ff8f-4f27-8218-a9874603e759,F
+7,Sydjylland,403617,Haderslev,710846,Starup,2026-03-24 20:20:03,,ForeløbigOptælling,1866,1902,Borgernes Parti - Lars Boje Mathiesen,47,0,,89ee100e-d4d6-43b5-83c5-edd5dd02c1fd,H
+7,Sydjylland,403617,Haderslev,710846,Starup,2026-03-24 20:20:03,,ForeløbigOptælling,1866,1902,Moderaterne,134,0,,30375f1d-ff52-4b0d-9964-7147844cd5e7,M
+7,Sydjylland,403617,Haderslev,710846,Starup,2026-03-24 20:20:03,,ForeløbigOptælling,1866,1902,Liberal Alliance,192,0,,4d676beb-025b-4d42-ac5d-533d5130a6f3,I
+7,Sydjylland,403617,Haderslev,710846,Starup,2026-03-24 20:20:03,,ForeløbigOptælling,1866,1902,Dansk Folkeparti,246,0,,1df39501-e08d-42e9-9804-eccf7b1f564a,O
+7,Sydjylland,403617,Haderslev,710846,Starup,2026-03-24 20:20:03,,ForeløbigOptælling,1866,1902,"Venstre, Danmarks Liberale Parti",269,0,,914ae6fd-98a6-4ed6-afd1-60ab809678ed,V
+7,Sydjylland,403617,Haderslev,710846,Starup,2026-03-24 20:20:03,,ForeløbigOptælling,1866,1902,Danmarksdemokraterne - Inger Støjberg,86,0,,ffacb8b3-7f7b-4158-a1ee-c0be84a344c6,Æ
+7,Sydjylland,403617,Haderslev,710846,Starup,2026-03-24 20:20:03,,ForeløbigOptælling,1866,1902,Enhedslisten - De Rød-Grønne,58,0,,8bb64864-5728-41db-af00-6234795cf340,Ø
+7,Sydjylland,403617,Haderslev,710846,Starup,2026-03-24 20:20:03,,ForeløbigOptælling,1866,1902,Alternativet,12,0,,c01e1c81-e8eb-4f3d-ac55-de9279740a0e,Å
+7,Sydjylland,403617,Haderslev,710846,Starup,2026-03-24 20:20:03,,ForeløbigOptælling,1866,1902,Socialdemokratiet,489,0,,2f487db9-0663-429f-a4ec-081ae701723d,A
 7,Sydjylland,403617,Haderslev,707620,Vojens,2026-03-17 20:47:58,,IngenResultater,0,0,,0,0,0.0,,
 7,Sydjylland,403617,Haderslev,711866,Øsby,2026-03-24 20:00:31,,ForeløbigOptælling,957,970,Socialdemokratiet,209,0,,2f487db9-0663-429f-a4ec-081ae701723d,A
 7,Sydjylland,403617,Haderslev,711866,Øsby,2026-03-24 20:00:31,,ForeløbigOptælling,957,970,SF - Socialistisk Folkeparti,64,0,,fae32292-ff8f-4f27-8218-a9874603e759,F
@@ -2072,7 +2114,18 @@ storkreds_nummer,storkreds,opstillingskreds_dagi_id,opstillingskreds,afstemnings
 10,Nordjylland,403584,Hjørring,701248,Ugilt,2026-03-24 20:18:32,,ForeløbigOptælling,653,666,Alternativet,5,0,,c01e1c81-e8eb-4f3d-ac55-de9279740a0e,Å
 10,Nordjylland,403584,Hjørring,710436,Vrejlev-Hæstrup,2026-03-17 20:47:58,,IngenResultater,0,0,,0,0,0.0,,
 10,Nordjylland,403584,Hjørring,702854,Vrå,2026-03-17 20:47:58,,IngenResultater,0,0,,0,0,0.0,,
-5,Sjælland,403628,Holbæk,710502,Gislinge,2026-03-17 20:47:58,,IngenResultater,0,0,,0,0,0.0,,
+5,Sjælland,403628,Holbæk,710502,Gislinge,2026-03-24 20:20:03,,ForeløbigOptælling,2104,2137,Enhedslisten - De Rød-Grønne,58,0,,8bb64864-5728-41db-af00-6234795cf340,Ø
+5,Sjælland,403628,Holbæk,710502,Gislinge,2026-03-24 20:20:03,,ForeløbigOptælling,2104,2137,Dansk Folkeparti,396,0,,1df39501-e08d-42e9-9804-eccf7b1f564a,O
+5,Sjælland,403628,Holbæk,710502,Gislinge,2026-03-24 20:20:03,,ForeløbigOptælling,2104,2137,Danmarksdemokraterne - Inger Støjberg,202,0,,ffacb8b3-7f7b-4158-a1ee-c0be84a344c6,Æ
+5,Sjælland,403628,Holbæk,710502,Gislinge,2026-03-24 20:20:03,,ForeløbigOptælling,2104,2137,Alternativet,27,0,,c01e1c81-e8eb-4f3d-ac55-de9279740a0e,Å
+5,Sjælland,403628,Holbæk,710502,Gislinge,2026-03-24 20:20:03,,ForeløbigOptælling,2104,2137,SF - Socialistisk Folkeparti,197,0,,fae32292-ff8f-4f27-8218-a9874603e759,F
+5,Sjælland,403628,Holbæk,710502,Gislinge,2026-03-24 20:20:03,,ForeløbigOptælling,2104,2137,Socialdemokratiet,474,0,,2f487db9-0663-429f-a4ec-081ae701723d,A
+5,Sjælland,403628,Holbæk,710502,Gislinge,2026-03-24 20:20:03,,ForeløbigOptælling,2104,2137,Det Konservative Folkeparti,73,0,,2e08413e-1c5b-4029-8bce-eac0ebff6527,C
+5,Sjælland,403628,Holbæk,710502,Gislinge,2026-03-24 20:20:03,,ForeløbigOptælling,2104,2137,Borgernes Parti - Lars Boje Mathiesen,84,0,,89ee100e-d4d6-43b5-83c5-edd5dd02c1fd,H
+5,Sjælland,403628,Holbæk,710502,Gislinge,2026-03-24 20:20:03,,ForeløbigOptælling,2104,2137,Radikale Venstre,31,0,,93a1aa01-2897-474b-8604-a1326c9b3948,B
+5,Sjælland,403628,Holbæk,710502,Gislinge,2026-03-24 20:20:03,,ForeløbigOptælling,2104,2137,Moderaterne,160,0,,30375f1d-ff52-4b0d-9964-7147844cd5e7,M
+5,Sjælland,403628,Holbæk,710502,Gislinge,2026-03-24 20:20:03,,ForeløbigOptælling,2104,2137,Liberal Alliance,199,0,,4d676beb-025b-4d42-ac5d-533d5130a6f3,I
+5,Sjælland,403628,Holbæk,710502,Gislinge,2026-03-24 20:20:03,,ForeløbigOptælling,2104,2137,"Venstre, Danmarks Liberale Parti",203,0,,914ae6fd-98a6-4ed6-afd1-60ab809678ed,V
 5,Sjælland,403628,Holbæk,702906,Holbæk Midt,2026-03-17 20:47:58,,IngenResultater,0,0,,0,0,0.0,,
 5,Sjælland,403628,Holbæk,705950,Holbæk Vest,2026-03-17 20:47:58,,IngenResultater,0,0,,0,0,0.0,,
 5,Sjælland,403628,Holbæk,708890,Holbæk Øst,2026-03-17 20:47:58,,IngenResultater,0,0,,0,0,0.0,,
@@ -2109,7 +2162,19 @@ storkreds_nummer,storkreds,opstillingskreds_dagi_id,opstillingskreds,afstemnings
 5,Sjælland,403628,Holbæk,704456,Undløse,2026-03-24 20:13:33,,ForeløbigOptælling,2026,2064,"Venstre, Danmarks Liberale Parti",188,0,,914ae6fd-98a6-4ed6-afd1-60ab809678ed,V
 5,Sjælland,403628,Holbæk,704456,Undløse,2026-03-24 20:13:33,,ForeløbigOptælling,2026,2064,Danmarksdemokraterne - Inger Støjberg,179,0,,ffacb8b3-7f7b-4158-a1ee-c0be84a344c6,Æ
 5,Sjælland,403628,Holbæk,705924,Vipperød,2026-03-17 20:47:58,,IngenResultater,0,0,,0,0,0.0,,
-9,Vestjylland,403579,Holstebro,703344,Mejdal,2026-03-17 20:47:58,,IngenResultater,0,0,,0,0,0.0,,
+9,Vestjylland,403579,Holstebro,703344,Mejdal,2026-03-24 20:20:33,,ForeløbigOptælling,4041,4071,Socialdemokratiet,828,0,,2f487db9-0663-429f-a4ec-081ae701723d,A
+9,Vestjylland,403579,Holstebro,703344,Mejdal,2026-03-24 20:20:33,,ForeløbigOptælling,4041,4071,Dansk Folkeparti,282,0,,1df39501-e08d-42e9-9804-eccf7b1f564a,O
+9,Vestjylland,403579,Holstebro,703344,Mejdal,2026-03-24 20:20:33,,ForeløbigOptælling,4041,4071,"Venstre, Danmarks Liberale Parti",959,0,,914ae6fd-98a6-4ed6-afd1-60ab809678ed,V
+9,Vestjylland,403579,Holstebro,703344,Mejdal,2026-03-24 20:20:33,,ForeløbigOptælling,4041,4071,Det Konservative Folkeparti,199,0,,2e08413e-1c5b-4029-8bce-eac0ebff6527,C
+9,Vestjylland,403579,Holstebro,703344,Mejdal,2026-03-24 20:20:33,,ForeløbigOptælling,4041,4071,Radikale Venstre,109,0,,93a1aa01-2897-474b-8604-a1326c9b3948,B
+9,Vestjylland,403579,Holstebro,703344,Mejdal,2026-03-24 20:20:33,,ForeløbigOptælling,4041,4071,SF - Socialistisk Folkeparti,471,0,,fae32292-ff8f-4f27-8218-a9874603e759,F
+9,Vestjylland,403579,Holstebro,703344,Mejdal,2026-03-24 20:20:33,,ForeløbigOptælling,4041,4071,Borgernes Parti - Lars Boje Mathiesen,57,0,,89ee100e-d4d6-43b5-83c5-edd5dd02c1fd,H
+9,Vestjylland,403579,Holstebro,703344,Mejdal,2026-03-24 20:20:33,,ForeløbigOptælling,4041,4071,Liberal Alliance,498,0,,4d676beb-025b-4d42-ac5d-533d5130a6f3,I
+9,Vestjylland,403579,Holstebro,703344,Mejdal,2026-03-24 20:20:33,,ForeløbigOptælling,4041,4071,Moderaterne,212,0,,30375f1d-ff52-4b0d-9964-7147844cd5e7,M
+9,Vestjylland,403579,Holstebro,703344,Mejdal,2026-03-24 20:20:33,,ForeløbigOptælling,4041,4071,Danmarksdemokraterne - Inger Støjberg,337,0,,ffacb8b3-7f7b-4158-a1ee-c0be84a344c6,Æ
+9,Vestjylland,403579,Holstebro,703344,Mejdal,2026-03-24 20:20:33,,ForeløbigOptælling,4041,4071,Enhedslisten - De Rød-Grønne,56,0,,8bb64864-5728-41db-af00-6234795cf340,Ø
+9,Vestjylland,403579,Holstebro,703344,Mejdal,2026-03-24 20:20:33,,ForeløbigOptælling,4041,4071,Alternativet,32,0,,c01e1c81-e8eb-4f3d-ac55-de9279740a0e,Å
+9,Vestjylland,403579,Holstebro,703344,Mejdal,2026-03-24 20:20:33,,ForeløbigOptælling,4041,4071,Udenfor parti,1,0,0.0,,UP
 9,Vestjylland,403579,Holstebro,703338,Mejrup,2026-03-17 20:47:58,,IngenResultater,0,0,,0,0,0.0,,
 9,Vestjylland,403579,Holstebro,709372,Musikteatret,2026-03-17 20:47:58,,IngenResultater,0,0,,0,0,0.0,,
 9,Vestjylland,403579,Holstebro,711920,Nørre Boulevard Skolen,2026-03-24 20:18:32,,ForeløbigOptælling,7623,7734,Socialdemokratiet,1948,0,,2f487db9-0663-429f-a4ec-081ae701723d,A
@@ -2190,7 +2255,6 @@ storkreds_nummer,storkreds,opstillingskreds_dagi_id,opstillingskreds,afstemnings
 9,Vestjylland,403579,Holstebro,703316,Vemb,2026-03-24 20:05:31,,ForeløbigOptælling,1170,1188,Borgernes Parti - Lars Boje Mathiesen,39,0,,89ee100e-d4d6-43b5-83c5-edd5dd02c1fd,H
 9,Vestjylland,403579,Holstebro,703316,Vemb,2026-03-24 20:05:31,,ForeløbigOptælling,1170,1188,Liberal Alliance,90,0,,4d676beb-025b-4d42-ac5d-533d5130a6f3,I
 9,Vestjylland,403579,Holstebro,703316,Vemb,2026-03-24 20:05:31,,ForeløbigOptælling,1170,1188,Udenfor parti,0,0,0.0,,UP
-9,Vestjylland,403579,Holstebro,701564,Vinderup,2026-03-17 20:47:58,,IngenResultater,0,0,,0,0,0.0,,
 8,Østjylland,403578,Horsens,701658,Brædstrup,2026-03-17 20:47:58,,IngenResultater,0,0,,0,0,0.0,,
 8,Østjylland,403578,Horsens,701652,Dagnæs,2026-03-17 20:47:58,,IngenResultater,0,0,,0,0,0.0,,
 8,Østjylland,403578,Horsens,706274,Egebjerg,2026-03-17 20:47:58,,IngenResultater,0,0,,0,0,0.0,,
@@ -2463,6 +2527,18 @@ storkreds_nummer,storkreds,opstillingskreds_dagi_id,opstillingskreds,afstemnings
 5,Sjælland,403631,Kalundborg,707012,Gørlev,2026-03-17 20:47:58,,IngenResultater,0,0,,0,0,0.0,,
 5,Sjælland,403631,Kalundborg,702316,Høng,2026-03-17 20:47:58,,IngenResultater,0,0,,0,0,0.0,,
 5,Sjælland,403631,Kalundborg,701032,Kalundborghallen,2026-03-17 20:47:58,,IngenResultater,0,0,,0,0,0.0,,
+5,Sjælland,403631,Kalundborg,704036,Kr. Helsinge,2026-03-24 20:20:03,,ForeløbigOptælling,1176,1188,Socialdemokratiet,250,0,,2f487db9-0663-429f-a4ec-081ae701723d,A
+5,Sjælland,403631,Kalundborg,704036,Kr. Helsinge,2026-03-24 20:20:03,,ForeløbigOptælling,1176,1188,Radikale Venstre,22,0,,93a1aa01-2897-474b-8604-a1326c9b3948,B
+5,Sjælland,403631,Kalundborg,704036,Kr. Helsinge,2026-03-24 20:20:03,,ForeløbigOptælling,1176,1188,Det Konservative Folkeparti,47,0,,2e08413e-1c5b-4029-8bce-eac0ebff6527,C
+5,Sjælland,403631,Kalundborg,704036,Kr. Helsinge,2026-03-24 20:20:03,,ForeløbigOptælling,1176,1188,Borgernes Parti - Lars Boje Mathiesen,60,0,,89ee100e-d4d6-43b5-83c5-edd5dd02c1fd,H
+5,Sjælland,403631,Kalundborg,704036,Kr. Helsinge,2026-03-24 20:20:03,,ForeløbigOptælling,1176,1188,Liberal Alliance,97,0,,4d676beb-025b-4d42-ac5d-533d5130a6f3,I
+5,Sjælland,403631,Kalundborg,704036,Kr. Helsinge,2026-03-24 20:20:03,,ForeløbigOptælling,1176,1188,SF - Socialistisk Folkeparti,113,0,,fae32292-ff8f-4f27-8218-a9874603e759,F
+5,Sjælland,403631,Kalundborg,704036,Kr. Helsinge,2026-03-24 20:20:03,,ForeløbigOptælling,1176,1188,Moderaterne,116,0,,30375f1d-ff52-4b0d-9964-7147844cd5e7,M
+5,Sjælland,403631,Kalundborg,704036,Kr. Helsinge,2026-03-24 20:20:03,,ForeløbigOptælling,1176,1188,Danmarksdemokraterne - Inger Støjberg,99,0,,ffacb8b3-7f7b-4158-a1ee-c0be84a344c6,Æ
+5,Sjælland,403631,Kalundborg,704036,Kr. Helsinge,2026-03-24 20:20:03,,ForeløbigOptælling,1176,1188,Dansk Folkeparti,209,0,,1df39501-e08d-42e9-9804-eccf7b1f564a,O
+5,Sjælland,403631,Kalundborg,704036,Kr. Helsinge,2026-03-24 20:20:03,,ForeløbigOptælling,1176,1188,"Venstre, Danmarks Liberale Parti",128,0,,914ae6fd-98a6-4ed6-afd1-60ab809678ed,V
+5,Sjælland,403631,Kalundborg,704036,Kr. Helsinge,2026-03-24 20:20:03,,ForeløbigOptælling,1176,1188,Alternativet,17,0,,c01e1c81-e8eb-4f3d-ac55-de9279740a0e,Å
+5,Sjælland,403631,Kalundborg,704036,Kr. Helsinge,2026-03-24 20:20:03,,ForeløbigOptælling,1176,1188,Enhedslisten - De Rød-Grønne,18,0,,8bb64864-5728-41db-af00-6234795cf340,Ø
 5,Sjælland,403631,Kalundborg,711460,Raklev,2026-03-17 20:47:58,,IngenResultater,0,0,,0,0,0.0,,
 5,Sjælland,403631,Kalundborg,702334,Reersø,2026-03-24 19:47:45,,ForeløbigOptælling,432,439,Alternativet,8,0,,c01e1c81-e8eb-4f3d-ac55-de9279740a0e,Å
 5,Sjælland,403631,Kalundborg,702334,Reersø,2026-03-24 19:47:45,,ForeløbigOptælling,432,439,Det Konservative Folkeparti,14,0,,2e08413e-1c5b-4029-8bce-eac0ebff6527,C
@@ -2770,7 +2846,18 @@ storkreds_nummer,storkreds,opstillingskreds_dagi_id,opstillingskreds,afstemnings
 10,Nordjylland,403583,Mariagerfjord,708668,Assens,2026-03-24 20:11:33,,ForeløbigOptælling,1362,1370,Danmarksdemokraterne - Inger Støjberg,306,0,,ffacb8b3-7f7b-4158-a1ee-c0be84a344c6,Æ
 10,Nordjylland,403583,Mariagerfjord,708668,Assens,2026-03-24 20:11:33,,ForeløbigOptælling,1362,1370,Enhedslisten - De Rød-Grønne,27,0,,8bb64864-5728-41db-af00-6234795cf340,Ø
 10,Nordjylland,403583,Mariagerfjord,708668,Assens,2026-03-24 20:11:33,,ForeløbigOptælling,1362,1370,Alternativet,17,0,,c01e1c81-e8eb-4f3d-ac55-de9279740a0e,Å
-10,Nordjylland,403583,Mariagerfjord,705600,Hadsund,2026-03-17 20:47:58,,IngenResultater,0,0,,0,0,0.0,,
+10,Nordjylland,403583,Mariagerfjord,705600,Hadsund,2026-03-24 20:20:33,,ForeløbigOptælling,4190,4230,Radikale Venstre,84,0,,93a1aa01-2897-474b-8604-a1326c9b3948,B
+10,Nordjylland,403583,Mariagerfjord,705600,Hadsund,2026-03-24 20:20:33,,ForeløbigOptælling,4190,4230,SF - Socialistisk Folkeparti,259,0,,fae32292-ff8f-4f27-8218-a9874603e759,F
+10,Nordjylland,403583,Mariagerfjord,705600,Hadsund,2026-03-24 20:20:33,,ForeløbigOptælling,4190,4230,Det Konservative Folkeparti,316,0,,2e08413e-1c5b-4029-8bce-eac0ebff6527,C
+10,Nordjylland,403583,Mariagerfjord,705600,Hadsund,2026-03-24 20:20:33,,ForeløbigOptælling,4190,4230,Borgernes Parti - Lars Boje Mathiesen,115,0,,89ee100e-d4d6-43b5-83c5-edd5dd02c1fd,H
+10,Nordjylland,403583,Mariagerfjord,705600,Hadsund,2026-03-24 20:20:33,,ForeløbigOptælling,4190,4230,Socialdemokratiet,1144,0,,2f487db9-0663-429f-a4ec-081ae701723d,A
+10,Nordjylland,403583,Mariagerfjord,705600,Hadsund,2026-03-24 20:20:33,,ForeløbigOptælling,4190,4230,Dansk Folkeparti,272,0,,1df39501-e08d-42e9-9804-eccf7b1f564a,O
+10,Nordjylland,403583,Mariagerfjord,705600,Hadsund,2026-03-24 20:20:33,,ForeløbigOptælling,4190,4230,Moderaterne,168,0,,30375f1d-ff52-4b0d-9964-7147844cd5e7,M
+10,Nordjylland,403583,Mariagerfjord,705600,Hadsund,2026-03-24 20:20:33,,ForeløbigOptælling,4190,4230,"Venstre, Danmarks Liberale Parti",510,0,,914ae6fd-98a6-4ed6-afd1-60ab809678ed,V
+10,Nordjylland,403583,Mariagerfjord,705600,Hadsund,2026-03-24 20:20:33,,ForeløbigOptælling,4190,4230,Danmarksdemokraterne - Inger Støjberg,921,0,,ffacb8b3-7f7b-4158-a1ee-c0be84a344c6,Æ
+10,Nordjylland,403583,Mariagerfjord,705600,Hadsund,2026-03-24 20:20:33,,ForeløbigOptælling,4190,4230,Enhedslisten - De Rød-Grønne,74,0,,8bb64864-5728-41db-af00-6234795cf340,Ø
+10,Nordjylland,403583,Mariagerfjord,705600,Hadsund,2026-03-24 20:20:33,,ForeløbigOptælling,4190,4230,Liberal Alliance,291,0,,4d676beb-025b-4d42-ac5d-533d5130a6f3,I
+10,Nordjylland,403583,Mariagerfjord,705600,Hadsund,2026-03-24 20:20:33,,ForeløbigOptælling,4190,4230,Alternativet,36,0,,c01e1c81-e8eb-4f3d-ac55-de9279740a0e,Å
 10,Nordjylland,403583,Mariagerfjord,702292,Hobro,2026-03-17 20:47:58,,IngenResultater,0,0,,0,0,0.0,,
 10,Nordjylland,403583,Mariagerfjord,708660,Hørby,2026-03-17 20:47:58,,IngenResultater,0,0,,0,0,0.0,,
 10,Nordjylland,403583,Mariagerfjord,700964,Mariager,2026-03-17 20:47:58,,IngenResultater,0,0,,0,0,0.0,,
@@ -3000,7 +3087,6 @@ storkreds_nummer,storkreds,opstillingskreds_dagi_id,opstillingskreds,afstemnings
 6,Fyn,403613,Middelfart,748632,Krogsbølle,2026-03-17 20:47:58,,IngenResultater,0,0,,0,0,0.0,,
 6,Fyn,403613,Middelfart,748633,Morud,2026-03-17 20:47:58,,IngenResultater,0,0,,0,0,0.0,,
 6,Fyn,403613,Middelfart,748636,Otterup,2026-03-17 20:47:58,,IngenResultater,0,0,,0,0,0.0,,
-6,Fyn,403613,Middelfart,748630,Skovløkken,2026-03-17 20:47:58,,IngenResultater,0,0,,0,0,0.0,,
 6,Fyn,403613,Middelfart,748638,Særslev,2026-03-24 20:11:32,,ForeløbigOptælling,912,927,SF - Socialistisk Folkeparti,81,0,,fae32292-ff8f-4f27-8218-a9874603e759,F
 6,Fyn,403613,Middelfart,748638,Særslev,2026-03-24 20:11:32,,ForeløbigOptælling,912,927,Enhedslisten - De Rød-Grønne,25,0,,8bb64864-5728-41db-af00-6234795cf340,Ø
 6,Fyn,403613,Middelfart,748638,Særslev,2026-03-24 20:11:32,,ForeløbigOptælling,912,927,Radikale Venstre,25,0,,93a1aa01-2897-474b-8604-a1326c9b3948,B
@@ -3053,6 +3139,18 @@ storkreds_nummer,storkreds,opstillingskreds_dagi_id,opstillingskreds,afstemnings
 6,Fyn,403614,Nyborg,701998,Ellinge,2026-03-24 19:35:15,,ForeløbigOptælling,308,312,Moderaterne,25,0,,30375f1d-ff52-4b0d-9964-7147844cd5e7,M
 6,Fyn,403614,Nyborg,701998,Ellinge,2026-03-24 19:35:15,,ForeløbigOptælling,308,312,Dansk Folkeparti,42,0,,1df39501-e08d-42e9-9804-eccf7b1f564a,O
 6,Fyn,403614,Nyborg,705380,Frørup Og Tårup,2026-03-17 20:47:58,,IngenResultater,0,0,,0,0,0.0,,
+6,Fyn,403614,Nyborg,706642,Kullerup Og Refsvindinge,2026-03-24 20:19:48,,ForeløbigOptælling,743,759,"Venstre, Danmarks Liberale Parti",125,0,,914ae6fd-98a6-4ed6-afd1-60ab809678ed,V
+6,Fyn,403614,Nyborg,706642,Kullerup Og Refsvindinge,2026-03-24 20:19:48,,ForeløbigOptælling,743,759,Det Konservative Folkeparti,38,0,,2e08413e-1c5b-4029-8bce-eac0ebff6527,C
+6,Fyn,403614,Nyborg,706642,Kullerup Og Refsvindinge,2026-03-24 20:19:48,,ForeløbigOptælling,743,759,SF - Socialistisk Folkeparti,66,0,,fae32292-ff8f-4f27-8218-a9874603e759,F
+6,Fyn,403614,Nyborg,706642,Kullerup Og Refsvindinge,2026-03-24 20:19:48,,ForeløbigOptælling,743,759,Borgernes Parti - Lars Boje Mathiesen,44,0,,89ee100e-d4d6-43b5-83c5-edd5dd02c1fd,H
+6,Fyn,403614,Nyborg,706642,Kullerup Og Refsvindinge,2026-03-24 20:19:48,,ForeløbigOptælling,743,759,Radikale Venstre,15,0,,93a1aa01-2897-474b-8604-a1326c9b3948,B
+6,Fyn,403614,Nyborg,706642,Kullerup Og Refsvindinge,2026-03-24 20:19:48,,ForeløbigOptælling,743,759,Socialdemokratiet,157,0,,2f487db9-0663-429f-a4ec-081ae701723d,A
+6,Fyn,403614,Nyborg,706642,Kullerup Og Refsvindinge,2026-03-24 20:19:48,,ForeløbigOptælling,743,759,Liberal Alliance,55,0,,4d676beb-025b-4d42-ac5d-533d5130a6f3,I
+6,Fyn,403614,Nyborg,706642,Kullerup Og Refsvindinge,2026-03-24 20:19:48,,ForeløbigOptælling,743,759,Enhedslisten - De Rød-Grønne,27,0,,8bb64864-5728-41db-af00-6234795cf340,Ø
+6,Fyn,403614,Nyborg,706642,Kullerup Og Refsvindinge,2026-03-24 20:19:48,,ForeløbigOptælling,743,759,Moderaterne,40,0,,30375f1d-ff52-4b0d-9964-7147844cd5e7,M
+6,Fyn,403614,Nyborg,706642,Kullerup Og Refsvindinge,2026-03-24 20:19:48,,ForeløbigOptælling,743,759,Dansk Folkeparti,86,0,,1df39501-e08d-42e9-9804-eccf7b1f564a,O
+6,Fyn,403614,Nyborg,706642,Kullerup Og Refsvindinge,2026-03-24 20:19:48,,ForeløbigOptælling,743,759,Alternativet,22,0,,c01e1c81-e8eb-4f3d-ac55-de9279740a0e,Å
+6,Fyn,403614,Nyborg,706642,Kullerup Og Refsvindinge,2026-03-24 20:19:48,,ForeløbigOptælling,743,759,Danmarksdemokraterne - Inger Støjberg,68,0,,ffacb8b3-7f7b-4158-a1ee-c0be84a344c6,Æ
 6,Fyn,403614,Nyborg,708340,Langtved,2026-03-24 20:02:16,,ForeløbigOptælling,566,574,Det Konservative Folkeparti,30,0,,2e08413e-1c5b-4029-8bce-eac0ebff6527,C
 6,Fyn,403614,Nyborg,708340,Langtved,2026-03-24 20:02:16,,ForeløbigOptælling,566,574,Borgernes Parti - Lars Boje Mathiesen,26,0,,89ee100e-d4d6-43b5-83c5-edd5dd02c1fd,H
 6,Fyn,403614,Nyborg,708340,Langtved,2026-03-24 20:02:16,,ForeløbigOptælling,566,574,SF - Socialistisk Folkeparti,55,0,,fae32292-ff8f-4f27-8218-a9874603e759,F
@@ -3259,7 +3357,18 @@ storkreds_nummer,storkreds,opstillingskreds_dagi_id,opstillingskreds,afstemnings
 6,Fyn,403611,Odense Syd,708800,Fangel Forsamlingshus,2026-03-24 19:53:30,,ForeløbigOptælling,567,575,Alternativet,12,0,,c01e1c81-e8eb-4f3d-ac55-de9279740a0e,Å
 6,Fyn,403611,Odense Syd,708800,Fangel Forsamlingshus,2026-03-24 19:53:30,,ForeløbigOptælling,567,575,Borgernes Parti - Lars Boje Mathiesen,17,0,,89ee100e-d4d6-43b5-83c5-edd5dd02c1fd,H
 6,Fyn,403610,Odense Øst,708762,Fjordager-Hallen,2026-03-17 20:47:58,,IngenResultater,0,0,,0,0,0.0,,
-6,Fyn,403610,Odense Øst,710386,Fraugde Fritidscenter,2026-03-17 20:47:58,,IngenResultater,0,0,,0,0,0.0,,
+6,Fyn,403610,Odense Øst,710386,Fraugde Fritidscenter,2026-03-24 20:20:18,,ForeløbigOptælling,2101,2138,Det Konservative Folkeparti,131,0,,2e08413e-1c5b-4029-8bce-eac0ebff6527,C
+6,Fyn,403610,Odense Øst,710386,Fraugde Fritidscenter,2026-03-24 20:20:18,,ForeløbigOptælling,2101,2138,SF - Socialistisk Folkeparti,282,0,,fae32292-ff8f-4f27-8218-a9874603e759,F
+6,Fyn,403610,Odense Øst,710386,Fraugde Fritidscenter,2026-03-24 20:20:18,,ForeløbigOptælling,2101,2138,Socialdemokratiet,548,0,,2f487db9-0663-429f-a4ec-081ae701723d,A
+6,Fyn,403610,Odense Øst,710386,Fraugde Fritidscenter,2026-03-24 20:20:18,,ForeløbigOptælling,2101,2138,Radikale Venstre,73,0,,93a1aa01-2897-474b-8604-a1326c9b3948,B
+6,Fyn,403610,Odense Øst,710386,Fraugde Fritidscenter,2026-03-24 20:20:18,,ForeløbigOptælling,2101,2138,Enhedslisten - De Rød-Grønne,146,0,,8bb64864-5728-41db-af00-6234795cf340,Ø
+6,Fyn,403610,Odense Øst,710386,Fraugde Fritidscenter,2026-03-24 20:20:18,,ForeløbigOptælling,2101,2138,Danmarksdemokraterne - Inger Støjberg,81,0,,ffacb8b3-7f7b-4158-a1ee-c0be84a344c6,Æ
+6,Fyn,403610,Odense Øst,710386,Fraugde Fritidscenter,2026-03-24 20:20:18,,ForeløbigOptælling,2101,2138,Borgernes Parti - Lars Boje Mathiesen,49,0,,89ee100e-d4d6-43b5-83c5-edd5dd02c1fd,H
+6,Fyn,403610,Odense Øst,710386,Fraugde Fritidscenter,2026-03-24 20:20:18,,ForeløbigOptælling,2101,2138,Liberal Alliance,202,0,,4d676beb-025b-4d42-ac5d-533d5130a6f3,I
+6,Fyn,403610,Odense Øst,710386,Fraugde Fritidscenter,2026-03-24 20:20:18,,ForeløbigOptælling,2101,2138,Moderaterne,126,0,,30375f1d-ff52-4b0d-9964-7147844cd5e7,M
+6,Fyn,403610,Odense Øst,710386,Fraugde Fritidscenter,2026-03-24 20:20:18,,ForeløbigOptælling,2101,2138,"Venstre, Danmarks Liberale Parti",173,0,,914ae6fd-98a6-4ed6-afd1-60ab809678ed,V
+6,Fyn,403610,Odense Øst,710386,Fraugde Fritidscenter,2026-03-24 20:20:18,,ForeløbigOptælling,2101,2138,Dansk Folkeparti,239,0,,1df39501-e08d-42e9-9804-eccf7b1f564a,O
+6,Fyn,403610,Odense Øst,710386,Fraugde Fritidscenter,2026-03-24 20:20:18,,ForeløbigOptælling,2101,2138,Alternativet,51,0,,c01e1c81-e8eb-4f3d-ac55-de9279740a0e,Å
 6,Fyn,403611,Odense Syd,711704,Højby Skole,2026-03-17 20:47:58,,IngenResultater,0,0,,0,0,0.0,,
 6,Fyn,403612,Odense Vest,710430,Korup Skole,2026-03-17 20:47:58,,IngenResultater,0,0,,0,0,0.0,,
 6,Fyn,403612,Odense Vest,702818,Kroggårdsskolen,2026-03-17 20:47:58,,IngenResultater,0,0,,0,0,0.0,,
@@ -4235,7 +4344,18 @@ storkreds_nummer,storkreds,opstillingskreds_dagi_id,opstillingskreds,afstemnings
 6,Fyn,403615,Svendborg,705344,Landet,2026-03-24 20:16:02,,ForeløbigOptælling,720,725,SF - Socialistisk Folkeparti,70,0,,fae32292-ff8f-4f27-8218-a9874603e759,F
 6,Fyn,403615,Svendborg,705344,Landet,2026-03-24 20:16:02,,ForeløbigOptælling,720,725,Danmarksdemokraterne - Inger Støjberg,63,0,,ffacb8b3-7f7b-4158-a1ee-c0be84a344c6,Æ
 6,Fyn,403615,Svendborg,705344,Landet,2026-03-24 20:16:02,,ForeløbigOptælling,720,725,"Venstre, Danmarks Liberale Parti",79,0,,914ae6fd-98a6-4ed6-afd1-60ab809678ed,V
-6,Fyn,403615,Svendborg,701944,Nordre,2026-03-17 20:47:58,,IngenResultater,0,0,,0,0,0.0,,
+6,Fyn,403615,Svendborg,701944,Nordre,2026-03-24 20:20:33,,ForeløbigOptælling,2089,2120,Moderaterne,100,0,,30375f1d-ff52-4b0d-9964-7147844cd5e7,M
+6,Fyn,403615,Svendborg,701944,Nordre,2026-03-24 20:20:33,,ForeløbigOptælling,2089,2120,"Venstre, Danmarks Liberale Parti",109,0,,914ae6fd-98a6-4ed6-afd1-60ab809678ed,V
+6,Fyn,403615,Svendborg,701944,Nordre,2026-03-24 20:20:33,,ForeløbigOptælling,2089,2120,Socialdemokratiet,698,0,,2f487db9-0663-429f-a4ec-081ae701723d,A
+6,Fyn,403615,Svendborg,701944,Nordre,2026-03-24 20:20:33,,ForeløbigOptælling,2089,2120,Det Konservative Folkeparti,68,0,,2e08413e-1c5b-4029-8bce-eac0ebff6527,C
+6,Fyn,403615,Svendborg,701944,Nordre,2026-03-24 20:20:33,,ForeløbigOptælling,2089,2120,SF - Socialistisk Folkeparti,286,0,,fae32292-ff8f-4f27-8218-a9874603e759,F
+6,Fyn,403615,Svendborg,701944,Nordre,2026-03-24 20:20:33,,ForeløbigOptælling,2089,2120,Borgernes Parti - Lars Boje Mathiesen,59,0,,89ee100e-d4d6-43b5-83c5-edd5dd02c1fd,H
+6,Fyn,403615,Svendborg,701944,Nordre,2026-03-24 20:20:33,,ForeløbigOptælling,2089,2120,Liberal Alliance,144,0,,4d676beb-025b-4d42-ac5d-533d5130a6f3,I
+6,Fyn,403615,Svendborg,701944,Nordre,2026-03-24 20:20:33,,ForeløbigOptælling,2089,2120,Danmarksdemokraterne - Inger Støjberg,75,0,,ffacb8b3-7f7b-4158-a1ee-c0be84a344c6,Æ
+6,Fyn,403615,Svendborg,701944,Nordre,2026-03-24 20:20:33,,ForeløbigOptælling,2089,2120,Enhedslisten - De Rød-Grønne,226,0,,8bb64864-5728-41db-af00-6234795cf340,Ø
+6,Fyn,403615,Svendborg,701944,Nordre,2026-03-24 20:20:33,,ForeløbigOptælling,2089,2120,Radikale Venstre,63,0,,93a1aa01-2897-474b-8604-a1326c9b3948,B
+6,Fyn,403615,Svendborg,701944,Nordre,2026-03-24 20:20:33,,ForeløbigOptælling,2089,2120,Dansk Folkeparti,206,0,,1df39501-e08d-42e9-9804-eccf7b1f564a,O
+6,Fyn,403615,Svendborg,701944,Nordre,2026-03-24 20:20:33,,ForeløbigOptælling,2089,2120,Alternativet,55,0,,c01e1c81-e8eb-4f3d-ac55-de9279740a0e,Å
 6,Fyn,403615,Svendborg,706616,Ollerup,2026-03-17 20:47:58,,IngenResultater,0,0,,0,0,0.0,,
 6,Fyn,403615,Svendborg,707982,Oure,2026-03-17 20:47:58,,IngenResultater,0,0,,0,0,0.0,,
 6,Fyn,403615,Svendborg,703734,Skårup,2026-03-17 20:47:58,,IngenResultater,0,0,,0,0,0.0,,
@@ -4408,7 +4528,18 @@ storkreds_nummer,storkreds,opstillingskreds_dagi_id,opstillingskreds,afstemnings
 10,Nordjylland,403593,Thisted,708884,Frøstrup,2026-03-24 20:05:01,,ForeløbigOptælling,828,840,Borgernes Parti - Lars Boje Mathiesen,30,0,,89ee100e-d4d6-43b5-83c5-edd5dd02c1fd,H
 10,Nordjylland,403593,Thisted,748376,Hanstholm,2026-03-17 20:47:58,,IngenResultater,0,0,,0,0,0.0,,
 10,Nordjylland,403593,Thisted,748374,Hurup,2026-03-17 20:47:58,,IngenResultater,0,0,,0,0,0.0,,
-10,Nordjylland,403593,Thisted,701270,Klitmøller,2026-03-17 20:47:58,,IngenResultater,0,0,,0,0,0.0,,
+10,Nordjylland,403593,Thisted,701270,Klitmøller,2026-03-24 20:20:04,,ForeløbigOptælling,791,797,Radikale Venstre,122,0,,93a1aa01-2897-474b-8604-a1326c9b3948,B
+10,Nordjylland,403593,Thisted,701270,Klitmøller,2026-03-24 20:20:04,,ForeløbigOptælling,791,797,Det Konservative Folkeparti,36,0,,2e08413e-1c5b-4029-8bce-eac0ebff6527,C
+10,Nordjylland,403593,Thisted,701270,Klitmøller,2026-03-24 20:20:04,,ForeløbigOptælling,791,797,SF - Socialistisk Folkeparti,110,0,,fae32292-ff8f-4f27-8218-a9874603e759,F
+10,Nordjylland,403593,Thisted,701270,Klitmøller,2026-03-24 20:20:04,,ForeløbigOptælling,791,797,Borgernes Parti - Lars Boje Mathiesen,9,0,,89ee100e-d4d6-43b5-83c5-edd5dd02c1fd,H
+10,Nordjylland,403593,Thisted,701270,Klitmøller,2026-03-24 20:20:04,,ForeløbigOptælling,791,797,"Venstre, Danmarks Liberale Parti",59,0,,914ae6fd-98a6-4ed6-afd1-60ab809678ed,V
+10,Nordjylland,403593,Thisted,701270,Klitmøller,2026-03-24 20:20:04,,ForeløbigOptælling,791,797,Dansk Folkeparti,29,0,,1df39501-e08d-42e9-9804-eccf7b1f564a,O
+10,Nordjylland,403593,Thisted,701270,Klitmøller,2026-03-24 20:20:04,,ForeløbigOptælling,791,797,Moderaterne,58,0,,30375f1d-ff52-4b0d-9964-7147844cd5e7,M
+10,Nordjylland,403593,Thisted,701270,Klitmøller,2026-03-24 20:20:04,,ForeløbigOptælling,791,797,Alternativet,74,0,,c01e1c81-e8eb-4f3d-ac55-de9279740a0e,Å
+10,Nordjylland,403593,Thisted,701270,Klitmøller,2026-03-24 20:20:04,,ForeløbigOptælling,791,797,Danmarksdemokraterne - Inger Støjberg,37,0,,ffacb8b3-7f7b-4158-a1ee-c0be84a344c6,Æ
+10,Nordjylland,403593,Thisted,701270,Klitmøller,2026-03-24 20:20:04,,ForeløbigOptælling,791,797,Enhedslisten - De Rød-Grønne,56,0,,8bb64864-5728-41db-af00-6234795cf340,Ø
+10,Nordjylland,403593,Thisted,701270,Klitmøller,2026-03-24 20:20:04,,ForeløbigOptælling,791,797,Socialdemokratiet,157,0,,2f487db9-0663-429f-a4ec-081ae701723d,A
+10,Nordjylland,403593,Thisted,701270,Klitmøller,2026-03-24 20:20:04,,ForeløbigOptælling,791,797,Liberal Alliance,44,0,,4d676beb-025b-4d42-ac5d-533d5130a6f3,I
 10,Nordjylland,403593,Thisted,748370,Koldby,2026-03-24 20:15:02,,ForeløbigOptælling,1336,1341,Radikale Venstre,27,0,,93a1aa01-2897-474b-8604-a1326c9b3948,B
 10,Nordjylland,403593,Thisted,748370,Koldby,2026-03-24 20:15:02,,ForeløbigOptælling,1336,1341,Borgernes Parti - Lars Boje Mathiesen,41,0,,89ee100e-d4d6-43b5-83c5-edd5dd02c1fd,H
 10,Nordjylland,403593,Thisted,748370,Koldby,2026-03-24 20:15:02,,ForeløbigOptælling,1336,1341,Socialdemokratiet,340,0,,2f487db9-0663-429f-a4ec-081ae701723d,A
@@ -4774,6 +4905,18 @@ storkreds_nummer,storkreds,opstillingskreds_dagi_id,opstillingskreds,afstemnings
 7,Sydjylland,403620,Varde,704642,Alslev,2026-03-17 20:47:58,,IngenResultater,0,0,,0,0,0.0,,
 7,Sydjylland,403620,Varde,701482,Ansager,2026-03-17 20:47:58,,IngenResultater,0,0,,0,0,0.0,,
 7,Sydjylland,403620,Varde,709030,Billum,2026-03-17 20:47:58,,IngenResultater,0,0,,0,0,0.0,,
+7,Sydjylland,403620,Varde,708972,Blåvand,2026-03-24 20:19:33,,ForeløbigOptælling,316,324,Radikale Venstre,4,0,,93a1aa01-2897-474b-8604-a1326c9b3948,B
+7,Sydjylland,403620,Varde,708972,Blåvand,2026-03-24 20:19:33,,ForeløbigOptælling,316,324,Det Konservative Folkeparti,19,0,,2e08413e-1c5b-4029-8bce-eac0ebff6527,C
+7,Sydjylland,403620,Varde,708972,Blåvand,2026-03-24 20:19:33,,ForeløbigOptælling,316,324,SF - Socialistisk Folkeparti,27,0,,fae32292-ff8f-4f27-8218-a9874603e759,F
+7,Sydjylland,403620,Varde,708972,Blåvand,2026-03-24 20:19:33,,ForeløbigOptælling,316,324,Liberal Alliance,40,0,,4d676beb-025b-4d42-ac5d-533d5130a6f3,I
+7,Sydjylland,403620,Varde,708972,Blåvand,2026-03-24 20:19:33,,ForeløbigOptælling,316,324,Moderaterne,18,0,,30375f1d-ff52-4b0d-9964-7147844cd5e7,M
+7,Sydjylland,403620,Varde,708972,Blåvand,2026-03-24 20:19:33,,ForeløbigOptælling,316,324,Socialdemokratiet,60,0,,2f487db9-0663-429f-a4ec-081ae701723d,A
+7,Sydjylland,403620,Varde,708972,Blåvand,2026-03-24 20:19:33,,ForeløbigOptælling,316,324,Danmarksdemokraterne - Inger Støjberg,35,0,,ffacb8b3-7f7b-4158-a1ee-c0be84a344c6,Æ
+7,Sydjylland,403620,Varde,708972,Blåvand,2026-03-24 20:19:33,,ForeløbigOptælling,316,324,Dansk Folkeparti,30,0,,1df39501-e08d-42e9-9804-eccf7b1f564a,O
+7,Sydjylland,403620,Varde,708972,Blåvand,2026-03-24 20:19:33,,ForeløbigOptælling,316,324,Borgernes Parti - Lars Boje Mathiesen,4,0,,89ee100e-d4d6-43b5-83c5-edd5dd02c1fd,H
+7,Sydjylland,403620,Varde,708972,Blåvand,2026-03-24 20:19:33,,ForeløbigOptælling,316,324,"Venstre, Danmarks Liberale Parti",76,0,,914ae6fd-98a6-4ed6-afd1-60ab809678ed,V
+7,Sydjylland,403620,Varde,708972,Blåvand,2026-03-24 20:19:33,,ForeløbigOptælling,316,324,Alternativet,0,0,,c01e1c81-e8eb-4f3d-ac55-de9279740a0e,Å
+7,Sydjylland,403620,Varde,708972,Blåvand,2026-03-24 20:19:33,,ForeløbigOptælling,316,324,Enhedslisten - De Rød-Grønne,3,0,,8bb64864-5728-41db-af00-6234795cf340,Ø
 7,Sydjylland,403620,Varde,704654,Fåborg,2026-03-17 20:47:58,,IngenResultater,0,0,,0,0,0.0,,
 7,Sydjylland,403620,Varde,703068,Henne,2026-03-24 20:18:47,,ForeløbigOptælling,458,465,Radikale Venstre,5,0,,93a1aa01-2897-474b-8604-a1326c9b3948,B
 7,Sydjylland,403620,Varde,703068,Henne,2026-03-24 20:18:47,,ForeløbigOptælling,458,465,Socialdemokratiet,84,0,,2f487db9-0663-429f-a4ec-081ae701723d,A
@@ -5085,7 +5228,18 @@ storkreds_nummer,storkreds,opstillingskreds_dagi_id,opstillingskreds,afstemnings
 7,Sydjylland,403641,Vejle Nord,700946,Givskud Nord,2026-03-24 19:50:00,,ForeløbigOptælling,700,722,Borgernes Parti - Lars Boje Mathiesen,27,0,,89ee100e-d4d6-43b5-83c5-edd5dd02c1fd,H
 7,Sydjylland,403641,Vejle Nord,700946,Givskud Nord,2026-03-24 19:50:00,,ForeløbigOptælling,700,722,Liberal Alliance,50,0,,4d676beb-025b-4d42-ac5d-533d5130a6f3,I
 7,Sydjylland,403641,Vejle Nord,700946,Givskud Nord,2026-03-24 19:50:00,,ForeløbigOptælling,700,722,Danmarksdemokraterne - Inger Støjberg,110,0,,ffacb8b3-7f7b-4158-a1ee-c0be84a344c6,Æ
-7,Sydjylland,403641,Vejle Nord,705594,Grejsdalen Nord,2026-03-17 20:47:58,,IngenResultater,0,0,,0,0,0.0,,
+7,Sydjylland,403641,Vejle Nord,705594,Grejsdalen Nord,2026-03-24 20:20:48,,ForeløbigOptælling,1436,1447,Det Konservative Folkeparti,72,0,,2e08413e-1c5b-4029-8bce-eac0ebff6527,C
+7,Sydjylland,403641,Vejle Nord,705594,Grejsdalen Nord,2026-03-24 20:20:48,,ForeløbigOptælling,1436,1447,Radikale Venstre,70,0,,93a1aa01-2897-474b-8604-a1326c9b3948,B
+7,Sydjylland,403641,Vejle Nord,705594,Grejsdalen Nord,2026-03-24 20:20:48,,ForeløbigOptælling,1436,1447,Borgernes Parti - Lars Boje Mathiesen,27,0,,89ee100e-d4d6-43b5-83c5-edd5dd02c1fd,H
+7,Sydjylland,403641,Vejle Nord,705594,Grejsdalen Nord,2026-03-24 20:20:48,,ForeløbigOptælling,1436,1447,Dansk Folkeparti,151,0,,1df39501-e08d-42e9-9804-eccf7b1f564a,O
+7,Sydjylland,403641,Vejle Nord,705594,Grejsdalen Nord,2026-03-24 20:20:48,,ForeløbigOptælling,1436,1447,Moderaterne,112,0,,30375f1d-ff52-4b0d-9964-7147844cd5e7,M
+7,Sydjylland,403641,Vejle Nord,705594,Grejsdalen Nord,2026-03-24 20:20:48,,ForeløbigOptælling,1436,1447,Socialdemokratiet,314,0,,2f487db9-0663-429f-a4ec-081ae701723d,A
+7,Sydjylland,403641,Vejle Nord,705594,Grejsdalen Nord,2026-03-24 20:20:48,,ForeløbigOptælling,1436,1447,"Venstre, Danmarks Liberale Parti",139,0,,914ae6fd-98a6-4ed6-afd1-60ab809678ed,V
+7,Sydjylland,403641,Vejle Nord,705594,Grejsdalen Nord,2026-03-24 20:20:48,,ForeløbigOptælling,1436,1447,Liberal Alliance,158,0,,4d676beb-025b-4d42-ac5d-533d5130a6f3,I
+7,Sydjylland,403641,Vejle Nord,705594,Grejsdalen Nord,2026-03-24 20:20:48,,ForeløbigOptælling,1436,1447,Enhedslisten - De Rød-Grønne,74,0,,8bb64864-5728-41db-af00-6234795cf340,Ø
+7,Sydjylland,403641,Vejle Nord,705594,Grejsdalen Nord,2026-03-24 20:20:48,,ForeløbigOptælling,1436,1447,Alternativet,27,0,,c01e1c81-e8eb-4f3d-ac55-de9279740a0e,Å
+7,Sydjylland,403641,Vejle Nord,705594,Grejsdalen Nord,2026-03-24 20:20:48,,ForeløbigOptælling,1436,1447,Danmarksdemokraterne - Inger Støjberg,55,0,,ffacb8b3-7f7b-4158-a1ee-c0be84a344c6,Æ
+7,Sydjylland,403641,Vejle Nord,705594,Grejsdalen Nord,2026-03-24 20:20:48,,ForeløbigOptælling,1436,1447,SF - Socialistisk Folkeparti,237,0,,fae32292-ff8f-4f27-8218-a9874603e759,F
 7,Sydjylland,403641,Vejle Nord,710054,Grejs Nord,2026-03-17 20:47:58,,IngenResultater,0,0,,0,0,0.0,,
 7,Sydjylland,403641,Vejle Nord,706962,Grønbjerg Nord,2026-03-24 20:14:34,,ForeløbigOptælling,611,626,Dansk Folkeparti,69,0,,1df39501-e08d-42e9-9804-eccf7b1f564a,O
 7,Sydjylland,403641,Vejle Nord,706962,Grønbjerg Nord,2026-03-24 20:14:34,,ForeløbigOptælling,611,626,Enhedslisten - De Rød-Grønne,11,0,,8bb64864-5728-41db-af00-6234795cf340,Ø
@@ -5162,6 +5316,18 @@ storkreds_nummer,storkreds,opstillingskreds_dagi_id,opstillingskreds,afstemnings
 7,Sydjylland,403641,Vejle Nord,702258,Vandel Nord,2026-03-24 20:08:16,,ForeløbigOptælling,877,890,Alternativet,10,0,,c01e1c81-e8eb-4f3d-ac55-de9279740a0e,Å
 7,Sydjylland,403640,Vejle Syd,703992,Vinding Idræts Center Syd,2026-03-17 20:47:58,,IngenResultater,0,0,,0,0,0.0,,
 7,Sydjylland,403640,Vejle Syd,710116,Ødsted Syd,2026-03-17 20:47:58,,IngenResultater,0,0,,0,0,0.0,,
+7,Sydjylland,403641,Vejle Nord,703974,Øster Nykirke Nord,2026-03-24 20:20:04,,ForeløbigOptælling,971,986,Liberal Alliance,92,0,,4d676beb-025b-4d42-ac5d-533d5130a6f3,I
+7,Sydjylland,403641,Vejle Nord,703974,Øster Nykirke Nord,2026-03-24 20:20:04,,ForeløbigOptælling,971,986,Alternativet,12,0,,c01e1c81-e8eb-4f3d-ac55-de9279740a0e,Å
+7,Sydjylland,403641,Vejle Nord,703974,Øster Nykirke Nord,2026-03-24 20:20:04,,ForeløbigOptælling,971,986,SF - Socialistisk Folkeparti,74,0,,fae32292-ff8f-4f27-8218-a9874603e759,F
+7,Sydjylland,403641,Vejle Nord,703974,Øster Nykirke Nord,2026-03-24 20:20:04,,ForeløbigOptælling,971,986,Radikale Venstre,15,0,,93a1aa01-2897-474b-8604-a1326c9b3948,B
+7,Sydjylland,403641,Vejle Nord,703974,Øster Nykirke Nord,2026-03-24 20:20:04,,ForeløbigOptælling,971,986,Enhedslisten - De Rød-Grønne,18,0,,8bb64864-5728-41db-af00-6234795cf340,Ø
+7,Sydjylland,403641,Vejle Nord,703974,Øster Nykirke Nord,2026-03-24 20:20:04,,ForeløbigOptælling,971,986,Dansk Folkeparti,134,0,,1df39501-e08d-42e9-9804-eccf7b1f564a,O
+7,Sydjylland,403641,Vejle Nord,703974,Øster Nykirke Nord,2026-03-24 20:20:04,,ForeløbigOptælling,971,986,"Venstre, Danmarks Liberale Parti",167,0,,914ae6fd-98a6-4ed6-afd1-60ab809678ed,V
+7,Sydjylland,403641,Vejle Nord,703974,Øster Nykirke Nord,2026-03-24 20:20:04,,ForeløbigOptælling,971,986,Det Konservative Folkeparti,45,0,,2e08413e-1c5b-4029-8bce-eac0ebff6527,C
+7,Sydjylland,403641,Vejle Nord,703974,Øster Nykirke Nord,2026-03-24 20:20:04,,ForeløbigOptælling,971,986,Borgernes Parti - Lars Boje Mathiesen,42,0,,89ee100e-d4d6-43b5-83c5-edd5dd02c1fd,H
+7,Sydjylland,403641,Vejle Nord,703974,Øster Nykirke Nord,2026-03-24 20:20:04,,ForeløbigOptælling,971,986,Danmarksdemokraterne - Inger Støjberg,146,0,,ffacb8b3-7f7b-4158-a1ee-c0be84a344c6,Æ
+7,Sydjylland,403641,Vejle Nord,703974,Øster Nykirke Nord,2026-03-24 20:20:04,,ForeløbigOptælling,971,986,Socialdemokratiet,168,0,,2f487db9-0663-429f-a4ec-081ae701723d,A
+7,Sydjylland,403641,Vejle Nord,703974,Øster Nykirke Nord,2026-03-24 20:20:04,,ForeløbigOptælling,971,986,Moderaterne,58,0,,30375f1d-ff52-4b0d-9964-7147844cd5e7,M
 7,Sydjylland,403640,Vejle Syd,710122,Øster Starup Syd,2026-03-17 20:47:58,,IngenResultater,0,0,,0,0,0.0,,
 10,Nordjylland,403594,Himmerland,708562,Aalestrup,2026-03-24 20:12:18,,ForeløbigOptælling,2227,2251,Danmarksdemokraterne - Inger Støjberg,505,0,,ffacb8b3-7f7b-4158-a1ee-c0be84a344c6,Æ
 10,Nordjylland,403594,Himmerland,708562,Aalestrup,2026-03-24 20:12:18,,ForeløbigOptælling,2227,2251,Alternativet,13,0,,c01e1c81-e8eb-4f3d-ac55-de9279740a0e,Å
@@ -5293,7 +5459,19 @@ storkreds_nummer,storkreds,opstillingskreds_dagi_id,opstillingskreds,afstemnings
 9,Vestjylland,403597,Viborg Vest,702938,Hald Ege,2026-03-17 20:47:58,,IngenResultater,0,0,,0,0,0.0,,
 9,Vestjylland,403601,Viborg Øst,701488,Hammershøj,2026-03-17 20:47:58,,IngenResultater,0,0,,0,0,0.0,,
 9,Vestjylland,403601,Viborg Øst,709124,Houlkær,2026-03-17 20:47:58,,IngenResultater,0,0,,0,0,0.0,,
-9,Vestjylland,403597,Viborg Vest,711744,Karup,2026-03-17 20:47:58,,IngenResultater,0,0,,0,0,0.0,,
+9,Vestjylland,403597,Viborg Vest,711744,Karup,2026-03-24 20:19:33,,ForeløbigOptælling,1997,2030,Det Konservative Folkeparti,152,0,,2e08413e-1c5b-4029-8bce-eac0ebff6527,C
+9,Vestjylland,403597,Viborg Vest,711744,Karup,2026-03-24 20:19:33,,ForeløbigOptælling,1997,2030,Radikale Venstre,19,0,,93a1aa01-2897-474b-8604-a1326c9b3948,B
+9,Vestjylland,403597,Viborg Vest,711744,Karup,2026-03-24 20:19:33,,ForeløbigOptælling,1997,2030,Socialdemokratiet,554,0,,2f487db9-0663-429f-a4ec-081ae701723d,A
+9,Vestjylland,403597,Viborg Vest,711744,Karup,2026-03-24 20:19:33,,ForeløbigOptælling,1997,2030,SF - Socialistisk Folkeparti,118,0,,fae32292-ff8f-4f27-8218-a9874603e759,F
+9,Vestjylland,403597,Viborg Vest,711744,Karup,2026-03-24 20:19:33,,ForeløbigOptælling,1997,2030,Borgernes Parti - Lars Boje Mathiesen,99,0,,89ee100e-d4d6-43b5-83c5-edd5dd02c1fd,H
+9,Vestjylland,403597,Viborg Vest,711744,Karup,2026-03-24 20:19:33,,ForeløbigOptælling,1997,2030,Liberal Alliance,189,0,,4d676beb-025b-4d42-ac5d-533d5130a6f3,I
+9,Vestjylland,403597,Viborg Vest,711744,Karup,2026-03-24 20:19:33,,ForeløbigOptælling,1997,2030,Dansk Folkeparti,212,0,,1df39501-e08d-42e9-9804-eccf7b1f564a,O
+9,Vestjylland,403597,Viborg Vest,711744,Karup,2026-03-24 20:19:33,,ForeløbigOptælling,1997,2030,Alternativet,10,0,,c01e1c81-e8eb-4f3d-ac55-de9279740a0e,Å
+9,Vestjylland,403597,Viborg Vest,711744,Karup,2026-03-24 20:19:33,,ForeløbigOptælling,1997,2030,"Venstre, Danmarks Liberale Parti",206,0,,914ae6fd-98a6-4ed6-afd1-60ab809678ed,V
+9,Vestjylland,403597,Viborg Vest,711744,Karup,2026-03-24 20:19:33,,ForeløbigOptælling,1997,2030,Enhedslisten - De Rød-Grønne,51,0,,8bb64864-5728-41db-af00-6234795cf340,Ø
+9,Vestjylland,403597,Viborg Vest,711744,Karup,2026-03-24 20:19:33,,ForeløbigOptælling,1997,2030,Moderaterne,85,0,,30375f1d-ff52-4b0d-9964-7147844cd5e7,M
+9,Vestjylland,403597,Viborg Vest,711744,Karup,2026-03-24 20:19:33,,ForeløbigOptælling,1997,2030,Danmarksdemokraterne - Inger Støjberg,290,0,,ffacb8b3-7f7b-4158-a1ee-c0be84a344c6,Æ
+9,Vestjylland,403597,Viborg Vest,711744,Karup,2026-03-24 20:19:33,,ForeløbigOptælling,1997,2030,Udenfor parti,12,0,0.0,,UP
 9,Vestjylland,403597,Viborg Vest,701332,Løgstrup,2026-03-24 20:18:49,,ForeløbigOptælling,2318,2343,Radikale Venstre,43,0,,93a1aa01-2897-474b-8604-a1326c9b3948,B
 9,Vestjylland,403597,Viborg Vest,701332,Løgstrup,2026-03-24 20:18:49,,ForeløbigOptælling,2318,2343,Danmarksdemokraterne - Inger Støjberg,296,0,,ffacb8b3-7f7b-4158-a1ee-c0be84a344c6,Æ
 9,Vestjylland,403597,Viborg Vest,701332,Løgstrup,2026-03-24 20:18:49,,ForeløbigOptælling,2318,2343,Enhedslisten - De Rød-Grønne,48,0,,8bb64864-5728-41db-af00-6234795cf340,Ø
@@ -5310,7 +5488,19 @@ storkreds_nummer,storkreds,opstillingskreds_dagi_id,opstillingskreds,afstemnings
 9,Vestjylland,403601,Viborg Øst,711838,Møldrup,2026-03-17 20:47:58,,IngenResultater,0,0,,0,0,0.0,,
 9,Vestjylland,403597,Viborg Vest,702956,Mønsted,2026-03-17 20:47:58,,IngenResultater,0,0,,0,0,0.0,,
 9,Vestjylland,403601,Viborg Øst,709100,Rødding,2026-03-17 20:47:58,,IngenResultater,0,0,,0,0,0.0,,
-9,Vestjylland,403601,Viborg Øst,710696,Rødkærsbro,2026-03-17 20:47:58,,IngenResultater,0,0,,0,0,0.0,,
+9,Vestjylland,403601,Viborg Øst,710696,Rødkærsbro,2026-03-24 20:20:18,,ForeløbigOptælling,2033,2060,Det Konservative Folkeparti,207,0,,2e08413e-1c5b-4029-8bce-eac0ebff6527,C
+9,Vestjylland,403601,Viborg Øst,710696,Rødkærsbro,2026-03-24 20:20:18,,ForeløbigOptælling,2033,2060,SF - Socialistisk Folkeparti,157,0,,fae32292-ff8f-4f27-8218-a9874603e759,F
+9,Vestjylland,403601,Viborg Øst,710696,Rødkærsbro,2026-03-24 20:20:18,,ForeløbigOptælling,2033,2060,Enhedslisten - De Rød-Grønne,39,0,,8bb64864-5728-41db-af00-6234795cf340,Ø
+9,Vestjylland,403601,Viborg Øst,710696,Rødkærsbro,2026-03-24 20:20:18,,ForeløbigOptælling,2033,2060,Alternativet,25,0,,c01e1c81-e8eb-4f3d-ac55-de9279740a0e,Å
+9,Vestjylland,403601,Viborg Øst,710696,Rødkærsbro,2026-03-24 20:20:18,,ForeløbigOptælling,2033,2060,"Venstre, Danmarks Liberale Parti",259,0,,914ae6fd-98a6-4ed6-afd1-60ab809678ed,V
+9,Vestjylland,403601,Viborg Øst,710696,Rødkærsbro,2026-03-24 20:20:18,,ForeløbigOptælling,2033,2060,Dansk Folkeparti,188,0,,1df39501-e08d-42e9-9804-eccf7b1f564a,O
+9,Vestjylland,403601,Viborg Øst,710696,Rødkærsbro,2026-03-24 20:20:18,,ForeløbigOptælling,2033,2060,Moderaterne,88,0,,30375f1d-ff52-4b0d-9964-7147844cd5e7,M
+9,Vestjylland,403601,Viborg Øst,710696,Rødkærsbro,2026-03-24 20:20:18,,ForeløbigOptælling,2033,2060,Danmarksdemokraterne - Inger Støjberg,305,0,,ffacb8b3-7f7b-4158-a1ee-c0be84a344c6,Æ
+9,Vestjylland,403601,Viborg Øst,710696,Rødkærsbro,2026-03-24 20:20:18,,ForeløbigOptælling,2033,2060,Radikale Venstre,38,0,,93a1aa01-2897-474b-8604-a1326c9b3948,B
+9,Vestjylland,403601,Viborg Øst,710696,Rødkærsbro,2026-03-24 20:20:18,,ForeløbigOptælling,2033,2060,Socialdemokratiet,410,0,,2f487db9-0663-429f-a4ec-081ae701723d,A
+9,Vestjylland,403601,Viborg Øst,710696,Rødkærsbro,2026-03-24 20:20:18,,ForeløbigOptælling,2033,2060,Borgernes Parti - Lars Boje Mathiesen,97,0,,89ee100e-d4d6-43b5-83c5-edd5dd02c1fd,H
+9,Vestjylland,403601,Viborg Øst,710696,Rødkærsbro,2026-03-24 20:20:18,,ForeløbigOptælling,2033,2060,Liberal Alliance,216,0,,4d676beb-025b-4d42-ac5d-533d5130a6f3,I
+9,Vestjylland,403601,Viborg Øst,710696,Rødkærsbro,2026-03-24 20:20:18,,ForeløbigOptælling,2033,2060,Udenfor parti,4,0,0.0,,UP
 9,Vestjylland,403601,Viborg Øst,709090,Skals,2026-03-17 20:47:58,,IngenResultater,0,0,,0,0,0.0,,
 9,Vestjylland,403597,Viborg Vest,704488,Stoholm,2026-03-17 20:47:58,,IngenResultater,0,0,,0,0,0.0,,
 9,Vestjylland,403597,Viborg Vest,702932,Viborg,2026-03-17 20:47:58,,IngenResultater,0,0,,0,0,0.0,,
@@ -5340,7 +5530,18 @@ storkreds_nummer,storkreds,opstillingskreds_dagi_id,opstillingskreds,afstemnings
 5,Sjælland,403636,Vordingborg,701732,Allerslev,2026-03-24 19:56:45,,ForeløbigOptælling,763,774,Dansk Folkeparti,115,0,,1df39501-e08d-42e9-9804-eccf7b1f564a,O
 5,Sjælland,403636,Vordingborg,701732,Allerslev,2026-03-24 19:56:45,,ForeløbigOptælling,763,774,Enhedslisten - De Rød-Grønne,44,0,,8bb64864-5728-41db-af00-6234795cf340,Ø
 5,Sjælland,403636,Vordingborg,701732,Allerslev,2026-03-24 19:56:45,,ForeløbigOptælling,763,774,Alternativet,30,0,,c01e1c81-e8eb-4f3d-ac55-de9279740a0e,Å
-5,Sjælland,403636,Vordingborg,701742,Bogø,2026-03-17 20:47:58,,IngenResultater,0,0,,0,0,0.0,,
+5,Sjælland,403636,Vordingborg,701742,Bogø,2026-03-24 20:20:48,,ForeløbigOptælling,844,852,Danmarksdemokraterne - Inger Støjberg,42,0,,ffacb8b3-7f7b-4158-a1ee-c0be84a344c6,Æ
+5,Sjælland,403636,Vordingborg,701742,Bogø,2026-03-24 20:20:48,,ForeløbigOptælling,844,852,Liberal Alliance,51,0,,4d676beb-025b-4d42-ac5d-533d5130a6f3,I
+5,Sjælland,403636,Vordingborg,701742,Bogø,2026-03-24 20:20:48,,ForeløbigOptælling,844,852,Enhedslisten - De Rød-Grønne,37,0,,8bb64864-5728-41db-af00-6234795cf340,Ø
+5,Sjælland,403636,Vordingborg,701742,Bogø,2026-03-24 20:20:48,,ForeløbigOptælling,844,852,Borgernes Parti - Lars Boje Mathiesen,34,0,,89ee100e-d4d6-43b5-83c5-edd5dd02c1fd,H
+5,Sjælland,403636,Vordingborg,701742,Bogø,2026-03-24 20:20:48,,ForeløbigOptælling,844,852,Alternativet,20,0,,c01e1c81-e8eb-4f3d-ac55-de9279740a0e,Å
+5,Sjælland,403636,Vordingborg,701742,Bogø,2026-03-24 20:20:48,,ForeløbigOptælling,844,852,Socialdemokratiet,192,0,,2f487db9-0663-429f-a4ec-081ae701723d,A
+5,Sjælland,403636,Vordingborg,701742,Bogø,2026-03-24 20:20:48,,ForeløbigOptælling,844,852,SF - Socialistisk Folkeparti,192,0,,fae32292-ff8f-4f27-8218-a9874603e759,F
+5,Sjælland,403636,Vordingborg,701742,Bogø,2026-03-24 20:20:48,,ForeløbigOptælling,844,852,Dansk Folkeparti,94,0,,1df39501-e08d-42e9-9804-eccf7b1f564a,O
+5,Sjælland,403636,Vordingborg,701742,Bogø,2026-03-24 20:20:48,,ForeløbigOptælling,844,852,"Venstre, Danmarks Liberale Parti",51,0,,914ae6fd-98a6-4ed6-afd1-60ab809678ed,V
+5,Sjælland,403636,Vordingborg,701742,Bogø,2026-03-24 20:20:48,,ForeløbigOptælling,844,852,Moderaterne,81,0,,30375f1d-ff52-4b0d-9964-7147844cd5e7,M
+5,Sjælland,403636,Vordingborg,701742,Bogø,2026-03-24 20:20:48,,ForeløbigOptælling,844,852,Det Konservative Folkeparti,31,0,,2e08413e-1c5b-4029-8bce-eac0ebff6527,C
+5,Sjælland,403636,Vordingborg,701742,Bogø,2026-03-24 20:20:48,,ForeløbigOptælling,844,852,Radikale Venstre,19,0,,93a1aa01-2897-474b-8604-a1326c9b3948,B
 5,Sjælland,403636,Vordingborg,709558,Bårse,2026-03-24 19:59:46,,ForeløbigOptælling,785,805,Danmarksdemokraterne - Inger Støjberg,65,0,,ffacb8b3-7f7b-4158-a1ee-c0be84a344c6,Æ
 5,Sjælland,403636,Vordingborg,709558,Bårse,2026-03-24 19:59:46,,ForeløbigOptælling,785,805,Borgernes Parti - Lars Boje Mathiesen,56,0,,89ee100e-d4d6-43b5-83c5-edd5dd02c1fd,H
 5,Sjælland,403636,Vordingborg,709558,Bårse,2026-03-24 19:59:46,,ForeløbigOptælling,785,805,Liberal Alliance,86,0,,4d676beb-025b-4d42-ac5d-533d5130a6f3,I
