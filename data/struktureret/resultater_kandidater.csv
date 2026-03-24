@@ -1,4 +1,5 @@
 storkreds_nummer,storkreds,opstillingskreds_dagi_id,opstillingskreds,afstemningsområde_dagi_id,afstemningsområde,frigivelsestidspunkt,godkendelsestidspunkt,resultat_art,total_gyldige_stemmer,total_afgivne_stemmer,kandidat,kandidat_id,parti,parti_id,parti_bogstav,stemmer
+8,Østjylland,403608,Aarhus Vest,705582,Ormslev Præstegård,2026-03-24 19:48:45,,ForeløbigOptælling,502,509,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
 7,Sydjylland,403624,Esbjerg Omegn,703586,Mandø,2026-03-24 19:24:30,,Fintælling,31,31,Johanna-Maria Precht,49c8da38-cccd-43ab-8d55-4b4f2ca6e795,Enhedslisten - De Rød-Grønne,8bb64864-5728-41db-af00-6234795cf340,Ø,0
 7,Sydjylland,403624,Esbjerg Omegn,703586,Mandø,2026-03-24 19:24:30,,Fintælling,31,31,Mathias D. Christiansen,a4de80b7-f0f2-4e48-b111-73e4f196c3cb,Enhedslisten - De Rød-Grønne,8bb64864-5728-41db-af00-6234795cf340,Ø,0
 7,Sydjylland,403624,Esbjerg Omegn,703586,Mandø,2026-03-24 19:24:30,,Fintælling,31,31,Selma Bolø,90a5a305-76f2-4f29-a0d5-41fc27d9bf55,Enhedslisten - De Rød-Grønne,8bb64864-5728-41db-af00-6234795cf340,Ø,0
@@ -123,3 +124,4 @@ storkreds_nummer,storkreds,opstillingskreds_dagi_id,opstillingskreds,afstemnings
 9,Vestjylland,403579,Holstebro,709344,Sdr. Nissum,2026-03-24 19:36:46,,ForeløbigOptælling,610,617,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,1
 8,Østjylland,403578,Horsens,706240,Endelave,2026-03-24 19:39:31,,ForeløbigOptælling,124,126,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
 8,Østjylland,403602,Djurs,711832,Anholt Skole,2026-03-24 19:20:30,,ForeløbigOptælling,90,93,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
+9,Vestjylland,403580,Ringkøbing,707950,Troldhede,2026-03-24 19:49:00,,ForeløbigOptælling,715,727,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,1
