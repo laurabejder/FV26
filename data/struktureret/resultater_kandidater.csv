@@ -1,109 +1,26 @@
 storkreds_nummer,storkreds,opstillingskreds_dagi_id,opstillingskreds,afstemningsområde_dagi_id,afstemningsområde,frigivelsestidspunkt,godkendelsestidspunkt,resultat_art,total_gyldige_stemmer,total_afgivne_stemmer,kandidat,kandidat_id,parti,parti_id,parti_bogstav,stemmer
-9,Vestjylland,403590,Herning Syd,703462,Kibæk,2026-03-24 20:18:19,,ForeløbigOptælling,2049,2071,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,0
-8,Østjylland,403585,Skanderborg,704986,Hundslund,2026-03-24 20:10:32,,ForeløbigOptælling,800,810,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
-9,Vestjylland,403580,Ringkøbing,706530,Videbæk,2026-03-24 20:23:33,,ForeløbigOptælling,3125,3172,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,3
-8,Østjylland,403581,Hedensted,749379,As,2026-03-24 19:55:30,,ForeløbigOptælling,487,495,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
-9,Vestjylland,403580,Ringkøbing,706568,Tim,2026-03-24 20:06:46,,ForeløbigOptælling,1329,1347,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,1
-9,Vestjylland,403589,Herning Nord,710958,Timring,2026-03-24 20:00:16,,ForeløbigOptælling,752,769,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,2
-8,Østjylland,403581,Hedensted,749380,Hvirring,2026-03-24 19:40:16,,ForeløbigOptælling,307,313,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
-9,Vestjylland,403605,Silkeborg Nord,709870,Sjørslev,2026-03-24 20:08:16,,ForeløbigOptælling,611,617,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,2
-8,Østjylland,403581,Hedensted,703900,Rask Mølle,2026-03-24 20:11:18,,ForeløbigOptælling,934,945,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,2
-8,Østjylland,403585,Skanderborg,702028,Låsby,2026-03-24 20:31:35,,ForeløbigOptælling,2260,2292,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
-9,Vestjylland,403579,Holstebro,706148,Sevel,2026-03-24 20:12:17,,ForeløbigOptælling,1190,1209,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,1
-9,Vestjylland,403582,Skive,748877,Ørslevkloster,2026-03-24 20:06:31,,ForeløbigOptælling,855,867,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,0
-9,Vestjylland,403589,Herning Nord,701720,Haderup,2026-03-24 19:59:46,,ForeløbigOptælling,712,725,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,2
-9,Vestjylland,403580,Ringkøbing,748671,Hemmet,2026-03-24 19:54:00,,ForeløbigOptælling,1239,1259,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,1
-8,Østjylland,403578,Horsens,706240,Endelave,2026-03-24 19:39:31,,ForeløbigOptælling,124,126,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
-8,Østjylland,403578,Horsens,712056,Tønning-Træden,2026-03-24 20:00:47,,ForeløbigOptælling,466,473,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
-9,Vestjylland,403582,Skive,748886,Durup,2026-03-24 20:22:49,,ForeløbigOptælling,792,803,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,0
-9,Vestjylland,403580,Ringkøbing,712306,Hee,2026-03-24 19:53:15,,ForeløbigOptælling,810,820,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,0
-9,Vestjylland,403588,Struer,708418,Langhøj,2026-03-24 20:27:03,,ForeløbigOptælling,1333,1342,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,0
-8,Østjylland,403585,Skanderborg,700784,Ejer Bavnehøj,2026-03-24 20:15:47,,ForeløbigOptælling,1471,1491,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
-9,Vestjylland,403582,Skive,748870,Oddense - Otting,2026-03-24 20:27:18,,ForeløbigOptælling,505,511,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,0
-9,Vestjylland,403601,Viborg Øst,709100,Rødding,2026-03-24 20:32:04,,ForeløbigOptælling,2259,2281,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,5
-8,Østjylland,403581,Hedensted,706840,Uldum,2026-03-24 20:10:47,,ForeløbigOptælling,968,984,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,3
-9,Vestjylland,403589,Herning Nord,709520,Vind,2026-03-24 19:37:01,,ForeløbigOptælling,303,305,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,1
-9,Vestjylland,403589,Herning Nord,705024,Ilskov,2026-03-24 19:49:30,,ForeløbigOptælling,542,546,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,0
-8,Østjylland,403578,Horsens,703428,Sundparken,2026-03-24 20:13:32,,ForeløbigOptælling,789,806,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
-8,Østjylland,403581,Hedensted,703888,Korning Sogn,2026-03-24 20:00:16,,ForeløbigOptælling,396,405,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
-9,Vestjylland,403580,Ringkøbing,703702,Rækker Mølle,2026-03-24 20:19:17,,ForeløbigOptælling,1389,1399,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,1
-9,Vestjylland,403582,Skive,748888,Lem-Vejby,2026-03-24 20:04:01,,ForeløbigOptælling,505,521,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,0
-9,Vestjylland,403597,Viborg Vest,702938,Hald Ege,2026-03-24 20:30:20,,ForeløbigOptælling,2343,2367,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,2
-9,Vestjylland,403582,Skive,701060,Fur,2026-03-24 20:09:47,,ForeløbigOptælling,544,554,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,0
-9,Vestjylland,403579,Holstebro,706142,Ulfborg,2026-03-24 20:12:47,,ForeløbigOptælling,1939,1968,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,1
-8,Østjylland,403585,Skanderborg,711236,Niels Ebbesen,2026-03-24 20:32:49,,ForeløbigOptælling,4464,4513,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
-9,Vestjylland,403580,Ringkøbing,703684,Spjald,2026-03-24 20:11:47,,ForeløbigOptælling,2265,2294,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,3
-9,Vestjylland,403597,Viborg Vest,704488,Stoholm,2026-03-24 20:22:49,,ForeløbigOptælling,2143,2169,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,2
-8,Østjylland,403602,Djurs,711958,Rønde,2026-03-24 20:31:49,,ForeløbigOptælling,5550,5642,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
-9,Vestjylland,403579,Holstebro,707720,Skave,2026-03-24 20:16:32,,ForeløbigOptælling,1375,1390,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,0
-8,Østjylland,403585,Skanderborg,710838,Tunø,2026-03-24 20:00:46,,ForeløbigOptælling,56,58,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
-8,Østjylland,403603,Favrskov,706360,Voldum,2026-03-24 19:51:45,,ForeløbigOptælling,752,768,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
-9,Vestjylland,403582,Skive,748876,Rønbjerg,2026-03-24 19:53:15,,ForeløbigOptælling,484,489,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,1
-9,Vestjylland,403601,Viborg Øst,709090,Skals,2026-03-24 20:22:48,,ForeløbigOptælling,2287,2314,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,1
-9,Vestjylland,403589,Herning Nord,701676,Gullestrup,2026-03-24 20:14:32,,ForeløbigOptælling,1113,1128,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,0
-9,Vestjylland,403579,Holstebro,711920,Nørre Boulevard Skolen,2026-03-24 20:18:32,,ForeløbigOptælling,7623,7734,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,8
-9,Vestjylland,403590,Herning Syd,701670,Kølkær,2026-03-24 20:09:17,,ForeløbigOptælling,545,555,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,0
+8,Østjylland,403587,Aarhus Syd,709990,Beder Skole,2026-03-24 20:30:04,,ForeløbigOptælling,3077,3096,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
+8,Østjylland,403608,Aarhus Vest,705576,Borum Forsamlingshus,2026-03-24 19:55:45,,ForeløbigOptælling,452,455,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
+8,Østjylland,403607,Aarhus Nord,705514,Folkehuset Trige,2026-03-24 20:33:49,,ForeløbigOptælling,2093,2121,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
+8,Østjylland,403607,Aarhus Nord,700890,"Gammelgaardsskolen, Åbyhøj",2026-03-24 20:39:35,,ForeløbigOptælling,2794,2818,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
+8,Østjylland,403608,Aarhus Vest,710046,"Globus 1, Brabrand",2026-03-24 20:38:35,,ForeløbigOptælling,3354,3414,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,1
+8,Østjylland,403608,Aarhus Vest,703954,Hasselager Hallen,2026-03-24 20:26:18,,ForeløbigOptælling,4472,4532,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
+8,Østjylland,403607,Aarhus Nord,711356,Hårup Hallen,2026-03-24 20:43:06,,ForeløbigOptælling,1368,1381,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
+8,Østjylland,403608,Aarhus Vest,702240,"Højvangskolen, Stavtrup",2026-03-24 20:44:06,,ForeløbigOptælling,3277,3311,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,1
+8,Østjylland,403587,Aarhus Syd,703936,"Kragelundskolen, Højbjerg",2026-03-24 20:33:21,,ForeløbigOptælling,3681,3712,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
+8,Østjylland,403607,Aarhus Nord,705526,Lisbjergskolen,2026-03-24 20:33:34,,ForeløbigOptælling,1518,1538,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
+8,Østjylland,403608,Aarhus Vest,705582,Ormslev Præstegård,2026-03-24 19:48:45,,ForeløbigOptælling,502,509,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
+8,Østjylland,403608,Aarhus Vest,700922,"Rosenvangskolen, Viby J",2026-03-24 20:46:36,,ForeløbigOptælling,4285,4330,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
+8,Østjylland,403608,Aarhus Vest,710034,"Sabro-Korsvejskolen, Sabro",2026-03-24 20:32:05,,ForeløbigOptælling,2349,2388,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
+8,Østjylland,403608,Aarhus Vest,710040,"Skjoldhøjskolen, Tilst",2026-03-24 20:14:17,,ForeløbigOptælling,3241,3276,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,3
+8,Østjylland,403607,Aarhus Nord,705520,Spørring Fælleshus,2026-03-24 20:12:47,,ForeløbigOptælling,802,811,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,1
+8,Østjylland,403604,Aarhus Øst,702208,"Sølystskolen, Egå",2026-03-24 20:45:36,,ForeløbigOptælling,3323,3361,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,2
+8,Østjylland,403604,Aarhus Øst,711374,"Virupskolen, Hjortshøj",2026-03-24 20:08:01,,ForeløbigOptælling,2481,2506,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,2
+8,Østjylland,403607,Aarhus Nord,708524,"Vorrevangskolen, Aarhus N",2026-03-24 20:25:03,,ForeløbigOptælling,1959,1993,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
 1,København,403563,Tårnby,706596,Dragør Skole,2026-03-24 20:28:05,,ForeløbigOptælling,3463,3479,Rashid Ali,c8f38fd1-fccc-48f9-b9e3-abd36a14a6e7,Udenfor parti,,UP,0
 1,København,403563,Tårnby,706596,Dragør Skole,2026-03-24 20:28:05,,ForeløbigOptælling,3463,3479,Theresa Scavenius,e54d925b-e78c-4bdd-ac35-3bd13e46b34c,Udenfor parti,,UP,13
 1,København,403563,Tårnby,706596,Dragør Skole,2026-03-24 20:28:05,,ForeløbigOptælling,3463,3479,Rasmus Paludan,1d7d5b81-c920-4131-97a1-4483eaba71f5,Udenfor parti,,UP,0
 1,København,403563,Tårnby,706596,Dragør Skole,2026-03-24 20:28:05,,ForeløbigOptælling,3463,3479,John Erik Wagner,480c6c23-1eba-4e71-9976-2cc29f94e006,Udenfor parti,,UP,0
-8,Østjylland,403602,Djurs,711832,Anholt Skole,2026-03-24 19:57:45,,ForeløbigOptælling,90,93,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
-8,Østjylland,403602,Djurs,703380,Tirstrup,2026-03-24 20:03:46,,ForeløbigOptælling,1341,1352,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,1
-8,Østjylland,403602,Djurs,701476,Vivild,2026-03-24 20:06:31,,ForeløbigOptælling,1173,1189,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
-9,Vestjylland,403605,Silkeborg Nord,708382,Vinderslev,2026-03-24 20:10:32,,ForeløbigOptælling,773,782,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,2
-9,Vestjylland,403589,Herning Nord,701684,Simmelkær,2026-03-24 19:36:31,,ForeløbigOptælling,242,247,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,1
-8,Østjylland,403581,Hedensted,709918,Aale,2026-03-24 19:55:15,,ForeløbigOptælling,547,556,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,1
-9,Vestjylland,403597,Viborg Vest,711744,Karup,2026-03-24 20:19:33,,ForeløbigOptælling,1997,2030,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,12
-9,Vestjylland,403580,Ringkøbing,703690,Borris,2026-03-24 19:51:00,,ForeløbigOptælling,729,740,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,0
-8,Østjylland,403581,Hedensted,711316,Ølholm,2026-03-24 19:53:30,,ForeløbigOptælling,602,608,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
-9,Vestjylland,403580,Ringkøbing,709682,Stauning,2026-03-24 19:53:15,,ForeløbigOptælling,718,731,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,2
-8,Østjylland,403603,Favrskov,711048,Laurbjerg/Houlbjerg,2026-03-24 20:14:47,,ForeløbigOptælling,1190,1213,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
-8,Østjylland,403603,Favrskov,704336,Foldby,2026-03-24 20:22:18,,ForeløbigOptælling,1210,1227,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,1
-8,Østjylland,403608,Aarhus Vest,705576,Borum Forsamlingshus,2026-03-24 19:55:45,,ForeløbigOptælling,452,455,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
-8,Østjylland,403585,Skanderborg,706210,Ørting-Falling,2026-03-24 20:09:47,,ForeløbigOptælling,847,857,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
-8,Østjylland,403578,Horsens,706298,Sdr.Vissing,2026-03-24 20:22:18,,ForeløbigOptælling,729,738,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
-9,Vestjylland,403589,Herning Nord,705030,Ørnhøj,2026-03-24 20:00:31,,ForeløbigOptælling,676,682,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,0
-8,Østjylland,403608,Aarhus Vest,710034,"Sabro-Korsvejskolen, Sabro",2026-03-24 20:32:05,,ForeløbigOptælling,2349,2388,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
-9,Vestjylland,403590,Herning Syd,706292,Arnborg,2026-03-24 19:54:00,,ForeløbigOptælling,737,756,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,1
-9,Vestjylland,403588,Struer,709888,Hvidbjerg,2026-03-24 20:31:35,,ForeløbigOptælling,1849,1879,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,0
-1,København,403563,Tårnby,711216,Vestamager,2026-03-24 20:32:49,,ForeløbigOptælling,4102,4153,Rashid Ali,c8f38fd1-fccc-48f9-b9e3-abd36a14a6e7,Udenfor parti,,UP,0
-1,København,403563,Tårnby,711216,Vestamager,2026-03-24 20:32:49,,ForeløbigOptælling,4102,4153,Rasmus Paludan,1d7d5b81-c920-4131-97a1-4483eaba71f5,Udenfor parti,,UP,1
-1,København,403563,Tårnby,711216,Vestamager,2026-03-24 20:32:49,,ForeløbigOptælling,4102,4153,John Erik Wagner,480c6c23-1eba-4e71-9976-2cc29f94e006,Udenfor parti,,UP,0
-1,København,403563,Tårnby,711216,Vestamager,2026-03-24 20:32:49,,ForeløbigOptælling,4102,4153,Theresa Scavenius,e54d925b-e78c-4bdd-ac35-3bd13e46b34c,Udenfor parti,,UP,4
-9,Vestjylland,403589,Herning Nord,705004,Hodsager,2026-03-24 20:12:02,,ForeløbigOptælling,393,406,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,0
-9,Vestjylland,403580,Ringkøbing,706556,Velling,2026-03-24 20:15:47,,ForeløbigOptælling,929,935,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,0
-8,Østjylland,403581,Hedensted,700846,Lindved,2026-03-24 20:26:33,,ForeløbigOptælling,1213,1235,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
-8,Østjylland,403581,Hedensted,711310,Hornsyld,2026-03-24 20:31:34,,ForeløbigOptælling,1165,1186,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
-9,Vestjylland,403590,Herning Syd,710918,Skarrild,2026-03-24 20:06:48,,ForeløbigOptælling,564,572,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,0
-8,Østjylland,403581,Hedensted,749378,Hjortsvang,2026-03-24 19:49:45,,ForeløbigOptælling,285,291,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
-9,Vestjylland,403579,Holstebro,703344,Mejdal,2026-03-24 20:20:33,,ForeløbigOptælling,4041,4071,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,1
-9,Vestjylland,403606,Silkeborg Syd,702052,Hjøllund,2026-03-24 20:06:32,,ForeløbigOptælling,282,283,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,0
-9,Vestjylland,403589,Herning Nord,701714,Sinding,2026-03-24 20:17:32,,ForeløbigOptælling,557,561,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,0
-8,Østjylland,403585,Skanderborg,709838,Virring,2026-03-24 20:16:47,,ForeløbigOptælling,1685,1700,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
-9,Vestjylland,403606,Silkeborg Syd,709856,Langsøskolen,2026-03-24 20:29:04,,ForeløbigOptælling,1877,1898,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,1
-8,Østjylland,403604,Aarhus Øst,711374,"Virupskolen, Hjortshøj",2026-03-24 20:08:01,,ForeløbigOptælling,2481,2506,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,2
-9,Vestjylland,403589,Herning Nord,703474,Skibbild/Nøvling,2026-03-24 19:55:15,,ForeløbigOptælling,615,620,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,0
-8,Østjylland,403587,Aarhus Syd,709990,Beder Skole,2026-03-24 20:30:04,,ForeløbigOptælling,3077,3096,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
-9,Vestjylland,403588,Struer,706786,Bremdal,2026-03-24 20:26:18,,ForeløbigOptælling,1351,1361,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,2
-9,Vestjylland,403579,Holstebro,703316,Vemb,2026-03-24 20:05:31,,ForeløbigOptælling,1170,1188,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,0
-8,Østjylland,403602,Djurs,710826,Mørke,2026-03-24 20:13:18,,ForeløbigOptælling,2239,2278,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,1
-9,Vestjylland,403605,Silkeborg Nord,705416,Fårvang,2026-03-24 20:19:18,,ForeløbigOptælling,1116,1136,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,0
-8,Østjylland,403578,Horsens,709476,Sejet,2026-03-24 20:11:32,,ForeløbigOptælling,360,366,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,1
-1,København,403563,Tårnby,708328,Korsvejen,2026-03-24 19:57:00,,ForeløbigOptælling,3309,3365,Rashid Ali,c8f38fd1-fccc-48f9-b9e3-abd36a14a6e7,Udenfor parti,,UP,0
-1,København,403563,Tårnby,708328,Korsvejen,2026-03-24 19:57:00,,ForeløbigOptælling,3309,3365,John Erik Wagner,480c6c23-1eba-4e71-9976-2cc29f94e006,Udenfor parti,,UP,0
-1,København,403563,Tårnby,708328,Korsvejen,2026-03-24 19:57:00,,ForeløbigOptælling,3309,3365,Theresa Scavenius,e54d925b-e78c-4bdd-ac35-3bd13e46b34c,Udenfor parti,,UP,3
-1,København,403563,Tårnby,708328,Korsvejen,2026-03-24 19:57:00,,ForeløbigOptælling,3309,3365,Rasmus Paludan,1d7d5b81-c920-4131-97a1-4483eaba71f5,Udenfor parti,,UP,1
-9,Vestjylland,403589,Herning Nord,701690,Vinding,2026-03-24 20:05:46,,ForeløbigOptælling,1048,1061,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,0
-8,Østjylland,403608,Aarhus Vest,705582,Ormslev Præstegård,2026-03-24 19:48:45,,ForeløbigOptælling,502,509,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
-9,Vestjylland,403605,Silkeborg Nord,702058,Sorring,2026-03-24 20:28:18,,ForeløbigOptælling,1137,1154,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,0
-9,Vestjylland,403582,Skive,748887,Håsum-Ramsing,2026-03-24 19:55:00,,ForeløbigOptælling,424,433,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,0
-9,Vestjylland,403605,Silkeborg Nord,709876,Gjern,2026-03-24 20:32:04,,ForeløbigOptælling,1345,1360,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,0
-9,Vestjylland,403601,Viborg Øst,710696,Rødkærsbro,2026-03-24 20:20:18,,ForeløbigOptælling,2033,2060,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,4
-8,Østjylland,403585,Skanderborg,702034,Gl. Rye,2026-03-24 20:16:17,,ForeløbigOptælling,1325,1341,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
-9,Vestjylland,403589,Herning Nord,709514,Feldborg,2026-03-24 19:53:15,,ForeløbigOptælling,453,465,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,1
-8,Østjylland,403585,Skanderborg,711964,Alrø,2026-03-24 20:01:16,,ForeløbigOptælling,103,103,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
-9,Vestjylland,403580,Ringkøbing,748670,Ådum,2026-03-24 19:53:00,,ForeløbigOptælling,608,615,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,0
-9,Vestjylland,403580,Ringkøbing,707956,Tarm,2026-03-24 20:23:18,,ForeløbigOptælling,3010,3064,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,1
 7,Sydjylland,403624,Esbjerg Omegn,703586,Mandø,2026-03-24 19:24:30,,Fintælling,31,31,Johanna-Maria Precht,49c8da38-cccd-43ab-8d55-4b4f2ca6e795,Enhedslisten - De Rød-Grønne,8bb64864-5728-41db-af00-6234795cf340,Ø,0
 7,Sydjylland,403624,Esbjerg Omegn,703586,Mandø,2026-03-24 19:24:30,,Fintælling,31,31,Mathias D. Christiansen,a4de80b7-f0f2-4e48-b111-73e4f196c3cb,Enhedslisten - De Rød-Grønne,8bb64864-5728-41db-af00-6234795cf340,Ø,0
 7,Sydjylland,403624,Esbjerg Omegn,703586,Mandø,2026-03-24 19:24:30,,Fintælling,31,31,Selma Bolø,90a5a305-76f2-4f29-a0d5-41fc27d9bf55,Enhedslisten - De Rød-Grønne,8bb64864-5728-41db-af00-6234795cf340,Ø,0
@@ -220,48 +137,216 @@ storkreds_nummer,storkreds,opstillingskreds_dagi_id,opstillingskreds,afstemnings
 7,Sydjylland,403624,Esbjerg Omegn,703586,Mandø,2026-03-24 19:24:30,,Fintælling,31,31,Frederik Klakk,929b9b3c-bc5e-4771-b6ba-6a3030020a3f,Liberal Alliance,4d676beb-025b-4d42-ac5d-533d5130a6f3,I,0
 7,Sydjylland,403624,Esbjerg Omegn,703586,Mandø,2026-03-24 19:24:30,,Fintælling,31,31,Troels Simonsen,11bd91df-fbc6-4048-a3d6-a84a9ca1ded9,Liberal Alliance,4d676beb-025b-4d42-ac5d-533d5130a6f3,I,0
 7,Sydjylland,403624,Esbjerg Omegn,703586,Mandø,2026-03-24 19:24:30,,Fintælling,31,31,Carl Andersen,aedb8913-8a40-46f6-abd2-bb96bffdd5d4,Liberal Alliance,4d676beb-025b-4d42-ac5d-533d5130a6f3,I,0
-9,Vestjylland,403580,Ringkøbing,707950,Troldhede,2026-03-24 19:49:00,,ForeløbigOptælling,715,727,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,1
-9,Vestjylland,403605,Silkeborg Nord,711288,Grauballe,2026-03-24 20:31:19,,ForeløbigOptælling,1001,1010,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,2
-9,Vestjylland,403597,Viborg Vest,708912,Frederiks,2026-03-24 20:09:32,,ForeløbigOptælling,1909,1935,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,33
-8,Østjylland,403585,Skanderborg,706674,Stjær,2026-03-24 20:28:19,,ForeløbigOptælling,1465,1477,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
-8,Østjylland,403608,Aarhus Vest,710040,"Skjoldhøjskolen, Tilst",2026-03-24 20:14:17,,ForeløbigOptælling,3241,3276,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,3
-9,Vestjylland,403597,Viborg Vest,704480,Vridsted,2026-03-24 20:17:47,,ForeløbigOptælling,1381,1394,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,1
-8,Østjylland,403598,Randers Syd,701178,Jebjerg Forsamlingshus,2026-03-24 20:30:49,,ForeløbigOptælling,562,568,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
-9,Vestjylland,403597,Viborg Vest,701332,Løgstrup,2026-03-24 20:18:49,,ForeløbigOptælling,2318,2343,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,3
-9,Vestjylland,403580,Ringkøbing,712176,Hvide Sande,2026-03-24 20:04:16,,ForeløbigOptælling,1810,1840,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,2
-9,Vestjylland,403605,Silkeborg Nord,705446,Voel,2026-03-24 20:31:49,,ForeløbigOptælling,1461,1492,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,0
+8,Østjylland,403603,Favrskov,704336,Foldby,2026-03-24 20:22:18,,ForeløbigOptælling,1210,1227,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,1
+8,Østjylland,403603,Favrskov,709610,Hadbjerg,2026-03-24 20:35:50,,ForeløbigOptælling,1435,1459,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
+8,Østjylland,403603,Favrskov,706342,Hammel Syd,2026-03-24 20:00:47,,ForeløbigOptælling,1285,1297,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,1
+8,Østjylland,403603,Favrskov,707272,Lading,2026-03-24 19:42:47,,ForeløbigOptælling,720,732,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,1
+8,Østjylland,403603,Favrskov,711048,Laurbjerg/Houlbjerg,2026-03-24 20:14:47,,ForeløbigOptælling,1190,1213,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
+8,Østjylland,403603,Favrskov,707278,Thorsø/Haurum/Sall,2026-03-24 20:34:34,,ForeløbigOptælling,2204,2237,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,1
+8,Østjylland,403603,Favrskov,707834,Ulstrup,2026-03-24 20:36:50,,ForeløbigOptælling,2488,2519,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,1
+8,Østjylland,403603,Favrskov,706360,Voldum,2026-03-24 19:51:45,,ForeløbigOptælling,752,768,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
+8,Østjylland,403581,Hedensted,709918,Aale,2026-03-24 19:55:15,,ForeløbigOptælling,547,556,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,1
+8,Østjylland,403581,Hedensted,749379,As,2026-03-24 19:55:30,,ForeløbigOptælling,487,495,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
+8,Østjylland,403581,Hedensted,706828,Barrit,2026-03-24 20:33:04,,ForeløbigOptælling,979,999,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
+8,Østjylland,403581,Hedensted,705478,Daugård Og Ørum Sogne,2026-03-24 20:40:50,,ForeløbigOptælling,1021,1031,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
+8,Østjylland,403581,Hedensted,702118,Glud,2026-03-24 20:37:05,,ForeløbigOptælling,1511,1525,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
+8,Østjylland,403581,Hedensted,749381,Hjarnø,2026-03-24 19:25:30,,ForeløbigOptælling,79,80,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
+8,Østjylland,403581,Hedensted,749378,Hjortsvang,2026-03-24 19:49:45,,ForeløbigOptælling,285,291,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
+8,Østjylland,403581,Hedensted,749382,Hornborg,2026-03-24 19:57:15,,ForeløbigOptælling,480,486,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
+8,Østjylland,403581,Hedensted,711310,Hornsyld,2026-03-24 20:31:34,,ForeløbigOptælling,1165,1186,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
+8,Østjylland,403581,Hedensted,749380,Hvirring,2026-03-24 19:40:16,,ForeløbigOptælling,307,313,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
+8,Østjylland,403581,Hedensted,703888,Korning Sogn,2026-03-24 20:00:16,,ForeløbigOptælling,396,405,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
+8,Østjylland,403581,Hedensted,700846,Lindved,2026-03-24 20:26:33,,ForeløbigOptælling,1213,1235,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
+8,Østjylland,403581,Hedensted,703900,Rask Mølle,2026-03-24 20:11:18,,ForeløbigOptælling,934,945,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,2
+8,Østjylland,403581,Hedensted,700852,Rårup,2026-03-24 20:37:21,,ForeløbigOptælling,911,927,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,1
+8,Østjylland,403581,Hedensted,706840,Uldum,2026-03-24 20:10:47,,ForeløbigOptælling,968,984,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,3
+8,Østjylland,403581,Hedensted,711316,Ølholm,2026-03-24 19:53:30,,ForeløbigOptælling,602,608,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
+8,Østjylland,403581,Hedensted,711322,Ølsted Og Eriknauer-Området,2026-03-24 20:24:18,,ForeløbigOptælling,797,811,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
+9,Vestjylland,403590,Herning Syd,706292,Arnborg,2026-03-24 19:54:00,,ForeløbigOptælling,737,756,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,1
+9,Vestjylland,403589,Herning Nord,709506,Aulum,2026-03-24 20:28:34,,ForeløbigOptælling,2598,2641,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,0
+9,Vestjylland,403589,Herning Nord,709514,Feldborg,2026-03-24 19:53:15,,ForeløbigOptælling,453,465,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,1
+9,Vestjylland,403589,Herning Nord,701676,Gullestrup,2026-03-24 20:14:32,,ForeløbigOptælling,1113,1128,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,0
+9,Vestjylland,403589,Herning Nord,701720,Haderup,2026-03-24 19:59:46,,ForeløbigOptælling,712,725,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,2
+9,Vestjylland,403589,Herning Nord,705004,Hodsager,2026-03-24 20:12:02,,ForeløbigOptælling,393,406,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,0
+9,Vestjylland,403589,Herning Nord,705024,Ilskov,2026-03-24 19:49:30,,ForeløbigOptælling,542,546,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,0
+9,Vestjylland,403590,Herning Syd,703462,Kibæk,2026-03-24 20:18:19,,ForeløbigOptælling,2049,2071,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,0
+9,Vestjylland,403590,Herning Syd,701670,Kølkær,2026-03-24 20:09:17,,ForeløbigOptælling,545,555,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,0
+9,Vestjylland,403590,Herning Syd,712050,Lind,2026-03-24 20:37:20,,ForeløbigOptælling,4500,4553,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,5
+9,Vestjylland,403590,Herning Syd,701664,Sdr. Felding,2026-03-24 20:32:49,,ForeløbigOptælling,1251,1268,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,0
+9,Vestjylland,403589,Herning Nord,701684,Simmelkær,2026-03-24 20:42:20,,ForeløbigOptælling,241,247,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,1
+9,Vestjylland,403589,Herning Nord,701714,Sinding,2026-03-24 20:17:32,,ForeløbigOptælling,557,561,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,0
+9,Vestjylland,403590,Herning Syd,710918,Skarrild,2026-03-24 20:06:48,,ForeløbigOptælling,564,572,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,0
+9,Vestjylland,403589,Herning Nord,703474,Skibbild/Nøvling,2026-03-24 19:55:15,,ForeløbigOptælling,615,620,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,0
+9,Vestjylland,403589,Herning Nord,707802,Snejbjerg,2026-03-24 20:31:34,,ForeløbigOptælling,3613,3657,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,6
+9,Vestjylland,403590,Herning Syd,704992,Studsgård,2026-03-24 19:49:30,,ForeløbigOptælling,465,474,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,0
+9,Vestjylland,403589,Herning Nord,710958,Timring,2026-03-24 20:00:16,,ForeløbigOptælling,752,769,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,2
+9,Vestjylland,403589,Herning Nord,712074,Vildbjerg,2026-03-24 20:47:51,,ForeløbigOptælling,2801,2837,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,3
+9,Vestjylland,403589,Herning Nord,709520,Vind,2026-03-24 19:37:01,,ForeløbigOptælling,303,305,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,1
+9,Vestjylland,403589,Herning Nord,701690,Vinding,2026-03-24 20:05:46,,ForeløbigOptælling,1048,1061,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,0
+9,Vestjylland,403589,Herning Nord,705030,Ørnhøj,2026-03-24 20:00:31,,ForeløbigOptælling,676,682,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,0
+9,Vestjylland,403579,Holstebro,703344,Mejdal,2026-03-24 20:20:33,,ForeløbigOptælling,4041,4071,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,1
+9,Vestjylland,403579,Holstebro,703338,Mejrup,2026-03-24 20:35:35,,ForeløbigOptælling,3492,3530,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,0
+9,Vestjylland,403579,Holstebro,711920,Nørre Boulevard Skolen,2026-03-24 20:18:32,,ForeløbigOptælling,7623,7734,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,8
+9,Vestjylland,403579,Holstebro,709344,Sdr. Nissum,2026-03-24 19:36:46,,ForeløbigOptælling,610,617,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,1
+9,Vestjylland,403579,Holstebro,706148,Sevel,2026-03-24 20:12:17,,ForeløbigOptælling,1190,1209,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,1
+9,Vestjylland,403579,Holstebro,707720,Skave,2026-03-24 20:16:32,,ForeløbigOptælling,1375,1390,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,0
+9,Vestjylland,403579,Holstebro,706142,Ulfborg,2026-03-24 20:12:47,,ForeløbigOptælling,1939,1968,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,1
+9,Vestjylland,403579,Holstebro,703316,Vemb,2026-03-24 20:05:31,,ForeløbigOptælling,1170,1188,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,0
 9,Vestjylland,403579,Holstebro,701564,Vinderup,2026-03-24 20:21:18,,ForeløbigOptælling,3381,3441,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,1
-9,Vestjylland,403605,Silkeborg Nord,700766,Resenbro,2026-03-24 20:16:02,,ForeløbigOptælling,1338,1348,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,0
+8,Østjylland,403578,Horsens,706240,Endelave,2026-03-24 19:39:31,,ForeløbigOptælling,124,126,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
+8,Østjylland,403578,Horsens,712014,Gedved,2026-03-24 20:37:50,,ForeløbigOptælling,1837,1859,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,10
+8,Østjylland,403578,Horsens,709470,Hovedgård,2026-03-24 20:44:06,,ForeløbigOptælling,2208,2232,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
+8,Østjylland,403578,Horsens,706254,Nim,2026-03-24 20:36:50,,ForeløbigOptælling,1159,1169,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,3
+8,Østjylland,403578,Horsens,706298,Sdr.Vissing,2026-03-24 20:22:18,,ForeløbigOptælling,729,738,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
+8,Østjylland,403578,Horsens,709476,Sejet,2026-03-24 20:11:32,,ForeløbigOptælling,360,366,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,1
+8,Østjylland,403578,Horsens,703428,Sundparken,2026-03-24 20:13:32,,ForeløbigOptælling,789,806,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
+8,Østjylland,403578,Horsens,712020,Søvind,2026-03-24 20:36:35,,ForeløbigOptælling,1220,1238,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
+8,Østjylland,403578,Horsens,712056,Tønning-Træden,2026-03-24 20:00:47,,ForeløbigOptælling,466,473,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
+9,Vestjylland,403600,Ikast,705552,Bording,2026-03-24 20:43:21,,ForeløbigOptælling,2206,2240,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,1
+9,Vestjylland,403600,Ikast,713298,Nørre Snede,2026-03-24 20:35:04,,ForeløbigOptælling,1973,2007,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,1
+1,København,403573,Indre By,749402,3. Midt,2026-03-24 20:46:07,,ForeløbigOptælling,3106,3123,John Erik Wagner,480c6c23-1eba-4e71-9976-2cc29f94e006,Udenfor parti,,UP,0
+1,København,403573,Indre By,749402,3. Midt,2026-03-24 20:46:07,,ForeløbigOptælling,3106,3123,Rashid Ali,c8f38fd1-fccc-48f9-b9e3-abd36a14a6e7,Udenfor parti,,UP,0
+1,København,403573,Indre By,749402,3. Midt,2026-03-24 20:46:07,,ForeløbigOptælling,3106,3123,Theresa Scavenius,e54d925b-e78c-4bdd-ac35-3bd13e46b34c,Udenfor parti,,UP,7
+1,København,403573,Indre By,749402,3. Midt,2026-03-24 20:46:07,,ForeløbigOptælling,3106,3123,Rasmus Paludan,1d7d5b81-c920-4131-97a1-4483eaba71f5,Udenfor parti,,UP,0
+1,København,403573,Indre By,709378,3. Nord,2026-03-24 20:45:21,,ForeløbigOptælling,5787,5825,Rasmus Paludan,1d7d5b81-c920-4131-97a1-4483eaba71f5,Udenfor parti,,UP,5
+1,København,403573,Indre By,709378,3. Nord,2026-03-24 20:45:21,,ForeløbigOptælling,5787,5825,Theresa Scavenius,e54d925b-e78c-4bdd-ac35-3bd13e46b34c,Udenfor parti,,UP,17
+1,København,403573,Indre By,709378,3. Nord,2026-03-24 20:45:21,,ForeløbigOptælling,5787,5825,Rashid Ali,c8f38fd1-fccc-48f9-b9e3-abd36a14a6e7,Udenfor parti,,UP,0
+1,København,403573,Indre By,709378,3. Nord,2026-03-24 20:45:21,,ForeløbigOptælling,5787,5825,John Erik Wagner,480c6c23-1eba-4e71-9976-2cc29f94e006,Udenfor parti,,UP,0
+1,København,403575,Brønshøj,710820,7. Nord,2026-03-24 20:47:07,,ForeløbigOptælling,1868,1886,Rashid Ali,c8f38fd1-fccc-48f9-b9e3-abd36a14a6e7,Udenfor parti,,UP,18
+1,København,403575,Brønshøj,710820,7. Nord,2026-03-24 20:47:07,,ForeløbigOptælling,1868,1886,Theresa Scavenius,e54d925b-e78c-4bdd-ac35-3bd13e46b34c,Udenfor parti,,UP,2
+1,København,403575,Brønshøj,710820,7. Nord,2026-03-24 20:47:07,,ForeløbigOptælling,1868,1886,Rasmus Paludan,1d7d5b81-c920-4131-97a1-4483eaba71f5,Udenfor parti,,UP,2
+1,København,403575,Brønshøj,710820,7. Nord,2026-03-24 20:47:07,,ForeløbigOptælling,1868,1886,John Erik Wagner,480c6c23-1eba-4e71-9976-2cc29f94e006,Udenfor parti,,UP,0
+9,Vestjylland,403588,Struer,712242,Bøvling,2026-03-24 20:39:05,,ForeløbigOptælling,762,767,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,0
+9,Vestjylland,403588,Struer,701882,Harboøre,2026-03-24 20:39:50,,ForeløbigOptælling,1048,1055,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,0
+9,Vestjylland,403588,Struer,711178,Klinkby,2026-03-24 20:38:35,,ForeløbigOptælling,1381,1393,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,0
+9,Vestjylland,403588,Struer,711166,Nørre Nissum,2026-03-24 20:38:20,,ForeløbigOptælling,1443,1453,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,2
+9,Vestjylland,403588,Struer,711172,Ramme,2026-03-24 20:38:50,,ForeløbigOptælling,1145,1157,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,0
+9,Vestjylland,403588,Struer,711198,Tangsø,2026-03-24 20:39:20,,ForeløbigOptælling,844,853,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,0
+9,Vestjylland,403588,Struer,706550,Thyborøn,2026-03-24 20:39:36,,ForeløbigOptælling,1111,1122,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,0
+8,Østjylland,403602,Djurs,710680,Allingåbro,2026-03-24 20:11:17,,ForeløbigOptælling,1507,1527,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
+8,Østjylland,403602,Djurs,711832,Anholt Skole,2026-03-24 19:57:45,,ForeløbigOptælling,90,93,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
+8,Østjylland,403602,Djurs,709066,Kulturhuset Stationen,2026-03-24 20:44:06,,ForeløbigOptælling,1510,1531,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,2
+8,Østjylland,403602,Djurs,701476,Vivild,2026-03-24 20:06:31,,ForeløbigOptælling,1173,1189,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
+8,Østjylland,403602,Djurs,704660,Ørsted,2026-03-24 20:45:22,,ForeløbigOptælling,1823,1844,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
+8,Østjylland,403602,Djurs,707518,Ørum,2026-03-24 20:29:19,,ForeløbigOptælling,1249,1266,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,2
+8,Østjylland,403585,Skanderborg,711964,Alrø,2026-03-24 20:01:16,,ForeløbigOptælling,103,103,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
+8,Østjylland,403585,Skanderborg,703392,"Hou, Gosmer - Halling",2026-03-24 20:35:19,,ForeløbigOptælling,1606,1620,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
+8,Østjylland,403585,Skanderborg,704986,Hundslund,2026-03-24 20:10:32,,ForeløbigOptælling,800,810,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
+8,Østjylland,403585,Skanderborg,709400,Randlev - Bjerager,2026-03-24 20:42:05,,ForeløbigOptælling,870,878,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
+8,Østjylland,403585,Skanderborg,701632,Saksild - Nølev,2026-03-24 20:35:35,,ForeløbigOptælling,1280,1293,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
+8,Østjylland,403585,Skanderborg,701640,Torrild,2026-03-24 20:33:34,,ForeløbigOptælling,303,306,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
+8,Østjylland,403585,Skanderborg,710838,Tunø,2026-03-24 20:00:46,,ForeløbigOptælling,56,58,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
+8,Østjylland,403585,Skanderborg,706210,Ørting-Falling,2026-03-24 20:09:47,,ForeløbigOptælling,847,857,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
+8,Østjylland,403598,Randers Syd,708750,Asferg Træningshus,2026-03-24 20:27:33,,ForeløbigOptælling,745,755,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
+8,Østjylland,403586,Randers Nord,704136,Havndalhallen,2026-03-24 20:32:19,,ForeløbigOptælling,854,868,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,1
+8,Østjylland,403598,Randers Syd,701178,Jebjerg Forsamlingshus,2026-03-24 20:30:49,,ForeløbigOptælling,562,568,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
+8,Østjylland,403598,Randers Syd,704314,Kulturhuset Langå,2026-03-24 20:44:51,,ForeløbigOptælling,2070,2094,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,2
+8,Østjylland,403598,Randers Syd,708738,Purhushallen,2026-03-24 20:37:21,,ForeløbigOptælling,831,850,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
+8,Østjylland,403598,Randers Syd,702716,Romalt Aktivitetshal,2026-03-24 20:45:21,,ForeløbigOptælling,2624,2652,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
+8,Østjylland,403586,Randers Nord,704222,Råby Forsamlingshus,2026-03-24 20:36:35,,ForeløbigOptælling,656,666,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,1
+8,Østjylland,403586,Randers Nord,705768,Øster Tørslev Fritidslokaler,2026-03-24 20:14:32,,ForeløbigOptælling,895,904,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
+9,Vestjylland,403580,Ringkøbing,703690,Borris,2026-03-24 19:51:00,,ForeløbigOptælling,729,740,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,0
+9,Vestjylland,403580,Ringkøbing,712306,Hee,2026-03-24 19:53:15,,ForeløbigOptælling,810,820,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,0
+9,Vestjylland,403580,Ringkøbing,748671,Hemmet,2026-03-24 19:54:00,,ForeløbigOptælling,1239,1259,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,1
+9,Vestjylland,403580,Ringkøbing,706404,Holmsland,2026-03-24 19:52:00,,ForeløbigOptælling,817,827,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,0
+9,Vestjylland,403580,Ringkøbing,712176,Hvide Sande,2026-03-24 20:04:16,,ForeløbigOptælling,1810,1840,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,2
+9,Vestjylland,403580,Ringkøbing,711192,Lem,2026-03-24 20:06:32,,ForeløbigOptælling,1175,1202,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,0
+9,Vestjylland,403580,Ringkøbing,705180,Ringkøbing,2026-03-24 20:13:02,,ForeløbigOptælling,5789,5854,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,1
+9,Vestjylland,403580,Ringkøbing,703702,Rækker Mølle,2026-03-24 20:19:17,,ForeløbigOptælling,1389,1399,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,1
+9,Vestjylland,403580,Ringkøbing,711186,Skjern,2026-03-24 20:47:36,,ForeløbigOptælling,5041,5109,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,7
+9,Vestjylland,403580,Ringkøbing,703684,Spjald,2026-03-24 20:11:47,,ForeløbigOptælling,2265,2294,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,3
+9,Vestjylland,403580,Ringkøbing,709682,Stauning,2026-03-24 19:53:15,,ForeløbigOptælling,718,731,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,2
+9,Vestjylland,403580,Ringkøbing,707956,Tarm,2026-03-24 20:23:18,,ForeløbigOptælling,3010,3064,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,1
+9,Vestjylland,403580,Ringkøbing,706568,Tim,2026-03-24 20:06:46,,ForeløbigOptælling,1329,1347,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,1
+9,Vestjylland,403580,Ringkøbing,707950,Troldhede,2026-03-24 19:49:00,,ForeløbigOptælling,715,727,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,1
+9,Vestjylland,403580,Ringkøbing,706556,Velling,2026-03-24 20:15:47,,ForeløbigOptælling,929,935,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,0
+9,Vestjylland,403580,Ringkøbing,706530,Videbæk,2026-03-24 20:47:06,,ForeløbigOptælling,3124,3172,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,3
 9,Vestjylland,403580,Ringkøbing,711210,Vorgod-Barde,2026-03-24 20:31:04,,ForeløbigOptælling,1501,1518,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,0
+9,Vestjylland,403580,Ringkøbing,748670,Ådum,2026-03-24 19:53:00,,ForeløbigOptælling,608,615,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,0
+8,Østjylland,403585,Skanderborg,704790,Nordby,2026-03-24 20:06:31,,ForeløbigOptælling,271,272,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
+9,Vestjylland,403605,Silkeborg Nord,708400,Ans,2026-03-24 20:28:03,,ForeløbigOptælling,2159,2177,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,0
+9,Vestjylland,403606,Silkeborg Syd,709850,Balle,2026-03-24 20:46:06,,ForeløbigOptælling,3845,3902,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,2
+9,Vestjylland,403606,Silkeborg Syd,706686,Buskelund,2026-03-24 20:43:36,,ForeløbigOptælling,3469,3511,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,0
+9,Vestjylland,403605,Silkeborg Nord,705416,Fårvang,2026-03-24 20:19:18,,ForeløbigOptælling,1116,1136,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,0
+9,Vestjylland,403605,Silkeborg Nord,709876,Gjern,2026-03-24 20:32:04,,ForeløbigOptælling,1345,1360,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,0
+9,Vestjylland,403606,Silkeborg Syd,706692,Gjessø,2026-03-24 20:47:21,,ForeløbigOptælling,857,878,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,0
+9,Vestjylland,403605,Silkeborg Nord,711288,Grauballe,2026-03-24 20:31:19,,ForeløbigOptælling,1001,1010,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,2
+9,Vestjylland,403606,Silkeborg Syd,702052,Hjøllund,2026-03-24 20:06:32,,ForeløbigOptælling,282,283,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,0
+9,Vestjylland,403606,Silkeborg Syd,706680,Jysk Arena,2026-03-24 20:39:35,,ForeløbigOptælling,4270,4326,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,4
+9,Vestjylland,403605,Silkeborg Nord,711260,Kjellerup,2026-03-24 20:41:36,,ForeløbigOptælling,3615,3685,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,2
+9,Vestjylland,403605,Silkeborg Nord,711222,Kragelund,2026-03-24 20:44:36,,ForeløbigOptælling,1195,1211,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,1
+9,Vestjylland,403606,Silkeborg Syd,709856,Langsøskolen,2026-03-24 20:29:04,,ForeløbigOptælling,1877,1898,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,1
+9,Vestjylland,403605,Silkeborg Nord,711272,Linå,2026-03-24 20:41:05,,ForeløbigOptælling,1005,1015,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,0
+9,Vestjylland,403605,Silkeborg Nord,700766,Resenbro,2026-03-24 20:16:02,,ForeløbigOptælling,1338,1348,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,0
+9,Vestjylland,403605,Silkeborg Nord,709870,Sjørslev,2026-03-24 20:08:16,,ForeløbigOptælling,611,617,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,2
+9,Vestjylland,403605,Silkeborg Nord,702058,Sorring,2026-03-24 20:28:18,,ForeløbigOptælling,1137,1154,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,0
+9,Vestjylland,403605,Silkeborg Nord,703820,Thorning,2026-03-24 20:41:20,,ForeløbigOptælling,1742,1764,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,5
+9,Vestjylland,403605,Silkeborg Nord,708382,Vinderslev,2026-03-24 20:10:32,,ForeløbigOptælling,773,782,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,2
+9,Vestjylland,403606,Silkeborg Syd,700796,Virklund,2026-03-24 20:36:20,,ForeløbigOptælling,2624,2651,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,0
+9,Vestjylland,403605,Silkeborg Nord,705446,Voel,2026-03-24 20:31:49,,ForeløbigOptælling,1461,1492,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,0
+8,Østjylland,403585,Skanderborg,700784,Ejer Bavnehøj,2026-03-24 20:15:47,,ForeløbigOptælling,1471,1491,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
+8,Østjylland,403585,Skanderborg,702034,Gl. Rye,2026-03-24 20:16:17,,ForeløbigOptælling,1325,1341,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
+8,Østjylland,403585,Skanderborg,702028,Låsby,2026-03-24 20:31:35,,ForeløbigOptælling,2260,2292,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
+8,Østjylland,403585,Skanderborg,711236,Niels Ebbesen,2026-03-24 20:32:49,,ForeløbigOptælling,4464,4513,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
+8,Østjylland,403585,Skanderborg,706674,Stjær,2026-03-24 20:28:19,,ForeløbigOptælling,1465,1477,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
+8,Østjylland,403585,Skanderborg,709838,Virring,2026-03-24 20:16:47,,ForeløbigOptælling,1685,1700,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
+9,Vestjylland,403582,Skive,748880,Aakjær,2026-03-24 20:33:51,,ForeløbigOptælling,4517,4610,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,1
+9,Vestjylland,403582,Skive,748874,Brårup,2026-03-24 20:42:51,,ForeløbigOptælling,4151,4208,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,2
+9,Vestjylland,403582,Skive,748886,Durup,2026-03-24 20:22:49,,ForeløbigOptælling,792,803,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,0
+9,Vestjylland,403582,Skive,701060,Fur,2026-03-24 20:09:47,,ForeløbigOptælling,544,554,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,0
 9,Vestjylland,403582,Skive,748872,Glyngøre,2026-03-24 20:30:35,,ForeløbigOptælling,1189,1217,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,0
 9,Vestjylland,403582,Skive,748871,Hem,2026-03-24 19:53:30,,ForeløbigOptælling,558,569,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,0
-8,Østjylland,403607,Aarhus Nord,705520,Spørring Fælleshus,2026-03-24 20:12:47,,ForeløbigOptælling,802,811,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,1
-9,Vestjylland,403580,Ringkøbing,706404,Holmsland,2026-03-24 19:52:00,,ForeløbigOptælling,817,827,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,0
-8,Østjylland,403608,Aarhus Vest,703954,Hasselager Hallen,2026-03-24 20:26:18,,ForeløbigOptælling,4472,4532,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
-8,Østjylland,403581,Hedensted,749381,Hjarnø,2026-03-24 19:25:30,,ForeløbigOptælling,79,80,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
-9,Vestjylland,403590,Herning Syd,704992,Studsgård,2026-03-24 19:49:30,,ForeløbigOptælling,465,474,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,0
+9,Vestjylland,403582,Skive,748887,Håsum-Ramsing,2026-03-24 19:55:00,,ForeløbigOptælling,424,433,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,0
+9,Vestjylland,403582,Skive,748888,Lem-Vejby,2026-03-24 20:04:01,,ForeløbigOptælling,505,521,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,0
 9,Vestjylland,403582,Skive,748885,Lihme,2026-03-24 19:50:15,,ForeløbigOptælling,422,425,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,0
-9,Vestjylland,403589,Herning Nord,709506,Aulum,2026-03-24 20:28:34,,ForeløbigOptælling,2598,2641,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,0
-8,Østjylland,403581,Hedensted,711322,Ølsted Og Eriknauer-Området,2026-03-24 20:24:18,,ForeløbigOptælling,797,811,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
-8,Østjylland,403585,Skanderborg,704790,Nordby,2026-03-24 20:06:31,,ForeløbigOptælling,271,272,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
-9,Vestjylland,403590,Herning Syd,701664,Sdr. Felding,2026-03-24 20:32:49,,ForeløbigOptælling,1251,1268,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,0
-8,Østjylland,403607,Aarhus Nord,708524,"Vorrevangskolen, Aarhus N",2026-03-24 20:25:03,,ForeløbigOptælling,1959,1993,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
-8,Østjylland,403598,Randers Syd,708750,Asferg Træningshus,2026-03-24 20:27:33,,ForeløbigOptælling,745,755,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
-9,Vestjylland,403588,Struer,700832,Humlum,2026-03-24 20:26:50,,ForeløbigOptælling,1135,1149,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,0
-8,Østjylland,403602,Djurs,707518,Ørum,2026-03-24 20:29:19,,ForeløbigOptælling,1249,1266,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,2
-8,Østjylland,403581,Hedensted,749382,Hornborg,2026-03-24 19:57:15,,ForeløbigOptælling,480,486,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
-9,Vestjylland,403589,Herning Nord,707802,Snejbjerg,2026-03-24 20:31:34,,ForeløbigOptælling,3613,3657,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,6
-9,Vestjylland,403605,Silkeborg Nord,708400,Ans,2026-03-24 20:28:03,,ForeløbigOptælling,2159,2177,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,0
-9,Vestjylland,403580,Ringkøbing,705180,Ringkøbing,2026-03-24 20:13:02,,ForeløbigOptælling,5789,5854,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,1
-8,Østjylland,403586,Randers Nord,705768,Øster Tørslev Fritidslokaler,2026-03-24 20:14:32,,ForeløbigOptælling,895,904,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
-8,Østjylland,403602,Djurs,711940,Kolind,2026-03-24 20:03:16,,ForeløbigOptælling,2098,2123,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
-8,Østjylland,403603,Favrskov,707272,Lading,2026-03-24 19:42:47,,ForeløbigOptælling,720,732,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,1
-8,Østjylland,403603,Favrskov,706342,Hammel Syd,2026-03-24 20:00:47,,ForeløbigOptælling,1285,1297,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,1
-8,Østjylland,403607,Aarhus Nord,705526,Lisbjergskolen,2026-03-24 20:29:49,,ForeløbigOptælling,1518,1538,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
-8,Østjylland,403586,Randers Nord,704136,Havndalhallen,2026-03-24 20:32:19,,ForeløbigOptælling,854,868,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,1
-9,Vestjylland,403580,Ringkøbing,711192,Lem,2026-03-24 20:06:32,,ForeløbigOptælling,1175,1202,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,0
-9,Vestjylland,403579,Holstebro,709344,Sdr. Nissum,2026-03-24 19:36:46,,ForeløbigOptælling,610,617,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,1
+9,Vestjylland,403582,Skive,748870,Oddense - Otting,2026-03-24 20:27:18,,ForeløbigOptælling,505,511,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,0
+9,Vestjylland,403582,Skive,748879,Roslev,2026-03-24 20:37:35,,ForeløbigOptælling,1333,1355,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,1
+9,Vestjylland,403582,Skive,748876,Rønbjerg,2026-03-24 19:53:15,,ForeløbigOptælling,484,489,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,1
 9,Vestjylland,403582,Skive,748873,Selde,2026-03-24 20:32:05,,ForeløbigOptælling,756,765,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,0
+9,Vestjylland,403582,Skive,748883,Skivehus,2026-03-24 20:42:05,,ForeløbigOptælling,4217,4270,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,3
+9,Vestjylland,403582,Skive,748877,Ørslevkloster,2026-03-24 20:06:31,,ForeløbigOptælling,855,867,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,0
+9,Vestjylland,403588,Struer,706786,Bremdal,2026-03-24 20:26:18,,ForeløbigOptælling,1351,1361,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,2
 9,Vestjylland,403588,Struer,702100,Gimsing,2026-03-24 20:26:33,,ForeløbigOptælling,1301,1317,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,3
-8,Østjylland,403602,Djurs,710680,Allingåbro,2026-03-24 20:11:17,,ForeløbigOptælling,1507,1527,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
 9,Vestjylland,403588,Struer,703842,Hjerm,2026-03-24 20:26:48,,ForeløbigOptælling,1139,1152,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,2
+9,Vestjylland,403588,Struer,700832,Humlum,2026-03-24 20:26:50,,ForeløbigOptælling,1135,1149,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,0
+9,Vestjylland,403588,Struer,709888,Hvidbjerg,2026-03-24 20:31:35,,ForeløbigOptælling,1849,1879,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,0
+9,Vestjylland,403588,Struer,708418,Langhøj,2026-03-24 20:27:03,,ForeløbigOptælling,1333,1342,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,0
+9,Vestjylland,403588,Struer,711302,Struer,2026-03-24 20:37:21,,ForeløbigOptælling,4667,4734,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,1
+8,Østjylland,403602,Djurs,701618,Hornslet,2026-03-24 20:47:51,,ForeløbigOptælling,5201,5261,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,1
+8,Østjylland,403602,Djurs,711940,Kolind,2026-03-24 20:03:16,,ForeløbigOptælling,2098,2123,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
+8,Østjylland,403602,Djurs,703350,Mols,2026-03-24 20:38:05,,ForeløbigOptælling,2627,2679,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
+8,Østjylland,403602,Djurs,710826,Mørke,2026-03-24 20:13:18,,ForeløbigOptælling,2239,2278,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,1
+8,Østjylland,403602,Djurs,711952,Ryomgård,2026-03-24 20:38:05,,ForeløbigOptælling,3022,3056,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,1
+8,Østjylland,403602,Djurs,711958,Rønde,2026-03-24 20:31:49,,ForeløbigOptælling,5550,5642,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,0
+8,Østjylland,403602,Djurs,703380,Tirstrup,2026-03-24 20:03:46,,ForeløbigOptælling,1341,1352,Søren Skjold Andersen,103a930b-e3b5-440a-9926-c2692928da64,Udenfor parti,,UP,1
+1,København,403563,Tårnby,708328,Korsvejen,2026-03-24 19:57:00,,ForeløbigOptælling,3309,3365,Rashid Ali,c8f38fd1-fccc-48f9-b9e3-abd36a14a6e7,Udenfor parti,,UP,0
+1,København,403563,Tårnby,708328,Korsvejen,2026-03-24 19:57:00,,ForeløbigOptælling,3309,3365,John Erik Wagner,480c6c23-1eba-4e71-9976-2cc29f94e006,Udenfor parti,,UP,0
+1,København,403563,Tårnby,708328,Korsvejen,2026-03-24 19:57:00,,ForeløbigOptælling,3309,3365,Theresa Scavenius,e54d925b-e78c-4bdd-ac35-3bd13e46b34c,Udenfor parti,,UP,3
+1,København,403563,Tårnby,708328,Korsvejen,2026-03-24 19:57:00,,ForeløbigOptælling,3309,3365,Rasmus Paludan,1d7d5b81-c920-4131-97a1-4483eaba71f5,Udenfor parti,,UP,1
+1,København,403563,Tårnby,701992,Løjtegården,2026-03-24 20:35:35,,ForeløbigOptælling,3160,3209,Theresa Scavenius,e54d925b-e78c-4bdd-ac35-3bd13e46b34c,Udenfor parti,,UP,4
+1,København,403563,Tårnby,701992,Løjtegården,2026-03-24 20:35:35,,ForeløbigOptælling,3160,3209,Rasmus Paludan,1d7d5b81-c920-4131-97a1-4483eaba71f5,Udenfor parti,,UP,2
+1,København,403563,Tårnby,701992,Løjtegården,2026-03-24 20:35:35,,ForeløbigOptælling,3160,3209,Rashid Ali,c8f38fd1-fccc-48f9-b9e3-abd36a14a6e7,Udenfor parti,,UP,0
+1,København,403563,Tårnby,701992,Løjtegården,2026-03-24 20:35:35,,ForeløbigOptælling,3160,3209,John Erik Wagner,480c6c23-1eba-4e71-9976-2cc29f94e006,Udenfor parti,,UP,0
+1,København,403563,Tårnby,709804,Tårnby,2026-03-24 20:39:05,,ForeløbigOptælling,3735,3787,Rashid Ali,c8f38fd1-fccc-48f9-b9e3-abd36a14a6e7,Udenfor parti,,UP,0
+1,København,403563,Tårnby,709804,Tårnby,2026-03-24 20:39:05,,ForeløbigOptælling,3735,3787,Rasmus Paludan,1d7d5b81-c920-4131-97a1-4483eaba71f5,Udenfor parti,,UP,2
+1,København,403563,Tårnby,709804,Tårnby,2026-03-24 20:39:05,,ForeløbigOptælling,3735,3787,Theresa Scavenius,e54d925b-e78c-4bdd-ac35-3bd13e46b34c,Udenfor parti,,UP,7
+1,København,403563,Tårnby,709804,Tårnby,2026-03-24 20:39:05,,ForeløbigOptælling,3735,3787,John Erik Wagner,480c6c23-1eba-4e71-9976-2cc29f94e006,Udenfor parti,,UP,0
+1,København,403563,Tårnby,711216,Vestamager,2026-03-24 20:32:49,,ForeløbigOptælling,4102,4153,Rashid Ali,c8f38fd1-fccc-48f9-b9e3-abd36a14a6e7,Udenfor parti,,UP,0
+1,København,403563,Tårnby,711216,Vestamager,2026-03-24 20:32:49,,ForeløbigOptælling,4102,4153,Rasmus Paludan,1d7d5b81-c920-4131-97a1-4483eaba71f5,Udenfor parti,,UP,1
+1,København,403563,Tårnby,711216,Vestamager,2026-03-24 20:32:49,,ForeløbigOptælling,4102,4153,John Erik Wagner,480c6c23-1eba-4e71-9976-2cc29f94e006,Udenfor parti,,UP,0
+1,København,403563,Tårnby,711216,Vestamager,2026-03-24 20:32:49,,ForeløbigOptælling,4102,4153,Theresa Scavenius,e54d925b-e78c-4bdd-ac35-3bd13e46b34c,Udenfor parti,,UP,4
+9,Vestjylland,403601,Viborg Øst,704706,Bjerringbro,2026-03-24 20:44:21,,ForeløbigOptælling,6194,6280,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,14
+9,Vestjylland,403597,Viborg Vest,708912,Frederiks,2026-03-24 20:09:32,,ForeløbigOptælling,1909,1935,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,33
+9,Vestjylland,403597,Viborg Vest,702938,Hald Ege,2026-03-24 20:30:20,,ForeløbigOptælling,2343,2367,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,2
+9,Vestjylland,403601,Viborg Øst,701488,Hammershøj,2026-03-24 20:33:19,,ForeløbigOptælling,1430,1459,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,2
+9,Vestjylland,403601,Viborg Øst,709124,Houlkær,2026-03-24 20:47:51,,ForeløbigOptælling,9284,9393,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,5
+9,Vestjylland,403597,Viborg Vest,711744,Karup,2026-03-24 20:19:33,,ForeløbigOptælling,1997,2030,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,12
+9,Vestjylland,403597,Viborg Vest,701332,Løgstrup,2026-03-24 20:18:49,,ForeløbigOptælling,2318,2343,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,3
+9,Vestjylland,403601,Viborg Øst,711838,Møldrup,2026-03-24 20:34:19,,ForeløbigOptælling,2800,2838,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,6
+9,Vestjylland,403597,Viborg Vest,702956,Mønsted,2026-03-24 20:33:49,,ForeløbigOptælling,1438,1462,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,1
+9,Vestjylland,403601,Viborg Øst,709100,Rødding,2026-03-24 20:32:04,,ForeløbigOptælling,2259,2281,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,5
+9,Vestjylland,403601,Viborg Øst,710696,Rødkærsbro,2026-03-24 20:20:18,,ForeløbigOptælling,2033,2060,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,4
+9,Vestjylland,403601,Viborg Øst,709090,Skals,2026-03-24 20:22:48,,ForeløbigOptælling,2287,2314,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,1
+9,Vestjylland,403597,Viborg Vest,704488,Stoholm,2026-03-24 20:22:49,,ForeløbigOptælling,2143,2169,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,2
+9,Vestjylland,403597,Viborg Vest,704480,Vridsted,2026-03-24 20:17:47,,ForeløbigOptælling,1381,1394,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,1
+9,Vestjylland,403601,Viborg Øst,709106,Ørum,2026-03-24 20:41:05,,ForeløbigOptælling,1974,2008,Knud Gaarn-Larsen,e6392316-c29e-4ac5-8e92-3072ffc42205,Udenfor parti,,UP,1
