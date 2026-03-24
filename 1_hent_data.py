@@ -13,26 +13,43 @@ sftp.chdir(REMOTE_PATH)
 
 # Funktioner til download af filer og mapper
 def download_files(sftp, remote_dir, local_dir, folder_name):
-    files = sftp.listdir(remote_dir+"/"+folder_name)
+    files = sftp.listdir(remote_dir + "/" + folder_name)
 
     for file in files:   # download each file
         new_file = re.sub(r'-\d{12}(?=\.)', '', file)
         remote_file_path = remote_dir + "/" + folder_name + "/" + file
         local_file_path = os.path.join(local_dir, folder_name, new_file)
         os.makedirs(os.path.dirname(local_file_path), exist_ok=True)
+
         try:
             sftp.get(remote_file_path, local_file_path)
+
         except Exception as e:
-            print(f"Failed to download {remote_file_path}: {e}")
+            # Retry once in case the file was renamed with a new timestamp
+            try:
+                current_files = sftp.listdir(remote_dir + "/" + folder_name)
+                replacement = next(
+                    f for f in current_files
+                    if re.sub(r'-\d{12}(?=\.)', '', f) == new_file
+                )
+                remote_file_path = remote_dir + "/" + folder_name + "/" + replacement
+                sftp.get(remote_file_path, local_file_path)
+                print(f"Retried with updated filename: {replacement}")
+
+            except Exception as retry_e:
+                print(f"Failed to download {remote_file_path}: {e} / retry failed: {retry_e}")
+
 
 def download_folders(folders):
     for folder in folders:
         download_files(sftp, remote_path, local_path, folder)
 
+
 # Download FV26 data
 remote_path = REMOTE_PATH
 local_path = FROM_PATH 
 folders = FOLDERS
+
 print("Trying to download:", remote_path)
 download_folders(folders)
 print("Downloaded FV26 data.")
