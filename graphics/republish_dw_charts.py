@@ -2,6 +2,7 @@ import requests
 import json
 import os
 from dotenv import load_dotenv
+from pathlib import Path
 
 load_dotenv()
 
@@ -9,8 +10,16 @@ DW_TOKEN = os.getenv("DW_TOKEN")
 if DW_TOKEN is None:
     raise ValueError("DW_TOKEN not found in .env file")
 
-storkredse = json.load(open("storkredse.json", "r", encoding="utf-8"))
-opstillingskredse = json.load(open("opstillingskredse.json", "r", encoding="utf-8"))
+BASE_DIR = Path(__file__).resolve().parent
+with open(BASE_DIR / "storkredse.json", "r", encoding="utf-8") as f:
+    storkredse = json.load(f)
+
+with open(BASE_DIR / "opstillingskredse.json", "r", encoding="utf-8") as f:
+    opstillingskredse = json.load(f)
+
+
+# storkredse = json.load(open("storkredse.json", "r", encoding="utf-8"))
+# opstillingskredse = json.load(open("opstillingskredse.json", "r", encoding="utf-8"))
 
 hele_landet = ["TSMB4","6FZCA","vfKdN","YWrYe","qe2sm","Z3bMs","FeCJO"]
 

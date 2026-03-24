@@ -1,4 +1,1 @@
-storkreds_nummer,storkreds,opstillingskreds_dagi_id,opstillingskreds,afstemningsområde_dagi_id,afstemningsområde,frigivelsestidspunkt,godkendelsestidspunkt,resultat_art,total_gyldige_stemmer,total_afgivne_stemmer,kandidat,kandidat_id,parti,parti_id,parti_bogstav,stemmer
-1,København,1,Østerbro,707732,1. ,2026-02-26 17:23:14,,ForeløbigOptælling,36188,36437,Sophie Hæstorp Andersen,ab58c6f6-af32-47d5-a98f-84fa2f0154ed,Udenfor parti,,UP,0
-1,København,1,Østerbro,707732,1. ,2026-02-26 17:23:14,,ForeløbigOptælling,36188,36437,Lars Weiss,78a9f56b-0922-449f-949f-57b3dbf9dd05,Udenfor parti,,UP,47
-1,København,1,Østerbro,707732,1. ,2026-02-26 17:23:14,,ForeløbigOptælling,36188,36437,Laura Rosenvinge,6065b202-dbf8-404b-8fed-289c16f89c91,Udenfor parti,,UP,5
+storkreds_nummer,storkreds,opstillingskreds_dagi_id,opstillingskreds,afstemningsområde,afstemningsområde_dagi_id,frigivelsestidspunkt,godkendelsestidspunkt,resultat_art,total_gyldige_stemmer,total_afgivne_stemmer,kandidat,kandidat_id,parti,parti_id,parti_bogstav,stemmer
