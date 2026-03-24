@@ -291,8 +291,16 @@ if __name__ == "__main__":
 
 
     def nationalt_stoerste_parti(resultater_partier, geo_id, geo) -> pd.DataFrame:
-        # find storkredse hvor alle afstemningsområder har foreløbig optælling eller fintælling
-        optalte_kredse = resultater_partier.groupby(geo_id)["resultat_art"].apply(lambda x: x.isin(["ForeløbigOptælling", "Fintælling"]).all())
+        # find geo på storkredse hvor alle afstemningsområder har foreløbig optælling eller fintælling
+        #optalte_kredse = resultater_partier.groupby(geo_id)["resultat_art"].apply(lambda x: x.isin(["ForeløbigOptælling", "Fintælling"]).all())
+
+        optalte_kredse = (
+            resultater_partier
+            .groupby(geo_id)["resultat_art"]
+            .apply(lambda x: x.isin(["ForeløbigOptælling", "Fintælling"]).all())
+        )
+
+        optalte_kredse = optalte_kredse[optalte_kredse].index
 
         # standardize party names
         resultater_partier = standardize_party_labels(resultater_partier)
@@ -329,7 +337,16 @@ if __name__ == "__main__":
             .reset_index()
         )
         # filter nat_resultater to the storkredse in optalte_storkredse
-        nat_resultater = nat_resultater[nat_resultater[geo].isin(optalte_kredse.index[optalte_kredse])]
+
+        optalte_kredse = (
+            resultater_partier
+            .groupby(geo_id)["resultat_art"]
+            .apply(lambda x: x.isin(["ForeløbigOptælling", "Fintælling"]).all())
+            .loc[lambda x: x]
+            .index
+        )
+
+        nat_resultater = nat_resultater[nat_resultater[geo_id].isin(optalte_kredse)]
 
         # rename største parti column to parti
         nat_resultater = nat_resultater.rename(columns={"største_parti": "parti"})
