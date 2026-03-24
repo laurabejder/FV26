@@ -1,13 +1,13 @@
 parti_bogstav,parti,procent_26,procent_22
-S,Socialdemokratiet,22.0,36.1
-Radikale Venstre,Radikale Venstre,2.7,
-Det Konservative Folkeparti,Det Konservative Folkeparti,5.4,
-SF - Socialistisk Folkeparti,SF - Socialistisk Folkeparti,7.2,
-Borgernes Parti - Lars Boje Mathiesen,Borgernes Parti - Lars Boje Mathiesen,6.9,
+S,Socialdemokratiet,22.0,36.2
+R,Radikale,2.7,2.0
+K,Konservative,5.4,5.3
+SF,SF,7.2,7.2
+BP,Borgernes Parti,7.0,
 LA,Liberal Alliance,9.7,5.6
 M,Moderaterne,6.1,9.2
 DF,Dansk Folkeparti,12.6,2.9
-"Venstre, Danmarks Liberale Parti","Venstre, Danmarks Liberale Parti",13.0,
+V,Venstre,12.9,11.8
 ALT,Alternativet,1.0,1.7
-Danmarksdemokraterne - Inger Støjberg,Danmarksdemokraterne - Inger Støjberg,11.4,
-Enhedslisten - De Rød-Grønne,Enhedslisten - De Rød-Grønne,1.8,
+DD,Danmarksdemokraterne,11.4,9.7
+EL,Enhedslisten,1.8,3.4
