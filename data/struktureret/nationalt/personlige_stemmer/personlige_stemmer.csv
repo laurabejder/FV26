@@ -154,8 +154,8 @@ cc43cca2-2607-4084-b88d-56ba802746d2,Carl Emil Lind,Socialdemokratiet,Sjælland,
 493691f3-1719-404f-b3fa-f583e6b687b3,Torben Povlsen,Venstre,Fyn,,2445
 7b0b432f-42cc-48c2-8ec7-2a0197ecfb07,Anastasia Milthers,Radikale,Fyn,✓,2393
 54b17920-f05a-400b-9df6-ad565f5f01bd,Helena Artmann Andresen,Liberal Alliance,Sydjylland,✓,2387
-4174cf88-4ba1-4a5c-9603-a7df5b7a56b2,Jens Meilvang,Liberal Alliance,Østjylland,✓,2385
 8cbc511f-34d3-42f3-adbc-9848b0ce65a9,Rabih Azad-Ahmad,Radikale,Østjylland,,2385
+4174cf88-4ba1-4a5c-9603-a7df5b7a56b2,Jens Meilvang,Liberal Alliance,Østjylland,✓,2385
 ed81ec81-1056-4f17-969e-71db6b68dd22,Marianne Bigum,SF,Nordsjælland,✓,2384
 432182d5-1f3d-44cc-8dc9-b79546e3cb3e,Katrine Daugaard,Liberal Alliance,Fyn,✓,2375
 3c55ea05-aaaf-483a-beaf-5d97dcc02e82,Karina Adsbøl,Danmarksdemokraterne,Sydjylland,✓,2370
@@ -195,8 +195,8 @@ dda08e60-a6f5-4606-a10f-71b8a29af055,Charlotte Bagge,Moderaterne,Sjælland,✓,1
 f41f00b8-4ad7-4d89-8444-5538106ec1ee,Nils Brøgger,SF,Vestjylland,,1898
 7ad2a8b9-1acb-4a4c-93d3-eb6d2bde4810,Astrid Carøe,SF,Sjælland,✓,1895
 843653d5-fffd-4e6e-a0e7-9ca4e9684fbf,Rune Kristensen,Konservative,Sjælland,✓,1880
-eae11395-1cc3-4d63-b797-ee7453f32f4d,Victoria Helene Olsen,Konservative,Sjælland,,1874
 02a57d32-2d97-4107-9147-2b8c9197e4ef,Peter Skaarup,Danmarksdemokraterne,Sjælland,,1874
+eae11395-1cc3-4d63-b797-ee7453f32f4d,Victoria Helene Olsen,Konservative,Sjælland,,1874
 1dfa83f2-8ac0-4d89-aa74-ab6c486cbfaf,Steffen W. Frølund,Liberal Alliance,Nordsjælland,✓,1868
 17a777ca-c44b-4475-9557-7c51e71b0831,Helene Fagerhøj,Konservative,København,,1841
 f89bc8e4-3b14-4259-b375-a72d006fc349,Mette Reissmann,Socialdemokratiet,København,,1841
@@ -218,8 +218,8 @@ e54d925b-e78c-4bdd-ac35-3bd13e46b34c,Theresa Scavenius,Udenfor parti,København,
 67fb9bd2-3009-4d08-9771-409f6e6eb2b6,Line Rasmussen,Radikale,Østjylland,,1740
 929b9b3c-bc5e-4771-b6ba-6a3030020a3f,Frederik Klakk,Liberal Alliance,Sydjylland,,1738
 1eef6784-3fd8-40e4-92ae-ad98d482dcfb,Magnus Von Dreiager,Konservative,Københavns Omegn,,1718
-29b36daa-522a-4ecd-bc06-8b6a882fb66a,Morten Høgh,Venstre,Vestjylland,,1712
 668a1b45-08eb-4854-80eb-67cbd08bd7e4,Gunvor Wibroe,Socialdemokratiet,Københavns Omegn,,1712
+29b36daa-522a-4ecd-bc06-8b6a882fb66a,Morten Høgh,Venstre,Vestjylland,,1712
 ab45a5bb-f9a5-4642-b5f1-e7beaffd1771,Lars-Christian Brask,Liberal Alliance,Sjælland,✓,1691
 fb2094c0-b120-4918-808b-106d7b57166e,Morten Vehl Revsbeck,Danmarksdemokraterne,Vestjylland,,1681
 2da5d62f-0aae-40fc-85d1-2c87b0c65570,Allan Feldt,Dansk Folkeparti,København,✓,1679
@@ -257,12 +257,12 @@ f2ac5609-791f-4982-872e-6573667362fb,Charlotte Green,Konservative,Østjylland,�
 7fe06aa9-631d-4b62-b6d6-ace8dfa285ea,Tina Cartey Hansen,Konservative,Københavns Omegn,,1421
 ac2c81c8-9d8e-4be6-94e0-1803a20f2105,Claus Oxfeldt,Venstre,Fyn,,1400
 bd3c7373-029b-4800-bdd1-124e5645321d,Morten Ryom,Socialdemokratiet,Nordjylland,,1389
-3e92fd1b-e45c-4102-9e6d-2445bd5b2f63,Anne-Sofie Sadolin,Radikale,København,,1385
 1791a010-f94f-4096-b47f-605cb71bffc5,Christina Falkberg,Radikale,Københavns Omegn,,1385
+3e92fd1b-e45c-4102-9e6d-2445bd5b2f63,Anne-Sofie Sadolin,Radikale,København,,1385
 01455b84-eb59-4dbc-8c4c-575e28057aaa,Paw Hedegaard Amdisen,SF,Østjylland,,1384
-dfcb8b40-2b46-4569-a82f-ea6adc6b6990,Tilde Holch Duedahl,Venstre,Sydjylland,,1373
-44fb55bb-05dc-4c22-8ed7-eee9eabaa066,Nikolaj Vang,Danmarksdemokraterne,Fyn,,1373
 d77208b8-2dbf-4685-9825-e853edae700e,Jens Anton Tingstrøm,Socialdemokratiet,Københavns Omegn,,1373
+44fb55bb-05dc-4c22-8ed7-eee9eabaa066,Nikolaj Vang,Danmarksdemokraterne,Fyn,,1373
+dfcb8b40-2b46-4569-a82f-ea6adc6b6990,Tilde Holch Duedahl,Venstre,Sydjylland,,1373
 b2ae2285-1a92-4e14-a647-4768c6582699,Anne Marie Geisler Andersen,Radikale,Sydjylland,,1349
 3c6b30e0-bf63-4099-93ec-53467173d135,Christopher Arzrouni,Liberal Alliance,Nordsjælland,,1334
 9a3bbc7a-425c-415f-80d1-2c394196bbba,Filippa Emilie Vittrup,Enhedslisten,Nordjylland,,1332
@@ -291,8 +291,8 @@ c1a79220-5cc7-4db1-a7b9-d00030570bf8,Qasam Nazir Ahmad,Alternativet,København,,
 96df098a-0165-4fc2-8d88-feb7e5d58731,Lasse Haugaard Pedersen,Socialdemokratiet,Fyn,,1163
 c49f9f66-7e9b-4fec-9272-90ebe67010f1,Maria Gudme,Socialdemokratiet,Fyn,,1160
 e877854e-e52e-49ea-a5ab-45704c9fc286,Jan Werner Mathiasen,Radikale,Fyn,,1155
-9fc104f6-6074-4084-ba5b-2335d9f7ed73,Sofie Mosgaard,Venstre,Fyn,,1151
 86e162ae-db20-4660-8bca-6e0d31e2103a,Özkan Kocak,Moderaterne,Københavns Omegn,,1151
+9fc104f6-6074-4084-ba5b-2335d9f7ed73,Sofie Mosgaard,Venstre,Fyn,,1151
 4bd0967c-002e-4f9a-a832-a89692b3d69e,Anne Møllegaard Mortensen,Dansk Folkeparti,Fyn,,1149
 b4c51bf1-351a-42f9-926f-bd674c3f2f4a,Tina Mandrup,Venstre,Sjælland,,1144
 a2d1cde3-4397-4b8b-b5a1-2b3cb3aca381,Yildiz Akdogan,Socialdemokratiet,København,,1140
@@ -329,24 +329,24 @@ f44e3d1a-0105-483d-836c-f7eb7986877d,Danny Rosenkilde,Dansk Folkeparti,Nordjylla
 1f354d99-b590-48c3-9641-d33db91c02fe,Line Ervolder,Konservative,København,,1008
 d39ab9ba-3db2-4007-9444-f482187e3354,Morten Hell,Moderaterne,Sydjylland,,1001
 3dee1fbe-cc98-4ecf-a7af-0e941a8ac8f2,Magnus Bigum,Danmarksdemokraterne,Østjylland,,996
+ee0f1264-cfb2-47b3-914d-8b809903e66e,HP Beck,Liberal Alliance,Nordjylland,,992
 423e61c3-7ea6-4d6c-82ec-a08c71e561e1,Phillip Kjær Luscombe,Venstre,Sydjylland,,992
 33a42d70-f843-44ca-8afb-2fde6127bcad,Louise Brown,Liberal Alliance,Østjylland,,992
-ee0f1264-cfb2-47b3-914d-8b809903e66e,HP Beck,Liberal Alliance,Nordjylland,,992
 dccb9fdb-ff5d-4301-91f5-a62418afec49,Benjamin Christensen,SF,Nordjylland,,991
 bb87e512-1898-4e54-9c2c-4416e7c9d755,Line Randa,Moderaterne,Nordjylland,,986
 9291db97-385d-4bed-8bf4-706a9b32fb41,Araz Khan,Liberal Alliance,Fyn,,978
 e8410828-6468-47ea-b5ce-8a6898d18468,Emil Moselund,Radikale,København,,975
 559d79f0-2446-4817-9631-0781cd69ff5e,Jiesper Tristan Pedersen,Alternativet,København,,971
 f9ea552f-a527-44fc-a3fa-1dc960748d49,Joachim Riis,Liberal Alliance,Sjælland,✓,965
-a6b8e993-643e-4e54-bff0-eef3b6296d40,Jesper Bierbaum,Venstre,Sydjylland,,958
 6b22bc0c-0757-496f-aa94-f44d0c5807d9,Kristian Bøgsted,Danmarksdemokraterne,Nordjylland,,958
+a6b8e993-643e-4e54-bff0-eef3b6296d40,Jesper Bierbaum,Venstre,Sydjylland,,958
 c51ef49c-8afd-49e8-b827-9e9c02bded56,Jannie Boysen Westergaard,Konservative,Sydjylland,,954
 59324198-5cb2-45d0-8071-9985a9203de3,Filiz Sarah Thunø,Socialdemokratiet,Sjælland,,941
 c269bde6-c2fb-4f18-872d-4e4950327fad,Emma Houe Mølgaard,Dansk Folkeparti,Nordjylland,,940
 9f1e38f9-df89-4fd1-839f-e6069a033b32,Milo Gaarde,SF,Sydjylland,,922
 0a0d67b5-22f5-4ce4-b722-a800a42f6302,Astrid Søborg,Venstre,Københavns Omegn,,915
-0c363d37-cef1-41fd-bf66-91898d976ea2,Cecilie Louise Balbay Holdt,SF,København,,903
 3828a82c-bb88-462f-8b6a-cca72eeb6f8b,Troels Stru Schmidt,SF,Københavns Omegn,,903
+0c363d37-cef1-41fd-bf66-91898d976ea2,Cecilie Louise Balbay Holdt,SF,København,,903
 5adefd07-8062-4a08-a32b-3c9bd880b835,Kim Alexander Jensen,Liberal Alliance,Sydjylland,,903
 e673e917-1724-4458-9e06-87a1c3dbd531,Line Krogh Lay,Radikale,Sjælland,,902
 ba311a4f-d6aa-4dac-8468-cd1866731a00,Hediye Temiz,Radikale,Nordsjælland,,899
@@ -365,26 +365,26 @@ c7e4eace-cb86-4592-82b7-51610864cc93,Carina Sarkkinen,SF,Østjylland,,861
 9af498e0-893b-4b96-927c-bd19538a1c61,Rasmus Vestergaard Madsen,Enhedslisten,Sydjylland,✓,856
 67f55982-cd23-4944-ae11-b87f4a7ff065,Rikke Christensen,Radikale,Østjylland,,844
 c43b8f22-ca84-4294-b948-8bc3856bfbc9,Mikkel Hartwich,Dansk Folkeparti,Nordsjælland,,840
-7ca6cb0e-bbd5-493a-bfd1-b918bfa4690e,Vinnie Borbjerg,Socialdemokratiet,Vestjylland,,838
 1437e1fd-269e-4da2-9559-bc1eb23c95cf,Frederik Rosberg,Radikale,København,,838
+7ca6cb0e-bbd5-493a-bfd1-b918bfa4690e,Vinnie Borbjerg,Socialdemokratiet,Vestjylland,,838
 2818ee8c-a43d-43c5-aefc-f5c0a8c45d1e,Helge K. Frandsen,Borgernes Parti,Vestjylland,,837
 4b360d2f-e94d-4585-a697-cab454cb856a,Martin Graff Jørgensen,SF,Sjælland,,836
 afe58795-4d5e-4c9f-a021-1c1573511871,Laura Elise Andersen-Mühl,SF,Fyn,,835
 fafe715f-e4c5-428e-b265-07616f61e49c,Sofie Holm,Radikale,Sjælland,,831
 2ec5966e-988c-4b43-aca4-d52d0d91217a,Emma Biørn Tretow-Fish,Radikale,Nordjylland,,822
 338f1c69-0bcb-42d7-93e8-776f27c5a28b,Rune Bønnelykke,Dansk Folkeparti,Sydjylland,✓,814
-b7525d77-5adb-4346-99ab-177174e3ddd3,Fatih Baran,Enhedslisten,Københavns Omegn,,813
 bb984171-ad9e-4067-ae3a-26046a7dfe36,Jonas Juhl,Liberal Alliance,Københavns Omegn,,813
+b7525d77-5adb-4346-99ab-177174e3ddd3,Fatih Baran,Enhedslisten,Københavns Omegn,,813
 f50f58cd-0ce2-4047-b87b-152c40a3de10,Rune Palm,SF,København,,801
-05f63b74-3995-4ba6-b9e2-537f772f0113,Liselotte Lynge,Danmarksdemokraterne,Nordjylland,,800
 020a9f45-e9f3-4418-bcf6-821a57fca005,Lars Høyer Holmqvist,Liberal Alliance,Nordsjælland,,800
+05f63b74-3995-4ba6-b9e2-537f772f0113,Liselotte Lynge,Danmarksdemokraterne,Nordjylland,,800
 11174b4c-22ac-43ce-8dd7-2c24192d8f35,Klaus Sandfeld,Venstre,Sydjylland,,794
 b42833bd-0edd-4ac0-a6b0-5d3f2dabb0c0,Mads Sebbelov,Moderaterne,København,,790
 4b8cbc66-5915-4331-a71e-7768cffb2620,Helene Brochmann,SF,Københavns Omegn,,787
 43249800-7eb2-4b80-9cff-98fd9112c955,Kenneth Fredslund Petersen,Danmarksdemokraterne,Sydjylland,,783
 f5bd4b41-3ee9-49ad-a71d-e0980a8cc6ec,Jesper Kiel,Enhedslisten,Fyn,,780
-97b175e7-7e64-46f4-9fc6-9d15121c59cd,Susan Kronborg,Moderaterne,Østjylland,,776
 10506dd3-97de-4257-ade7-8ff15cebf807,Anna Poulsen,SF,Nordsjælland,,776
+97b175e7-7e64-46f4-9fc6-9d15121c59cd,Susan Kronborg,Moderaterne,Østjylland,,776
 34b17feb-f89d-481b-b82c-9fdaae99f3fa,Morten Bo Bertelsen,SF,Nordjylland,,772
 844ab4ef-efdb-4daf-9b39-0571bc981968,Julie Jacobsen,Dansk Folkeparti,Sjælland,✓,768
 7558913a-15b0-4d78-a2fa-637924411fe7,Hanne Roed,Radikale,Østjylland,,764
@@ -398,8 +398,8 @@ ad704804-7d6b-4da9-b5c8-4a1cfeb4fcd0,Pil Yildiz,Enhedslisten,København,,737
 623af963-27df-4d78-8370-bf98a6b9bc52,Josephine Alstrup Kofod,Dansk Folkeparti,Sydjylland,✓,734
 613c1bca-5584-4b46-8006-0489f0001024,Carolina Cámara,Enhedslisten,Nordsjælland,,734
 56c031f4-9c37-4acc-a655-30a7f97416d6,Linda Frølund,Alternativet,Fyn,,732
-bd90d68e-90da-4fe7-8bd5-f685a339f3af,Helena Hedegaard Udsen,Enhedslisten,Sjælland,,729
 9cc3d6f2-7582-47b4-beb7-d55d9b51f719,Jes Halfdan,Borgernes Parti,Vestjylland,,729
+bd90d68e-90da-4fe7-8bd5-f685a339f3af,Helena Hedegaard Udsen,Enhedslisten,Sjælland,,729
 574d8f02-6b3f-4bb3-bd42-87323976a7f4,Gitte Eriksen,Konservative,Sydjylland,,719
 0805a691-7320-4eb6-a45f-beb8683f1c61,Patrick Bryhl,Danmarksdemokraterne,Sydjylland,,714
 dcd2e842-05f0-438e-95d9-e43a28236d4a,Sten Larsen,Moderaterne,Østjylland,,713
@@ -445,16 +445,16 @@ a7f00d8f-6376-4ef6-b317-24475656cb7f,Reza Javid,Enhedslisten,Fyn,,597
 a06d6c16-6951-493a-a7f6-30aa4dae05c2,Marcus Juul Grønbæk,Danmarksdemokraterne,Vestjylland,,597
 6d37be75-7bfe-485c-ae93-6515445e6261,Jacob Stryhn,Konservative,Sjælland,,596
 56c74946-c74c-46b5-9c7d-5efa78312059,Annette Rieva,Venstre,Nordsjælland,,595
-753cc83a-c643-40f9-a7c4-d71efe5ccb0b,Claus Skovmose,Danmarksdemokraterne,Nordjylland,,592
 68b7b660-8f10-4fb3-a6ca-b8b6aadccb05,Magnus Flensborg,SF,Sydjylland,,592
+753cc83a-c643-40f9-a7c4-d71efe5ccb0b,Claus Skovmose,Danmarksdemokraterne,Nordjylland,,592
 29c5fd4c-207c-498d-975c-b0f493032ec3,Allan Holm,Borgernes Parti,Fyn,,591
 0a443ea1-dbe0-4070-985a-19db573f01cc,Niels Henning Bladt,Venstre,Sydjylland,,590
 da326ab3-a4f7-49a2-8625-15bf67509683,Pia Halkjær,Socialdemokratiet,Østjylland,,590
 f969bc1d-951f-44c9-8942-d491c559a404,Daniel Drefeld,Konservative,Nordsjælland,,589
 899c170d-4ae7-48df-8a15-807b00c6c9a4,Bo Ritterbusch,Liberal Alliance,Nordjylland,,588
 df3dacec-5eb4-472d-ba45-44cd358400be,Vivian Lindberg Larsen,Danmarksdemokraterne,Fyn,,587
-361ae7ef-a8bf-4d97-8ce7-52ce794c9ce0,Caroline Lochow,Enhedslisten,Københavns Omegn,,586
 7e83f86d-0a24-473c-8612-98b796ac6884,Sanne Pilgaard,Borgernes Parti,Sjælland,,586
+361ae7ef-a8bf-4d97-8ce7-52ce794c9ce0,Caroline Lochow,Enhedslisten,Københavns Omegn,,586
 23eb9166-74fd-44fd-9211-171a0a2fa6ad,Martin Rahn Johansen,Danmarksdemokraterne,Sjælland,,582
 bb5fd0bc-dc41-4e72-81e1-4075588f5431,Sebastian Støckler,Venstre,Østjylland,,581
 aef5742b-ed40-4ea7-963a-6e46b05d8fd4,Lone Kjær Hein,Radikale,Vestjylland,,578
@@ -493,20 +493,20 @@ e09923da-aa01-42bb-b59e-ddbf99bddb7d,Marcus Vesterager,Socialdemokratiet,Københ
 c43d96c5-fd06-43ba-b840-ec6ca9f41ad9,Bjørn Jensen,Konservative,Østjylland,,509
 14cd797e-ee15-45e6-8b1c-b593f7439f23,Jan Køpke Christensen,Borgernes Parti,Sydjylland,,507
 4d2d8106-a4f0-4684-9e1b-023fb452043e,Tenna Røberg,Dansk Folkeparti,Københavns Omegn,,503
-3ec0e82f-4882-43e4-b5e0-079f532ee5b9,Søren Vanting,Moderaterne,Østjylland,,502
 db3e6701-64bf-4b03-8ba4-aac3de9bbbd6,Helena Tjørnelund Christensen,Radikale,Sjælland,,502
-07f543e8-e903-4a41-929d-a6e9398f6dce,Christian Jørgensen,Liberal Alliance,Sydjylland,,498
+3ec0e82f-4882-43e4-b5e0-079f532ee5b9,Søren Vanting,Moderaterne,Østjylland,,502
 981c2b19-579d-4794-98a2-0fe794c0266d,Dorte Vilhelmsen,Konservative,Københavns Omegn,,498
+07f543e8-e903-4a41-929d-a6e9398f6dce,Christian Jørgensen,Liberal Alliance,Sydjylland,,498
 d1ec93c1-c8f5-41ce-b9cf-49268112b974,Morten Sørensen,Konservative,Østjylland,,495
 91de8e10-3f72-4e28-8301-60f96ee4c52c,Asbjørn Reissmann,Socialdemokratiet,København,,494
 40b68406-806d-45c8-9456-22c3e576bad1,Anders Bøge,SF,Vestjylland,,492
 0bfcf8e7-c23c-4a76-a628-3bc5bf044437,Maria Sofie Petersen,Enhedslisten,København,,478
-7300105a-1e7b-4e57-8075-e1945572ccfe,Michael Jensen,Dansk Folkeparti,Københavns Omegn,,475
 6c98ff0a-fea7-496c-837e-14a9f68afed8,Lars Nissen,SF,Fyn,,475
+7300105a-1e7b-4e57-8075-e1945572ccfe,Michael Jensen,Dansk Folkeparti,Københavns Omegn,,475
 29215f36-4b18-4798-bc1e-b80efef2f20e,Rasmus Sandvej,Konservative,Sydjylland,,474
 11bb90cb-9d17-4ec4-807b-5463591dd079,Kim Møller-Nielsen,Liberal Alliance,Østjylland,,473
-1de39135-e932-4c93-82de-68016f3bb895,Mikkel Westh Jepsen,Radikale,Nordsjælland,,472
 ee0724db-8822-4b23-923e-43194c123775,Bente Refslund,SF,Vestjylland,,472
+1de39135-e932-4c93-82de-68016f3bb895,Mikkel Westh Jepsen,Radikale,Nordsjælland,,472
 f7bd39a6-6219-43ae-a344-a6f1b247389b,Sofus Teislev,SF,Sydjylland,,471
 300b65bd-7695-4e3f-9af1-28a9ca9d2363,Stine Larsen,Alternativet,Fyn,,470
 195f88b8-076f-4a90-b50c-7a8c2265ca97,Anne Fiber,Konservative,Fyn,,470
@@ -522,8 +522,8 @@ c8dfca67-73d3-45c7-ba9f-246c797d2160,Per Knudsen,Dansk Folkeparti,Sydjylland,,44
 b79643c3-96c4-4f06-b6ca-65818718e9fa,Natasja Bruun Knudsen,Konservative,Fyn,,446
 89088aa9-e181-49be-a98b-95512bd45e61,John Hoppe,Konservative,Fyn,,445
 856e1c2d-7509-4b85-96af-b01de0b6d523,Jane Christensen,Konservative,Sjælland,,445
-6332c52b-0e3b-432a-ab2c-845c13c22969,Edris Qasimi,Radikale,Sjælland,,444
 021f6686-e221-4db8-a42f-ce57b06b9f04,Stina Egedius Miller,SF,Nordsjælland,,444
+6332c52b-0e3b-432a-ab2c-845c13c22969,Edris Qasimi,Radikale,Sjælland,,444
 2abcebb5-1bc4-445a-a82d-72d06c4255f7,Emil Viskum,Enhedslisten,Københavns Omegn,,443
 c8feec31-be36-4653-b91d-c6eb44fafaa5,Christian Mutwa Christensen,SF,Sydjylland,,440
 3d675649-eec6-476a-9569-468f2125eb39,Jakob Venø Heiwald,Danmarksdemokraterne,Sydjylland,,439
@@ -533,18 +533,18 @@ c8feec31-be36-4653-b91d-c6eb44fafaa5,Christian Mutwa Christensen,SF,Sydjylland,,
 b05cb409-ed19-4ff1-83e9-d6ef4f0f5bf6,Dina Person,Danmarksdemokraterne,Sjælland,,433
 0e5ba3a8-28c1-4396-932c-16f8feda1837,Anders Bo Larsen,Venstre,Københavns Omegn,,433
 72f5a7a1-4927-4ce9-8149-c1cc98840f03,Charlotte Ellenberger,SF,Fyn,,431
-ede27813-c9db-46c1-b39f-7d80b9a98270,Mads-Magnus Damm,Dansk Folkeparti,Sydjylland,,428
 d9c328b0-8b4e-47a8-9308-16c1a9daeede,Sara Pernille Jespersen,Moderaterne,Østjylland,,428
 dc9333e7-d4a7-4939-a634-2aaa4cf0b7ef,Mette Skaarup,Enhedslisten,Fyn,,428
+ede27813-c9db-46c1-b39f-7d80b9a98270,Mads-Magnus Damm,Dansk Folkeparti,Sydjylland,,428
 4a4e406f-acc3-4e72-b618-3c856d5cf7e4,Anders Krojgaard Lund,Konservative,Østjylland,,418
 dcb22a53-5747-4c8f-a630-e9e411809d2d,Camilla Hoffmann,Socialdemokratiet,København,,418
-a4c7338e-93de-4908-8ea1-4bdeffb4be9f,Søren Lund Hansen,Dansk Folkeparti,Sjælland,,415
 007d9a4c-f83f-463b-8b3f-7c5a2751eba4,Thomas Majgaard Byrsing,Danmarksdemokraterne,Sydjylland,,415
+a4c7338e-93de-4908-8ea1-4bdeffb4be9f,Søren Lund Hansen,Dansk Folkeparti,Sjælland,,415
 53661844-12e6-4660-8d40-fde0cd75d82a,Christian Elkjær,Radikale,Nordsjælland,,414
 1c9545de-88ed-4a4b-9745-78702319ab3c,Ditte Ravn Kaagaard,Moderaterne,Nordjylland,,414
 22e8941a-c39d-4c64-9786-799d0937f79e,Zandra Thulstrup Pihl,Dansk Folkeparti,Københavns Omegn,,412
-0cc6769b-1510-4c4f-9e5f-0e49ef3ea9a6,Natascha Remvig,Venstre,København,,411
 50f7ba6e-9190-4d51-8d59-6b8bdb7822cd,Michael Grove,Konservative,Vestjylland,,411
+0cc6769b-1510-4c4f-9e5f-0e49ef3ea9a6,Natascha Remvig,Venstre,København,,411
 27ca6f3d-0bdb-4108-9c01-438c57eb9879,Lasse Hildingberg,Venstre,Sydjylland,,410
 5863705a-bfff-42b8-8704-4e138a2ad69c,Jeppe von Berg,Moderaterne,Vestjylland,,408
 ee2f3b28-7fe1-4e46-91ec-61486c92e630,Kanishka Dastageer,Socialdemokratiet,Sjælland,,407
@@ -557,11 +557,11 @@ ac7b4f70-149c-441c-807b-5374ea6b02b6,Steffen Hedegaard Attermann Brinch,Alternat
 294d76c1-7223-43dc-ab7f-77719fbf7e29,Pia Elberg,Radikale,Nordjylland,,389
 66657e14-e881-43ae-864e-7ec95b82b05d,Bjarke Jensen,Radikale,Østjylland,,389
 4d53c22a-3d3c-475f-b177-38001b0d16c3,Peter Bilgrav,Alternativet,Vestjylland,,387
-ad67f286-4edd-46aa-885f-24a79aa61665,Kenneth Skatka Hammer,Liberal Alliance,Nordjylland,,382
 9dc697fc-0146-4b6e-8e58-5d970bd6cf85,Lisbeth Dam Larsen,Moderaterne,København,,382
-bfc81d3b-cc10-4063-b76e-6716e0fac877,Timm Bøttger,SF,Sydjylland,,379
+ad67f286-4edd-46aa-885f-24a79aa61665,Kenneth Skatka Hammer,Liberal Alliance,Nordjylland,,382
 a8f244c8-1828-4064-852c-5670f0345693,Kristjar Skajaa,Enhedslisten,Østjylland,,379
 1d1c0756-d329-4bf5-946d-d3d4ac98f13f,Coco Mette Cecilie Kjærgaard,Alternativet,Sydjylland,,379
+bfc81d3b-cc10-4063-b76e-6716e0fac877,Timm Bøttger,SF,Sydjylland,,379
 040e9fd8-fd7b-4f0e-95e7-3a6468995cb0,Hanne Bjørn,Liberal Alliance,Københavns Omegn,,378
 cc8eadd0-7df6-4315-8daf-22922da63350,Jette Larsen,Konservative,Københavns Omegn,,377
 d64c0e4b-6403-4f13-97b6-110d00c4174a,Brian Mørch,Danmarksdemokraterne,Sjælland,,376
@@ -571,32 +571,32 @@ e0f18386-19d4-4b11-8a88-8444270aac52,Lars Green Bach,Radikale,Københavns Omegn,
 a37abf77-5eff-4633-b972-ae9c4e059dcb,Ib Poulsen,Borgernes Parti,Nordjylland,,372
 a4d6058b-ee78-45a0-8fca-8e797ff2bdfd,Caroline Svejsø,Konservative,Østjylland,,367
 f5da0210-3983-4336-88ce-56546c7208f5,Henrik Brodersen,Dansk Folkeparti,Sjælland,,366
-098b99b9-9292-42f2-8beb-092f331e707e,Louis Jacobsen,Enhedslisten,Sjælland,,365
 d475c659-3d1a-4c02-9811-fb604addbcb4,Philip Solberg,Liberal Alliance,Nordsjælland,,365
-1cab5d98-4407-4a17-ab0e-423076c79e98,Louise Stenmann,Socialdemokratiet,Østjylland,,364
+098b99b9-9292-42f2-8beb-092f331e707e,Louis Jacobsen,Enhedslisten,Sjælland,,365
 ea98e0bc-681a-40e6-9dbc-6d506c0ace61,Marcus Danielsson,Venstre,Sjælland,,364
+1cab5d98-4407-4a17-ab0e-423076c79e98,Louise Stenmann,Socialdemokratiet,Østjylland,,364
 7791e71e-ae5b-4bba-89e3-f6afeb0f60c1,Allan Svendsen,Dansk Folkeparti,Sydjylland,,362
 197d03a9-e5a6-4840-8408-b8e56ac817a9,Helene Hellesøe Appel,Enhedslisten,Sydjylland,,361
-26d087c7-cd07-40e2-80e2-2e3476404289,Anders Fausbøll,Venstre,København,,356
 9d607511-53c2-4cc1-b92f-6d51032bb6e9,Barbara Engelstoft,Konservative,Sjælland,,356
+26d087c7-cd07-40e2-80e2-2e3476404289,Anders Fausbøll,Venstre,København,,356
 e06b9799-cfed-42ee-b293-db0a50ee606a,Charlotte Munch,Danmarksdemokraterne,Københavns Omegn,,355
 1181b9a5-d2cd-4a80-8438-b3fa9624d56b,Pia Adelsteen,Dansk Folkeparti,Nordsjælland,,354
-f27cf6f7-a136-47f9-98d2-2c35fdae1a00,Henrik Rejnholt Andersen,Venstre,Østjylland,,354
 a74ab0f0-7dfa-46cd-a6a4-b8cf3da16829,Frederik Storm,Danmarksdemokraterne,Nordjylland,,354
+f27cf6f7-a136-47f9-98d2-2c35fdae1a00,Henrik Rejnholt Andersen,Venstre,Østjylland,,354
 427a562b-7183-4da5-af03-19d427fe4517,Berit Raldin,Enhedslisten,Nordjylland,,353
+02dbf3ef-1e8b-408f-a3cd-7c31333c1eed,Knud Nielsen,Dansk Folkeparti,Vestjylland,,352
 4608a387-3568-44fe-b63f-d1801c014ed8,Nicklas Verne,Konservative,Vestjylland,,352
 abffa718-b6ee-4c0b-b62a-a70630e7eb2e,Ditte Keidser,Konservative,Sjælland,,352
-02dbf3ef-1e8b-408f-a3cd-7c31333c1eed,Knud Nielsen,Dansk Folkeparti,Vestjylland,,352
-767793eb-6e65-4a45-a663-9374df3b095a,Charlotte Møller-Madsen,Borgernes Parti,Fyn,,351
 6f191a67-ad11-4e2d-98ad-b6ed5e89c960,Niels Christensen,Borgernes Parti,Nordjylland,,351
 ce22fcb2-bee3-4797-b303-01946261b45e,Frederik Grünfeld,Liberal Alliance,Sjælland,,351
-d4aef58f-1879-4320-9fc4-8db91639cb4a,Bjørn Olsen,Alternativet,Østjylland,,351
 04fa330d-7b0a-40f7-a62f-acba741d1aae,Helene Lykke,Liberal Alliance,Sydjylland,,351
+d4aef58f-1879-4320-9fc4-8db91639cb4a,Bjørn Olsen,Alternativet,Østjylland,,351
+767793eb-6e65-4a45-a663-9374df3b095a,Charlotte Møller-Madsen,Borgernes Parti,Fyn,,351
 0f69ef7c-9e5f-4445-b230-1f21c37e1364,Emil Sloth,Alternativet,Nordjylland,,350
-7fa842cd-b64e-411a-a447-c3dba3bef822,Vibeke Westh,Socialdemokratiet,Københavns Omegn,,350
 db1b602b-56d2-4b9c-96b6-58aefe2c5957,Anita Vivi Lilholt,Venstre,Nordjylland,,350
 fa2c5b88-7709-459f-9a12-d7cd1a13f8c7,Dorthe Beck-Nyling,Moderaterne,Københavns Omegn,,350
 d16cb71e-0136-4985-b9ef-da82b7c16f04,Jacob Skjærris,Konservative,Østjylland,,350
+7fa842cd-b64e-411a-a447-c3dba3bef822,Vibeke Westh,Socialdemokratiet,Københavns Omegn,,350
 77a21a43-0897-45d1-b94b-ae35b2b907c4,Malene Sandfeld,Venstre,København,,348
 6a8a0708-0634-4119-86f1-9f266e8bb75a,Gitte Dreier Jacobsen,Alternativet,Østjylland,,344
 1e1062a2-3606-4c62-ad4d-7dfae2b91fc0,Niels Bolding,Dansk Folkeparti,Fyn,,344
@@ -604,18 +604,18 @@ fb635d35-e25b-4bc9-b11b-7eba4d5d5a90,Lone Hansen,Moderaterne,Sydjylland,,341
 51ae69c9-5053-40ac-8465-654070076b3f,Kim Eskesen,Socialdemokratiet,Sydjylland,,340
 68859893-68a7-4020-92d0-0f51fa1bc7d3,Anders Havelund Krøyer,Konservative,København,,339
 d594150a-7dc3-4f07-9471-1d5a9af4ff3d,Tobias Bennedsen,Konservative,Fyn,,339
-9b4a2e38-c897-46b9-871c-329825d39429,Christian Wibholm,Danmarksdemokraterne,Sjælland,,336
 59cdc7ad-0332-41e5-80cd-f4ca6e9f303d,Thorbern Alexander Klingert,Venstre,Sjælland,,336
+9b4a2e38-c897-46b9-871c-329825d39429,Christian Wibholm,Danmarksdemokraterne,Sjælland,,336
 7b526be5-3402-4709-9713-164eb070fc21,Jørgen Hammer Sørensen,Dansk Folkeparti,Nordjylland,,334
 18479907-9b73-4690-b4ed-23939ce8d65c,Michael Melchert,Liberal Alliance,Københavns Omegn,,331
 23d317fa-538b-49dd-bfa4-8912decb0add,Mogens Haugaard,Moderaterne,Sjælland,,330
 c38405f9-60aa-472b-b46c-049d69866a36,Valentina Crast,Alternativet,Sjælland,,329
 925490b5-1e7a-4dd6-97cc-9730a460c935,Jens Skov,SF,Nordsjælland,,327
 8dfc3ef7-fcfb-40c8-a944-21a599f8be83,Romeo Troelsgaard,Dansk Folkeparti,Fyn,,326
-8185d62e-58c9-45e1-8b41-89174657e3e6,Roger Courage Matthisen,Alternativet,København,,325
 22eeea3d-8a94-45bb-aafc-438d82fcd882,Mathias Thybo,Socialdemokratiet,Østjylland,,325
-1ad6af83-d6a5-4513-8bf8-b1216bb672f8,Andreas Raben,Moderaterne,Nordsjælland,,322
+8185d62e-58c9-45e1-8b41-89174657e3e6,Roger Courage Matthisen,Alternativet,København,,325
 4256efd1-c1b1-4d0a-ad57-8aec46ca76ad,Mia Linda Møller,Moderaterne,Sjælland,,322
+1ad6af83-d6a5-4513-8bf8-b1216bb672f8,Andreas Raben,Moderaterne,Nordsjælland,,322
 2037ea3b-e73d-4c00-b347-172d8a2f2040,Maria Enemark,Borgernes Parti,Vestjylland,,321
 16eae56d-a60e-4421-8ab2-a0ec424dfe27,Tina Kjær,Alternativet,Østjylland,,321
 da7a9a6d-1740-4d07-8c84-e8223fe60806,Tim Larsen,Borgernes Parti,Sjælland,,319
@@ -623,8 +623,8 @@ e99fed4a-6078-4243-a237-c767f42df7e9,Martin Laursen,Enhedslisten,Østjylland,,31
 c301ad93-21dd-4c68-8162-e197d185c725,Maria Dalum,Alternativet,Fyn,,315
 498d56d3-82e7-423b-be35-a0e41fa61983,Morten Trillingsgaard Høybye,Konservative,Sydjylland,,313
 a2292bf5-97b9-4e21-ae9a-82c247647e57,Niels Haxthausen,SF,Københavns Omegn,,311
-cb724526-e6b5-47ac-bb92-0c4424cc9f2b,Susanne Blegvad Posselt,SF,Sydjylland,,310
 fce7117e-5a83-489d-b401-a03d6d878e52,Christian Juhl,Enhedslisten,Vestjylland,,310
+cb724526-e6b5-47ac-bb92-0c4424cc9f2b,Susanne Blegvad Posselt,SF,Sydjylland,,310
 484ae2bf-721d-4ed0-8232-317dcdd38a28,Cecilie C. Johannsen,Konservative,Sydjylland,,309
 324437f6-5f1a-4c06-8a6e-eed22537bbb4,Lars Bregnbak,Danmarksdemokraterne,Nordsjælland,,306
 e0c8af5d-b7ec-4a45-b4b2-b80f3645edca,Lise Jørgensen,Socialdemokratiet,Vestjylland,,305
@@ -642,36 +642,36 @@ d7d1680a-b84c-4962-a230-f9974322d422,Paulina Laparil,Borgernes Parti,Nordjylland
 34dd8065-dbf3-41f4-a8df-30236ec26f06,Chris Hvidberg,Liberal Alliance,Østjylland,,285
 957fb1cf-be07-4f87-8291-e0222c93d9c3,Rikke Hansen,Borgernes Parti,København,,284
 38ee6d04-8688-4c7c-af65-1e52884330e5,Stine Thier-Andersen,Konservative,Nordjylland,,284
-efccda92-3272-443a-a474-a0721ee0cb51,Troels Brandt,Radikale,Sjælland,,281
 0ae3e963-1ae2-4f2b-af6a-d1523001c4bd,Nils Sjøberg,Radikale,Sydjylland,,281
+efccda92-3272-443a-a474-a0721ee0cb51,Troels Brandt,Radikale,Sjælland,,281
 f9744383-5a6a-4679-997f-938926c20ac5,Marie Wandel,Radikale,Nordjylland,,280
-e46446e8-d973-4489-85fb-f17b99b72d3c,Morten Riis,Enhedslisten,Bornholm,,279
-95c283c9-8667-4b63-81b8-6e9458c58f65,Laura Emilie Fabricius-Lauritzen,Liberal Alliance,København,,279
 83510769-e67b-42df-bc64-7bf1152666db,Helge Bo Jensen,Enhedslisten,Københavns Omegn,,279
-fe9c0b45-abf6-403d-a57e-cbf958caf362,Stine Øllegaard,Enhedslisten,Fyn,,278
+95c283c9-8667-4b63-81b8-6e9458c58f65,Laura Emilie Fabricius-Lauritzen,Liberal Alliance,København,,279
+e46446e8-d973-4489-85fb-f17b99b72d3c,Morten Riis,Enhedslisten,Bornholm,,279
 7f861a99-7464-4153-9e64-67a628681155,Keld Lorenzen,Liberal Alliance,Vestjylland,,278
+fe9c0b45-abf6-403d-a57e-cbf958caf362,Stine Øllegaard,Enhedslisten,Fyn,,278
 e34638ee-6cd3-4ea9-a8b9-d4589cff4f81,Emil M. D. Christensen,Venstre,Østjylland,,277
-d31b12e0-7290-4b42-a9e7-f1e7e338b06c,Christopher Blomsterberg-Thaysen,Venstre,Københavns Omegn,,277
 72d2f3bf-20d6-41ab-97b8-705f5ec4590d,Anette Jensen Smith,Alternativet,Nordjylland,,277
+d31b12e0-7290-4b42-a9e7-f1e7e338b06c,Christopher Blomsterberg-Thaysen,Venstre,Københavns Omegn,,277
 41080326-1d01-4340-85b2-dc55cc2fa04a,Tanja Glückstadt,Dansk Folkeparti,Sjælland,,276
 dc3859d8-06b2-485d-a550-306da86976b0,Brian Køster,Radikale,Københavns Omegn,,275
 c67c62a3-e1e0-4821-98b8-6bb163505555,Andreas Lausen,Moderaterne,Fyn,,275
 133dc4c6-a28b-4c72-9684-d75b10c16c42,Jakob Jensen,Enhedslisten,Østjylland,,274
 2883d46c-e050-416f-a366-1d8f716452b4,Hans Skou,Venstre,Østjylland,,272
 4366755f-ed27-4414-b6f8-a875ab091e55,Viktor Thyregod Sivertsen,Konservative,Østjylland,,270
-f734cf8a-25d8-4d4d-b0f3-84ff27e0185d,Karen Thestrup Clausen,Enhedslisten,Sjælland,,268
-43940926-b842-42fe-957e-736e19e789c5,Nanna Høyrup,Alternativet,Nordsjælland,,268
 d73dfbea-dc6e-414a-ac09-82864a73747a,Peter Vestergaard,Radikale,Vestjylland,,268
-52af4bdd-355b-46fe-8ae2-f036cb3731fb,Sofie Christiansen,SF,Bornholm,,266
+43940926-b842-42fe-957e-736e19e789c5,Nanna Høyrup,Alternativet,Nordsjælland,,268
+f734cf8a-25d8-4d4d-b0f3-84ff27e0185d,Karen Thestrup Clausen,Enhedslisten,Sjælland,,268
 a52fe426-3235-4d1e-8145-004d9849e5b8,Michael Faust Horsbøl,Konservative,Østjylland,,266
+52af4bdd-355b-46fe-8ae2-f036cb3731fb,Sofie Christiansen,SF,Bornholm,,266
 925d7b70-a700-4d14-b5c0-97460bcfb4be,Alexander Bruhn Skjøth,SF,Københavns Omegn,,263
 e6392316-c29e-4ac5-8e92-3072ffc42205,Knud Gaarn-Larsen,Udenfor parti,Vestjylland,,263
-4b9df057-5830-45ff-9e7d-16fbc68e5279,Kasper Flygare,Socialdemokratiet,Bornholm,,261
 57bab092-dad0-406e-a2fb-a158d71e1744,Lasse Vogel Andersen,Konservative,København,,261
+4b9df057-5830-45ff-9e7d-16fbc68e5279,Kasper Flygare,Socialdemokratiet,Bornholm,,261
 03756fa8-f092-4acb-9af2-e63ef962a7bd,Morten Dehn,Borgernes Parti,Københavns Omegn,,260
 e8ad3c45-142a-46aa-b748-c67afe0a8429,Andreas Fjord Larsen,Venstre,Fyn,,260
-3462144c-ad2f-4ebe-af96-83dc1f5d7993,Catharina Næsby Malkki,Alternativet,København,,259
 187da5bc-3ec5-4315-823f-3a9979446341,Christina Hedegaard Hansen,Enhedslisten,Østjylland,,259
+3462144c-ad2f-4ebe-af96-83dc1f5d7993,Catharina Næsby Malkki,Alternativet,København,,259
 6868363d-ef84-4c84-a4f9-73e62e7d4c1c,Reinout Bosch,Enhedslisten,København,,258
 15bfb331-6c0e-4ba7-b887-56ab813aa31a,Kristoffer Kromand,Konservative,Bornholm,,255
 5fa0669e-c81f-40f0-8bd3-dac273e0ffe5,Simon Højer,Konservative,Vestjylland,,255
@@ -679,8 +679,8 @@ c587527c-56ac-477d-922a-f5eb81c8b283,Annie Hagel,Enhedslisten,Nordsjælland,,250
 51f6bba6-3575-431d-8a8e-282d528668a0,Luise Hjortebjerg,Venstre,Københavns Omegn,,247
 1c433024-5749-460c-8d0d-fedfd31083d7,Anders Peter Hansen,Liberal Alliance,Nordjylland,,245
 e4ca7e21-760c-4638-b18b-8a89081c1f9c,Jeppe Trolle,Radikale,Sjælland,,244
-a45ef5ff-312b-4a59-a78e-084a44823acb,Michael Rask,Liberal Alliance,Sjælland,,243
 57c3eb1c-9221-4f16-a64d-b2bc436450c6,Yurdal Cicek,Alternativet,Sjælland,,243
+a45ef5ff-312b-4a59-a78e-084a44823acb,Michael Rask,Liberal Alliance,Sjælland,,243
 df73e4f3-deac-427d-969a-488692b21806,Jarl Matthiesen,Venstre,Vestjylland,,240
 5afede4c-f9de-460f-a792-496495abdb2a,Tommi Christensen,Socialdemokratiet,Sydjylland,,239
 48f42799-bb4d-446e-8e5e-aaf624f0e72e,Viviane Ellasofie Karlsen,Borgernes Parti,Østjylland,,239
@@ -691,22 +691,22 @@ f4c03d74-68c6-4424-aa8f-a096ebabeb7b,Lukas Vestergaard,Liberal Alliance,Nordjyll
 70ba920a-da31-4501-b67c-a5d30353e595,Brian Perri,Moderaterne,Sjælland,,234
 c03152ed-8f68-4166-9f7f-1b3fc85b0b5c,Nynne Printz,SF,Fyn,,234
 56fdd545-297b-4dec-82dd-4f1fd11c5e1b,Marianne Mortensen,Radikale,København,,229
-7dfaf6cc-0bf3-495e-ad17-e2780261c73e,Gunver Birgitte Nielsen,Konservative,Sydjylland,,227
 1e5483ca-a7a6-4977-8d1a-62b0b368c937,Lau Sørensen,Konservative,Vestjylland,,227
+7dfaf6cc-0bf3-495e-ad17-e2780261c73e,Gunver Birgitte Nielsen,Konservative,Sydjylland,,227
 d93cd1af-f218-4626-88fe-cb0de047967d,Sarah Nørris,Enhedslisten,Sydjylland,,226
 e25e460a-43f0-4c40-964b-3b4109d26045,Holly Marie Turner,Enhedslisten,Sydjylland,,226
-82a20d16-e289-4f1b-beb6-fab600c36303,Frederik Lau Petersen,Moderaterne,Københavns Omegn,,225
 021e1f6a-045f-411a-ac19-66a75c36f1b3,Birgit Gedionsen,Enhedslisten,Sjælland,,225
-b5700d6d-8d0c-4b44-b63f-bc983ddcce5e,Karan Khosla,Moderaterne,Københavns Omegn,,224
+82a20d16-e289-4f1b-beb6-fab600c36303,Frederik Lau Petersen,Moderaterne,Københavns Omegn,,225
 b5b7d1b3-d15d-4513-ae1e-20434cdfd737,Rasmus Petersen,Enhedslisten,Nordsjælland,,224
+b5700d6d-8d0c-4b44-b63f-bc983ddcce5e,Karan Khosla,Moderaterne,Københavns Omegn,,224
 27e120b3-8bdb-45a2-bb01-d6e5796805c9,Jeppe Fransson,Radikale,Sjælland,,223
 31d1ac0e-d972-45d5-ba52-f9d316dd0c00,René Flou,Konservative,Nordjylland,,222
 63283ca8-c3b0-4673-8db6-eabba56fa479,Nikolai Eskild Jensen,Alternativet,København,,222
 381d6c84-beaf-4130-a1a7-80f3b5266141,Kevin Alex Rasmussen,Enhedslisten,Sjælland,,220
-e2779dae-560c-4eb3-a808-6146e785ec1c,Kasper Nygaard,Moderaterne,Sjælland,,220
 75dc08ce-8e1d-4701-89c8-af9d5dd34c97,Mads Ramstedt,Konservative,Sjælland,,220
-a0162cb4-6f33-47bb-afbc-bf6c06b0e6b0,Henrik Jacobsen,Konservative,Sjælland,,219
+e2779dae-560c-4eb3-a808-6146e785ec1c,Kasper Nygaard,Moderaterne,Sjælland,,220
 b5f9a872-ba1f-49c2-90b2-4dadf9f59d61,Torsten Ringgaard,Enhedslisten,Fyn,,219
+a0162cb4-6f33-47bb-afbc-bf6c06b0e6b0,Henrik Jacobsen,Konservative,Sjælland,,219
 b1b0c84a-fbe3-4089-96b1-13f879364113,Claus Beck,Liberal Alliance,Nordjylland,,219
 2d05e56c-f69d-440a-a05c-5553ca35a293,Frank Clausen,Liberal Alliance,Københavns Omegn,,218
 a5d8f7ea-3e96-427f-8744-c48b11741905,Nicholas Wentworth,Radikale,Sydjylland,,217
@@ -716,105 +716,105 @@ d7c1739f-c184-4fc2-9102-0e0a8fdb7646,Frida Qvist Kristensen,Moderaterne,Sjællan
 d5ddb325-927b-491d-9aaf-e614a83f301c,Matilde Skov-Hansen,Alternativet,Fyn,,212
 de060563-b39c-455e-80ac-0c7d65df891a,Kristian Thomsen,Konservative,Sydjylland,,212
 cd0b769b-57ff-434a-953a-80f53356aa35,Anders Bork,Dansk Folkeparti,Sjælland,,209
-22cf3836-2f34-4e74-bbe6-108ebea41ce2,John Brill Engkebølle,Danmarksdemokraterne,Sjælland,,207
 ac1caffd-ad5e-41c0-8801-d97685aaec43,Michael Rosenmark,Danmarksdemokraterne,Sjælland,,207
+22cf3836-2f34-4e74-bbe6-108ebea41ce2,John Brill Engkebølle,Danmarksdemokraterne,Sjælland,,207
 2307b158-7d5f-451f-b062-5582401d89c0,Mathias Fuglsang,Borgernes Parti,Københavns Omegn,,207
 81f10f30-309f-44a2-a8b3-3a4bf89f7f41,Nana Løcke Buttenschøn,Alternativet,Københavns Omegn,,206
 f8924c30-5a47-408a-9eef-b63bf32f808a,Michael Hendriksen,Danmarksdemokraterne,Bornholm,,206
 77dc5cd9-2e04-49fb-90c7-64786d7be74b,Louise Svenstrup,Liberal Alliance,Østjylland,,206
 f1a65853-d6a7-4f84-9704-a1783ea06f16,Dennis Munk,Enhedslisten,Østjylland,,204
 74925d26-0c52-452d-af82-a44c680224bb,Jørgen Christian Pedersen,Konservative,Vestjylland,,204
-29b1b9a3-3b4b-4a71-9ddd-b6f0951bf83e,Tobias Brus Mikkelsen,Dansk Folkeparti,Sydjylland,,203
 51342b3a-bf39-4830-8321-c022ef529833,Flemming Steenlykke,Borgernes Parti,København,,203
+29b1b9a3-3b4b-4a71-9ddd-b6f0951bf83e,Tobias Brus Mikkelsen,Dansk Folkeparti,Sydjylland,,203
 d34b5ab0-e2ae-4e8f-90d7-c6a510c5f386,Vibeke Syppli Enrum,Enhedslisten,Fyn,,202
-dcb95374-b7ce-4a5c-94d6-59d22452f1f5,Helle Munk Ravnborg,Enhedslisten,Bornholm,,202
 49c8da38-cccd-43ab-8d55-4b4f2ca6e795,Johanna-Maria Precht,Enhedslisten,Sydjylland,,202
-0b85d789-2907-42bb-986e-0f8278b01fd1,Erik Jensen,Socialdemokratiet,København,,201
+dcb95374-b7ce-4a5c-94d6-59d22452f1f5,Helle Munk Ravnborg,Enhedslisten,Bornholm,,202
 e1442a22-64b8-483e-81ab-ff66e663a85f,Benny Dall,Enhedslisten,Sydjylland,,201
+0b85d789-2907-42bb-986e-0f8278b01fd1,Erik Jensen,Socialdemokratiet,København,,201
 4b551d4c-e1c5-4bbb-b833-3f9dc0a36c99,Mette Friis,Alternativet,Sjælland,,199
-175af4b1-36c2-4107-95e5-ec20947d835f,Majbrit Nørgaard,Venstre,Vestjylland,,198
 28ae1016-6a34-42d5-aa38-159d15ecc87d,Salik Anders Rosing,Alternativet,Nordsjælland,,198
+175af4b1-36c2-4107-95e5-ec20947d835f,Majbrit Nørgaard,Venstre,Vestjylland,,198
 a31423ed-b013-4aee-8259-20d69fa1063a,Christina Eilers,Enhedslisten,Nordjylland,,198
 02f64329-e47e-458e-8a5d-c97380625a9d,Johannes Skov Pedersen,SF,Fyn,,197
-265e0201-e9cd-4c27-a6bf-5a83b033a844,Aksel Rosager Johansen,Enhedslisten,Vestjylland,,193
 f8bdfe70-98f6-49ae-952c-712447884317,Per Kamp Stefansen,Socialdemokratiet,Vestjylland,,193
+265e0201-e9cd-4c27-a6bf-5a83b033a844,Aksel Rosager Johansen,Enhedslisten,Vestjylland,,193
 4c73447b-14ec-4747-a66d-d7b714660dde,Lasse Harder Schousboe,Enhedslisten,Sydjylland,,193
-9ad6c7f1-6b5f-4ace-8f44-02d40228d445,Hanne Frølund,Radikale,Vestjylland,,191
 ae2c2d2c-3556-450c-a640-09e82f40af04,Charlotte Nellemann,Liberal Alliance,København,,191
+9ad6c7f1-6b5f-4ace-8f44-02d40228d445,Hanne Frølund,Radikale,Vestjylland,,191
 b29c755e-e03e-47e4-b208-9c8256c85a52,Sandra Skalvig,Liberal Alliance,Sjælland,,191
-014e1a8c-74a5-42ed-bdee-2c7a866b9b22,Robert Mørck,Liberal Alliance,Nordsjælland,,190
 8835a6f0-e281-451b-a1db-1879d55092da,Anja Busch,Borgernes Parti,Fyn,,190
+014e1a8c-74a5-42ed-bdee-2c7a866b9b22,Robert Mørck,Liberal Alliance,Nordsjælland,,190
+45488fcc-aa5e-4da9-86c4-2e3b7b836d7d,Elias Julius Binggeli,SF,Nordsjælland,,189
 cce698ed-bfd7-4ce9-a352-e6a9d6f41b56,Casper Hindkjær,Radikale,Vestjylland,,189
 940e93c6-7769-4e30-b35a-53ba11169180,Stig Ekman,Socialdemokratiet,København,,189
-45488fcc-aa5e-4da9-86c4-2e3b7b836d7d,Elias Julius Binggeli,SF,Nordsjælland,,189
 fe66c149-92e3-449a-9145-ede955808da3,Christian Faurholdt Jeppesen,Socialdemokratiet,Bornholm,,188
 b6e9c17f-399e-4f70-80d3-443998ca140b,Tim Wodskou,Alternativet,Københavns Omegn,,188
 741b7acf-7823-437c-90a4-4ea034d66fac,Jim Zakaria,Dansk Folkeparti,Sydjylland,,188
 a510a8a3-294c-47cc-b412-32ab33906c9e,Jan Carlsen,Moderaterne,Sjælland,,187
 9c0043d0-957b-4b82-bb89-cf6ceaf5cb88,Pernille Skærsø,Alternativet,Østjylland,,187
 43f76e5d-2187-4cba-80f5-a7dfde461ff4,Benny Bindslev,Danmarksdemokraterne,København,,184
-8adff38d-ae1c-4489-a920-5b3ae482f681,Henning Jørgensen,SF,Nordjylland,,183
 a64387cc-5365-42ae-95fc-ae1bf35d54ce,Kim Pagels,Radikale,Vestjylland,,183
+8adff38d-ae1c-4489-a920-5b3ae482f681,Henning Jørgensen,SF,Nordjylland,,183
 49903c27-13ef-4f92-95e3-0c986d369796,Simon Hampe,Dansk Folkeparti,Sjælland,,179
 63bfe996-c57c-48b3-b7c6-ce72be141f19,Ole Lynggaard Jørgensen,Radikale,Sydjylland,,178
 05f73e0e-eb79-49a9-b2c1-b359f8a51abb,Lars Abildskov,Liberal Alliance,Østjylland,,177
-83d94ba7-7683-4201-829e-5b3c10a209a0,Maibritt Nielsen,Danmarksdemokraterne,Nordsjælland,,175
 f94fa5a1-9eb5-4de3-97e0-19b44e8b31ef,Kristian Stokholm,Radikale,Sjælland,,175
+83d94ba7-7683-4201-829e-5b3c10a209a0,Maibritt Nielsen,Danmarksdemokraterne,Nordsjælland,,175
 79437195-5760-4828-b3df-9a22d31a5e76,David Rønne,Enhedslisten,København,,174
 f1b6d8b2-1362-4a43-90cc-c89e9d44c06e,Mette Bloch Hansen,Enhedslisten,København,,173
 1de222bf-d6c1-455c-9c5e-4db41ee8253e,Eva Bechmann,Danmarksdemokraterne,København,,173
-dfe9c059-09ad-4334-b23c-8e57f1c6aff2,Nicolai Sandager,Liberal Alliance,Sjælland,,172
 a2cd9472-35a8-49fc-91b6-390b596975b9,Mark Hellerup,Liberal Alliance,Nordjylland,,172
+dfe9c059-09ad-4334-b23c-8e57f1c6aff2,Nicolai Sandager,Liberal Alliance,Sjælland,,172
 fcdc96f2-d7c9-4643-a337-62e1622b6c5d,Jacqueline Kristensen,Liberal Alliance,Københavns Omegn,,169
+35ac4a59-c806-4f96-aa80-83b3ddca14f4,Sune Rastad Bahn,Enhedslisten,Københavns Omegn,,168
 cb987800-8576-406f-80d4-6d1accca6d0e,Bruno Jerup,Enhedslisten,Sjælland,,168
 bbcb5d4a-302e-44ce-876b-cce28eaa9b05,Nikolaj C. Andersen,Moderaterne,Nordjylland,,168
-35ac4a59-c806-4f96-aa80-83b3ddca14f4,Sune Rastad Bahn,Enhedslisten,Københavns Omegn,,168
 ab87459d-c63f-405f-92ea-7ea86735f131,Kim Larsen,Enhedslisten,København,,164
 221bfb74-b69f-48f2-88aa-43573d2842ef,Vibeke Frost,Alternativet,København,,159
-4c24378b-19ee-4139-9185-f16cf802eb0d,Dorthe Kerschus,Radikale,Nordjylland,,158
 103a930b-e3b5-440a-9926-c2692928da64,Søren Skjold Andersen,Udenfor parti,Østjylland,,158
+4c24378b-19ee-4139-9185-f16cf802eb0d,Dorthe Kerschus,Radikale,Nordjylland,,158
 ebcff6d2-bb86-424b-a20c-3db5d4e67142,Søren Jensen,Liberal Alliance,Østjylland,,157
 b270ba26-1c87-4b19-85ca-4dde9c3f2a3a,Sebastian Mylsted,Danmarksdemokraterne,Københavns Omegn,,157
 6e908c66-9fb3-46a5-bd78-b346ebc52413,Kira Danholm,Liberal Alliance,Nordsjælland,,157
+2124df81-b1aa-43ec-8122-6ec777cbe8c3,Mercedes Czank,Dansk Folkeparti,Østjylland,,156
+1d7d5b81-c920-4131-97a1-4483eaba71f5,Rasmus Paludan,Udenfor parti,København,,156
 679f5b31-67db-46b4-a488-c462cfd5850c,Astrid Fogh,Alternativet,Sydjylland,,156
 79ba0566-8942-46c9-ab81-ea6d15ba5e46,Gert Bækgaard,Venstre,Vestjylland,,156
-1d7d5b81-c920-4131-97a1-4483eaba71f5,Rasmus Paludan,Udenfor parti,København,,156
-2124df81-b1aa-43ec-8122-6ec777cbe8c3,Mercedes Czank,Dansk Folkeparti,Østjylland,,156
 0d9627cf-cc3f-44ff-bb1a-89e173c205c0,Ulrik Lassen,Liberal Alliance,Sjælland,,155
 b10c8d88-0ed8-45a8-b374-465e350f4cc6,John Rasmussen,Liberal Alliance,Sydjylland,,155
 7f8cd795-e873-41a8-875c-8c55b1bf9081,Noah Sturis,Alternativet,København,,153
-ef762caa-9e1f-4534-907b-7ca85df9ff73,Daniel Juhl,Borgernes Parti,Fyn,,152
 c67828c4-11a1-455f-b501-f603d49d0671,John Bo Hansen,Borgernes Parti,Sjælland,,152
+ef762caa-9e1f-4534-907b-7ca85df9ff73,Daniel Juhl,Borgernes Parti,Fyn,,152
 9a2907d0-5642-45bc-8523-a67590015624,Per Nørgaard Andersen,Liberal Alliance,København,,149
 b5a7dee9-d46f-4422-922b-3be30ae9a6e4,Eik Dahl Bidstrup,Liberal Alliance,Bornholm,,148
 e8f523c6-e8f9-43c3-b719-06a9691e4d87,Peter Martin Jakobsen,Alternativet,København,,148
 b900bb36-d781-48ed-a9ae-d3fb0c8af895,Asta Kofod,Enhedslisten,Bornholm,,147
 3abfdc31-300b-4895-a7c6-840cba4b0752,Morten Hvidberg Greve,Alternativet,Nordsjælland,,145
-f5aec136-dc1e-4104-8cf9-47a007711ccb,Jens Langer Schou,Konservative,Sydjylland,,144
 b5a81b77-923d-4479-9c6c-e08aab745b0d,Lilje Holm,Enhedslisten,Sydjylland,,144
-56146150-45c3-412f-aa8b-eef8b523d9eb,Ricki Vejsmose,Venstre,Københavns Omegn,,143
+f5aec136-dc1e-4104-8cf9-47a007711ccb,Jens Langer Schou,Konservative,Sydjylland,,144
 1ab1c57d-f579-4786-816d-1c8401786f35,Thomas Anker,Alternativet,Københavns Omegn,,143
 d79f64ca-730e-4cde-96ff-ddd84787a794,Line Østergaard Olsen,Liberal Alliance,København,,143
-44c32aaa-05cc-4703-a65c-ee0a6ee4e116,Phillip Sperling,Venstre,Nordjylland,,142
-33c9aab3-f3a5-4db9-8c09-8544f69142cc,Thomas Estrup,Liberal Alliance,Fyn,,142
+56146150-45c3-412f-aa8b-eef8b523d9eb,Ricki Vejsmose,Venstre,Københavns Omegn,,143
 75232c60-e469-471e-94f9-cac47c7d3179,Michael Portefee P. Lex,Radikale,Nordjylland,,142
 a5bc11f3-5367-4488-9aec-dd8d09e41865,Nicklas Stampe Raabjerg,Alternativet,Vestjylland,,142
 fd9910c3-626c-4176-8d10-52fb1aea96d9,Kaj Alstrup,Enhedslisten,Fyn,,142
+44c32aaa-05cc-4703-a65c-ee0a6ee4e116,Phillip Sperling,Venstre,Nordjylland,,142
 89b80164-cff7-43df-90b5-3446309911c3,Peter Roswall,Enhedslisten,Sjælland,,142
+33c9aab3-f3a5-4db9-8c09-8544f69142cc,Thomas Estrup,Liberal Alliance,Fyn,,142
 a4de80b7-f0f2-4e48-b111-73e4f196c3cb,Mathias D. Christiansen,Enhedslisten,Sydjylland,,140
 17be0de0-19de-4541-852f-6d3d0417f133,Rikke Olssen,Liberal Alliance,Nordjylland,,137
-9b7e98d9-c815-4857-9a65-85dc304a0730,Lars Fibæk,Socialdemokratiet,Vestjylland,,136
 291ea8c9-294e-4b6f-be6a-ba4aa515ae98,Rasmus Harning,Alternativet,Nordsjælland,,136
+9b7e98d9-c815-4857-9a65-85dc304a0730,Lars Fibæk,Socialdemokratiet,Vestjylland,,136
 608a1d2e-5d94-46eb-8514-8425919ff483,Peter Samir,Alternativet,Københavns Omegn,,135
-6f9285ee-5a56-4a3d-8161-ea3122bce9a6,Anna Calero,Alternativet,Østjylland,,132
 126fcee6-dd4f-4f5d-b5c3-3b224f9542c5,Steffen Troldtoft,Liberal Alliance,Vestjylland,,132
+6f9285ee-5a56-4a3d-8161-ea3122bce9a6,Anna Calero,Alternativet,Østjylland,,132
 88a84779-33f4-4ab7-a0d3-8eb2258ab2a9,Bjarke Bisgaard Yolal,SF,København,,129
-4e5f7642-3d52-4d71-9138-f76fe9078a64,Sigurd Hebo Lønholdt,Konservative,Københavns Omegn,,128
 840e1d22-560e-4ee4-9794-db4a2a600aad,Michael Graakjær,SF,Sjælland,,128
+4e5f7642-3d52-4d71-9138-f76fe9078a64,Sigurd Hebo Lønholdt,Konservative,Københavns Omegn,,128
 27205b65-cf0d-4f7e-8425-2cc47791af0a,Zeynep Bardakci,Venstre,København,,126
 b0b2dc89-e09d-497b-b1a9-fa2a479325b8,Hans Jørgen Adamsen,Venstre,Nordjylland,,125
-b09c272b-b691-4832-aba2-9ca9287b292a,Thor Clasen Jonasen,Alternativet,Østjylland,,124
 b8d23efc-6d7e-40b7-9574-8c5f49a49e9d,Finn Hartvig Nielsen,Radikale,Sydjylland,,124
+b09c272b-b691-4832-aba2-9ca9287b292a,Thor Clasen Jonasen,Alternativet,Østjylland,,124
 37cf8e0f-99de-4433-96c4-866ea1577f8a,Rune Højer,Dansk Folkeparti,Sydjylland,,123
 1bbc32e3-ef2c-4ca7-8a3f-01ef1d136cd8,Liselotte Katarina Rotfeld,Alternativet,Sjælland,,122
 3f8532ef-af2e-49ab-8fd9-a4aa9312e99e,Ane Line Søndergaard,Alternativet,Sydjylland,,121
@@ -826,9 +826,9 @@ ed91b3c6-1e80-4b87-a015-407352997c8c,Gustav Wilde,Liberal Alliance,Fyn,,118
 64bd15be-b479-4b07-8a6e-32e7be59f208,Anne-Marie Hemmeth,Alternativet,Nordjylland,,116
 e08caf0b-7d06-4158-98de-16203f1f9179,Peter Kempf Pedersen,Socialdemokratiet,Vestjylland,,113
 fca0af69-5750-40b6-8f31-6625a545f207,Karina Konrad,Alternativet,Østjylland,,112
-0c8532a7-5cdb-404f-bed4-a062b5f43917,Michael Pihl,Dansk Folkeparti,Sjælland,,111
-e9bc0223-de66-4774-b726-54ebf7e24b60,Svend Stein Olsen,Liberal Alliance,Vestjylland,,111
 91ec5570-079a-4175-8984-72bad5b8d245,Lasse Skov Ovesen,Radikale,Sydjylland,,111
+e9bc0223-de66-4774-b726-54ebf7e24b60,Svend Stein Olsen,Liberal Alliance,Vestjylland,,111
+0c8532a7-5cdb-404f-bed4-a062b5f43917,Michael Pihl,Dansk Folkeparti,Sjælland,,111
 973700f4-0991-4232-beb2-85e9fcceba3f,Henning Lindberg,Enhedslisten,Vestjylland,,108
 28223b37-3c87-4e04-89c8-dfae03196163,Jakob Ravn Karlsen,Alternativet,København,,107
 e7e81fbf-c34f-42fb-9c2a-5991b7260440,Martin Sibast,Danmarksdemokraterne,København,,107
@@ -837,10 +837,10 @@ ade9db3c-aa7e-46ef-82c1-191184206e50,Jacob Bentsen,Dansk Folkeparti,Sjælland,,1
 95693353-b77f-4f44-aa23-7fd2529dd485,Thomas Kjeldsen,SF,Nordjylland,,103
 d5e40703-4f77-4e1b-9dd2-95567f8d0a35,Kim Gaarsdahl,Liberal Alliance,Nordjylland,,102
 0d3dcb04-656c-41b4-9eac-db803321a004,Martin Lissner,Liberal Alliance,Fyn,,101
-bbcb3eb7-bc50-4381-86de-c8a01e8af8a0,Frederik Lundberg,Borgernes Parti,Københavns Omegn,,97
-2c964d98-e7e3-4391-a6ea-7d09518214ea,Ulrik Appel,Enhedslisten,Nordjylland,,97
 522cdead-8189-49a7-8cae-a528173c8afc,Martin Mickey Pedersen,Liberal Alliance,Sjælland,,97
+2c964d98-e7e3-4391-a6ea-7d09518214ea,Ulrik Appel,Enhedslisten,Nordjylland,,97
 8621e9d4-479c-4ba0-bac1-993cfd1fc898,Peter Svarre Fridolf,Konservative,Bornholm,,97
+bbcb3eb7-bc50-4381-86de-c8a01e8af8a0,Frederik Lundberg,Borgernes Parti,Københavns Omegn,,97
 d48a0bdb-cf5d-4d94-910e-f526901232e8,Mikael Winther,Alternativet,Sydjylland,,96
 5619e821-ef97-4cc7-b497-c2a8a551dc3a,Lars Mogensen,Enhedslisten,Sydjylland,,96
 e7c0f0a5-8d82-4578-a5e5-1e0cb888648e,Barbara Krarup Hansen,Radikale,Sydjylland,,96
@@ -848,31 +848,31 @@ e7c0f0a5-8d82-4578-a5e5-1e0cb888648e,Barbara Krarup Hansen,Radikale,Sydjylland,,
 2a8dc868-0705-4a86-b440-d94b255812ea,Martin Kjærulff,Alternativet,Fyn,,94
 01adf090-f945-4955-8454-f28242a21159,Steen Tofteng,Liberal Alliance,Nordsjælland,,94
 b029cb7d-0672-4f0c-a8fe-a0ecd1c8053e,Nikolaj Brink Olsen,Liberal Alliance,Sjælland,,93
-36d9a65c-8246-4672-b5a3-41875167fcd0,Steffen Sjørslev,Liberal Alliance,Nordsjælland,,92
 1355711b-9ca6-4051-bc8f-b1dfbc956118,Steffen Friis,Liberal Alliance,Sjælland,,92
+36d9a65c-8246-4672-b5a3-41875167fcd0,Steffen Sjørslev,Liberal Alliance,Nordsjælland,,92
 b333cd61-c4eb-414e-ae69-4c103dc595ff,Annette Sofia Skotte,Liberal Alliance,Vestjylland,,89
 bb02d58b-00b7-4e41-a757-887e5f20f727,Henning Bo Madsen,Enhedslisten,Vestjylland,,88
 26afca1a-6a00-461f-b7cd-e22ad39923e0,Niels Povlsgaard,Liberal Alliance,Østjylland,,88
 62700152-0a05-4a56-909a-94f741fab2c4,Kasper Thomassen,Venstre,Vestjylland,,87
 c284bb31-23f2-480c-a5bc-57488bc1e1b8,Carsten Abildtrup Ranum,Liberal Alliance,Sjælland,,82
-70c08d47-a59a-45af-93a4-2838a2909cc1,Iben Forum Jeppesen,Liberal Alliance,Vestjylland,,81
-a9a38851-51c0-4dab-9108-1e0b1f5dfa6f,Line Gessø,Alternativet,Sjælland,,81
 0ec7a326-4812-4955-afff-7da1694de44d,Ole Dupont Kofod,Alternativet,Fyn,,81
+a9a38851-51c0-4dab-9108-1e0b1f5dfa6f,Line Gessø,Alternativet,Sjælland,,81
+70c08d47-a59a-45af-93a4-2838a2909cc1,Iben Forum Jeppesen,Liberal Alliance,Vestjylland,,81
 1f740670-abd7-4a5b-88a6-701bda7fe166,Lina Sikora Christiansen,Alternativet,Vestjylland,,80
 1598387b-eb27-44e2-a2ba-22a97904418e,Didde Krabbe Johannesen,Alternativet,Vestjylland,,80
-c18278bb-82af-427e-a902-64d84fcb1001,Michael Klausen,Liberal Alliance,Østjylland,,79
 486b5355-54d6-4b4e-b891-a062bef8c38c,Tonny Vest,Liberal Alliance,Fyn,,79
+c18278bb-82af-427e-a902-64d84fcb1001,Michael Klausen,Liberal Alliance,Østjylland,,79
 d7e9d164-da16-49f8-8c02-27152addbe3b,Sten Schmidl Søbjærg,Liberal Alliance,Nordsjælland,,78
 310f1561-50cc-424c-9d1e-0a6bbb4d4501,Michael Schjelde,Venstre,Sjælland,,77
 8bb054d9-218e-4f21-9867-f87956ee8794,Laila Stougaard Kofoed Espersen,Radikale,Bornholm,,76
-b2002db8-15da-468a-ac6e-e265c23c0f33,Allan Orland,Borgernes Parti,Københavns Omegn,,75
 12670412-0e43-48d4-b741-5e9cc8b616be,Lars Dohn,Enhedslisten,Vestjylland,,75
 c8f38fd1-fccc-48f9-b9e3-abd36a14a6e7,Rashid Ali,Udenfor parti,København,,75
-32d3926d-cc00-4ceb-bd35-8dfb74ab83e9,Henrik B. Dynesen,Liberal Alliance,Sjælland,,75
 0d4d1fbc-4342-4036-b4af-38accb951d1f,Dan Gaardboe Rueskov,Liberal Alliance,Nordjylland,,75
+b2002db8-15da-468a-ac6e-e265c23c0f33,Allan Orland,Borgernes Parti,Københavns Omegn,,75
+32d3926d-cc00-4ceb-bd35-8dfb74ab83e9,Henrik B. Dynesen,Liberal Alliance,Sjælland,,75
 516fe917-b539-4465-80e4-0ff1793b4b5d,Lasse Mejer Petersen,Enhedslisten,Nordjylland,,73
-c8105482-30ab-4841-be2a-4fc656554312,David Ibsen,Liberal Alliance,Københavns Omegn,,72
 1b560545-4b00-4fe8-964f-3274745a969b,Jarl Feyling,Socialdemokratiet,København,,72
+c8105482-30ab-4841-be2a-4fc656554312,David Ibsen,Liberal Alliance,Københavns Omegn,,72
 328195da-019e-46eb-a09b-8b9707522149,Kevin Possekel,Liberal Alliance,Vestjylland,,71
 7632063c-e73d-4877-868b-cf5513cd045f,Bodil Helbo,Alternativet,Fyn,,70
 c12bead9-9c77-430c-98ce-64bd2b3c24cf,Morten Bering,SF,København,,69
@@ -885,35 +885,35 @@ e334ae6f-c0d4-41a7-ab66-997a3cfc74eb,Simon Rigét,Alternativet,Nordsjælland,,63
 b0d6f052-96b8-4435-9e41-47eb7c654422,Bjarne Lastein,Radikale,Sydjylland,,62
 f2accca0-7949-49b5-b597-19a91c993d52,Bo Nielsen,Alternativet,Sydjylland,,61
 6cbc7bd9-666c-4ec3-8f0b-0823fbab33d2,Jimmy Abel Nielsen,Liberal Alliance,Nordjylland,,59
-97b3cb21-837a-443d-823c-65eab0339d82,Hanne K. Mortensen,Alternativet,Østjylland,,58
 8ed24cf5-72d5-4d8a-91d1-4211fd66af17,Steffen Tolstrup,Alternativet,Vestjylland,,58
+97b3cb21-837a-443d-823c-65eab0339d82,Hanne K. Mortensen,Alternativet,Østjylland,,58
 4c7ded90-b974-4763-9e03-88470167a9bb,Jan Schumann,Alternativet,København,,58
 85531e44-2f50-4edb-92fb-c93e559db45f,Sofie Valbjørn,Alternativet,Bornholm,,57
-fe1af2a4-2adb-4350-b08c-2d466c5d6cbc,Sasja Elkjær Krogsdal,Alternativet,Østjylland,,56
 45b3d484-5174-4068-9e76-90da266003ee,Elva Bille Klem,Liberal Alliance,Sjælland,,56
+fe1af2a4-2adb-4350-b08c-2d466c5d6cbc,Sasja Elkjær Krogsdal,Alternativet,Østjylland,,56
 a97ab38a-cbc4-4b07-aaf1-dcb229c0cab8,Mikkel Bahl,Alternativet,København,,53
 b72b917c-e2e5-45ec-98c0-eed8800d4c13,Allan Hansen Lindemark,Alternativet,Sjælland,,52
 1c946af7-0618-4a6c-aac8-5824fa08955c,Hans Biering Fonsbøl,Alternativet,Sydjylland,,51
+cbbe7016-8222-4ded-bf32-a08cfb245c0e,Torben Guldbæk,Liberal Alliance,København,,50
 e2e2d547-9870-4992-99aa-4e46bde889b7,Juma Nellemann Kruse,Alternativet,Østjylland,,50
 652bdd98-35cb-4d6d-b54c-e9a9ad1e7bf9,Ingrid Heintz,Alternativet,Nordsjælland,,50
-cbbe7016-8222-4ded-bf32-a08cfb245c0e,Torben Guldbæk,Liberal Alliance,København,,50
 12103602-539a-426d-a678-b9bd71f05352,Jacob Abildgaard,Enhedslisten,Vestjylland,,49
-238ba30e-67a9-4e0b-b0ad-424c5eb14297,Thomas Christiansen,Liberal Alliance,Nordjylland,,48
-d30ba508-b3b5-4c3a-994f-bc9f6f2a7de5,Jesper Callesen,Alternativet,Københavns Omegn,,48
 c1b7e176-8f7a-4f0f-a898-90602a836d86,Gabriel Aaen,Konservative,Nordjylland,,48
+d30ba508-b3b5-4c3a-994f-bc9f6f2a7de5,Jesper Callesen,Alternativet,Københavns Omegn,,48
+238ba30e-67a9-4e0b-b0ad-424c5eb14297,Thomas Christiansen,Liberal Alliance,Nordjylland,,48
 9a9f63ad-cc8e-4736-8e94-3fcc5bdca6f5,Thomas Heuniche,Liberal Alliance,Nordjylland,,48
-cf363aad-f989-47ee-a2a6-a845d6eb06eb,Mariane Lunden,Alternativet,Nordsjælland,,47
 8a2bcc93-2d4a-4fa6-a3b9-1989ee4a2c36,Lars König,Alternativet,Sjælland,,47
+cf363aad-f989-47ee-a2a6-a845d6eb06eb,Mariane Lunden,Alternativet,Nordsjælland,,47
 e8ed81f6-76b7-48ed-9a2d-f0c9c3be21e7,Thomas Due Nielsen,Alternativet,Østjylland,,46
 8211d355-5249-4a01-8775-d92ec890f22e,Isabella Apelroth,Alternativet,Sjælland,,45
-cadf671f-a7e6-4bf6-889c-033a1bd9ce76,Edvard Korsbæk,Alternativet,Sydjylland,,44
-414bce30-3ccb-4d73-98b7-0cd7e94018f1,Søren T. Fugleberg,Borgernes Parti,Københavns Omegn,,44
 f20ca956-8869-4963-ad64-834f041b156d,Brian Prehn,Liberal Alliance,Sjælland,,44
 7977cb4d-f631-4f2c-8222-9ee909ea7163,Mads Damgaard Mortensen,Alternativet,Østjylland,,44
+414bce30-3ccb-4d73-98b7-0cd7e94018f1,Søren T. Fugleberg,Borgernes Parti,Københavns Omegn,,44
+cadf671f-a7e6-4bf6-889c-033a1bd9ce76,Edvard Korsbæk,Alternativet,Sydjylland,,44
 515821bd-e044-4042-a808-8197e3771edd,Thomas Quist Mortensen,Alternativet,Østjylland,,43
 8117415e-4f44-4c93-b7eb-47466c413a62,Carsten Sohl,Alternativet,Sydjylland,,43
-aea56faf-ae89-4cf2-a07c-c8fdaf9f3e77,Frederik Blicher Pedersen,Liberal Alliance,Nordjylland,,40
 8a5f11a2-d367-432c-8e0a-687f05b71781,Christian Tarbensen,Konservative,Sydjylland,,40
+aea56faf-ae89-4cf2-a07c-c8fdaf9f3e77,Frederik Blicher Pedersen,Liberal Alliance,Nordjylland,,40
 8a1f6458-1d05-4e4d-a2d5-d18f7ce9afad,Kim Hjerrild,Alternativet,Bornholm,,37
 2af66a14-51f5-459c-b620-95a1092da350,Simon Bech Munch-Petersen,Radikale,Bornholm,,36
 ed0fd900-f56e-41b3-9925-3cf433df4503,Sofie Faureholm Lundsberg,Alternativet,Nordsjælland,,36
@@ -923,10 +923,10 @@ cac06c06-29a7-4ba5-b1c2-69a11c32554f,Tenna Duch Schaldemose,Alternativet,Østjyl
 6beaae36-a727-4d6b-ae56-d5415e92b3dc,Mikael Hertig,Alternativet,Sydjylland,,33
 56660f4f-9482-4d66-88b8-a803fa2e5e49,Bodil Nielsen,Alternativet,Sydjylland,,32
 109e2652-6dc4-4342-976f-44c3d559fdb4,Michael Bang Pedersen,Borgernes Parti,Østjylland,,30
-1d2ba510-3ce2-4e35-9038-25216608db96,Charlotte Friberg Henriksen,Borgernes Parti,Bornholm,,28
 fca8056e-7413-4896-9583-59baab01f85b,Marcus Bech Pedersen,Alternativet,Østjylland,,28
-e8083152-8226-4469-b867-f28cb7c4a1e1,Johannes Joyce,Liberal Alliance,Nordsjælland,,27
+1d2ba510-3ce2-4e35-9038-25216608db96,Charlotte Friberg Henriksen,Borgernes Parti,Bornholm,,28
 94da0aa5-7b90-4ecd-a723-079daae8e71e,Kim Sørensen,Alternativet,Østjylland,,27
+e8083152-8226-4469-b867-f28cb7c4a1e1,Johannes Joyce,Liberal Alliance,Nordsjælland,,27
 910fc206-2fc6-4526-9c9b-8a6bbfd0bfc7,Frederik Max Krag,Liberal Alliance,Sjælland,,26
 18221458-e0c2-4d2c-bb57-737c9eba0670,Birthe Tindbæk Bredo,Venstre,Bornholm,,24
 8b8cbdd9-1b0f-44ba-922a-c4a077b28057,Lissi Bagge,Alternativet,Østjylland,,23
