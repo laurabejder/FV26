@@ -1,6 +1,6 @@
 kandidat,parti,valgt,stemmer
 Simon Kollerup,Socialdemokratiet,✓,7232
-Inger Støjberg,Danmarksdemokraterne,,3865
+Inger Støjberg,Danmarksdemokraterne,✓,3865
 Torsten Schack Pedersen,Venstre,,3799
 Mette Frederiksen,Socialdemokratiet,✓,1768
 Peter Larsen,Liberal Alliance,✓,1384
@@ -15,8 +15,8 @@ Theresa Berg Andersen,SF,✓,243
 Berit Raldin,Enhedslisten,,203
 Per Larsen,Konservative,,189
 Ane Halsboe-Jørgensen,Socialdemokratiet,✓,170
-Kim Edberg Andersen,Danmarksdemokraterne,,144
-Anna Bjerre,Alternativet,,126
+Kim Edberg Andersen,Danmarksdemokraterne,✓,144
+Anna Bjerre,Alternativet,✓,126
 Peder Hvelplund,Enhedslisten,✓,122
 Emma Houe Mølgaard,Dansk Folkeparti,,91
 Kristian Bøgsted,Danmarksdemokraterne,,88
@@ -61,7 +61,7 @@ Lukas Vestergaard,Liberal Alliance,,18
 Marie Wandel,Radikale,,17
 Runa Friis Hansen,Enhedslisten,,17
 Mikkel Bisgaard,Venstre,,15
-Steffen Holme Helledie,Radikale,,14
+Steffen Holme Helledie,Radikale,✓,14
 Dorte M. Nielsen,SF,,14
 Søren Homann,Konservative,,14
 Christina Eilers,Enhedslisten,,13

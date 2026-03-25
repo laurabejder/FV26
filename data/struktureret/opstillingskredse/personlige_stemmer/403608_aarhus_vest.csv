@@ -1,16 +1,16 @@
 kandidat,parti,valgt,stemmer
 Alex Vanopslagh,Liberal Alliance,,3164
-Nicolai Wammen,Socialdemokratiet,,2519
+Nicolai Wammen,Socialdemokratiet,✓,2519
 Mona Juul,Konservative,,1975
 Rabih Azad-Ahmad,Radikale,,1356
-Camilla Fabricius,Socialdemokratiet,,1306
-Kirsten Normann Andersen,SF,,1215
-Troels Lund Poulsen,Venstre,,1136
+Camilla Fabricius,Socialdemokratiet,✓,1306
+Kirsten Normann Andersen,SF,✓,1215
+Troels Lund Poulsen,Venstre,✓,1136
 Katrine Robsøe,Radikale,,715
 Lars Boje Mathiesen,Borgernes Parti,,623
-Sofie Lippert,SF,,526
+Sofie Lippert,SF,✓,526
 Trine Mach,Enhedslisten,,501
-Anders Kühnau,Socialdemokratiet,,492
+Anders Kühnau,Socialdemokratiet,✓,492
 Nick Zimmermann,Dansk Folkeparti,,435
 Torsten Gejl,Alternativet,,396
 Anne Sophie Callesen,Radikale,,367
@@ -22,9 +22,9 @@ Anna Brændemose,SF,,264
 Louise Louring,Venstre,,251
 Mathilde Hjort Bressum,Venstre,,232
 Peter Sporleder,Konservative,,211
-Charlotte Broman Mølbæk,SF,,209
+Charlotte Broman Mølbæk,SF,✓,209
 Erik Veje Rasmussen,Venstre,,187
-Leif Lahn Jensen,Socialdemokratiet,,178
+Leif Lahn Jensen,Socialdemokratiet,✓,178
 Mathias Sikora,Radikale,,157
 Charlotte Vindeløv,SF,,145
 Line Rasmussen,Radikale,,141
@@ -44,7 +44,7 @@ Karina Aamann,Venstre,,83
 Michael Nedersøe,Dansk Folkeparti,,79
 Peter Have,Moderaterne,,72
 Hans Kristian Skibby,Danmarksdemokraterne,,69
-Malte Larsen,Socialdemokratiet,,68
+Malte Larsen,Socialdemokratiet,✓,68
 Martin Laursen,Enhedslisten,,65
 Susan Kronborg,Moderaterne,,65
 Emil M. D. Christensen,Venstre,,61
@@ -64,7 +64,7 @@ Hans Skou,Venstre,,40
 Kristjar Skajaa,Enhedslisten,,40
 Louise Brown,Liberal Alliance,,39
 Caroline Svejsø,Konservative,,38
-Thomas Monberg,Socialdemokratiet,,38
+Thomas Monberg,Socialdemokratiet,✓,38
 Chris Hvidberg,Liberal Alliance,,35
 Morten Siig Henriksen,SF,,32
 Magnus Bigum,Danmarksdemokraterne,,31

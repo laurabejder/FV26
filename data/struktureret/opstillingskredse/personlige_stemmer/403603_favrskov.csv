@@ -1,15 +1,15 @@
 kandidat,parti,valgt,stemmer
 Alex Vanopslagh,Liberal Alliance,,2126
-Troels Lund Poulsen,Venstre,,1351
+Troels Lund Poulsen,Venstre,✓,1351
 Mona Juul,Konservative,,1296
-Nicolai Wammen,Socialdemokratiet,,1231
+Nicolai Wammen,Socialdemokratiet,✓,1231
 Lars Boje Mathiesen,Borgernes Parti,,675
 Charlotte Green,Konservative,,602
 Louise Louring,Venstre,,516
-Kirsten Normann Andersen,SF,,509
+Kirsten Normann Andersen,SF,✓,509
 Nick Zimmermann,Dansk Folkeparti,,482
-Anders Kühnau,Socialdemokratiet,,362
-Camilla Fabricius,Socialdemokratiet,,358
+Anders Kühnau,Socialdemokratiet,✓,362
+Camilla Fabricius,Socialdemokratiet,✓,358
 Erik Særkjær,Socialdemokratiet,,345
 Lone Glarbo,Danmarksdemokraterne,,303
 Christina Egelund,Moderaterne,,252
@@ -17,12 +17,12 @@ Katrine Robsøe,Radikale,,252
 Søren Lahn Sloth,SF,,180
 Erik Veje Rasmussen,Venstre,,175
 Erik Poulsen,Danmarksdemokraterne,,172
-Charlotte Broman Mølbæk,SF,,168
-Sofie Lippert,SF,,167
+Charlotte Broman Mølbæk,SF,✓,168
+Sofie Lippert,SF,✓,167
 Anne Sophie Callesen,Radikale,,164
 Caroline Stage,Moderaterne,,142
-Malte Larsen,Socialdemokratiet,,136
-Leif Lahn Jensen,Socialdemokratiet,,130
+Malte Larsen,Socialdemokratiet,✓,136
+Leif Lahn Jensen,Socialdemokratiet,✓,130
 Line Rasmussen,Radikale,,125
 Maria Sørensen,Enhedslisten,,115
 Torsten Gejl,Alternativet,,108
@@ -57,7 +57,7 @@ Magnus Bigum,Danmarksdemokraterne,,31
 Rune Christiansen,Radikale,,30
 Peter Sporleder,Konservative,,28
 Sara Pernille Jespersen,Moderaterne,,27
-Thomas Monberg,Socialdemokratiet,,27
+Thomas Monberg,Socialdemokratiet,✓,27
 Rasmus T. Mortensen,SF,,25
 Louise Svenstrup,Liberal Alliance,,23
 Mathias Sikora,Radikale,,22

@@ -1,6 +1,6 @@
 kandidat,parti,valgt,stemmer
 Mette Frederiksen,Socialdemokratiet,✓,4921
-Inger Støjberg,Danmarksdemokraterne,,4625
+Inger Støjberg,Danmarksdemokraterne,✓,4625
 Ane Halsboe-Jørgensen,Socialdemokratiet,✓,3120
 Preben Bang Henriksen,Venstre,✓,2462
 Marie Bjerre,Venstre,✓,1811
@@ -12,7 +12,7 @@ Per Larsen,Konservative,,407
 Danny Rosenkilde,Dansk Folkeparti,,330
 Flemming Møller Mortensen,Socialdemokratiet,✓,321
 Simon Kollerup,Socialdemokratiet,✓,307
-Kim Edberg Andersen,Danmarksdemokraterne,,260
+Kim Edberg Andersen,Danmarksdemokraterne,✓,260
 Anne Honoré Østergaard,Venstre,,213
 Sofie Therese Svendsen,Konservative,✓,212
 Anita Vivi Lilholt,Venstre,,207
@@ -36,7 +36,7 @@ Lukas Vestergaard,Liberal Alliance,,98
 Laura Holm,Konservative,,93
 Morten Ryom,Socialdemokratiet,,90
 Benjamin Christensen,SF,,89
-Anna Bjerre,Alternativet,,87
+Anna Bjerre,Alternativet,✓,87
 Carsten Bedsted,Radikale,,76
 Bo Ritterbusch,Liberal Alliance,,74
 Dorthe Kerschus,Radikale,,72
@@ -47,7 +47,7 @@ Søren Homann,Konservative,,57
 Mikkel Bisgaard,Venstre,,54
 Filippa Emilie Vittrup,Enhedslisten,,53
 Morten Arvidsson,Moderaterne,,53
-Steffen Holme Helledie,Radikale,,51
+Steffen Holme Helledie,Radikale,✓,51
 Emma Biørn Tretow-Fish,Radikale,,47
 Torsten Wetche,Radikale,,47
 Paulina Laparil,Borgernes Parti,,42

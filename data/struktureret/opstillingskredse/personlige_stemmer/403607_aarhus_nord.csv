@@ -1,19 +1,19 @@
 kandidat,parti,valgt,stemmer
 Alex Vanopslagh,Liberal Alliance,,3934
-Nicolai Wammen,Socialdemokratiet,,2810
+Nicolai Wammen,Socialdemokratiet,✓,2810
 Mona Juul,Konservative,,1898
 Katrine Robsøe,Radikale,,1295
-Kirsten Normann Andersen,SF,,1251
-Sofie Lippert,SF,,1040
-Troels Lund Poulsen,Venstre,,1028
-Camilla Fabricius,Socialdemokratiet,,766
+Kirsten Normann Andersen,SF,✓,1251
+Sofie Lippert,SF,✓,1040
+Troels Lund Poulsen,Venstre,✓,1028
+Camilla Fabricius,Socialdemokratiet,✓,766
 Edith Vels,Enhedslisten,,758
 Trine Mach,Enhedslisten,,672
 Anne Sophie Callesen,Radikale,,650
 Torsten Gejl,Alternativet,,514
 Lars Boje Mathiesen,Borgernes Parti,,499
 Rabih Azad-Ahmad,Radikale,,459
-Anders Kühnau,Socialdemokratiet,,458
+Anders Kühnau,Socialdemokratiet,✓,458
 Anna Brændemose,SF,,447
 Mathilde Hjort Bressum,Venstre,,440
 Caroline Stage,Moderaterne,,426
@@ -22,10 +22,10 @@ Christina Egelund,Moderaterne,,335
 Nikoline Erbs Hillers-Bendtsen,Alternativet,,306
 Line Rasmussen,Radikale,,302
 Maria Temponeras,Enhedslisten,,300
-Charlotte Broman Mølbæk,SF,,295
+Charlotte Broman Mølbæk,SF,✓,295
 Mathias Sikora,Radikale,,262
 Louise Louring,Venstre,,244
-Leif Lahn Jensen,Socialdemokratiet,,194
+Leif Lahn Jensen,Socialdemokratiet,✓,194
 Charlotte Vindeløv,SF,,189
 Gert Bjerregaard,Venstre,,183
 Hanne Roed,Radikale,,178
@@ -42,7 +42,7 @@ Rasmus T. Mortensen,SF,,102
 Maria Sørensen,Enhedslisten,,99
 Bjørn Olsen,Alternativet,,88
 Sten Larsen,Moderaterne,,84
-Malte Larsen,Socialdemokratiet,,82
+Malte Larsen,Socialdemokratiet,✓,82
 Susan Kronborg,Moderaterne,,82
 Carina Sarkkinen,SF,,78
 Steffen Hedegaard Attermann Brinch,Alternativet,,77
@@ -87,7 +87,7 @@ Sebastian Støckler,Venstre,,28
 Pia Halkjær,Socialdemokratiet,,28
 Karina Konrad,Alternativet,,27
 Jacob Skjærris,Konservative,,27
-Thomas Monberg,Socialdemokratiet,,25
+Thomas Monberg,Socialdemokratiet,✓,25
 Lars Abildskov,Liberal Alliance,,24
 Kim Møller-Nielsen,Liberal Alliance,,21
 Rune Mikkelsen,Danmarksdemokraterne,,18
