@@ -1,7 +1,7 @@
 kandidat,parti,valgt,stemmer
-Pelle Dragsted,Enhedslisten,✓,1523
-Rosa Lund,Enhedslisten,✓,568
-Franciska Rosenkilde,Alternativet,✓,470
+Pelle Dragsted,Enhedslisten,,1523
+Rosa Lund,Enhedslisten,,568
+Franciska Rosenkilde,Alternativet,,470
 Samira Nawa,Radikale,,404
 Pil Christensen,Enhedslisten,,355
 Lise Coermann,Alternativet,,263
@@ -11,10 +11,10 @@ Magnus Georg Jensen,Radikale,,218
 Nanna Bonde,SF,,179
 Lisbeth Bech-Nielsen,SF,,169
 Thomas Rohden,Radikale,,161
-Jakob Engel-Schmidt,Moderaterne,✓,152
+Jakob Engel-Schmidt,Moderaterne,,152
 Carl Valentin,SF,,148
 Leila Stockmarr,Enhedslisten,,135
-Peter Hummelgaard,Socialdemokratiet,✓,124
+Peter Hummelgaard,Socialdemokratiet,,124
 Mathilde Vinther,Enhedslisten,,97
 Mads Strange,Liberal Alliance,,92
 Jiesper Tristan Pedersen,Alternativet,,75
@@ -32,7 +32,7 @@ Helene Fagerhøj,Konservative,,41
 Allan Feldt,Dansk Folkeparti,,41
 Helle Bonnesen,Konservative,,39
 Helene Langager,Radikale,,39
-Ole Birk Olesen,Liberal Alliance,✓,38
+Ole Birk Olesen,Liberal Alliance,,38
 Anders Sørensen,Alternativet,,38
 Qasam Nazir Ahmad,Alternativet,,38
 Mette Reissmann,Socialdemokratiet,,35

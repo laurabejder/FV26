@@ -2,27 +2,27 @@ kandidat,parti,valgt,stemmer
 Inger Støjberg,Danmarksdemokraterne,,4102
 Mette Frederiksen,Socialdemokratiet,✓,2417
 Per Husted,Socialdemokratiet,,1957
-Marie Bjerre,Venstre,,1087
+Marie Bjerre,Venstre,✓,1087
 Laura Holm,Konservative,,748
-Preben Bang Henriksen,Venstre,,509
+Preben Bang Henriksen,Venstre,✓,509
 Mikkel Bisgaard,Venstre,,383
 Sólbjørg Jakobsen,Liberal Alliance,✓,365
 Peder Larsen,SF,,324
-Flemming Møller Mortensen,Socialdemokratiet,,277
-Theresa Berg Andersen,SF,,219
-Ane Halsboe-Jørgensen,Socialdemokratiet,,198
+Flemming Møller Mortensen,Socialdemokratiet,✓,277
+Theresa Berg Andersen,SF,✓,219
+Ane Halsboe-Jørgensen,Socialdemokratiet,✓,198
 Anders Vistisen,Dansk Folkeparti,✓,198
 Bo Ritterbusch,Liberal Alliance,,178
 Jørgen Hammer Sørensen,Dansk Folkeparti,,149
 Kim Edberg Andersen,Danmarksdemokraterne,,108
 Peder Hvelplund,Enhedslisten,✓,101
-Simon Kollerup,Socialdemokratiet,,98
+Simon Kollerup,Socialdemokratiet,✓,98
 Emma Houe Mølgaard,Dansk Folkeparti,,84
 Per Larsen,Konservative,,79
 Melina Andersen,SF,,63
 Anne Honoré Østergaard,Venstre,,60
 Stine Thier-Andersen,Konservative,,59
-Sofie Therese Svendsen,Konservative,,59
+Sofie Therese Svendsen,Konservative,✓,59
 Anette Jensen Smith,Alternativet,,58
 Line Randa,Moderaterne,,54
 Mohammad Rona,Moderaterne,✓,50
@@ -32,7 +32,7 @@ Torsten Wetche,Radikale,,43
 Anna Bjerre,Alternativet,,42
 Filippa Emilie Vittrup,Enhedslisten,,40
 Emma Biørn Tretow-Fish,Radikale,,39
-Christina Lykke,SF,,39
+Christina Lykke,SF,✓,39
 Kenneth Skatka Hammer,Liberal Alliance,,37
 Pia Elberg,Radikale,,35
 Niels Christensen,Borgernes Parti,,35
@@ -57,7 +57,7 @@ Runa Friis Hansen,Enhedslisten,,18
 Berit Raldin,Enhedslisten,,18
 Marie Wandel,Radikale,,18
 Emil Sloth,Alternativet,,17
-Thomas Klimek,Socialdemokratiet,,17
+Thomas Klimek,Socialdemokratiet,✓,17
 Kristian Bøgsted,Danmarksdemokraterne,,16
 Frederik Storm,Danmarksdemokraterne,,16
 Arne Hyldgaard,Borgernes Parti,,16
@@ -99,4 +99,4 @@ Gabriel Aaen,Konservative,,1
 Thomas Christiansen,Liberal Alliance,,0
 Thomas Kjeldsen,SF,,0
 Henning Jørgensen,SF,,0
-Peter Larsen,Liberal Alliance,,0
+Peter Larsen,Liberal Alliance,✓,0

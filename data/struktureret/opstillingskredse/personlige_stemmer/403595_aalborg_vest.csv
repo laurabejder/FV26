@@ -1,14 +1,14 @@
 kandidat,parti,valgt,stemmer
 Mette Frederiksen,Socialdemokratiet,✓,5510
 Inger Støjberg,Danmarksdemokraterne,,2139
-Marie Bjerre,Venstre,,1977
-Preben Bang Henriksen,Venstre,,1817
+Marie Bjerre,Venstre,✓,1977
+Preben Bang Henriksen,Venstre,✓,1817
 Sólbjørg Jakobsen,Liberal Alliance,✓,1158
-Flemming Møller Mortensen,Socialdemokratiet,,821
-Ane Halsboe-Jørgensen,Socialdemokratiet,,629
+Flemming Møller Mortensen,Socialdemokratiet,✓,821
+Ane Halsboe-Jørgensen,Socialdemokratiet,✓,629
 Morten Ryom,Socialdemokratiet,,562
-Sofie Therese Svendsen,Konservative,,558
-Theresa Berg Andersen,SF,,496
+Sofie Therese Svendsen,Konservative,✓,558
+Theresa Berg Andersen,SF,✓,496
 Melina Andersen,SF,,427
 Peder Hvelplund,Enhedslisten,✓,348
 Anders Vistisen,Dansk Folkeparti,✓,322
@@ -17,7 +17,7 @@ Steffen Holme Helledie,Radikale,,284
 HP Beck,Liberal Alliance,,246
 Lene Burchardt,Konservative,,238
 Filippa Emilie Vittrup,Enhedslisten,,224
-Simon Kollerup,Socialdemokratiet,,217
+Simon Kollerup,Socialdemokratiet,✓,217
 Anna Bjerre,Alternativet,,203
 Kiki Bille Bach,Socialdemokratiet,,195
 Line Randa,Moderaterne,,188
@@ -25,7 +25,7 @@ Anne Honoré Østergaard,Venstre,,183
 Benjamin Christensen,SF,,179
 Per Larsen,Konservative,,176
 Emma Biørn Tretow-Fish,Radikale,,170
-Christina Lykke,SF,,153
+Christina Lykke,SF,✓,153
 Laura Holm,Konservative,,115
 Carsten Bedsted,Radikale,,114
 Per Husted,Socialdemokratiet,,108
@@ -34,7 +34,7 @@ Lasse Olsen,Enhedslisten,,106
 Kim Edberg Andersen,Danmarksdemokraterne,,101
 Torsten Wetche,Radikale,,101
 Susanne Krebs,Radikale,,93
-Thomas Klimek,Socialdemokratiet,,78
+Thomas Klimek,Socialdemokratiet,✓,78
 Danny Rosenkilde,Dansk Folkeparti,,77
 Ditte Ravn Kaagaard,Moderaterne,,76
 Emma Houe Mølgaard,Dansk Folkeparti,,73
@@ -79,7 +79,7 @@ Anne-Marie Hemmeth,Alternativet,,19
 John Bjerg,Borgernes Parti,,15
 Jørgen Hammer Sørensen,Dansk Folkeparti,,13
 Anita Vivi Lilholt,Venstre,,12
-Peter Larsen,Liberal Alliance,,12
+Peter Larsen,Liberal Alliance,✓,12
 Claus Skovmose,Danmarksdemokraterne,,12
 Frederik Blicher Pedersen,Liberal Alliance,,12
 Gorm Simonsen,Radikale,,11

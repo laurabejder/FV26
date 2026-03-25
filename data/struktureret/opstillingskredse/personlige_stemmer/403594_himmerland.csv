@@ -1,25 +1,25 @@
 kandidat,parti,valgt,stemmer
-Marie Bjerre,Venstre,,4729
+Marie Bjerre,Venstre,✓,4729
 Inger Støjberg,Danmarksdemokraterne,,3839
 Mette Frederiksen,Socialdemokratiet,✓,3776
-Flemming Møller Mortensen,Socialdemokratiet,,2315
-Theresa Berg Andersen,SF,,2042
+Flemming Møller Mortensen,Socialdemokratiet,✓,2315
+Theresa Berg Andersen,SF,✓,2042
 Sólbjørg Jakobsen,Liberal Alliance,✓,789
-Preben Bang Henriksen,Venstre,,778
+Preben Bang Henriksen,Venstre,✓,778
 Laura Holm,Konservative,,490
 Liselotte Lynge,Danmarksdemokraterne,,459
 Kim Edberg Andersen,Danmarksdemokraterne,,417
-Ane Halsboe-Jørgensen,Socialdemokratiet,,399
+Ane Halsboe-Jørgensen,Socialdemokratiet,✓,399
 Anders Vistisen,Dansk Folkeparti,✓,380
 Torsten Wetche,Radikale,,216
 Per Larsen,Konservative,,188
 Per Husted,Socialdemokratiet,,176
 Peder Hvelplund,Enhedslisten,✓,169
 Bo Ritterbusch,Liberal Alliance,,155
-Simon Kollerup,Socialdemokratiet,,150
+Simon Kollerup,Socialdemokratiet,✓,150
 Mohammad Rona,Moderaterne,✓,136
 Pia Elberg,Radikale,,124
-Sofie Therese Svendsen,Konservative,,120
+Sofie Therese Svendsen,Konservative,✓,120
 Kiki Bille Bach,Socialdemokratiet,,115
 Lene Burchardt,Konservative,,106
 Emma Houe Mølgaard,Dansk Folkeparti,,102
@@ -41,8 +41,8 @@ Carsten Bedsted,Radikale,,54
 Mikkel Bisgaard,Venstre,,49
 HP Beck,Liberal Alliance,,48
 Thomas Hjort,Dansk Folkeparti,,48
-Thomas Klimek,Socialdemokratiet,,47
-Christina Lykke,SF,,45
+Thomas Klimek,Socialdemokratiet,✓,47
+Christina Lykke,SF,✓,45
 Anders Peter Hansen,Liberal Alliance,,44
 John Bjerg,Borgernes Parti,,44
 Jacob Robsøe,Radikale,,39
@@ -62,7 +62,7 @@ Emil Sloth,Alternativet,,25
 Claus Skovmose,Danmarksdemokraterne,,23
 Anette Jensen Smith,Alternativet,,22
 Dorte M. Nielsen,SF,,21
-Peter Larsen,Liberal Alliance,,21
+Peter Larsen,Liberal Alliance,✓,21
 Ulrik Appel,Enhedslisten,,20
 Marie Wandel,Radikale,,19
 Rikke Olssen,Liberal Alliance,,18
