@@ -56,6 +56,8 @@ def danish_to_ascii_filename(text):
         'æ': 'ae', 'ø': 'o', 'å': 'aa',
         'Æ': 'AE', 'Ø': 'O', 'Å': 'AA'
     }
+    # turn text into a string
+    text = str(text)
     text = text.lower()
     for danish, ascii_equiv in danish_to_ascii.items():
         text = text.replace(danish, ascii_equiv)
@@ -211,9 +213,10 @@ if __name__ == "__main__":
     
     # -----------------------------
     # Process hver opstillingskreds
-    for opstillingskreds in resultater_partier["opstillingskreds"].unique():
-        df_opstillingskreds = resultater_partier[resultater_partier["opstillingskreds"] == opstillingskreds]
+    for opstillingskreds in resultater_partier["opstillingskreds_dagi_id"].unique():
+        df_opstillingskreds = resultater_partier[resultater_partier["opstillingskreds_dagi_id"] == opstillingskreds]
         opstillingskreds_id = df_opstillingskreds["opstillingskreds_dagi_id"].iloc[0]
+        opstillingskreds = df_opstillingskreds["opstillingskreds"].iloc[0]
         df_2022_opstillingskreds = resultater_opstillingskredse_2022[resultater_opstillingskredse_2022["opstillingskreds_dagi"] == opstillingskreds_id]
         # get status for the opstillingskreds
         status = udregn_status(df_opstillingskreds)
@@ -232,8 +235,8 @@ if __name__ == "__main__":
         stoerste_parti = generate_popups(stoerste_parti, "afstemningsområde")
         stoerste_parti.to_csv(f"data/struktureret/opstillingskredse/kort/{opstillingskreds_id}_{danish_to_ascii_filename(opstillingskreds)}.csv", index=False, sep=";")
 
-    for opstillingskreds in resultater_kandidater["opstillingskreds"].unique():
-        df_opstillingskreds = resultater_kandidater[resultater_kandidater["opstillingskreds"] == opstillingskreds]
+    for opstillingskreds in resultater_kandidater["opstillingskreds_dagi_id"].unique():
+        df_opstillingskreds = resultater_kandidater[resultater_kandidater["opstillingskreds_dagi_id"] == opstillingskreds]
         opstillingskreds_id = df_opstillingskreds["opstillingskreds_dagi_id"].iloc[0]
         personlige_stemmer = udregn_personlige_stemmetal(df_opstillingskreds, valgte_kandidater, "opstillingskreds")
         personlige_stemmer = personlige_stemmer.drop(columns=["opstillingskreds", "kandidat_id"])
@@ -244,6 +247,7 @@ if __name__ == "__main__":
     for storkreds in resultater_partier["storkreds"].unique():
         df_storkreds = resultater_partier[resultater_partier["storkreds"] == storkreds]
         storkreds_id = df_storkreds["storkreds_nummer"].iloc[0]
+        storkreds = df_storkreds["storkreds"].iloc[0]
         df_2022_storkreds = resultater_storkredse_2022[resultater_storkredse_2022["storkreds_dagi"] == storkreds_id]
 
         # få status på stemmeoptællingen for hver storkreds
@@ -259,6 +263,10 @@ if __name__ == "__main__":
 
         #if df_storkreds["resultat_art"].isin(["ForeløbigOptælling", "Fintælling"]).all():
         stoerste_parti = udregn_stoerste_parti(df_storkreds, "afstemningsområde", "afstemningsområde_dagi_id")
+        # check if one of the rows in stoerste_parti has the afstemningsområde_dagi_id "703056", if so, print a warning that hey it is here
+        if 703051 in stoerste_parti["afstemningsområde_dagi_id"].values:
+            print(f"Warning: Storkreds {storkreds} contains afstemningsområde_dagi_id 703056, which may indicate an issue with the data.")
+
         stoerste_parti = generate_popups(stoerste_parti, "afstemningsområde")
         stoerste_parti.to_csv(f"data/struktureret/storkredse/kort/{storkreds_id}_{danish_to_ascii_filename(storkreds)}.csv", index=False, sep=";")
     
