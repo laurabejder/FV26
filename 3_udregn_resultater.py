@@ -263,10 +263,6 @@ if __name__ == "__main__":
 
         #if df_storkreds["resultat_art"].isin(["ForeløbigOptælling", "Fintælling"]).all():
         stoerste_parti = udregn_stoerste_parti(df_storkreds, "afstemningsområde", "afstemningsområde_dagi_id")
-        # check if one of the rows in stoerste_parti has the afstemningsområde_dagi_id "703056", if so, print a warning that hey it is here
-        if 703051 in stoerste_parti["afstemningsområde_dagi_id"].values:
-            print(f"Warning: Storkreds {storkreds} contains afstemningsområde_dagi_id 703056, which may indicate an issue with the data.")
-
         stoerste_parti = generate_popups(stoerste_parti, "afstemningsområde")
         stoerste_parti.to_csv(f"data/struktureret/storkredse/kort/{storkreds_id}_{danish_to_ascii_filename(storkreds)}.csv", index=False, sep=";")
     
