@@ -1,22 +1,22 @@
 kandidat,parti,valgt,stemmer
-Pelle Dragsted,Enhedslisten,,4880
-Rosa Lund,Enhedslisten,,1845
-Franciska Rosenkilde,Alternativet,,1603
-Samira Nawa,Radikale,,1336
+Pelle Dragsted,Enhedslisten,✓,4880
+Rosa Lund,Enhedslisten,✓,1845
+Franciska Rosenkilde,Alternativet,✓,1603
+Samira Nawa,Radikale,✓,1336
 Pil Christensen,Enhedslisten,,1116
 Lise Coermann,Alternativet,,857
-Ida Auken,Socialdemokratiet,,716
-Magnus Georg Jensen,Radikale,,710
-Thomas Rohden,Radikale,,538
-Jakob Engel-Schmidt,Moderaterne,,504
-Nanna Bonde,SF,,503
-Lisbeth Bech-Nielsen,SF,,485
-Carl Valentin,SF,,448
-Peter Hummelgaard,Socialdemokratiet,,418
-Leila Stockmarr,Enhedslisten,,396
-Mads Strange,Liberal Alliance,,337
+Ida Auken,Socialdemokratiet,✓,716
+Magnus Georg Jensen,Radikale,✓,710
+Thomas Rohden,Radikale,✓,538
+Jakob Engel-Schmidt,Moderaterne,✓,504
+Nanna Bonde,SF,✓,503
+Lisbeth Bech-Nielsen,SF,✓,485
+Carl Valentin,SF,✓,448
+Peter Hummelgaard,Socialdemokratiet,✓,418
+Leila Stockmarr,Enhedslisten,✓,396
+Mads Strange,Liberal Alliance,✓,337
 Mathilde Vinther,Enhedslisten,,303
-Anders Storgaard,Konservative,,252
+Anders Storgaard,Konservative,✓,252
 Theresa Scavenius,Udenfor parti,,237
 Maria Georgi Sloth,Radikale,,223
 Sadek Al-Amood,SF,,194
@@ -27,9 +27,9 @@ Qasam Nazir Ahmad,Alternativet,,160
 Anne-Sofie Sadolin,Radikale,,157
 Helene Fagerhøj,Konservative,,150
 Alexander Ryle,Liberal Alliance,,144
-Sophie Hæstorp Andersen,Socialdemokratiet,,144
-Helle Bonnesen,Konservative,,142
-Ole Birk Olesen,Liberal Alliance,,134
+Sophie Hæstorp Andersen,Socialdemokratiet,✓,144
+Helle Bonnesen,Konservative,✓,142
+Ole Birk Olesen,Liberal Alliance,✓,134
 Anders Sørensen,Alternativet,,132
 Linea Søgaard-Lidell,Venstre,,130
 Mette Reissmann,Socialdemokratiet,,129
@@ -37,9 +37,9 @@ Jan E. Jørgensen,Venstre,,116
 Pil Yildiz,Enhedslisten,,115
 Marcus Vesterager,Socialdemokratiet,,114
 Yildiz Akdogan,Socialdemokratiet,,111
-Allan Feldt,Dansk Folkeparti,,104
+Allan Feldt,Dansk Folkeparti,✓,104
 Jan Kristoffersen,Alternativet,,100
-Ellen Emilie,Moderaterne,,100
+Ellen Emilie,Moderaterne,✓,100
 Helene Langager,Radikale,,98
 Rune Palm,SF,,94
 Frederik Rosberg,Radikale,,94
