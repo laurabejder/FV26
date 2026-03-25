@@ -1,28 +1,28 @@
 kandidat,parti,valgt,stemmer
-Christian Vigilius,Konservative,,2581
-Marie Brixtofte,Venstre,,1816
-Monika Rubin,Moderaterne,,1579
-Mattias Tesfaye,Socialdemokratiet,,865
-Signe Wenneberg,Alternativet,,837
+Christian Vigilius,Konservative,✓,2581
+Marie Brixtofte,Venstre,✓,1816
+Monika Rubin,Moderaterne,✓,1579
+Mattias Tesfaye,Socialdemokratiet,✓,865
+Signe Wenneberg,Alternativet,✓,837
 Trine Dybkjær,Radikale,,559
-Mikkel Bjørn,Dansk Folkeparti,,515
-Stinus Lindgreen,Radikale,,499
-Freja Brandhøj,Liberal Alliance,,495
+Mikkel Bjørn,Dansk Folkeparti,✓,515
+Stinus Lindgreen,Radikale,✓,499
+Freja Brandhøj,Liberal Alliance,✓,495
 Helene Brochmann,SF,,397
 Kim Valentin,Venstre,,391
 Isabella Arendt,Konservative,,386
 Ruben Kidde,Radikale,,353
 Patrizia Venturelli Christensen,Liberal Alliance,,310
 Julie Ahlefeldt-Laurvig,Konservative,,301
-Sigurd Agersnap,SF,,264
+Sigurd Agersnap,SF,✓,264
 Magnus Barsøe,Socialdemokratiet,,248
 Betina Asbæk,Moderaterne,,236
 Magnus Von Dreiager,Konservative,,230
-Morten Bødskov,Socialdemokratiet,,221
+Morten Bødskov,Socialdemokratiet,✓,221
 Christina Falkberg,Radikale,,217
-Sofie F. Villadsen,SF,,182
+Sofie F. Villadsen,SF,✓,182
 Vibeke Westh,Socialdemokratiet,,173
-Sofie de Bretteville,Socialdemokratiet,,169
+Sofie de Bretteville,Socialdemokratiet,✓,169
 Jonas Juhl,Liberal Alliance,,158
 Bianca Vitting,Enhedslisten,,142
 Tina Cartey Hansen,Konservative,,134
@@ -36,7 +36,7 @@ Luise Hjortebjerg,Venstre,,77
 Maria Durhuus,Socialdemokratiet,,76
 Astrid Søborg,Venstre,,68
 Troels Stru Schmidt,SF,,65
-Ibrahim Benli,Enhedslisten,,61
+Ibrahim Benli,Enhedslisten,✓,61
 Anders Bo Larsen,Venstre,,59
 Karan Khosla,Moderaterne,,55
 Dorte Vilhelmsen,Konservative,,51
@@ -70,7 +70,7 @@ Charlotte Munch,Danmarksdemokraterne,,16
 Morten Dehn,Borgernes Parti,,16
 Mathias Fuglsang,Borgernes Parti,,16
 Michael Jensen,Dansk Folkeparti,,15
-Mikkel Dencker,Dansk Folkeparti,,14
+Mikkel Dencker,Dansk Folkeparti,✓,14
 David Ibsen,Liberal Alliance,,14
 Helge Bo Jensen,Enhedslisten,,13
 Thomas Anker,Alternativet,,13

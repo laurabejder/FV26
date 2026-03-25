@@ -1,23 +1,23 @@
 kandidat,parti,valgt,stemmer
 Troels Lund Poulsen,Venstre,✓,3712
-Alex Vanopslagh,Liberal Alliance,,2407
-Mona Juul,Konservative,,1076
-Lars Boje Mathiesen,Borgernes Parti,,760
-Hans Kristian Skibby,Danmarksdemokraterne,,734
+Alex Vanopslagh,Liberal Alliance,✓,2407
+Mona Juul,Konservative,✓,1076
+Lars Boje Mathiesen,Borgernes Parti,✓,760
+Hans Kristian Skibby,Danmarksdemokraterne,✓,734
 Thomas Monberg,Socialdemokratiet,✓,578
 Nicolai Wammen,Socialdemokratiet,✓,493
-Nick Zimmermann,Dansk Folkeparti,,278
+Nick Zimmermann,Dansk Folkeparti,✓,278
 Rune Mikkelsen,Danmarksdemokraterne,,275
-Michael Nedersøe,Dansk Folkeparti,,255
+Michael Nedersøe,Dansk Folkeparti,✓,255
 Kirsten Normann Andersen,SF,✓,223
 Camilla Fabricius,Socialdemokratiet,✓,174
-Christina Egelund,Moderaterne,,161
+Christina Egelund,Moderaterne,✓,161
 Anders Kühnau,Socialdemokratiet,✓,156
 Karina Aamann,Venstre,,148
-Louise Louring,Venstre,,127
+Louise Louring,Venstre,✓,127
 Søren Vanting,Moderaterne,,127
 Louise Stenmann,Socialdemokratiet,,121
-Caroline Stage,Moderaterne,,104
+Caroline Stage,Moderaterne,✓,104
 Carina Sarkkinen,SF,,92
 Rikke Christensen,Radikale,,88
 Anne Sophie Callesen,Radikale,,78
@@ -27,24 +27,24 @@ Charlotte Vindeløv,SF,,69
 Paw Hedegaard Amdisen,SF,,69
 Nana Harring,Dansk Folkeparti,,68
 Louise Brown,Liberal Alliance,,60
-Katrine Robsøe,Radikale,,58
+Katrine Robsøe,Radikale,✓,58
 Sofie Lippert,SF,✓,56
 Charlotte Broman Mølbæk,SF,✓,56
 Jacob Skjærris,Konservative,,56
 Lone Glarbo,Danmarksdemokraterne,,50
 Jens Kannegaard Lundager,Dansk Folkeparti,,45
-Torsten Gejl,Alternativet,,44
+Torsten Gejl,Alternativet,✓,44
 Christina Hedegaard Hansen,Enhedslisten,,42
 Line Rasmussen,Radikale,,42
 Anna Brændemose,SF,,39
 Malte Larsen,Socialdemokratiet,✓,38
 Erik Poulsen,Danmarksdemokraterne,,34
 Louise Høeg,Venstre,,33
-Trine Mach,Enhedslisten,,33
+Trine Mach,Enhedslisten,✓,33
 Susan Kronborg,Moderaterne,,31
 Kim Møller-Nielsen,Liberal Alliance,,28
-Charlotte Green,Konservative,,28
-Mathilde Hjort Bressum,Venstre,,26
+Charlotte Green,Konservative,✓,28
+Mathilde Hjort Bressum,Venstre,✓,26
 Mathias Sikora,Radikale,,25
 Lisbeth Ivanhoe,Enhedslisten,,24
 Sara Pernille Jespersen,Moderaterne,,23
@@ -62,7 +62,7 @@ Maria Temponeras,Enhedslisten,,15
 Viviane Ellasofie Karlsen,Borgernes Parti,,14
 Peter Sporleder,Konservative,,14
 Louise Svenstrup,Liberal Alliance,,14
-Jens Meilvang,Liberal Alliance,,14
+Jens Meilvang,Liberal Alliance,✓,14
 Mathias Thybo,Socialdemokratiet,,13
 Søren Skjold Andersen,Udenfor parti,,12
 Gert Bjerregaard,Venstre,,12

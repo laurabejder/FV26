@@ -1,30 +1,30 @@
 kandidat,parti,valgt,stemmer
-Alex Vanopslagh,Liberal Alliance,,3934
+Alex Vanopslagh,Liberal Alliance,✓,3934
 Nicolai Wammen,Socialdemokratiet,✓,2810
-Mona Juul,Konservative,,1898
-Katrine Robsøe,Radikale,,1295
+Mona Juul,Konservative,✓,1898
+Katrine Robsøe,Radikale,✓,1295
 Kirsten Normann Andersen,SF,✓,1251
 Sofie Lippert,SF,✓,1040
 Troels Lund Poulsen,Venstre,✓,1028
 Camilla Fabricius,Socialdemokratiet,✓,766
 Edith Vels,Enhedslisten,,758
-Trine Mach,Enhedslisten,,672
+Trine Mach,Enhedslisten,✓,672
 Anne Sophie Callesen,Radikale,,650
-Torsten Gejl,Alternativet,,514
-Lars Boje Mathiesen,Borgernes Parti,,499
+Torsten Gejl,Alternativet,✓,514
+Lars Boje Mathiesen,Borgernes Parti,✓,499
 Rabih Azad-Ahmad,Radikale,,459
 Anders Kühnau,Socialdemokratiet,✓,458
 Anna Brændemose,SF,,447
-Mathilde Hjort Bressum,Venstre,,440
-Caroline Stage,Moderaterne,,426
-Nick Zimmermann,Dansk Folkeparti,,381
-Christina Egelund,Moderaterne,,335
+Mathilde Hjort Bressum,Venstre,✓,440
+Caroline Stage,Moderaterne,✓,426
+Nick Zimmermann,Dansk Folkeparti,✓,381
+Christina Egelund,Moderaterne,✓,335
 Nikoline Erbs Hillers-Bendtsen,Alternativet,,306
 Line Rasmussen,Radikale,,302
 Maria Temponeras,Enhedslisten,,300
 Charlotte Broman Mølbæk,SF,✓,295
 Mathias Sikora,Radikale,,262
-Louise Louring,Venstre,,244
+Louise Louring,Venstre,✓,244
 Leif Lahn Jensen,Socialdemokratiet,✓,194
 Charlotte Vindeløv,SF,,189
 Gert Bjerregaard,Venstre,,183
@@ -34,7 +34,7 @@ Rune Christiansen,Radikale,,139
 Peter Sporleder,Konservative,,131
 Søren Lahn Sloth,SF,,128
 Paw Hedegaard Amdisen,SF,,124
-Charlotte Green,Konservative,,123
+Charlotte Green,Konservative,✓,123
 Caroline Svejsø,Konservative,,121
 Nana Harring,Dansk Folkeparti,,116
 Karina Aamann,Venstre,,113
@@ -46,7 +46,7 @@ Malte Larsen,Socialdemokratiet,✓,82
 Susan Kronborg,Moderaterne,,82
 Carina Sarkkinen,SF,,78
 Steffen Hedegaard Attermann Brinch,Alternativet,,77
-Michael Nedersøe,Dansk Folkeparti,,70
+Michael Nedersøe,Dansk Folkeparti,✓,70
 Morten Siig Henriksen,SF,,66
 Louise Høeg,Venstre,,65
 Gitte Dreier Jacobsen,Alternativet,,62
@@ -54,7 +54,7 @@ Dorthe Hindborg,Socialdemokratiet,,60
 Rikke Christensen,Radikale,,59
 Mathias Thybo,Socialdemokratiet,,58
 Kristjar Skajaa,Enhedslisten,,56
-Hans Kristian Skibby,Danmarksdemokraterne,,55
+Hans Kristian Skibby,Danmarksdemokraterne,✓,55
 Sara Pernille Jespersen,Moderaterne,,55
 Lisbeth Ivanhoe,Enhedslisten,,55
 Emil M. D. Christensen,Venstre,,53
@@ -75,7 +75,7 @@ Louise Svenstrup,Liberal Alliance,,36
 Thor Clasen Jonasen,Alternativet,,36
 Jakob Jensen,Enhedslisten,,35
 Christina Hedegaard Hansen,Enhedslisten,,35
-Jens Meilvang,Liberal Alliance,,34
+Jens Meilvang,Liberal Alliance,✓,34
 Pernille Skærsø,Alternativet,,32
 Erik Særkjær,Socialdemokratiet,,31
 Anna Calero,Alternativet,,30

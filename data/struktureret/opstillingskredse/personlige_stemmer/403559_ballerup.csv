@@ -1,16 +1,16 @@
 kandidat,parti,valgt,stemmer
-Sofie de Bretteville,Socialdemokratiet,,2567
-Mattias Tesfaye,Socialdemokratiet,,1393
-Mikkel Bjørn,Dansk Folkeparti,,982
-Morten Bødskov,Socialdemokratiet,,476
-Monika Rubin,Moderaterne,,442
-Sofie F. Villadsen,SF,,385
-Sigurd Agersnap,SF,,368
+Sofie de Bretteville,Socialdemokratiet,✓,2567
+Mattias Tesfaye,Socialdemokratiet,✓,1393
+Mikkel Bjørn,Dansk Folkeparti,✓,982
+Morten Bødskov,Socialdemokratiet,✓,476
+Monika Rubin,Moderaterne,✓,442
+Sofie F. Villadsen,SF,✓,385
+Sigurd Agersnap,SF,✓,368
 Kim Valentin,Venstre,,332
-Signe Wenneberg,Alternativet,,332
+Signe Wenneberg,Alternativet,✓,332
 Vivi Nør Jacobsen,SF,,313
-Christian Vigilius,Konservative,,298
-Ibrahim Benli,Enhedslisten,,297
+Christian Vigilius,Konservative,✓,298
+Ibrahim Benli,Enhedslisten,✓,297
 Taner Genc,SF,,256
 Lars Green Bach,Radikale,,246
 Michael Jensen,Dansk Folkeparti,,221
@@ -19,12 +19,12 @@ Clara Turms,Enhedslisten,,200
 Isabella Arendt,Konservative,,197
 Zohair Ali,Radikale,,181
 Özkan Kocak,Moderaterne,,178
-Stinus Lindgreen,Radikale,,171
+Stinus Lindgreen,Radikale,✓,171
 Magnus Barsøe,Socialdemokratiet,,157
-Freja Brandhøj,Liberal Alliance,,151
+Freja Brandhøj,Liberal Alliance,✓,151
 Dorte Vilhelmsen,Konservative,,147
 Kashif Ahmad,Radikale,,136
-Marie Brixtofte,Venstre,,134
+Marie Brixtofte,Venstre,✓,134
 Esat Senturk,Radikale,,130
 Zishan Ali,Moderaterne,,123
 Trine Dybkjær,Radikale,,119
@@ -53,7 +53,7 @@ Isabel Havndrup Aackmann,Radikale,,54
 Michael Melchert,Liberal Alliance,,54
 Anders Bo Larsen,Venstre,,52
 Ruben Kidde,Radikale,,49
-Mikkel Dencker,Dansk Folkeparti,,48
+Mikkel Dencker,Dansk Folkeparti,✓,48
 Susanne Damsgaard,Danmarksdemokraterne,,46
 Mathias Fuglsang,Borgernes Parti,,45
 Kim Hammer,Dansk Folkeparti,,44
