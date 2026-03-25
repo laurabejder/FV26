@@ -1,30 +1,30 @@
 kandidat,parti,valgt,stemmer
-Morten Messerschmidt,Dansk Folkeparti,,4314
-Lars Løkke Rasmussen,Moderaterne,,3985
-Morten Dahlin,Venstre,,2630
-Pia Olsen Dyhr,SF,,2224
-Magnus Heunicke,Socialdemokratiet,,920
-Pernille Vermund,Liberal Alliance,,636
-Zenia Stampe,Radikale,,512
+Morten Messerschmidt,Dansk Folkeparti,✓,4314
+Lars Løkke Rasmussen,Moderaterne,✓,3985
+Morten Dahlin,Venstre,✓,2630
+Pia Olsen Dyhr,SF,✓,2224
+Magnus Heunicke,Socialdemokratiet,✓,920
+Pernille Vermund,Liberal Alliance,✓,636
+Zenia Stampe,Radikale,✓,512
 Filiz Sarah Thunø,Socialdemokratiet,,496
-Kaare Dybvad Bek,Socialdemokratiet,,307
-Frederik Vad,Socialdemokratiet,,291
-Malte Larsen,Dansk Folkeparti,,232
-Lars-Christian Brask,Liberal Alliance,,211
-Marcus Knuth,Konservative,,187
+Kaare Dybvad Bek,Socialdemokratiet,✓,307
+Frederik Vad,Socialdemokratiet,✓,291
+Malte Larsen,Dansk Folkeparti,✓,232
+Lars-Christian Brask,Liberal Alliance,✓,211
+Marcus Knuth,Konservative,✓,187
 Brian Mørch,Danmarksdemokraterne,,177
 Josefine Paaske,Venstre,,159
 Mads Ramstedt,Konservative,,158
 Michael Rask,Liberal Alliance,,158
 Ida Dyhr,Konservative,,152
 Thorbern Alexander Klingert,Venstre,,149
-Trine Birk Andersen,Socialdemokratiet,,147
-Jacob Harris,Borgernes Parti,,119
+Trine Birk Andersen,Socialdemokratiet,✓,147
+Jacob Harris,Borgernes Parti,✓,119
 Carl Emil Lind,Socialdemokratiet,,113
 Christian Friis Bach,Venstre,,103
 Ulrik Lassen,Liberal Alliance,,89
-Eva Flyvholm,Enhedslisten,,89
-Astrid Carøe,SF,,84
+Eva Flyvholm,Enhedslisten,✓,89
+Astrid Carøe,SF,✓,84
 Victoria Helene Olsen,Konservative,,83
 Ali Yahya,SF,,79
 Iben Krog,Venstre,,75
@@ -33,15 +33,15 @@ Line Krogh Lay,Radikale,,74
 Julie Kølskov,Socialdemokratiet,,74
 Mads Olsen,SF,,71
 Kristine Amalie Rostgård,SF,,67
-Joachim Riis,Liberal Alliance,,65
+Joachim Riis,Liberal Alliance,✓,65
 Sascha Faxe,Alternativet,,64
-Charlotte Bagge,Moderaterne,,64
+Charlotte Bagge,Moderaterne,✓,64
 Silas Ipsen,Konservative,,63
 Jane Christensen,Konservative,,59
 Peter Skaarup,Danmarksdemokraterne,,58
 Jeanne Bergmansen,SF,,58
 Tanja Larsson,Socialdemokratiet,,57
-Anne Valentina Berthelsen,SF,,57
+Anne Valentina Berthelsen,SF,✓,57
 Sanne Pilgaard,Borgernes Parti,,56
 Louise Elholm,Venstre,,56
 Edris Qasimi,Radikale,,52
@@ -52,32 +52,32 @@ Sofie Holm,Radikale,,46
 Ludmila Plenge,Enhedslisten,,45
 Barbara Engelstoft,Konservative,,44
 Helena Hedegaard Udsen,Enhedslisten,,42
-Elise Sydendal,Alternativet,,41
+Elise Sydendal,Alternativet,✓,41
 Mads Brenøe,Liberal Alliance,,40
 Helena Tjørnelund Christensen,Radikale,,36
 Nikolaj Brink Olsen,Liberal Alliance,,33
 Valdemar Alban,Socialdemokratiet,,32
 Claus Jørgensen,SF,,30
 Ditte Keidser,Konservative,,30
-Susie Jessen,Danmarksdemokraterne,,29
+Susie Jessen,Danmarksdemokraterne,✓,29
 Jonas Paludan,Enhedslisten,,29
-Jacob Jensen,Venstre,,27
+Jacob Jensen,Venstre,✓,27
 Dina Person,Danmarksdemokraterne,,26
 Martin Graff Jørgensen,SF,,26
 Valentina Crast,Alternativet,,25
 Mia Linda Møller,Moderaterne,,25
-Julie Jacobsen,Dansk Folkeparti,,25
+Julie Jacobsen,Dansk Folkeparti,✓,25
 Yurdal Cicek,Alternativet,,24
 Jan Carlsen,Moderaterne,,22
 Julie Memborg,Liberal Alliance,,22
-Jan Herskov,Dansk Folkeparti,,22
+Jan Herskov,Dansk Folkeparti,✓,22
 Rasmus Horn Langhoff,Socialdemokratiet,,21
 Jeppe Trolle,Radikale,,21
 Jeppe Fransson,Radikale,,19
 Jacob Bentsen,Dansk Folkeparti,,17
 Mette Hvid Brockmann,Radikale,,17
 Kristian Stokholm,Radikale,,17
-Rune Kristensen,Konservative,,17
+Rune Kristensen,Konservative,✓,17
 Mogens Haugaard,Moderaterne,,16
 Peter Roswall,Enhedslisten,,16
 Rasmus Hylleberg,Venstre,,16
@@ -91,7 +91,7 @@ Brian Perri,Moderaterne,,14
 Sandra Skalvig,Liberal Alliance,,14
 Frida Qvist Kristensen,Moderaterne,,13
 Mette Friis,Alternativet,,13
-Kasper Roug,Socialdemokratiet,,12
+Kasper Roug,Socialdemokratiet,✓,12
 Anders Bork,Dansk Folkeparti,,12
 Tanja Glückstadt,Dansk Folkeparti,,12
 Kasper Schneider,Liberal Alliance,,11
