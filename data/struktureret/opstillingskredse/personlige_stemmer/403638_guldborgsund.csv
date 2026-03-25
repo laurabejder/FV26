@@ -1,7 +1,7 @@
 kandidat,parti,valgt,stemmer
 Morten Messerschmidt,Dansk Folkeparti,,3573
 Julie Kølskov,Socialdemokratiet,,1861
-Lars Løkke Rasmussen,Moderaterne,,1797
+Lars Løkke Rasmussen,Moderaterne,✓,1797
 Pia Olsen Dyhr,SF,✓,1732
 Iben Krog,Venstre,,1457
 Marcus Knuth,Konservative,,1279
@@ -9,13 +9,13 @@ Kasper Roug,Socialdemokratiet,,953
 Magnus Heunicke,Socialdemokratiet,✓,902
 Joan Kragh,SF,,438
 Anne Valentina Berthelsen,SF,,339
-Pernille Vermund,Liberal Alliance,,338
+Pernille Vermund,Liberal Alliance,✓,338
 Charlotte Bagge,Moderaterne,,261
 Jacob Harris,Borgernes Parti,,220
 Benny Damgaard,Danmarksdemokraterne,,219
 Bob Richard Nielsen,Danmarksdemokraterne,,197
 Christian Wibholm,Danmarksdemokraterne,,180
-Kaare Dybvad Bek,Socialdemokratiet,,176
+Kaare Dybvad Bek,Socialdemokratiet,✓,176
 Susie Jessen,Danmarksdemokraterne,,174
 Ludmila Plenge,Enhedslisten,,161
 Frederik Vad,Socialdemokratiet,,142
@@ -25,7 +25,7 @@ Elise Sydendal,Alternativet,,117
 Peter Skaarup,Danmarksdemokraterne,,104
 Simon Hampe,Dansk Folkeparti,,99
 Mads Brenøe,Liberal Alliance,,95
-Eva Flyvholm,Enhedslisten,,87
+Eva Flyvholm,Enhedslisten,✓,87
 John Brill Engkebølle,Danmarksdemokraterne,,86
 Trine Birk Andersen,Socialdemokratiet,,86
 Kevin Alex Rasmussen,Enhedslisten,,85
